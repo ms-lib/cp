@@ -99,7 +99,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **The Storyteller:**<br>Adeline P. on neighborly love. | **The Mentor:**<br>Kimberly Nguyen on shared wisdom. | **The Helper:**<br>Liceria & Co. on daily aid. |
+| **The Storyteller:**<br>Adeline P. on neighborly love. | **The Mentor:**<br>Kimberly Nguyen on shared wisdom. | **The Helper:**<br>Lorna Alvarado on daily aid. |
 
 **Visual Note:** Story-card layout with a "heart-interest" design. Use "In-Use" text.
 
@@ -156,6 +156,7 @@
 - Adeline Palmerston (Standardized Name)
 - Hae-won Jeon (Standardized Name)
 - Kimberly Nguyen (Standardized Name)
+- Lorna Alvarado (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as venue/place reference only)
 - www.reallygreatsite.com (Standard Website)
