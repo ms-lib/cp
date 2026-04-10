@@ -43,7 +43,7 @@
 
 | Kolom 1 |
 |---------|
-| The opening of our Mother's Day charity gala at Liceria & Co. Commons sets the unshakeable tone for our mission. At Studio Shodwe, we believe that the unshakeable first hour is critical for establishing an atmosphere of unshakeable generosity and sincere local appreciation. From the official registry to the first keynote address at Liceria & Co. Academy, every cue at Studio Shodwe is designed to create an unshakeable sense of community service and historical impact. |
+| The opening of our Mother's Day charity gala at Liceria & Co. Academy sets the unshakeable tone for our mission. At Studio Shodwe, we believe that the unshakeable first hour is critical for establishing an atmosphere of unshakeable generosity and sincere local appreciation. From the official registry to the first keynote address at Liceria & Co. Academy, every cue at Studio Shodwe is designed to create an unshakeable sense of community service and historical impact. |
 
 **Visual Note:** Charity logic theme with a dignified, high-impact serif design in ivory and slate. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable foundation of every home and every successful charity mission at Liceria & Co. Commons. Beyond the event schedule and the tactical cues at Studio Shodwe, the true heart of our night is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we build a better world for everyone. |
+| You are the unshakeable foundation of every home and every successful charity mission at Liceria & Co. Academy. Beyond the event schedule and the tactical cues at Studio Shodwe, the true heart of our night is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we build a better world for everyone. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and heart-shaped accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every mission leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of charitable expert and family heart is a masterpiece we all celebrate. May your Mother's Day be as unshakeable and as full of grace as the generosity you inspire in us all. Happy Mother's Day from your colleagues at Liceria & Co. Academy! |
+| To every mission leader and mother at Studio Shodwe: Thank you. Your dual-role of charitable expert and family heart is a masterpiece we all celebrate. May your Mother's Day be as unshakeable and as full of grace as the generosity you inspire in us all. Happy Mother's Day from your colleagues at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 

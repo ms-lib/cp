@@ -43,7 +43,7 @@
 
 | Kolom 1 |
 |---------|
-| The opening of our Mother's Day assembly at Liceria & Co. Commons sets the unshakeable tone for our entire school community. At Studio Shodwe, we believe that the unshakeable first ten minutes are critical for establishing an atmosphere of warmth and sincere neighborhood appreciation. From the official principal's welcome to the first junior choir song at Liceria & Co. Academy, every cue at Studio Shodwe is designed to create an unshakeable sense of local honor and pride. |
+| The opening of our Mother's Day assembly at Liceria & Co. Academy sets the unshakeable tone for our entire school community. At Studio Shodwe, we believe that the unshakeable first ten minutes are critical for establishing an atmosphere of warmth and sincere neighborhood appreciation. From the official principal's welcome to the first junior choir song at Liceria & Co. Academy, every cue at Studio Shodwe is designed to create an unshakeable sense of local honor and pride. |
 
 **Visual Note:** Opening logic theme with a dignified, high-impact serif design in ivory and slate. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable foundation of every home and every successful student project at Liceria & Co. Commons. Beyond the assembly schedule and the festive cues at Studio Shodwe, the true heart of our program is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we celebrate today. |
+| You are the unshakeable foundation of every home and every successful student project at Liceria & Co. Academy. Beyond the assembly schedule and the festive cues at Studio Shodwe, the true heart of our program is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we celebrate today. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and student-art accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every school leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of educational partner and family heart is a masterpiece we all celebrate. May your festive day be as unshakeable and as full of joy as the love you give us all year round. Happy Mother's Day from your colleagues at Liceria & Co. Academy! |
+| To every school leader and mother at Studio Shodwe: Thank you. Your dual-role of educational partner and family heart is a masterpiece we all celebrate. May your festive day be as unshakeable and as full of joy as the love you give us all year round. Happy Mother's Day from your colleagues at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 

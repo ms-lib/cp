@@ -43,7 +43,7 @@
 
 | Kolom 1 |
 |---------|
-| The morning of your Mother's Day brunch at Liceria & Co. Commons must be as unshakeable as the mothers we honor. At Studio Shodwe, we emphasize that "Preparation is the Highest Honor." From the first floral centerpiece installation to the final culinary plating at Liceria & Co. Academy, every minute of your setup contributes to the unshakeable peace of your neighborhood guests. |
+| The morning of your Mother's Day brunch at Liceria & Co. Academy must be as unshakeable as the mothers we honor. At Studio Shodwe, we emphasize that "Preparation is the Highest Honor." From the first floral centerpiece installation to the final culinary plating at Liceria & Co. Academy, every minute of your setup contributes to the unshakeable peace of your neighborhood guests. |
 
 **Visual Note:** Setup-logic theme with a dignified, high-impact serif design in ivory and slate. Use "In-Use" text.
 
@@ -71,7 +71,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Welcome:**<br>A warm greeting at Liceria & Co. Main Hall set against unshakeable acoustic morning melodies. | **The Signature:**<br>Presenting every mother with an unshakeable bloom upon arrival at Studio Shodwe Gardens. |
+| **The Welcome:**<br>A warm greeting at Liceria & Co. Academy set against unshakeable acoustic morning melodies. | **The Signature:**<br>Presenting every mother with an unshakeable bloom upon arrival at Studio Shodwe. |
 
 **Visual Note:** Sequence-spotlight using a sophisticated academic design and high-end serif. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable foundation of every family and every successful gathering at Liceria & Co. Commons. Beyond the brunch schedule and the professional cues at Studio Shodwe, the true heart of our program is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we gather today. |
+| You are the unshakeable foundation of every family and every successful gathering at Liceria & Co. Academy. Beyond the brunch schedule and the professional cues at Studio Shodwe, the true heart of our program is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we gather today. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and floral accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every dining host and mother at Studio Shodwe Gardens: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your Mother's Day brunch be as unshakeable and as full of grace as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
+| To every dining host and mother at Studio Shodwe: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your Mother's Day brunch be as unshakeable and as full of grace as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 

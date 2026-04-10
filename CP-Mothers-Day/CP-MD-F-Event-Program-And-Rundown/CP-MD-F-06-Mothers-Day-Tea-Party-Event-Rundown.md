@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable foundation of every family and every successful gathering at Liceria & Co. Commons. Beyond the tea schedule and the festive cues at Studio Shodwe, the true heart of our program is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we celebrate today. |
+| You are the unshakeable foundation of every family and every successful gathering at Liceria & Co. Academy. Beyond the tea schedule and the festive cues at Studio Shodwe, the true heart of our program is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we celebrate today. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and floral accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every hospitality leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your festive day be as unshakeable and as full of joy as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
+| To every hospitality leader and mother at Studio Shodwe: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your festive day be as unshakeable and as full of joy as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 

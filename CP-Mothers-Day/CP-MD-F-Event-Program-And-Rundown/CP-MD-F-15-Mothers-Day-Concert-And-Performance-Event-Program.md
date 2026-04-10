@@ -43,7 +43,7 @@
 
 | Kolom 1 |
 |---------|
-| The morning of your Mother's Day concert at Liceria & Co. Commons must be as prepared as the mothers we honor. At Studio Shodwe, we emphasize that "Technical Preparation is the Highest Honor." From the first audio cable lay to the final lighting check at Liceria & Co. Academy, every minute of your setup contributes to the peace and joy of your neighborhood guest audience. |
+| The morning of your Mother's Day concert at Liceria & Co. Academy must be as prepared as the mothers we honor. At Studio Shodwe, we emphasize that "Technical Preparation is the Highest Honor." From the first audio cable lay to the final lighting check at Liceria & Co. Academy, every minute of your setup contributes to the peace and joy of your neighborhood guest audience. |
 
 **Visual Note:** Setup-logic theme with a dignified, high-impact serif design in ivory and slate. Use "In-Use" text.
 
@@ -71,7 +71,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Prelude:**<br>A 20-minute acoustic set curated for neighborhood peace at Studio Shodwe Grand Hall. | **The Anchor:**<br>Directing our professional AV team to a perfectly timed launch for neighborhood mothers at Liceria & Co. |
+| **The Prelude:**<br>A 20-minute acoustic set curated for neighborhood peace at Studio Shodwe. | **The Anchor:**<br>Directing our professional AV team to a perfectly timed launch for neighborhood mothers at Liceria & Co. Academy. |
 
 **Visual Note:** Ceremony-spotlight using a sophisticated academic design and high-end serif. Use "In-Use" text.
 
@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Spotlight Cue:**<br>The timing for the solo tribute performance. | **Intermission:**<br>Ensuring a smooth, unhurried break at Studio Shodwe Lounge. | **Closing Call:**<br>The final blessing to neighborhood mothers. |
+| **Spotlight Cue:**<br>The timing for the solo tribute performance. | **Intermission:**<br>Ensuring a smooth, unhurried break at Studio Shodwe. | **Closing Call:**<br>The final blessing to neighborhood mothers. |
 
 **Visual Note:** Milestone boxes with a sophisticated, professional design. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the foundation of every family and every successful gathering at Liceria & Co. Commons. Beyond the concert schedule and the professional cues at Studio Shodwe, the true heart of our show is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the reason we celebrate today. |
+| You are the foundation of every family and every successful gathering at Liceria & Co. Academy. Beyond the concert schedule and the professional cues at Studio Shodwe, the true heart of our show is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the reason we celebrate today. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and musical accents.
 
@@ -127,7 +127,7 @@
 
 | Kolom 1 |
 |---------|
-| To every performance leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your festive day be as full of joy as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
+| To every performance leader and mother at Studio Shodwe: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your festive day be as full of joy as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 

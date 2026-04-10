@@ -43,7 +43,7 @@
 
 | Kolom 1 |
 |---------|
-| The morning of your Mother's Day surprise at Liceria & Co. Commons must be as unshakeable as the mothers we honor. At Studio Shodwe, we emphasize that "Secret Preparation is the Highest Honor." From the first hidden floral installation to the final guest silencing check at Liceria & Co. Academy, every minute of your setup contributes to the unshakeable shock and joy of your neighborhood guests. |
+| The morning of your Mother's Day surprise at Liceria & Co. Academy must be as unshakeable as the mothers we honor. At Studio Shodwe, we emphasize that "Secret Preparation is the Highest Honor." From the first hidden floral installation to the final guest silencing check at Liceria & Co. Academy, every minute of your setup contributes to the unshakeable shock and joy of your neighborhood guests. |
 
 **Visual Note:** Setup-logic theme with a dignified, high-impact serif design in ivory and slate. Use "In-Use" text.
 
@@ -71,7 +71,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Arrival:**<br>Directing guests to an unshakeable hiding spot at Studio Shodwe Gardens before the main entry. | **The Moment:**<br>The unshakeable tactical cue for the final neighborhood shout and festive celebration at Liceria & Co. |
+| **The Arrival:**<br>Directing guests to an unshakeable hiding spot at Studio Shodwe before the main entry. | **The Moment:**<br>The unshakeable tactical cue for the final neighborhood shout and festive celebration at Liceria & Co. Academy. |
 
 **Visual Note:** Ceremony-spotlight using a sophisticated academic design and high-end serif. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable foundation of every family and every successful gathering at Liceria & Co. Commons. Beyond the surprise schedule and the festive cues at Studio Shodwe, the true heart of our program is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we celebrate today. |
+| You are the unshakeable foundation of every family and every successful gathering at Liceria & Co. Academy. Beyond the surprise schedule and the festive cues at Studio Shodwe, the true heart of our program is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we celebrate today. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and floral accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every surprise leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your festive day be as unshakeable and as full of joy as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
+| To every surprise leader and mother at Studio Shodwe: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your festive day be as unshakeable and as full of joy as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 

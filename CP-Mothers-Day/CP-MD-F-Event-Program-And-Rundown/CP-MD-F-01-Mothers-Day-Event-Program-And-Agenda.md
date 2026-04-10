@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| **11:00 AM:** Keynote Presentation - "The Heart of Leadership"<br>Description: A 20-minute address at Liceria & Co. Academy on the unshakeable impact of mothers in the modern workforce.<br>Lead: Adeline Palmerston (Event Director)<br><br>**11:30 AM:** The Motherhood Spotlight Session<br>Description: A curated video presentation and live testimonials from our unshakeable neighborhood community at Studio Shodwe.<br>Lead: Studio Shodwe AV Team |
+| **11:00 AM:** Keynote Presentation - "The Heart of Leadership"<br>Description: A 20-minute address at Liceria & Co. Grand Hall on the unshakeable impact of mothers in the modern workforce.<br>Lead: Adeline Palmerston (Event Director)<br><br>**11:30 AM:** The Motherhood Spotlight Session<br>Description: A curated video presentation and live testimonials from our unshakeable neighborhood community at Studio Shodwe.<br>Lead: Studio Shodwe AV Team |
 
 **Visual Note:** Detailed activity blocks using a high-end professional aesthetic. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable foundation of our professional family. From every project you lead to every household you anchor at Liceria & Co. Commons, your impact is the quiet, world-changing leadership we all celebrate. Today, we stand as one unshakeable neighborhood team to say: Your dedication is historical, your love is eternal, and your presence is our greatest treasure. |
+| You are the unshakeable foundation of our professional family. From every project you lead to every household you anchor at Liceria & Co. Grand Hall, your impact is the quiet, world-changing leadership we all celebrate. Today, we stand as one unshakeable neighborhood team to say: Your dedication is historical, your love is eternal, and your presence is our greatest treasure. |
 
 **Visual Note:** High-impact affirmation design with clean minimalist typography and sage accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of professional expert and family heart is a masterpiece we all celebrate. May your day be as unshakeable and as full of grace as the work you do for us all. Happy Mother's Day from your colleagues at Liceria & Co. Academy! |
+| To every leader and mother at Studio Shodwe: Thank you. Your dual-role of professional expert and family heart is a masterpiece we all celebrate. May your day be as unshakeable and as full of grace as the work you do for us all. Happy Mother's Day from your colleagues at Liceria & Co. Grand Hall! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 

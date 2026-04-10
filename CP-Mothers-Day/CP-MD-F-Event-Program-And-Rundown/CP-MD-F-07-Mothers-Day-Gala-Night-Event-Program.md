@@ -43,7 +43,7 @@
 
 | Kolom 1 |
 |---------|
-| The opening of our Mother's Day Gala at Liceria & Co. Commons must be as unshakeable as the mothers we honor. At Studio Shodwe, we believe that the unshakeable arrival experience sets the tone for the entire evening. From the official red carpet entry to the first cocktail service at Liceria & Co. Academy, every cue at Studio Shodwe is designed to create an unshakeable atmosphere of unhurried elegance and sincere neighborhood appreciation. |
+| The opening of our Mother's Day Gala at Liceria & Co. Academy must be as unshakeable as the mothers we honor. At Studio Shodwe, we believe that the unshakeable arrival experience sets the tone for the entire evening. From the official red carpet entry to the first cocktail service at Liceria & Co. Academy, every cue at Studio Shodwe is designed to create an unshakeable atmosphere of unhurried elegance and sincere neighborhood appreciation. |
 
 **Visual Note:** Arrival logic theme with a dignified, high-impact serif design in ivory and slate. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable foundation of every family and every successful celebration at Liceria & Co. Commons. Beyond the gala schedule and the festive cues at Studio Shodwe, the true heart of our night is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we gather in tribute. |
+| You are the unshakeable foundation of every family and every successful celebration at Liceria & Co. Academy. Beyond the gala schedule and the festive cues at Studio Shodwe, the true heart of our night is your presence. Today, we stand as one neighborhood team to say: Your impact is historical, your love is eternal, and you are the unshakeable reason we gather in tribute. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and floral accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every gala leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your festive day be as unshakeable and as full of joy as the love you give us all year round. Happy Mother's Day from your colleagues at Liceria & Co. Academy! |
+| To every gala leader and mother at Studio Shodwe: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your festive day be as unshakeable and as full of joy as the love you give us all year round. Happy Mother's Day from your colleagues at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 
