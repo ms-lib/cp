@@ -6,8 +6,8 @@
 **Style:** Professional Sage + Slate Minimalist  
 **Tone:** Organized, practical, elegant
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→4→1→3→2→1→4→3→2→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→4→2→1→3→1→1
 
 ---
 
@@ -16,7 +16,7 @@
 **Visual Note:** High-impact formal design using clean minimalist typography. Deep slate background with a minimalist gold-leaf border and ivory text. A minimalist icon of a formal bow-tie and a rose blossom. Use Title Case for the title.
 
 **Text:**
-- Title: Mother’s Day Gala Night
+- Title: Mother's Day Gala Night
 - Subtitle: A Detailed Master Program and Unshakeable Production Rundown for the Annual Black-Tie Tribute Ceremony
 
 ---
@@ -29,27 +29,13 @@
 
 | Kolom 1 |
 |---------|
-| Hosting a Mother's Day Gala Night at Liceria & Co. Academy requires an unshakeable and elegant flow. Whether you are planning a high-end neighborhood fundraiser or an executive awards ceremony at Studio Shodwe, this presentation provides the unshakeable tactical sequence for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every distinguished guest feels truly honored and celebrated in style. |
+| Hosting a Mother's Day Gala Night at Liceria & Co. Academy requires an unshakeable and elegant flow. Whether you are planning a high-end neighborhood fundraiser or an executive awards ceremony at Studio Shodwe, this presentation provides the unshakeable tactical sequence for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every distinguished guest feels truly honored and celebrated in style. Our gala is structured across three signature phases: a cocktail hour first impression, a formal dining tribute, and a peak honors ceremony that celebrates every mother in attendance. |
 
 **Visual Note:** Event specification header with a clean, professional gala aesthetic and unshakeable structure. Maintain 40% white space for editability.
 
 ---
 
-### PAGE 3 - CONTEXT
-**Fase:** OPENING  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Evening Production Phases  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Cocktail Hour:**<br>06:00 PM<br>Unshakeable first greeting. | **Formal Dinner:**<br>07:30 PM<br>In-Use Seating Call. | **The Tribute:**<br>09:00 PM<br>Unshakeable Peak Honors. |
-
-**Visual Note:** Evening phase overview shown with a clean, professional 3-column design. Use "In-Use" text.
-
----
-
-### PAGE 4 - CORE CONTENT A
+### PAGE 3 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Red Carpet Production Flow  
@@ -63,13 +49,13 @@
 
 ---
 
-### PAGE 5 - CORE CONTENT B
+### PAGE 4 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Master Gala Timeline Hub  
+**Judul Halaman:** Master Gala Timeline Hub  
 **Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | UI Kolom 3 | Kolom 4 |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Entry**<br>06h00. | **Drink**<br>06h30. | **Eat**<br>08h00. | **Honor**<br>09h30. |
 
@@ -77,7 +63,7 @@
 
 ---
 
-### PAGE 6 - CORE CONTENT C
+### PAGE 5 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Sequence: The Gala Menu  
@@ -91,24 +77,10 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Tactical Milestone Steps  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Stage Cue:**<br>The unshakeable start of the keynote address. | **Meal Flow:**<br>Ensuring a smooth, unhurried service at Studio Shodwe. | **Award Hub:**<br>The unshakeable timing for public honor segments. |
-
-**Visual Note:** Milestone boxes with a sophisticated, professional design. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
+### PAGE 6 - CORE CONTENT E
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Planning Wisdom  
+**Judul Halaman:** Adeline's Planning Wisdom  
 **Jumlah Kolom:** 1
 
 | Kolom 1 |
@@ -119,21 +91,7 @@
 
 ---
 
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Path**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Tactical Logistics Capsules  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Every Celebration  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,22 +131,11 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual guide of Mother's Day gala programs and event planning infographics, please visit our digital archive at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Gala branding with a minimalist sage and slate finish.
 
 **Text:**
-- Mother’s Day Gala Night
+- Mother's Day Gala Night
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com

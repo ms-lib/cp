@@ -6,8 +6,8 @@
 **Style:** Professional Sage + Slate Minimalist  
 **Tone:** Organized, practical, clear
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→3→1→4→3→3→1→1
 
 ---
 
@@ -16,7 +16,7 @@
 **Visual Note:** High-impact professional design using clean minimalist typography. Soft sage green background with thin charcoal lines and minimalist floral line-art in the corners. Use Title Case for the title.
 
 **Text:**
-- Title: Mother’s Day Event Program
+- Title: Mother's Day Event Program
 - Subtitle: A Detailed Master Schedule and Unshakeable Tactical Rundown Template for Professional Celebrations
 
 ---
@@ -29,27 +29,13 @@
 
 | Kolom 1 |
 |---------|
-| **The Event:** Mother’s Day Community Tribute<br>**The Date:** May 12, 2024<br>**The Time:** 10:00 AM – 02:00 PM<br>**The Location:** Liceria & Co. Grand Hall<br>**The Host:** Studio Shodwe Event Committee |
+| **The Event:** Mother's Day Community Tribute<br>**The Date:** May 12, 2024<br>**The Time:** 10:00 AM – 02:00 PM<br>**The Location:** Liceria & Co. Grand Hall<br>**The Host:** Studio Shodwe Event Committee<br><br>**Our Purpose:** To provide a sophisticated platform for honoring maternal leaders—ensuring every attendee enjoys a seamless morning of tribute, refined dining, and community connection. |
 
 **Visual Note:** Clean professional header with high-end sage accents and unshakeable structure. Maintain 40% white space for editability.
 
 ---
 
-### PAGE 3 - CONTEXT
-**Fase:** OPENING  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Core Event Purpose  
-**Jumlah Kolom:** 2
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Our Objective:**<br>To provide an unshakeable and sophisticated platform for honoring the maternal leaders in our organization. | **The Experience:**<br>Attendees will enjoy a seamless morning of unshakeable tribute, refined dining, and community connection. |
-
-**Visual Note:** Purpose-clarity layout using a clean, professional dual-column design.
-
----
-
-### PAGE 4 - CORE CONTENT A
+### PAGE 3 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Morning Production Schedule  
@@ -63,7 +49,7 @@
 
 ---
 
-### PAGE 5 - CORE CONTENT B
+### PAGE 4 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Main Tribute Program  
@@ -77,11 +63,11 @@
 
 ---
 
-### PAGE 6 - CORE CONTENT C
+### PAGE 5 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Special Program Segments  
-**Jumlah Kolom页:** 4
+**Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -91,21 +77,7 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Key Production Personnel  
-**Jumlah Kolom:** 2
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Event Coordinator:**<br>Adeline Palmerston<br>adeline@reallygreatsite.com | **Program Director:**<br>Studio Shodwe Events<br>contact@studioshodwe.com |
-
-**Visual Note:** Contact cards in a professional minimalist design. Use "In-Use" data.
-
----
-
-### PAGE 8 - CORE CONTENT E
+### PAGE 6 - CORE CONTENT E
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Tactical Logistics Guide  
@@ -119,21 +91,7 @@
 
 ---
 
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Impact Areas  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Hope**<br>Safe. |
-
-**Visual Note:** Section icons in a clean slate and sage palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Essential Attendee Information  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Our Organization  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,22 +131,11 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For further technical support or unshakeable template customization, please contact our help desk at www.reallygreatsite.com. Thank you for your continued support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Clean event branding with minimalist sage and slate accents.
 
 **Text:**
-- Mother’s Day Event Program
+- Mother's Day Event Program
 - Liceria & Co. Events • 2024
 - www.reallygreatsite.com

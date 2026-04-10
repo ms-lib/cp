@@ -6,8 +6,8 @@
 **Style:** Elegant Serif + Warm Pastels  
 **Tone:** Heartfelt, respectful, warm
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→1→4→2→3→1→4→3→1→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→3→1→4→2→3→1→1→1
 
 ---
 
@@ -85,55 +85,13 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Architect:**<br>Adeline Palmerston, whose tireless work at the Liceria & Co. community center has unified our local families. | **The Legacy Builder:**<br>Studio Shodwe’s veteran mother, who has served as our neighborhood coordinator for thirty years. |
+| **The New Architect:**<br>Adeline Palmerston, whose tireless work at the Liceria & Co. community center has unified our local families. | **The Legacy Builder:**<br>Studio Shodwe's veteran mother, who has served as our neighborhood coordinator for thirty years. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and soft pastel accents. Use "In-Use" text.
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Our Collective Local Gains  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Vibrant Spaces:**<br>The parks and plazas mothers helped to restore. | **Safe Grounds:**<br>The unshakeable security of a neighborhood that cares. | **Deep Roots:**<br>The heritage of kindness passed to our children. |
-
-**Visual Note:** Benefit icons in an elegant warm-pastel palette. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Village Built On Love  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| At Studio Shodwe Gardens, we believe that when a mother builds her family, she builds the world. We see the unshakeable dedication in every local initiative she leads and every neighborly hand she extends. Today is about recognizing that without our community mothers, our village would be just a collection of houses. |
-
-**Visual Note:** Neighborhood map-style imagery in soft-pastel tones.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Impact  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Health**<br>Center. | **Art**<br>Guilds. | **Support**<br>Nets. | **Hope**<br>Future. |
-
-**Visual Note:** Impact icons in a clean, elegant layout.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Celebration Day Highlights  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Makers Of Our Home  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| Thank you for celebrating our community builders! For event photos and further local updates, please visit www.reallygreatsite.com. |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Community branding with a minimalist sage and slate finish.
 

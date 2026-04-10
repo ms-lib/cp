@@ -6,8 +6,8 @@
 **Style:** Classic Academic + Refined Minimalist  
 **Tone:** Informative, professional, reflective
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→2→3→1→4→2→3→1→1→1
 
 ---
 
@@ -67,7 +67,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** United Kingdom: Mothering Sunday  
-**Jumlah Kolom页:** 4
+**Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -80,7 +80,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Thailand: The Queen’s Birthday  
+**Judul Halaman:** Thailand: The Queen's Birthday  
 **Jumlah Kolom:** 2
 
 | Kolom 1 | Kolom 2 |
@@ -105,49 +105,7 @@
 
 ---
 
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Why Diverse Methods Matter  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| Adeline Palmerston, our lead researcher at Studio Shodwe, emphasizes that while dates and gifts vary, the unshakeable sentiment remains identical. Whether through cake in the UK or jasmine in Thailand, the global community at Liceria & Co. seeks to validate the sacrifices of mothers. This diversity of celebration is a testament to the unshakeable importance of the maternal role in every human society. |
-
-**Visual Note:** Purpose explanation theme with a sophisticated, high-end societal-value aesthetic.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Global Impact Areas  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Create. | **Aid**<br>Given. | **Path**<br>Clear. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Unique Cultural Gift Stories  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Jasmine:**<br>Studio Shodwe on Thai purity. | **The Simnel:**<br>Liceria & Co. on UK heritage. | **The Carnation:**<br>Global win on true grit. |
-
-**Visual Note:** Story-card layout with a "heart-interest" design. Use "In-Use" text.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** What Unites The Global Heart  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For more comparative studies on global family traditions and cultural celebrations, please visit our digital library at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** World flags or cultural symbols presented in a sophisticated academic grid.
 

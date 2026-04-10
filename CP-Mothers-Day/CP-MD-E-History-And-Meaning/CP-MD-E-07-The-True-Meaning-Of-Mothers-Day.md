@@ -6,8 +6,8 @@
 **Style:** Classic Academic + Refined Minimalist  
 **Tone:** Informative, professional, reflective
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→2→3→1→4→2→3→1→1→1
 
 ---
 
@@ -16,7 +16,7 @@
 **Visual Note:** Conceptual and sophisticated academic design using deep burgundy and antique cream. Minimalist gold foil illustration of a heart resting within an open book. Use Title Case for the title.
 
 **Text:**
-- Title: The True Meaning Of Mother’s Day
+- Title: The True Meaning Of Mother's Day
 - Subtitle: An Educational Inquiry into the Deep Philosophical, Cultural, and Personal Roots of Our Annual Tribute
 
 ---
@@ -43,7 +43,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **The Personal:**<br>Individualized gratitude toward one's own mother's unshakeable care. | **The Cultural:**<br>The collective societal recognition of motherhood’s vital domestic value. | **The Universal:**<br>Acknowledging the profound maternal influence shared across humanity. |
+| **The Personal:**<br>Individualized gratitude toward one's own mother's unshakeable care. | **The Cultural:**<br>The collective societal recognition of motherhood's vital domestic value. | **The Universal:**<br>Acknowledging the profound maternal influence shared across humanity. |
 
 **Visual Note:** Layered meaning concept shown with sophisticated gold and burgundy diagrams.
 
@@ -66,7 +66,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Core Pillars Of Recognition  
+**Judul Halaman:** Core Pillars Of Recognition  
 **Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -80,12 +80,12 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** The Original Vision’s Truth  
+**Judul Halaman:** The Original Vision's Truth  
 **Jumlah Kolom:** 2
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Anna Jarvis’s Intent:**<br>A day for personal, unshakeable expressions of gratitude through handwritten notes and quality time. | **The Core Purpose:**<br>Honoring the individual woman herself at Studio Shodwe, rather than an abstract concept. |
+| **Anna Jarvis's Intent:**<br>A day for personal, unshakeable expressions of gratitude through handwritten notes and quality time. | **The Core Purpose:**<br>Honoring the individual woman herself at Studio Shodwe, rather than an abstract concept. |
 
 **Visual Note:** Founding vision spotlight using a sophisticated academic design and high-end serif. Use "In-Use" text.
 
@@ -99,55 +99,13 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Traditional:**<br>Celebrating unshakeable biological maternal family bonds. | **The Expanded:**<br>Including mentors and maternal figures at Liceria & Co. | **The Inclusive:**<br>Honoring all those who nurture the next generation’s future. |
+| **Traditional:**<br>Celebrating unshakeable biological maternal family bonds. | **The Expanded:**<br>Including mentors and maternal figures at Liceria & Co. | **The Inclusive:**<br>Honoring all those who nurture the next generation's future. |
 
 **Visual Note:** Evolution of meaning concept shown with a sophisticated academic design. Use "In-Use" text.
 
 ---
 
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Why Designated Time Matters  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| Adeline Palmerston emphasizes that while mothers deserve recognition year-round, a designated day at Liceria & Co. Academy creates a collective societal "pause." It reminds us to express the unshakeable gratitude we might leave unspoken in the rush of professional life. At Studio Shodwe Gardens, we believe this annual prompt validates the quiet leadership that is the bedrock of our neighborhood. |
-
-**Visual Note:** Purpose explanation theme with a sophisticated, high-end societal-value aesthetic.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Impact Areas  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Built. | **Joy**<br>Held. | **Aid**<br>Given. | **Hope**<br>Safe. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Meaningful Gesture Cards  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Letter:**<br>Studio Shodwe on shared truth. | **The Time:**<br>Liceria & Co. on unhurried presence. | **The Flower:**<br>Global win on pure heart. |
-
-**Visual Note:** Story-card layout with a "heart-interest" design. Use "In-Use" text.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Unshakeable Maternal Truth  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,22 +131,11 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For more philosophical essays on the social importance of maternal roles and family traditions, please visit our digital library at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Meaning-focused branding with a minimalist burgundy and gold finish.
 
 **Text:**
-- The True Meaning Of Mother’s Day
+- The True Meaning Of Mother's Day
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com

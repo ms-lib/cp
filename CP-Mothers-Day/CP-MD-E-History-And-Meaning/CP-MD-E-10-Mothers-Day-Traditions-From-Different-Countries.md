@@ -6,8 +6,8 @@
 **Style:** Classic Academic + Refined Minimalist  
 **Tone:** Informative, professional, reflective
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→2→3→1→4→2→3→1→1→1
 
 ---
 
@@ -16,8 +16,8 @@
 **Visual Note:** Sophisticated academic design with a world map motif in burgundy and antique cream. Minimalist gold line-art of diverse cultural symbols (lotus, carnation, jasmine). Use Title Case for the title.
 
 **Text:**
-- Title: Global Mother’s Day Traditions
-- Subtitle: A Comparative Study of How Different NationsSeek to Honor the Unshakeable Maternal Spirit Across Continents
+- Title: Global Mother's Day Traditions
+- Subtitle: A Comparative Study of How Different Nations Seek to Honor the Unshakeable Maternal Spirit Across Continents
 
 ---
 
@@ -43,7 +43,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Sacred Rites:**<br>Cultures using spiritual pilgrimage as an unshakeable tribute. | **Festive Fairs:**<br>Neighborhoods celebrating with shared unshakeable joy. | **Daily Tributes:**<br>Honoring the mother’s unshakeable influence in the home. |
+| **Sacred Rites:**<br>Cultures using spiritual pilgrimage as an unshakeable tribute. | **Festive Fairs:**<br>Neighborhoods celebrating with shared unshakeable joy. | **Daily Tributes:**<br>Honoring the mother's unshakeable influence in the home. |
 
 **Visual Note:** Global pattern highlights shown with sophisticated gold and burgundy icons.
 
@@ -66,7 +66,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Region Tradition Hub  
+**Judul Halaman:** Region Tradition Hub  
 **Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Ritual:**<br>On the second Sunday before Christmas, children at Studio Shodwe playfully bind their mother’s feet. | **The Meaning:**<br>Mothers "pay" their way out with unshakeable gifts of treats, symbolizing the deep family bonds at Liceria & Co. |
+| **The Ritual:**<br>On the second Sunday before Christmas, children at Studio Shodwe playfully bind their mother's feet. | **The Meaning:**<br>Mothers "pay" their way out with unshakeable gifts of treats, symbolizing the deep family bonds at Liceria & Co. |
 
 **Visual Note:** Ritual spotlight using a sophisticated academic design and high-end serif. Use "In-Use" text.
 
@@ -105,49 +105,7 @@
 
 ---
 
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Comparative Insight  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| Adeline Palmerston, our lead researcher at Studio Shodwe, notes that while the method of tribute varies, the unshakeable goal is always the same: to validate the maternal role at Liceria & Co. Academy. Whether through the quiet meditation of Nepal or the vibrant mariachis of Mexico, every tradition represents an unshakeable communal pledge to protect and honor the unshakeable heart of the family. |
-
-**Visual Note:** Global comparison theme with a sophisticated, high-end societal-value aesthetic.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Hope**<br>Safe. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** International Gift Capsules  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Lotus:**<br>Studio Shodwe on Asian hope. | **The Hash:**<br>Liceria & Co. on African ties. | **The Poem:**<br>Global win on pure heart. |
-
-**Visual Note:** Gifting card layout with a "heart-interest" design. Use "In-Use" text.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Every Nation  
@@ -161,34 +119,23 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every cultural guardian and mother at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and family leader is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the many global traditions we’ve honored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
+| To every cultural guardian and mother at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and family leader is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the many global traditions we've honored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-academic finish. Use "In-Use" text.
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual guide of Mothers Day traditions from different countries and educational infographics, please visit our digital museum at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Global branding with a minimalist burgundy and gold finish.
 
 **Text:**
-- Global Mother’s Day Traditions
+- Global Mother's Day Traditions
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com

@@ -6,8 +6,8 @@
 **Style:** Elegant Serif + Warm Pastels  
 **Tone:** Festive, joyful, warm
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→1→4→2→3→1→4→3→1→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→3→1→4→2→3→1→1→1
 
 ---
 
@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| Every neighborhood fair at Liceria & Co. Plaza starts with the mothers. They are the ones who coordinate the Studio Shodwe flower stalls, who lead the local children’s parade, and who ensure our community gathers in a spirit of inclusive joy. Today, the festival isn't just "hosted" by us—it is dedicated entirely to the unshakeable presence of you. |
+| Every neighborhood fair at Liceria & Co. Plaza starts with the mothers. They are the ones who coordinate the Studio Shodwe flower stalls, who lead the local children's parade, and who ensure our community gathers in a spirit of inclusive joy. Today, the festival isn't just "hosted" by us—it is dedicated entirely to the unshakeable presence of you. |
 
 **Visual Note:** High-energy festival scene imagery with an elegant, warm-pastel finish.
 
@@ -85,41 +85,13 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Event Lead:**<br>Adeline Palmerston, whose unshakeable energy has made the Liceria & Co. parade a local favorite. | **The Heritage Guide:**<br>Studio Shodwe’s veteran resident, whose family has led the Village Festival for three generations. |
+| **The Event Lead:**<br>Adeline Palmerston, whose unshakeable energy has made the Liceria & Co. parade a local favorite. | **The Heritage Guide:**<br>Studio Shodwe's veteran resident, whose family has led the Village Festival for three generations. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and festive accents. Use "In-Use" text.
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Our Collective Local Joys  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Safe Streets:**<br>Living in a neighborhood where families feel truly unshakeable. | **Solid Ties:**<br>The deep friendships created at Studio Shodwe events. | **Deep Roots:**<br>The joyful heritage passed to every neighborhood child. |
-
-**Visual Note:** Benefit icons in an elegant warm-pastel palette. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Community Of Shared Celebration  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| At Studio Shodwe Gardens, we believe that celebration is a form of community support. By gathering today at Liceria & Co. Commons, we acknowledge that motherhood is a journey that flourishes when surrounded by neighborhood love. This festival is our unshakeable pledge to keep our community a place of joy and belonging for every mother. |
-
-**Visual Note:** Neighborhood celebration imagery in soft-pastel tones.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Festival Activity Guide  
@@ -133,21 +105,7 @@
 
 ---
 
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Appreciation For Local Impact  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Beauty**<br>Held. | **Safety**<br>Kept. | **Aid**<br>Daily. | **Joy**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Joy Of Our Streets  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| Thank you for joining our festival today! For event highlights and future neighborhood updates, please visit www.reallygreatsite.com. |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Community branding with a minimalist gold and sage finish.
 

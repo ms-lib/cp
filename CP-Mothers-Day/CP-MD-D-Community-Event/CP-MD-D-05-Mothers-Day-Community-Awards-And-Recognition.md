@@ -6,8 +6,8 @@
 **Style:** Elegant Serif + Warm Pastels  
 **Tone:** Celebratory, respectful, warm
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→1→4→2→3→1→4→3→1→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→3→1→4→2→3→1→1→1
 
 ---
 
@@ -80,60 +80,18 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** This Year’s Honorees  
+**Judul Halaman:** This Year's Honorees  
 **Jumlah Kolom:** 2
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Community Vanguard:**<br>Adeline Palmerston, for her unshakeable leadership in the Liceria & Co. local safety initiative. | **Heart of the Village:**<br>Studio Shodwe’s veteran mother, for forty years of mentorship to neighborhood families. |
+| **Community Vanguard:**<br>Adeline Palmerston, for her unshakeable leadership in the Liceria & Co. local safety initiative. | **Heart of the Village:**<br>Studio Shodwe's veteran mother, for forty years of mentorship to neighborhood families. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and gold accents. Use "In-Use" text.
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Legacy Of Community Service  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Youth Mentor:**<br>Countless hours spent helping kids at the community center. | **Green Vision:**<br>The unshakeable effort to beautify our shared plazas. | **Social Hub:**<br>Creating events that bring every neighbor together. |
-
-**Visual Note:** Service-linked icons in an elegant sage palette. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Message From The Community  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| At Studio Shodwe Gardens, we believe that recognition is the fuel for future service. By honoring these مادران today, we inspire the next generation to lead with the same unshakeable compassion. Your awards represent the high value we place on maternal leadership in Liceria & Co. Commons. Thank you for your service. |
-
-**Visual Note:** Unified community signature imagery in soft-pastel tones.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Impact Evaluation Areas  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Create. | **Aid**<br>Direct. | **Path**<br>Clear. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Award Ceremony Order  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Leaders Of Our Heart  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| A list of all award recipients and ceremony photos will be uploaded to www.reallygreatsite.com by tomorrow morning. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Community branding with a minimalist gold and sage finish.
 

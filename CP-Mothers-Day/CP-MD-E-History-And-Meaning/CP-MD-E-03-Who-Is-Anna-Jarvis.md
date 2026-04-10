@@ -6,8 +6,8 @@
 **Style:** Classic Academic + Refined Minimalist  
 **Tone:** Informative, professional, reflective
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→4→1→2→3→1→4→2→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→2→3→4→1→2→3→3→1→1
 
 ---
 
@@ -43,7 +43,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Deep Devotion:**<br>Focused entirely on honoring her own mother’s unshakeable legacy. | **Fierce Spirit:**<br>Unafraid to challenge commercial forces that skewed her vision. | **Pure Logic:**<br>Believing that a daughter's handwritten note was the highest gift. |
+| **Deep Devotion:**<br>Focused entirely on honoring her own mother's unshakeable legacy. | **Fierce Spirit:**<br>Unafraid to challenge commercial forces that skewed her vision. | **Pure Logic:**<br>Believing that a daughter's handwritten note was the highest gift. |
 
 **Visual Note:** Trait-focus concept shown with sophisticated gold and cream cards.
 
@@ -57,7 +57,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **West Virginia:**<br>Born in Webster (1864) into a family of service. | **The Work Clubs:**<br>Observing her mother’s unshakeable aid in the community. | **Education:**<br>Educated in female seminaries with a focus on literature. |
+| **West Virginia:**<br>Born in Webster (1864) into a family of service. | **The Work Clubs:**<br>Observing her mother's unshakeable aid in the community. | **Education:**<br>Educated in female seminaries with a focus on literature. |
 
 **Visual Note:** Historical context icons in a refined academic layout. Use "In-Use" text.
 
@@ -67,7 +67,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Campaign Of Letters  
-**Jumlah Kolom页:** 4
+**Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -105,49 +105,7 @@
 
 ---
 
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Her Fight Against Commercialism  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Greeting Cards:**<br>Disliked printed notes as "manufactured" emotion. | **Confections:**<br>Argued against using candy as a sincere token of love. | **Protests:**<br>Spent her later years and fortune trying to rescind the day. |
-
-**Visual Note:** Conflict highlights with a refined academic layout. Use "In-Use" text.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** The Cost Of Conviction  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| Adeline Palmerston, our historian at Studio Shodwe, notes that Anna Jarvis died in 1948 without ever having become a mother herself. She spent her entire life and family fortune to create, then protect, the unshakeable purity of Mother's Day. Her story is a testament to the power of a single individual to create a change that lasts for over a century at Liceria & Co. Academy. |
-
-**Visual Note:** Biographical summary theme with a high-end academic design.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Famous Anna Jarvis Quotes  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Identity**<br>"Singular." | **Letters**<br>"Ink Heart." | **Sincerity**<br>"True Gift." | **Duty**<br>"High Honor." |
-
-**Visual Note:** Quote-bubble markers in gold and burgundy for quick scanning.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Her Unshakeable Legacy  
@@ -161,10 +119,10 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Honoring The Founder’s Heart  
+**Judul Halaman:** Honoring The Founder's Heart  
 | Kolom 1 |
 |---------|
 | At Liceria & Co. Academy, we honor Anna Jarvis by returning to the unshakeable basics of her vision. Every time we write a personal note or share a quiet moment of gratitude, we fulfill her life's unshakeable work. Thank you for exploring the life of this determined woman who gave the world its way to say "thank you" to mothers everywhere. Happy Mother's Day from Studio Shodwe! |
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For more biographical profiles of influential historical women, please visit our digital museum at www.reallygreatsite.com. Thank you for your unshakeable interest! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Biographical branding with a minimalist burgundy and gold finish.
 

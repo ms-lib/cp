@@ -6,8 +6,8 @@
 **Style:** Classic Academic + Refined Minimalist  
 **Tone:** Informative, professional, reflective
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→1→4→2→3→1→4→3→1→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→3→2→1→4→2→3→1→1→1
 
 ---
 
@@ -16,7 +16,7 @@
 **Visual Note:** Sophisticated trivia design with deep burgundy and antique cream color blocks. Minimalist gold line-art of a lightbulb and a burst of flowers. Use Title Case for the title.
 
 **Text:**
-- Title: Fun Facts About Mother’s Day
+- Title: Fun Facts About Mother's Day
 - Subtitle: Surprising Historical Trivia and Unshakeable Statistics Behind the World's Favorite Tribute
 
 ---
@@ -29,7 +29,7 @@
 
 | Kolom 1 |
 |---------|
-| Welcome to the Liceria & Co. Academy trivia tour of Mother's Day! While we all know the second Sunday in May is special, there are many unshakeable and surprising facts beneath the surface of this holiday. At Studio Shodwe, we’ve gathered the most fascinating historical data and modern statistics to deepen your appreciation for this global day of honor. Let’s explore the unshakeable truth behind the tradition! |
+| Welcome to the Liceria & Co. Academy trivia tour of Mother's Day! While we all know the second Sunday in May is special, there are many unshakeable and surprising facts beneath the surface of this holiday. At Studio Shodwe, we've gathered the most fascinating historical data and modern statistics to deepen your appreciation for this global day of honor. Let's explore the unshakeable truth behind the tradition! |
 
 **Visual Note:** High-end conceptual trivia header with a thoughtful, engaging academic design. Maintain 40% white space for editability.
 
@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| Did you know that the term "Mothering Sunday" in the UK originally referred to a person's unshakeable return to their "mother church"? At Liceria & Co. Academy, we find it fascinating that the tradition began centuries ago as a religious pilgrimage before it ever became a day for giving family gifts at Studio Shodwe. This unshakeable history reminds us that even modern holidays Have ancient social roots. |
+| Did you know that the term "Mothering Sunday" in the UK originally referred to a person's unshakeable return to their "mother church"? At Liceria & Co. Academy, we find it fascinating that the tradition began centuries ago as a religious pilgrimage before it ever became a day for giving family gifts at Studio Shodwe. This unshakeable history reminds us that even modern holidays have ancient social roots. |
 
 **Visual Note:** Historical context theme with a dignified, high-impact serif design in ivory and gold. Use "In-Use" text.
 
@@ -66,7 +66,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Surprising Global Stats Hub  
+**Judul Halaman:** Surprising Global Stats Hub  
 **Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -99,55 +99,13 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1914 Act:**<br>The unshakeable moment it became a federal U.S. law. | **Anna’s Protest:**<br>She once was arrested for protesting the trade at Studio Shodwe. | **Ancient Rites:**<br>Greek festivals for Cybele were the unshakeable 1st. |
+| **1914 Act:**<br>The unshakeable moment it became a federal U.S. law. | **Anna's Protest:**<br>She once was arrested for protesting the trade at Studio Shodwe. | **Ancient Rites:**<br>Greek festivals for Cybele were the unshakeable 1st. |
 
 **Visual Note:** Fact-box cards with a sophisticated, historical academic design. Use "In-Use" text.
 
 ---
 
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Trivia Insight  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| Adeline Palmerston, our lead researcher at Studio Shodwe, points out that Mother's Day is the most unshakeable busiest day of the year for the restaurant industry. While we think of it as a quiet home day, Liceria & Co. data shows that more families eat out today than on any other holiday, making the maternal unshakeable "day off" a national event for neighbors and communities alike. |
-
-**Visual Note:** Practical trivia theme with a sophisticated, high-end societal-value aesthetic.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Facts  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Health**<br>Gains. | **Trust**<br>Built. | **Joy**<br>Held. | **Hope**<br>Safe. |
-
-**Visual Note:** Impact icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Flower Meanings Trivia  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **White:**<br>Unshakeable purity. | **Pink:**<br>Unshakeable hope. | **Red:**<br>Unshakeable heart. |
-
-**Visual Note:** Botanical card layout with a "heart-interest" design. Use "In-Use" text.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Unshakeable Reason  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Trivia Thanks  
@@ -173,22 +131,11 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a full list of Mother's Day historical resources and trivia infographics, please visit our archive at www.reallygreatsite.com. Thank you for your unshakeable interest! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Trivia branding with a minimalist burgundy and gold finish.
 
 **Text:**
-- Fun Facts About Mother’s Day
+- Fun Facts About Mother's Day
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com

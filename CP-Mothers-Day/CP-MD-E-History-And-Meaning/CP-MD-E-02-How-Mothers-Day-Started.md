@@ -6,8 +6,8 @@
 **Style:** Classic Academic + Refined Minimalist  
 **Tone:** Informative, professional, reflective
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→3→2→1→4→2→3→2→1→1
 
 ---
 
@@ -16,8 +16,8 @@
 **Visual Note:** Sophisticated academic design with deep burgundy and antique cream color blocks. Minimalist gold foil illustration of an open book and a laurel wreath. Use Title Case for the title.
 
 **Text:**
-- Title: How Mother’s Day Started
-- Subtitle: The Intimate Origin Story of the World’s Most Beloved Familial Celebration
+- Title: How Mother's Day Started
+- Subtitle: The Intimate Origin Story of the World's Most Beloved Familial Celebration
 
 ---
 
@@ -43,7 +43,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Deep Devotion:**<br>Anna Jarvis’s unshakeable love for her activist mother. | **Social Need:**<br>A post-war desire for national unity and healing. | **Tireless Work:**<br>Years of handwritten letters to every influential leader. |
+| **Deep Devotion:**<br>Anna Jarvis's unshakeable love for her activist mother. | **Social Need:**<br>A post-war desire for national unity and healing. | **Tireless Work:**<br>Years of handwritten letters to every influential leader. |
 
 **Visual Note:** Layered origin concept shown with sophisticated gold and burgundy diagrams.
 
@@ -67,7 +67,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Founding Milestone Steps  
-**Jumlah Kolom页:** 4
+**Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -105,49 +105,7 @@
 
 ---
 
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Message From The Origin  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| Adeline Palmerston, our lead historian at Studio Shodwe, emphasizes that the day was intended to be "Mother's Day" (singular)—a day for each family to honor its own unique mother. It was not meant as a general celebration of "Mothers" (plural), but as an unshakeable acknowledgement of the individual woman who gave you life and guidance. |
-
-**Visual Note:** Historical emphasis theme with a sophisticated, high-end societal-value aesthetic.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Early Interpretations Of The Day  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Letters**<br>Truth. | **Service**<br>Devotion. | **Time**<br>Peace. | **Flower**<br>Pure. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Story Of The White Carnation  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Purity:**<br>Representing unshakeable maternal devotion. | **The Scent:**<br>Quietly filling a room with maternal presence. | **The Legacy:**<br>How it became the universal symbol for mothering. |
-
-**Visual Note:** Botanical card layout with a "heart-interest" design. Use "In-Use" text.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Root Of Why It Matters  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Honoring The Start  
@@ -173,23 +131,12 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For more in-depth historical research on the origins of family holidays, please visit our archive at www.reallygreatsite.com. Thank you for your unshakeable interest! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Sophisticated academic branding with a minimalist burgundy and gold finish.
 
 **Text:**
-- How Mother’s Day Started
+- How Mother's Day Started
 - Studio Shodwe History Center • 2024
 - www.reallygreatsite.com
 

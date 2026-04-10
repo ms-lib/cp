@@ -6,8 +6,8 @@
 **Style:** Elegant Serif + Warm Pastels  
 **Tone:** Narrative, respectful, warm
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→1→4→2→3→1→4→3→1→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→3→1→4→2→3→1→1→1
 
 ---
 
@@ -85,41 +85,13 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Story:**<br>Adeline Palmerston, on finding an unshakeable community network at the Liceria & Co. playgroup. | **The Wise Legend:**<br>Studio Shodwe’s veteran mother, on forty years of neighborhood stories and shared wisdom. |
+| **The New Story:**<br>Adeline Palmerston, on finding an unshakeable community network at the Liceria & Co. playgroup. | **The Wise Legend:**<br>Studio Shodwe's veteran mother, on forty years of neighborhood stories and shared wisdom. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and soft pastel accents. Use "In-Use" text.
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Generational Heritage Gifts  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Wise Tales:**<br>The unshakeable lessons passed down in our village streets. | **Safe Ties:**<br>The deep friendships forged between neighboring families. | **Kind Spirit:**<br>The unshakeable optimism that defines our village future. |
-
-**Visual Note:** Benefit icons in an elegant warm-pastel palette. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Village Built On Shared Experience  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| At Studio Shodwe Gardens, we believe that when we share a mother's story, we strengthen our community bonds. We recognize that every unshakeable act of maternal care at Liceria & Co. Commons is a thread in the tapestry of our town. These stories remind us that we are not just individuals—we are a neighborhood family connected by the love of our mothers. |
-
-**Visual Note:** Neighborhood map-style imagery in soft-pastel tones.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Storytelling Session Guide  
@@ -133,21 +105,7 @@
 
 ---
 
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Appreciation For Local Impact  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Joy**<br>Found. | **Aid**<br>Given. | **Safety**<br>Kept. | **Trust**<br>Built. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Stories Who Shape Us  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For more community stories and neighborhood event updates, please visit our village portal at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Community branding with a minimalist gold and sage finish.
 

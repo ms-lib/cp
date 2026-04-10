@@ -6,8 +6,8 @@
 **Style:** Professional Sage + Slate Minimalist  
 **Tone:** Organized, practical, clear
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→4→2→1→3→1→1
 
 ---
 
@@ -16,7 +16,7 @@
 **Visual Note:** High-impact professional design using clean minimalist typography. Sage green background with an ivory inner border and minimalist gold line-art of a pocket watch and spring lilies. Use Title Case for the title.
 
 **Text:**
-- Title: Mother’s Day Celebration Rundown
+- Title: Mother's Day Celebration Rundown
 - Subtitle: A Detailed Master Schedule and Unshakeable Tactical Flow for Professional Celebrations
 
 ---
@@ -29,27 +29,13 @@
 
 | Kolom 1 |
 |---------|
-| A successful Mother's Day event at Liceria & Co. Academy requires an unshakeable flow. Whether you are hosting a community awards ceremony or a corporate breakfast at Studio Shodwe, this presentation provides the tactical unshakeable roadmap for your entire program. Lead organizer Adeline Palmerston guides this unshakeable technical walkthrough to ensure every mother feels truly celebrated without a single logistical hitch. |
+| A successful Mother's Day event at Liceria & Co. Academy requires an unshakeable flow. Whether you are hosting a community awards ceremony or a corporate breakfast at Studio Shodwe, this presentation provides the tactical unshakeable roadmap for your entire program. Lead organizer Adeline Palmerston guides this unshakeable technical walkthrough to ensure every mother feels truly celebrated without a single logistical hitch. Our goal is to create a seamless experience across three key phases: an unshakeable arrival, a heart-centered tribute, and a lasting gesture of community gratitude. |
 
 **Visual Note:** Rundown header with a clean, professional tactical aesthetic. Maintain 40% white space for editability.
 
 ---
 
-### PAGE 3 - CONTEXT
-**Fase:** OPENING  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Pillars Of Event Flow  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Arrival:**<br>Creating an unshakeable first impression at Studio Shodwe. | **The Tribute:**<br>The heart-centered core of your neighborhood ceremony. | **The Close:**<br>A lasting, unshakeable final gesture of gratitude and honor. |
-
-**Visual Note:** Flow category cards with sophisticated sage and slate icons.
-
----
-
-### PAGE 4 - CORE CONTENT A
+### PAGE 3 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Morning Production Foundations  
@@ -63,10 +49,10 @@
 
 ---
 
-### PAGE 5 - CORE CONTENT B
+### PAGE 4 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Master Timeline Hub  
+**Judul Halaman:** Master Timeline Hub  
 **Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -77,7 +63,7 @@
 
 ---
 
-### PAGE 6 - CORE CONTENT C
+### PAGE 5 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Sequence: The Opening Hour  
@@ -91,24 +77,10 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Tactical Milestone Steps  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Stage Cue:**<br>The unshakeable moment the keynote address begins. | **Meal Flow:**<br>Ensuring a smooth, unhurried service at Studio Shodwe. | **Award Hub:**<br>The unshakeable timing for public honor segments. |
-
-**Visual Note:** Milestone boxes with a sophisticated, professional design. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
+### PAGE 6 - CORE CONTENT E
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Event Wisdom  
+**Judul Halaman:** Adeline's Event Wisdom  
 **Jumlah Kolom:** 1
 
 | Kolom 1 |
@@ -119,21 +91,7 @@
 
 ---
 
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Path**<br>Safe. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Tactical Logistics Capsules  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Every Event  
@@ -161,34 +119,23 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every event leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your Mother’s Day celebration be as unshakeable and as full of grace as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
+| To every event leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of logistical expert and family heart is a masterpiece we all celebrate. May your Mother's Day celebration be as unshakeable and as full of grace as the love you give us all year round. Happy Mother's Day from your team at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual guide of Mother's Day celebration rundowns and event planning infographics, please visit our digital archive at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Celebration branding with a minimalist sage and slate finish.
 
 **Text:**
-- Mother’s Day Celebration Rundown
+- Mother's Day Celebration Rundown
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com

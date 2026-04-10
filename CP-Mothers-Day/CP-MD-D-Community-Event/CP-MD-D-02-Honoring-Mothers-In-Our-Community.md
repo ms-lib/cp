@@ -6,8 +6,8 @@
 **Style:** Elegant Serif + Warm Pastels  
 **Tone:** Heartfelt, respectful, warm
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→1→4→2→3→1→4→3→1→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→3→1→4→2→3→1→1→1
 
 ---
 
@@ -85,55 +85,13 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Generation:**<br>Adeline Palmerston, whose initiative at Liceria & Co. has created a sanctuary for young families. | **The Wise Legacy:**<br>Studio Shodwe’s veteran mothers, who have guided our community for over four decades. |
+| **The New Generation:**<br>Adeline Palmerston, whose initiative at Liceria & Co. has created a sanctuary for young families. | **The Wise Legacy:**<br>Studio Shodwe's veteran mothers, who have guided our community for over four decades. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and soft pastel accents. Use "In-Use" text.
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** The Gifts We Collectively Cherish  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Sacred Time:**<br>Countless hours spent building our neighborhood networks. | **Selfless Care:**<br>Stepping in to help every family in our village. | **True Vision:**<br>Seeing the potential in every child in our community. |
-
-**Visual Note:** Benefit icons in an elegant sage and warm peach palette.
-
----
-
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Unified Circle Of Gratitude  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| When we honor a mother, we honor the very essence of community. At Studio Shodwe Gardens, we believe that every act of maternal care ripples outward, making our entire neighborhood more compassionate and resilient. Today is a celebration of that unshakeable bond that connects us all through the love of mothers. |
-
-**Visual Note:** Circle of hearts imagery in warm, soft-pastel tones.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Appreciation For Local Impact  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Schools**<br>Support. | **Parks**<br>Beauty. | **Safety**<br>Care. | **Growth**<br>Legacy. |
-
-**Visual Note:** Practical impact icons in a clean, elegant layout.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Sharing Our Heartfelt Stories  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Mothers Who Build Us  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| Photography from today’s community tribute will be available at the Studio Shodwe Gallery by Monday afternoon. For further neighborhood updates, visit www.reallygreatsite.com. |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Neighborhood branding with a minimalist sage and slate finish.
 

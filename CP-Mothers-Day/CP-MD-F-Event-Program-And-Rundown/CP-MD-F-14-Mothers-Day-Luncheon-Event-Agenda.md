@@ -6,8 +6,8 @@
 **Style:** Professional Sage + Slate Minimalist  
 **Tone:** Organized, practical, clear
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→4→2→1→3→1→1
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Text:**
 - Title: Luncheon Event Agenda
-- Subtitle: A Detailed Master Sequence and Unshakeable Tactical Guide for Orchestrating a Mother’s Day Dining Gala
+- Subtitle: A Detailed Master Sequence and Unshakeable Tactical Guide for Orchestrating a Mother's Day Dining Gala
 
 ---
 
@@ -29,27 +29,13 @@
 
 | Kolom 1 |
 |---------|
-| Organizing a Mother's Day luncheon at Liceria & Co. Academy requires an unshakeable and elegant flow. Whether you are planning a neighborhood garden meal or a high-end corporate luncheon at Studio Shodwe, this presentation provides the unshakeable tactical schedule for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every mother feels truly celebrated over a beautiful dining experience. |
+| Organizing a Mother's Day luncheon at Liceria & Co. Academy requires an unshakeable and elegant flow. Whether you are planning a neighborhood garden meal or a high-end corporate luncheon at Studio Shodwe, this presentation provides the unshakeable tactical schedule for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every mother feels truly celebrated over a beautiful dining experience. Our agenda is built around three essential phases: a warm arrival and seating, an unhurried culinary service, and a closing tribute that honors every mother at the table. |
 
 **Visual Note:** Event specification header with a clean, professional aesthetic and unshakeable structure. Maintain 40% white space for editability.
 
 ---
 
-### PAGE 3 - CONTEXT
-**Fase:** OPENING  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Pillars Of Luncheon Logic  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Welcome:**<br>Creating an unshakeable and warm first impression at Studio Shodwe. | **The Feast:**<br>The unshakeable core of your neighborhood dining event. | **The Close:**<br>A lasting, unshakeable final gesture of gratitude and honor. |
-
-**Visual Note:** Flow category cards with sophisticated sage and slate icons.
-
----
-
-### PAGE 4 - CORE CONTENT A
+### PAGE 3 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Morning Production Foundations  
@@ -63,13 +49,13 @@
 
 ---
 
-### PAGE 5 - CORE CONTENT B
+### PAGE 4 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Master Luncheon Timeline Hub  
+**Judul Halaman:** Master Luncheon Timeline Hub  
 **Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | UI Kolom 3 | Kolom 4 |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Arrival**<br>11h00. | **Seating**<br>12h00. | **Meal**<br>12h30. | **Finale**<br>14h00. |
 
@@ -77,7 +63,7 @@
 
 ---
 
-### PAGE 6 - CORE CONTENT C
+### PAGE 5 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Sequence: The Signature Menu  
@@ -91,24 +77,10 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Tactical Milestone Steps  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Drink Cue:**<br>The unshakeable timing for the first warm service. | **Meal Flow:**<br>Ensuring a smooth, festive service at Studio Shodwe. | **Closing Call:**<br>The final unshakeable toast to neighborhood mothers. |
-
-**Visual Note:** Milestone boxes with a sophisticated, professional design. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
+### PAGE 6 - CORE CONTENT E
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Dining Wisdom  
+**Judul Halaman:** Adeline's Dining Wisdom  
 **Jumlah Kolom:** 1
 
 | Kolom 1 |
@@ -119,21 +91,7 @@
 
 ---
 
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Path**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Tactical Logistics Capsules  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Every Table  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual guide of Mother's Day luncheon programs and dining planning infographics, please visit our digital archive at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Party branding with a minimalist sage and slate finish.
 

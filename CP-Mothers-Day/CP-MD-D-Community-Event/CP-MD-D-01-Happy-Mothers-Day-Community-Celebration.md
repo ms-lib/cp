@@ -6,8 +6,8 @@
 **Style:** Elegant Serif + Warm Pastels  
 **Tone:** Inclusive, celebratory, community-focused
 
-**Total Pages:** 13 halaman  
-**Pattern Kolom:** 1→3→2→1→4→3→2→1→3→4→2→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→3→1→4→2→2→4→1→1
 
 ---
 
@@ -91,35 +91,7 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** The Gifts You Give Our Village  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Vast Time:**<br>Countless hours spent organizing our park cleanups and book clubs. | **Gentle Care:**<br>Looking out for every child as if they were your own. | **Quiet Leadership:**<br>Stepping up with grace to drive positive local change. |
-
-**Visual Note:** Contribution categories presented with an elegant serif aesthetic.
-
----
-
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Community Of Collective Support  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| Just as mothers tirelessly support their children, our community at Studio Shodwe Gardens supports its mothers. We recognize that raising the next generation is a collective masterpiece. When we support mothers—through resources and connection—we strengthen the very foundation of our community. |
-
-**Visual Note:** Circle of support imagery using warm, inviting pastel palettes.
-
----
-
-### PAGE 9 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Inspiring Community Stories  
@@ -133,21 +105,7 @@
 
 ---
 
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Ways To Support Our Moms  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Offer Real Help:**<br>Small daily gestures that make a massive difference. | **Build Networks:**<br>Creating supportive spaces for moms to share wisdom. | **Show Gratitude:**<br>Consistently recognizing the work you do for us all. |
-
-**Visual Note:** Action-oriented community engagement design in soft pastels.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Our Neighborhood  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** A Sincere Thank You  
@@ -173,7 +131,7 @@
 
 ---
 
-### PAGE 13 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Warm gathering image with an elegant serif Mother's Day theme.
 

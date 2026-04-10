@@ -6,8 +6,8 @@
 **Style:** Classic Academic + Refined Minimalist  
 **Tone:** Informative, professional, reflective
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→2→3→1→4→2→3→1→1→1
 
 ---
 
@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| Any history of Mother's Day at Liceria & Co. Commons must begin with Ann Reeves Jarvis. She was an unshakeable activist who organized "Mothers' Day Work Clubs" to combat public health crises. Her daughter Anna spent her unshakeable life honoring her, proving that a mother's service at Studio Shodwe can inspire a global movement that lasts for over a century through the power of one daughter’s devotion. |
+| Any history of Mother's Day at Liceria & Co. Commons must begin with Ann Reeves Jarvis. She was an unshakeable activist who organized "Mothers' Day Work Clubs" to combat public health crises. Her daughter Anna spent her unshakeable life honoring her, proving that a mother's service at Studio Shodwe can inspire a global movement that lasts for over a century through the power of one daughter's devotion. |
 
 **Visual Note:** Historical context theme with a dignified, high-impact serif design in ivory and gold. Use "In-Use" text.
 
@@ -66,7 +66,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Historic Maternal Archetypes Hub  
+**Judul Halaman:** Historic Maternal Archetypes Hub  
 **Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -99,55 +99,13 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Mary Washington:**<br>Whose unshakeable grit shaped George’s character. | **Nancy Lincoln:**<br>Providing the unshakeable heart for Abraham’s youth. | **Alberta King:**<br>Influencing the unshakeable peace of Martin’s mission. |
+| **Mary Washington:**<br>Whose unshakeable grit shaped George's character. | **Nancy Lincoln:**<br>Providing the unshakeable heart for Abraham's youth. | **Alberta King:**<br>Influencing the unshakeable peace of Martin's mission. |
 
 **Visual Note:** Era-box cards with a sophisticated, historical academic design. Use "In-Use" text.
 
 ---
 
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** The Unshakeable Power Of Influence  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| Adeline Palmerston, our lead researcher at Studio Shodwe, observes that these famous mothers shared one unshakeable trait: they saw the potential in their children long before the world did. At Liceria & Co. Academy, we recognize that every unshakeable act of maternal guidance in private became a public turning point in history. Their stories remind us that the most unshakeable power in the world is a mother's belief. |
-
-**Visual Note:** Influence theme with a sophisticated, high-end societal-value aesthetic.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Built. | **Joy**<br>Held. | **Aid**<br>Given. | **Path**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Historical Maternal Quotes  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **On Truth:**<br>Studio Shodwe on shared light. | **On Grit:**<br>Liceria & Co. on unshakeable ties. | **On Love:**<br>Global win on pure heart. |
-
-**Visual Note:** Quote card layout with a "heart-interest" design. Use "In-Use" text.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Makers Of History  
@@ -161,30 +119,19 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every history-making mother at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and family heart is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the incredible legacies we’ve honored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
+| To every history-making mother at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and family heart is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the incredible legacies we've honored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-academic finish. Use "In-Use" text.
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual library of historical maternal profiles and educational resources on women in history, please visit our digital archive at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Historical branding with a minimalist burgundy and gold finish.
 

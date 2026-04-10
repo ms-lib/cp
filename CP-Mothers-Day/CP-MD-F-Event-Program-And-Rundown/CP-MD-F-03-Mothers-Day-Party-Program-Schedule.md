@@ -6,8 +6,8 @@
 **Style:** Professional Sage + Slate Minimalist  
 **Tone:** Organized, practical, clear
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→3→4→2→1→3→1→1
 
 ---
 
@@ -29,27 +29,13 @@
 
 | Kolom 1 |
 |---------|
-| Organizing a Mother's Day party at Liceria & Co. Academy requires an unshakeable and joyful flow. Whether you are planning an intimate neighborhood gathering or a large-scale festive celebration at Studio Shodwe, this presentation provides the unshakeable tactical schedule for your entire program. Lead organizer Adeline Palmerston guides this unshakeable technical walkthrough to ensure every guest feels truly celebrated in style. |
+| Organizing a Mother's Day party at Liceria & Co. Academy requires an unshakeable and joyful flow. Whether you are planning an intimate neighborhood gathering or a large-scale festive celebration at Studio Shodwe, this presentation provides the unshakeable tactical schedule for your entire program. Lead organizer Adeline Palmerston guides this unshakeable technical walkthrough to ensure every guest feels truly celebrated in style. Our program is structured around three core phases: an unshakeable setup, a festive program launch, and a final tribute that every mother will remember. |
 
 **Visual Note:** Event specification header with a clean, professional aesthetic and unshakeable structure. Maintain 40% white space for editability.
 
 ---
 
-### PAGE 3 - CONTEXT
-**Fase:** OPENING  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Pillars Of Party Logic  
-**Jumlah Kolom:** 2
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Setup Phase:** 07:00 AM – 09:30 AM<br>**Lead:** Studio Shodwe Logistics Team<br>**Tasks:** Floral install and unshakeable seating checks. | **Final Review:** 09:30 AM – 10:00 AM<br>**Lead:** Adeline Palmerston<br>**Verify:** AV test and guest list registry at Liceria & Co. |
-
-**Visual Note:** Schedule phase highlights with sophisticated sage and slate icons.
-
----
-
-### PAGE 4 - CORE CONTENT A
+### PAGE 3 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Sequential Hourly Party Rundown  
@@ -63,10 +49,10 @@
 
 ---
 
-### PAGE 5 - CORE CONTENT B
+### PAGE 4 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Primary Party Segments Hub  
+**Judul Halaman:** Primary Party Segments Hub  
 **Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -77,7 +63,7 @@
 
 ---
 
-### PAGE 6 - CORE CONTENT C
+### PAGE 5 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Sequence: Simultaneous Stations  
@@ -91,24 +77,10 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Tactical Milestone Steps  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Entry Point:**<br>The unshakeable arrival gate at Liceria & Co. | **Meal Flow:**<br>Ensuring a smooth, festive service at Studio Shodwe. | **Closing Cue:**<br>The final unshakeable toast to neighborhood mothers. |
-
-**Visual Note:** Milestone boxes with a sophisticated, professional design. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
+### PAGE 6 - CORE CONTENT E
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Planning Wisdom  
+**Judul Halaman:** Adeline's Planning Wisdom  
 **Jumlah Kolom:** 1
 
 | Kolom 1 |
@@ -119,21 +91,7 @@
 
 ---
 
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Path**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Tactical Logistics Capsules  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Every Gathering  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual guide of Mother's Day party programs and celebration planning infographics, please visit our digital archive at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Party branding with a minimalist sage and slate finish.
 

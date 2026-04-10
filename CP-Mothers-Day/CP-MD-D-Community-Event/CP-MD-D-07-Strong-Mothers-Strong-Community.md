@@ -6,8 +6,8 @@
 **Style:** Elegant Serif + Warm Pastels  
 **Tone:** Powerful, respectful, warm
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→3→2→1→4→2→3→1→4→3→1→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→3→1→4→2→3→1→1→1
 
 ---
 
@@ -85,55 +85,13 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Leader:**<br>Adeline Palmerston, whose unshakeable vision for Liceria & Co. has unified our local family health projects. | **The Veteran Guard:**<br>Studio Shodwe’s veteran mother, who has served as our neighborhood peace guardian for thirty years. |
+| **The New Leader:**<br>Adeline Palmerston, whose unshakeable vision for Liceria & Co. has unified our local family health projects. | **The Veteran Guard:**<br>Studio Shodwe's veteran mother, who has served as our neighborhood peace guardian for thirty years. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and slate accents. Use "In-Use" text.
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Our Collective Local Gains  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Safe Streets:**<br>The unshakeable security of a neighborhood that truly cares. | **Solid Hopes:**<br>The resilience passed to the next generation of youth. | **Deep Roots:**<br>The heritage of strength in our community guilds. |
-
-**Visual Note:** Benefit icons in an elegant warm-pastel palette. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Community Of Unshakeable Support  
-**Jumlah Kolom:** 1
-
-| Kolom 1 |
-|---------|
-| At Studio Shodwe Gardens, we believe that empowering mothers is the smartest community investment we can make. When we support the resilience of the women who lead our homes, we strengthen the future of our entire neighborhood. Today at Liceria & Co. Commons, we stand in unshakeable unity to say: Your strength is our strength. |
-
-**Visual Note:** Circle of support imagery in soft-pastel tones.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Built. | **Joy**<br>Held. | **Aid**<br>Given. | **Hope**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Community Day Event Map  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Power Of Our Heart  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For event photos and more community resilience updates, please visit our neighborhood portal at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Community branding with a minimalist gold and sage finish.
 

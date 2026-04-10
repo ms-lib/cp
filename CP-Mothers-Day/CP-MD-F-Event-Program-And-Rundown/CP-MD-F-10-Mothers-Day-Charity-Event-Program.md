@@ -6,8 +6,8 @@
 **Style:** Professional Sage + Slate Minimalist  
 **Tone:** Organized, practical, purposeful
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→4→2→1→3→1→1
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Text:**
 - Title: Charity Event Program
-- Subtitle: A Detailed Master Sequence and Unshakeable Fundraising Logistics Guide for the Annual Mother’s Day Gala of Hope
+- Subtitle: A Detailed Master Sequence and Unshakeable Fundraising Logistics Guide for the Annual Mother's Day Gala of Hope
 
 ---
 
@@ -29,27 +29,13 @@
 
 | Kolom 1 |
 |---------|
-| Organizing a Mother's Day charity event at Liceria & Co. Academy requires an unshakeable and purposeful flow. Whether you are planning a neighborhood fundraiser or a large-scale gala of hope at Studio Shodwe, this presentation provides the unshakeable tactical sequence for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every donation is maximized and every mother feels truly honored through our collective neighborhood service. |
+| Organizing a Mother's Day charity event at Liceria & Co. Academy requires an unshakeable and purposeful flow. Whether you are planning a neighborhood fundraiser or a large-scale gala of hope at Studio Shodwe, this presentation provides the unshakeable tactical sequence for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every donation is maximized and every mother feels truly honored through our collective neighborhood service. Our mission is threefold: to support families in need, to raise meaningful funds for maternal care, and to deliver a deeply moving tribute that honors every mother in attendance. |
 
 **Visual Note:** Charity event header with a clean, professional purpose-driven aesthetic and unshakeable structure. Maintain 40% white space for editability.
 
 ---
 
-### PAGE 3 - CONTEXT
-**Fase:** OPENING  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Core Mission & Strategic Goals  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Mission:**<br>Supporting families at Studio Shodwe in unshakeable need. | **The Impact:**<br>Funds provide maternal suites and unshakeable neighborhood care. | **The Goal:**<br>Raising the unshakeable target for the Liceria & Co. project. |
-
-**Visual Note:** Mission-clarity layout using a clean, professional 3-column design. Use "In-Use" text.
-
----
-
-### PAGE 4 - CORE CONTENT A
+### PAGE 3 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Fundraising Production Schedule  
@@ -63,13 +49,13 @@
 
 ---
 
-### PAGE 5 - CORE CONTENT B
+### PAGE 4 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Master Charity Timeline Hub  
+**Judul Halaman:** Master Charity Timeline Hub  
 **Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | UI Kolom 3 | Kolom 4 |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Registry**<br>17h00. | **Launch**<br>18h00. | **Appeal**<br>20h00. | **Finale**<br>21h00. |
 
@@ -77,7 +63,7 @@
 
 ---
 
-### PAGE 6 - CORE CONTENT C
+### PAGE 5 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Sequence: The Giving Hub  
@@ -91,24 +77,10 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Tactical Milestone Steps  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Pledge Cue:**<br>The unshakeable timing for the main donation appeal. | **Meal Flow:**<br>Ensuring a smooth, unhurried service at Studio Shodwe. | **Closing Call:**<br>The final unshakeable blessing to neighborhood mothers. |
-
-**Visual Note:** Milestone boxes with a sophisticated, professional design. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
+### PAGE 6 - CORE CONTENT E
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Mission Wisdom  
+**Judul Halaman:** Adeline's Mission Wisdom  
 **Jumlah Kolom:** 1
 
 | Kolom 1 |
@@ -119,21 +91,7 @@
 
 ---
 
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Path**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Tactical Logistics Capsules  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Every Mission  
@@ -161,30 +119,19 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every mission leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of charitable expert and family heart is a masterpiece we all celebrate. May your Mother’s Day be as unshakeable and as full of grace as the generosity you inspire in us all. Happy Mother's Day from your colleagues at Liceria & Co. Academy! |
+| To every mission leader and mother at Studio Shodwe Gardens: Thank you. Your dual-role of charitable expert and family heart is a masterpiece we all celebrate. May your Mother's Day be as unshakeable and as full of grace as the generosity you inspire in us all. Happy Mother's Day from your colleagues at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-professional finish. Use "In-Use" text.
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual guide of Mother's Day charity event programs and fundraising planning infographics, please visit our digital archive at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Charity branding with a minimalist sage and slate finish.
 

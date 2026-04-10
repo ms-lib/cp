@@ -6,8 +6,8 @@
 **Style:** Professional Sage + Slate Minimalist  
 **Tone:** Organized, practical, clear
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→4→2→1→3→1→1
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Text:**
 - Title: Award Ceremony Program
-- Subtitle: A Detailed Master Sequence and Unshakeable Tactical Guide for Orchestrating a Mother’s Day Honor Service
+- Subtitle: A Detailed Master Sequence and Unshakeable Tactical Guide for Orchestrating a Mother's Day Honor Service
 
 ---
 
@@ -29,27 +29,13 @@
 
 | Kolom 1 |
 |---------|
-| Organizing a Mother's Day award ceremony at Liceria & Co. Academy requires an unshakeable and reverent flow. Whether you are planning a neighborhood honor service or a large-scale awards gala at Studio Shodwe, this presentation provides the unshakeable tactical schedule for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every honoree feels truly recognized and every mother is celebrated with unshakeable style. |
+| Organizing a Mother's Day award ceremony at Liceria & Co. Academy requires an unshakeable and reverent flow. Whether you are planning a neighborhood honor service or a large-scale awards gala at Studio Shodwe, this presentation provides the unshakeable tactical schedule for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every honoree feels truly recognized and every mother is celebrated with unshakeable style. Our ceremony is structured around three defining phases: a warm welcome that sets the tone, a keynote address that honors maternal leadership, and a peak awards moment that recognizes every deserving mother by name. |
 
 **Visual Note:** Event specification header with a clean, professional aesthetic and unshakeable structure. Maintain 40% white space for editability.
 
 ---
 
-### PAGE 3 - CONTEXT
-**Fase:** OPENING  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Pillars Of Award Logic  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Welcome:**<br>Creating an unshakeable and warm first impression at Studio Shodwe. | **The Honors:**<br>The unshakeable core of your neighborhood award ceremony. | **The Close:**<br>A lasting, unshakeable final gesture of gratitude and honor. |
-
-**Visual Note:** Flow category cards with sophisticated sage and slate icons.
-
----
-
-### PAGE 4 - CORE CONTENT A
+### PAGE 3 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Morning Production Foundations  
@@ -63,13 +49,13 @@
 
 ---
 
-### PAGE 5 - CORE CONTENT B
+### PAGE 4 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Master Award Timeline Hub  
+**Judul Halaman:** Master Award Timeline Hub  
 **Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | UI Kolom 3 | Kolom 4 |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Arrival**<br>10h00. | **Launch**<br>11h00. | **Awards**<br>12h30. | **Finale**<br>14h00. |
 
@@ -77,7 +63,7 @@
 
 ---
 
-### PAGE 6 - CORE CONTENT C
+### PAGE 5 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Sequence: The Honor Keynote  
@@ -91,24 +77,10 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Tactical Milestone Steps  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Trophy Cue:**<br>The unshakeable timing for the final category winner. | **Meal Flow:**<br>Ensuring a smooth, festive service at Studio Shodwe. | **Closing Call:**<br>The final unshakeable toast to neighborhood mothers. |
-
-**Visual Note:** Milestone boxes with a sophisticated, professional design. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
+### PAGE 6 - CORE CONTENT E
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Ceremony Wisdom  
+**Judul Halaman:** Adeline's Ceremony Wisdom  
 **Jumlah Kolom:** 1
 
 | Kolom 1 |
@@ -119,21 +91,7 @@
 
 ---
 
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Path**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Tactical Logistics Capsules  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Every Honoree  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual guide of Mother's Day award ceremony programs and celebration planning infographics, please visit our digital archive at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Party branding with a minimalist sage and slate finish.
 

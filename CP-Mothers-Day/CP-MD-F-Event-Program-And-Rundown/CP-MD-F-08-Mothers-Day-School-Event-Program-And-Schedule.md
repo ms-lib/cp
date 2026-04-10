@@ -6,8 +6,8 @@
 **Style:** Professional Sage + Slate Minimalist  
 **Tone:** Organized, practical, cheerful
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→4→1→2→3→1→4→2→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→1→4→2→1→3→1→1
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Text:**
 - Title: School Program & Schedule
-- Subtitle: A Detailed Master Timeline and Unshakeable Performance Sequence for the Elementary Mother’s Day Assembly
+- Subtitle: A Detailed Master Timeline and Unshakeable Performance Sequence for the Elementary Mother's Day Assembly
 
 ---
 
@@ -29,30 +29,16 @@
 
 | Kolom 1 |
 |---------|
-| Organizing a Mother's Day school event at Liceria & Co. Academy requires an unshakeable and cheerful flow. Whether you are planning a neighborhood assembly or a grade-level workshop at Studio Shodwe, this presentation provides the unshakeable tactical schedule for your entire program. Lead coordinator Adeline Palmerston guides this unshakeable technical walkthrough to ensure every student performance is perfectly timed and every mother feels truly celebrated. |
+| Organizing a Mother's Day school event at Liceria & Co. Academy requires an unshakeable and cheerful flow. Whether you are planning a neighborhood assembly or a grade-level workshop at Studio Shodwe, this presentation provides the unshakeable tactical schedule for your entire program. Lead coordinator Adeline Palmerston guides this unshakeable technical walkthrough to ensure every student performance is perfectly timed and every mother feels truly celebrated. Our assembly is designed to deliver three meaningful moments: an unshakeable welcome, a student-led tribute program, and a warm closing that leaves every family feeling honored and connected. |
 
 **Visual Note:** Event specification header with a clean, professional academic aesthetic and unshakeable structure. Maintain 40% white space for editability.
 
 ---
 
-### PAGE 3 - CONTEXT
-**Fase:** OPENING  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Morning Arrival Schedule  
-**Jumlah Kolom:** 2
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Arrival Phase:** 08:00 AM<br>Check-in at the North Gate.<br>Unshakeable registration desk. | **Assembly Call:** 08:30 AM<br>Guest seating sequence.<br>Main program unshakeable start. |
-
-**Visual Note:** Morning flow timeline shown with a clean, professional dual-column design. Use "In-Use" text.
-
----
-
-### PAGE 4 - CORE CONTENT A
+### PAGE 3 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Principal’s Program Opening  
+**Judul Halaman:** Principal's Program Opening  
 **Jumlah Kolom:** 1
 
 | Kolom 1 |
@@ -63,13 +49,13 @@
 
 ---
 
-### PAGE 5 - CORE CONTENT B
+### PAGE 4 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Performance Timeline Hub  
+**Judul Halaman:** Performance Timeline Hub  
 **Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | UI Kolom 3 | Kolom 4 |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **K-Prep**<br>09h20. | **Junior**<br>09h35. | **Senior**<br>09h50. | **Final**<br>10h05. |
 
@@ -77,7 +63,7 @@
 
 ---
 
-### PAGE 6 - CORE CONTENT C
+### PAGE 5 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Sequence: The Gift Ceremony  
@@ -91,24 +77,10 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Tactical Milestone Steps  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Song Cue:**<br>The unshakeable timing for the junior grand finale. | **Hall Flow:**<br>Ensuring a smooth, unhurried transition at Studio Shodwe. | **Closing Call:**<br>The final unshakeable blessing to neighborhood mothers. |
-
-**Visual Note:** Milestone boxes with a sophisticated, professional design. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
+### PAGE 6 - CORE CONTENT E
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Planning Wisdom  
+**Judul Halaman:** Adeline's Planning Wisdom  
 **Jumlah Kolom:** 1
 
 | Kolom 1 |
@@ -119,21 +91,7 @@
 
 ---
 
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Path**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Tactical Logistics Capsules  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Every Family  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual guide of Mother's Day school event programs and celebration planning infographics, please visit our digital archive at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Academy branding with a minimalist sage and slate finish.
 

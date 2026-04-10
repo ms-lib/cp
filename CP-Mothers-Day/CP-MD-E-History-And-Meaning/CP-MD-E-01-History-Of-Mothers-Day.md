@@ -6,8 +6,8 @@
 **Style:** Classic Academic + Refined Minimalist  
 **Tone:** Informative, professional, reflective
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→2→3→1→4→2→3→3→1→1
 
 ---
 
@@ -16,7 +16,7 @@
 **Visual Note:** Sophisticated academic design with deep burgundy and antique cream color blocks. Minimalist gold line-art of a pocket watch and a quill. Use Title Case for the title.
 
 **Text:**
-- Title: The History Of Mother’s Day
+- Title: The History Of Mother's Day
 - Subtitle: A Comprehensive Educational Journey from Ancient Rites to the Modern Global Celebration
 
 ---
@@ -94,7 +94,7 @@
 ### PAGE 7 - CORE CONTENT D
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Jarvis’s Later Opposition  
+**Judul Halaman:** Jarvis's Later Opposition  
 **Jumlah Kolom:** 2
 
 | Kolom 1 | Kolom 2 |
@@ -105,49 +105,7 @@
 
 ---
 
-### PAGE 8 - CORE CONTENT E
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Global Observations Today  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **United States:**<br>Second Sunday in May (Established 1914). | **United Kingdom:**<br>Fourth Sunday of Lent (Mothering Sunday). | **Thailand:**<br>August 12 (Celebrated on the Queen's birthday). |
-
-**Visual Note:** International data points shown within clean, academic geography cards. Use "In-Use" text.
-
----
-
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** The Symbols Of Motherhood  
-**Jumlah Kolom:** 2
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **White Carnations:**<br>The favorite flower of Anna Jarvis's mother, symbolizing pure maternal love. | **Red & Pink Blooms:**<br>Later adopted to represent living mothers, whereas white remained for those passed. |
-
-**Visual Note:** Botanical symbols shown with refined, watercolor-style illustrations in cream and gold.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Mother’s Day Global Statistics  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **$28B**<br>U.S. Annual. | **84%**<br>Participation. | **Cards**<br>Top Gift. | **Sun**<br>Peak Date. |
-
-**Visual Note:** Statistics infographic using a clean, professional data-visualization aesthetic.
-
----
-
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The True Enduring Meaning  
@@ -161,30 +119,19 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Honoring The Living History  
 | Kolom 1 |
 |---------|
-| Understanding the history of Mother's Day at Studio Shodwe enriches our modern celebration. While the holiday has evolved over centuries, its core purpose remains unshakable: honoring the irreplaceable role mothers play in our families and our wider society. Whether through grand gestures or a simple handwritten note, the day continues Anna Jarvis's original vision of gratitude. |
+| Understanding the history of Mother's Day at Studio Shodwe enriches our modern celebration. While the holiday has evolved over centuries, its core purpose remains unshakeable: honoring the irreplaceable role mothers play in our families and our wider society. Whether through grand gestures or a simple handwritten note, the day continues Anna Jarvis's original vision of gratitude. |
 
 **Visual Note:** Historical conclusion with a meaningful academic closure design.
 
 ---
 
-### PAGE 13 - CLOSING FINAL
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| We hope this historical journey provides a deeper appreciation for the celebration. For more educational resources, please visit www.reallygreatsite.com. |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Sophisticated timeline graphic in burgundy and gold.
 

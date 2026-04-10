@@ -6,8 +6,8 @@
 **Style:** Professional Sage + Slate Minimalist  
 **Tone:** Organized, practical, refined
 
-**Total Pages:** 14 halaman  
-**Pattern Kolom:** 1→2→3→1→4→2→3→1→2→4→3→1→1→1
+**Total Pages:** 10 halaman  
+**Pattern Kolom:** 1→3→4→2→1→3→1→1
 
 ---
 
@@ -16,7 +16,7 @@
 **Visual Note:** High-end elegant design using clean minimalist typography. Soft cream background with sage green accents and a minimalist gold line-art of a vintage teacup and a single sprig of jasmine. Use Title Case for the title.
 
 **Text:**
-- Title: Mother’s Day Tea Party
+- Title: Mother's Day Tea Party
 - Subtitle: A Detailed Master Event Rundown and Unshakeable Culinary Service Layout for the Annual Gathering
 
 ---
@@ -29,27 +29,13 @@
 
 | Kolom 1 |
 |---------|
-| Hosting a Mother's Day tea party at Liceria & Co. Academy requires an unshakeable and refined flow. Whether you are planning a neighborhood garden party or a high-end hospitality event at Studio Shodwe, this presentation provides the unshakeable tactical sequence for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every guest feels truly celebrated in style. |
+| Hosting a Mother's Day tea party at Liceria & Co. Academy requires an unshakeable and refined flow. Whether you are planning a neighborhood garden party or a high-end hospitality event at Studio Shodwe, this presentation provides the unshakeable tactical sequence for your entire program. Lead director Adeline Palmerston guides this unshakeable technical walkthrough to ensure every guest feels truly celebrated in style. Our program is designed to deliver a seamless tea experience: a warm arrival, an unhurried culinary service, and an intimate tribute that honors every mother present. |
 
 **Visual Note:** Event specification header with a clean, professional aesthetic and unshakeable structure. Maintain 40% white space for editability.
 
 ---
 
-### PAGE 3 - CONTEXT
-**Fase:** OPENING  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Pre-Event Setup Timeline  
-**Jumlah Kolom:** 2
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Tactical Setup:** 11:00 AM – 01:30 PM<br>**Team:** Liceria & Co. Decor Group<br>**Tasks:** Fine china settings and unshakeable floral installation. | **Final Quality Check:** 01:30 PM<br>**Lead:** Adeline Palmerston<br>**Verify:** Tea temp and unshakeable acoustic sound check. |
-
-**Visual Note:** Setup timeline sequence shown with a clean, professional dual-column design. Use "In-Use" text.
-
----
-
-### PAGE 4 - CORE CONTENT A
+### PAGE 3 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Sequential Hourly Tea Rundown  
@@ -63,10 +49,10 @@
 
 ---
 
-### PAGE 5 - CORE CONTENT B
+### PAGE 4 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman页:** Culinary Service Hub  
+**Judul Halaman:** Culinary Service Hub  
 **Jumlah Kolom:** 4
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -77,7 +63,7 @@
 
 ---
 
-### PAGE 6 - CORE CONTENT C
+### PAGE 5 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Sequence: The Tea Selection  
@@ -91,24 +77,10 @@
 
 ---
 
-### PAGE 7 - CORE CONTENT D
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Tactical Milestone Steps  
-**Jumlah Kolom:** 3
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Pouring Cue:**<br>The unshakeable timing for the first warm service. | **Scone Load:**<br>Ensuring a fresh, unhurried service at Studio Shodwe. | **Closing Cup:**<br>The final unshakeable toast to neighborhood mothers. |
-
-**Visual Note:** Milestone boxes with a sophisticated, professional design. Use "In-Use" text.
-
----
-
-### PAGE 8 - CORE CONTENT E
+### PAGE 6 - CORE CONTENT E
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Adeline’s Planning Wisdom  
+**Judul Halaman:** Adeline's Planning Wisdom  
 **Jumlah Kolom:** 1
 
 | Kolom 1 |
@@ -119,21 +91,7 @@
 
 ---
 
-### PAGE 9 - CORE CONTENT F
-**Fase:** CORE CONTENT  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Community Pillars  
-**Jumlah Kolom:** 4
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Trust**<br>Build. | **Joy**<br>Held. | **Aid**<br>Given. | **Path**<br>Found. |
-
-**Visual Note:** Section icons in a clean slate and gold palette for quick operational scanning.
-
----
-
-### PAGE 10 - ENGAGEMENT BREAK
+### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Tactical Logistics Capsules  
@@ -147,7 +105,7 @@
 
 ---
 
-### PAGE 11 - EMOTIONAL PEAK
+### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** To The Heart Of Every Gathering  
@@ -161,7 +119,7 @@
 
 ---
 
-### PAGE 12 - CLOSING
+### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Sincere Community Thanks  
@@ -173,18 +131,7 @@
 
 ---
 
-### PAGE 13 - CLOSING FINAL  
-**Fase:** CLOSE  
-**Tipe Halaman:** Emotional/Reflective  
-| Kolom 1 |
-|---------|
-| For a detailed visual guide of Mother's Day tea party programs and hospitality planning infographics, please visit our digital archive at www.reallygreatsite.com. Thank you for your unshakeable support! |
-
-**Visual Note:** Final professional signature with a clean-pastel finish.
-
----
-
-### PAGE 14 - BACK COVER
+### PAGE 10 - BACK COVER
 **Layout:** Back cover  
 **Visual Note:** Hospitality branding with a minimalist sage and slate finish.
 
