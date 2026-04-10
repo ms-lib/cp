@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| Motherhood in our community extends far beyond individual homes. It is the mother who organizes the Studio Shodwe flower garden, the mother who leads our local literacy guild, and the mother who ensures no neighbor feels alone. By nurturing their own families, they simultaneously weave the very fabric of our shared community life. |
+| Motherhood in our community extends far beyond individual homes. It is the mother who organizes the Liceria & Co. flower garden, the mother who leads our local literacy guild, and the mother who ensures no neighbor feels alone. By nurturing their own families, they simultaneously weave the very fabric of our shared community life. |
 
 **Visual Note:** Interconnected community thread imagery with a warm-pastel finish.
 
