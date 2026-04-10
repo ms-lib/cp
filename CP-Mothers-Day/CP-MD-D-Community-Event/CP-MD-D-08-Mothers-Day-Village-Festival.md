@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Event Lead:**<br>Adeline Palmerston, whose unshakeable energy has made the Liceria & Co. parade a local favorite. | **The Heritage Guide:**<br>Studio Shodwe's veteran resident, whose family has led the Village Festival for three generations. |
+| **The Event Lead:**<br>Adeline Palmerston, whose unshakeable energy has made the Liceria & Co. parade a local favorite. | **The Heritage Guide:**<br>Sacha Dubois, our veteran resident, whose family has led the Village Festival for three generations. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and festive accents. Use "In-Use" text.
 
@@ -139,3 +139,22 @@
 - Mothers Day Village Festival
 - Studio Shodwe Neighborhood Affairs
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Festive, joyful, and community-centric.
+- **Color Palette:** Sunny peach, sage green, antique cream, and soft gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Sacha Dubois (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name — used as venue/place reference only)
+- www.reallygreatsite.com (Standard Website)

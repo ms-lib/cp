@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Leader:**<br>Adeline Palmerston, whose unshakeable vision for Liceria & Co. has unified our local family health projects. | **The Veteran Guard:**<br>Studio Shodwe's veteran mother, who has served as our neighborhood peace guardian for thirty years. |
+| **The New Leader:**<br>Adeline Palmerston, whose unshakeable vision for Liceria & Co. has unified our local family health projects. | **The Veteran Guard:**<br>Lorna Alvarado, our veteran neighborhood mother, who has served as our neighborhood peace guardian for thirty years. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and slate accents. Use "In-Use" text.
 
@@ -139,3 +139,22 @@
 - Strong Mothers, Strong Community
 - Studio Shodwe Neighborhood Affairs
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Powerful, warm, and community-centric.
+- **Color Palette:** Slate gray, sage green, antique cream, and soft gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Lorna Alvarado (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name — used as venue/place reference only)
+- www.reallygreatsite.com (Standard Website)

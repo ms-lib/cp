@@ -99,7 +99,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Adeline Palmerston:**<br>How she transformed the "Garden Park" into a safe village play area for every local toddler. | **Morgan Maxwell:**<br>The legacy of a neighborhood mother who has tutored three generations of local students. |
+| **Adeline Palmerston:**<br>How she transformed the "Garden Park" into a safe village play area for every local toddler. | **Cahaya Dewi:**<br>The legacy of a neighborhood mother who has tutored three generations of local students. |
 
 **Visual Note:** Elegant story cards with a "heart-interest" testimonial design. Use "In-Use" text.
 
@@ -154,6 +154,6 @@
 
 ### Customization Points:
 - Adeline Palmerston (Standardized Name)
+- Cahaya Dewi (Standardized Name)
 - Liceria & Co. (Generic Business Name)
-- Studio Shodwe (Generic Business Name)
 - www.reallygreatsite.com (Standard Website)

@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Community Vanguard:**<br>Adeline Palmerston, for her unshakeable leadership in the Liceria & Co. local safety initiative. | **Heart of the Village:**<br>Studio Shodwe's veteran mother, for forty years of mentorship to neighborhood families. |
+| **Community Vanguard:**<br>Adeline Palmerston, for her unshakeable leadership in the Liceria & Co. local safety initiative. | **Heart of the Village:**<br>Chiaki Sato, our veteran neighborhood mother, for forty years of mentorship to neighborhood families. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and gold accents. Use "In-Use" text.
 
@@ -139,3 +139,22 @@
 - Community Awards & Recognition
 - Liceria & Co. Neighborhood Affairs
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Celebratory, warm, and community-centric.
+- **Color Palette:** Antique gold, sage green, soft ivory, and warm peach.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Chiaki Sato (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name — used as venue/place reference only)
+- www.reallygreatsite.com (Standard Website)

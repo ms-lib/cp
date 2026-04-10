@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Resident:**<br>Adeline Palmerston, who has quickly become a pillar of support for our neighborhood playgroup. | **The Corner Icon:**<br>Studio Shodwe's veteran neighbor, whose front porch is a sanctuary for every local family. |
+| **The New Resident:**<br>Adeline Palmerston, who has quickly become a pillar of support for our neighborhood playgroup. | **The Corner Icon:**<br>Lorna Alvarado, our veteran neighbor, whose front porch is a sanctuary for every local family. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and soft pastel accents. Use "In-Use" text.
 
@@ -139,3 +139,22 @@
 - Mothers Day Neighborhood Gathering
 - Studio Shodwe Commons
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Cheerful, warm, and community-centric.
+- **Color Palette:** Warm peach, sage green, antique cream, and soft gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Lorna Alvarado (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name — used as venue/place reference only)
+- www.reallygreatsite.com (Standard Website)

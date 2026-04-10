@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Architect:**<br>Adeline Palmerston, whose tireless work at the Liceria & Co. community center has unified our local families. | **The Legacy Builder:**<br>Studio Shodwe's veteran mother, who has served as our neighborhood coordinator for thirty years. |
+| **The New Architect:**<br>Adeline Palmerston, whose tireless work at the Liceria & Co. community center has unified our local families. | **The Legacy Builder:**<br>Rosa Maria Aguado, our veteran neighborhood mother, who has served as our neighborhood coordinator for thirty years. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and soft pastel accents. Use "In-Use" text.
 
@@ -139,3 +139,22 @@
 - Celebrating Our Community Builders
 - Studio Shodwe Neighborhood Affairs
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Heartfelt, warm, and community-centric.
+- **Color Palette:** Warm peach, sage green, antique cream, and soft gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Rosa Maria Aguado (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name — used as venue/place reference only)
+- www.reallygreatsite.com (Standard Website)

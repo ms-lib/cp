@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Generation:**<br>Adeline Palmerston, whose initiative at Liceria & Co. has created a sanctuary for young families. | **The Wise Legacy:**<br>Studio Shodwe's veteran mothers, who have guided our community for over four decades. |
+| **The New Generation:**<br>Adeline Palmerston, whose initiative at Liceria & Co. has created a sanctuary for young families. | **The Wise Legacy:**<br>Hae-won Jeon, our veteran neighborhood mother, who has guided our community for over four decades. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and soft pastel accents. Use "In-Use" text.
 
@@ -99,7 +99,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **The Storyteller:**<br>Adeline P. on neighborly love. | **The Mentor:**<br>Studio Shodwe on shared wisdom. | **The Helper:**<br>Liceria & Co. on daily aid. |
+| **The Storyteller:**<br>Adeline P. on neighborly love. | **The Mentor:**<br>Kimberly Nguyen on shared wisdom. | **The Helper:**<br>Liceria & Co. on daily aid. |
 
 **Visual Note:** Story-card layout with a "heart-interest" design. Use "In-Use" text.
 
@@ -154,6 +154,8 @@
 
 ### Customization Points:
 - Adeline Palmerston (Standardized Name)
+- Hae-won Jeon (Standardized Name)
+- Kimberly Nguyen (Standardized Name)
 - Liceria & Co. (Generic Business Name)
-- Studio Shodwe (Generic Business Name)
+- Studio Shodwe (Generic Business Name — used as venue/place reference only)
 - www.reallygreatsite.com (Standard Website)

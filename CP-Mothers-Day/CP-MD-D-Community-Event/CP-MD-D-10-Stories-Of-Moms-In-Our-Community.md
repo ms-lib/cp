@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Story:**<br>Adeline Palmerston, on finding an unshakeable community network at the Liceria & Co. playgroup. | **The Wise Legend:**<br>Studio Shodwe's veteran mother, on forty years of neighborhood stories and shared wisdom. |
+| **The New Story:**<br>Adeline Palmerston, on finding an unshakeable community network at the Liceria & Co. playgroup. | **The Wise Legend:**<br>Kimberly Nguyen, our veteran neighborhood mother, on forty years of neighborhood stories and shared wisdom. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and soft pastel accents. Use "In-Use" text.
 
@@ -139,3 +139,22 @@
 - Stories Of Our Community Moms
 - Studio Shodwe Neighborhood Affairs
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Narrative, respectful, and community-centric.
+- **Color Palette:** Antique cream, sage green, warm peach, and soft gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Kimberly Nguyen (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name — used as venue/place reference only)
+- www.reallygreatsite.com (Standard Website)

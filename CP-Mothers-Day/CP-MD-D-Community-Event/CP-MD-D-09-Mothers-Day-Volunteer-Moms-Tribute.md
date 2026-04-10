@@ -85,7 +85,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The New Vanguard:**<br>Adeline Palmerston, for her unshakeable work in establishing the Liceria & Co. neighbor-to-neighbor meal program. | **The Wise Legacy:**<br>Studio Shodwe's veteran resident, for forty years of volunteer leadership in our neighborhood youth guild. |
+| **The New Vanguard:**<br>Adeline Palmerston, for her unshakeable work in establishing the Liceria & Co. neighbor-to-neighbor meal program. | **The Wise Legacy:**<br>Estelle Darcy, our veteran resident, for forty years of volunteer leadership in our neighborhood youth guild. |
 
 **Visual Note:** Duo-profile layout using elegant serif typography and antique cream accents. Use "In-Use" text.
 
@@ -139,3 +139,22 @@
 - Tribute To Volunteer Moms
 - Studio Shodwe Neighborhood Affairs
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Respectful, grateful, and community-centric.
+- **Color Palette:** Antique cream, sage green, warm peach, and soft gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Estelle Darcy (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name — used as venue/place reference only)
+- www.reallygreatsite.com (Standard Website)
