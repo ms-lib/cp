@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| Any history of Mother's Day at Liceria & Co. Commons must begin with Ann Reeves Jarvis. She was an unshakeable activist who organized "Mothers' Day Work Clubs" to combat public health crises. Her daughter Anna spent her unshakeable life honoring her, proving that a mother's service at Studio Shodwe can inspire a global movement that lasts for over a century through the power of one daughter's devotion. |
+| Any history of Mother's Day at Liceria & Co. Academy must begin with Ann Reeves Jarvis. She was an unshakeable activist who organized "Mothers' Day Work Clubs" to combat public health crises. Her daughter Anna spent her unshakeable life honoring her, proving that a mother's service at Studio Shodwe can inspire a global movement that lasts for over a century through the power of one daughter's devotion. |
 
 **Visual Note:** Historical context theme with a dignified, high-impact serif design in ivory and gold. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable reason history moves forward. From the mothers of scientists to the mothers of neighborhood leaders at Liceria & Co. Commons, your impact is the unshakeable engine of every human progress. Today, we stand as one global neighborhood family to say: Your work is historical, your love is eternal, and your heart is our home. |
+| You are the unshakeable reason history moves forward. From the mothers of scientists to the mothers of neighborhood leaders at Liceria & Co. Academy, your impact is the unshakeable engine of every human progress. Today, we stand as one global neighborhood family to say: Your work is historical, your love is eternal, and your heart is our home. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and historical accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every history-making mother at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and family heart is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the incredible legacies we've honored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
+| To every history-making mother at Studio Shodwe: Thank you. Your dual-role of head of household and family heart is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the incredible legacies we've honored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-academic finish. Use "In-Use" text.
 
@@ -139,3 +139,20 @@
 - Famous Mothers In History
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Biographical, scholarly, and tribute-focused.
+- **Color Palette:** Deep burgundy, antique cream, and metallic gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name)
+- www.reallygreatsite.com (Standard Website)

@@ -139,3 +139,20 @@
 - Who Is Anna Jarvis?
 - Studio Shodwe History Center • 2024
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Biographical, narrative, and historically reflective.
+- **Color Palette:** Deep burgundy, antique cream, and metallic gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name)
+- www.reallygreatsite.com (Standard Website)

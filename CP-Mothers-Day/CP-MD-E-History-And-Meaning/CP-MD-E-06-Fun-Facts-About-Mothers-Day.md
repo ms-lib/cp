@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| Beyond the stats and the unshakeable facts, the most surprising thing about Mother's Day at Liceria & Co. Commons is its enduring power. Despite centuries of change, the unshakeable desire to say "thank you" remains the world's most universal trait. You are the unshakeable reason these facts exist, and your love is the most historically significant fact of all. |
+| Beyond the stats and the unshakeable facts, the most surprising thing about Mother's Day at Liceria & Co. Academy is its enduring power. Despite centuries of change, the unshakeable desire to say "thank you" remains the world's most universal trait. You are the unshakeable reason these facts exist, and your love is the most historically significant fact of all. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and trivia accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Trivia Thanks  
 | Kolom 1 |
 |---------|
-| To every fact-finder and mother at Studio Shodwe Gardens: Thank you. Your role as head of household and history-maker is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the history of this great day. Happy Mother's Day from everyone at Liceria & Co. Academy! |
+| To every fact-finder and mother at Studio Shodwe: Thank you. Your role as head of household and history-maker is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the history of this great day. Happy Mother's Day from everyone at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-academic finish. Use "In-Use" text.
 
@@ -139,3 +139,20 @@
 - Fun Facts About Mother's Day
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Engaging, informative, and trivia-focused.
+- **Color Palette:** Deep burgundy, antique cream, and metallic gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name)
+- www.reallygreatsite.com (Standard Website)

@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| In North America, the unshakeable tradition of Mother's Day at Liceria & Co. Commons is often marked by the second Sunday in May. Families celebrate with brunch, handmade cards, and tokens of appreciation that reflect a century of established custom. In Mexico, the celebration on May 10 is even more unshakeable, often beginning with "Las Mañanitas" serenades to honor mothers early in the day. |
+| In North America, the unshakeable tradition of Mother's Day at Liceria & Co. Academy is often marked by the second Sunday in May. Families celebrate with brunch, handmade cards, and tokens of appreciation that reflect a century of established custom. In Mexico, the celebration on May 10 is even more unshakeable, often beginning with "Las Mañanitas" serenades to honor mothers early in the day. |
 
 **Visual Note:** High-impact community imagery with an elegant, warm-pastel finish.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable foundation of families everywhere. From the streets of France to the villages of Nepal, every mother at Liceria & Co. Commons represents the quiet, world-changing leadership we all celebrate. Today, we stand as one global neighborhood family to say: Your impact is seen, your love is felt, and your presence is a universal treasure. |
+| You are the unshakeable foundation of families everywhere. From the streets of France to the villages of Nepal, every mother at Liceria & Co. Academy represents the quiet, world-changing leadership we all celebrate. Today, we stand as one global neighborhood family to say: Your impact is seen, your love is felt, and your presence is a universal treasure. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and world accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every mother across the world and here at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and community leader is a masterpiece we all benefit from. Whether you celebrate today or later this year, may your day be as unshakeable as the love you give us all. Happy Mother's Day from the Academy! |
+| To every mother across the world and here at Studio Shodwe: Thank you. Your dual-role of head of household and community leader is a masterpiece we all benefit from. Whether you celebrate today or later this year, may your day be as unshakeable as the love you give us all. Happy Mother's Day from the Academy! |
 
 **Visual Note:** Unified community signature with a clean-pastel finish. Use "In-Use" text.
 
@@ -139,3 +139,20 @@
 - How The World Celebrates
 - Liceria & Co. Academy • 2024
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Informative, comparative, and global.
+- **Color Palette:** Deep burgundy, antique cream, and metallic gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name)
+- www.reallygreatsite.com (Standard Website)

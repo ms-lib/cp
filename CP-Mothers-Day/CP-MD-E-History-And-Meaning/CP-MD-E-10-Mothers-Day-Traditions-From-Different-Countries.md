@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| In Ethiopia, Mother's Day at Liceria & Co. Commons is often celebrated after the rainy season ends with the unshakeable Antrosht festival. For three days, families gather at Studio Shodwe to share a traditional hash. Mothers prepare the meat while children bring unshakeable quantities of garden-grown vegetables, creating a multi-generational celebration of maternal sacrifice and the unshakeable harvest of family love. |
+| In Ethiopia, Mother's Day at Liceria & Co. Academy is often celebrated after the rainy season ends with the unshakeable Antrosht festival. For three days, families gather at Studio Shodwe to share a traditional hash. Mothers prepare the meat while children bring unshakeable quantities of garden-grown vegetables, creating a multi-generational celebration of maternal sacrifice and the unshakeable harvest of family love. |
 
 **Visual Note:** Historical context theme with a dignified, high-impact serif design in ivory and gold. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable language that everyone understands. From the highest peaks to the busiest neighborhood plazas at Liceria & Co. Commons, every mother's unshakeable love is the most historically significant force we share. Today, we stand as one global community to say: Your impact is eternal, your heart is our legacy, and you are the engine of all our shared progress. |
+| You are the unshakeable language that everyone understands. From the highest peaks to the busiest neighborhood plazas at Liceria & Co. Academy, every mother's unshakeable love is the most historically significant force we share. Today, we stand as one global community to say: Your impact is eternal, your heart is our legacy, and you are the engine of all our shared progress. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and global accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every cultural guardian and mother at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and family leader is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the many global traditions we've honored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
+| To every cultural guardian and mother at Studio Shodwe: Thank you. Your dual-role of head of household and family leader is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the many global traditions we've honored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-academic finish. Use "In-Use" text.
 
@@ -139,3 +139,20 @@
 - Global Mother's Day Traditions
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Comparative, global, and culturally respectful.
+- **Color Palette:** Deep burgundy, antique cream, and metallic gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name)
+- www.reallygreatsite.com (Standard Website)

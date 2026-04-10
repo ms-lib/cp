@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| Motherhood requires a profound multifaceted sacrifice—physical, emotional, and social. Mother's Day at Liceria & Co. Commons serves to acknowledge these often-invisible daily contributions. At Studio Shodwe, we recognize that the holiday creates a dedicated space to validate exactly what mothers give forward in their unshakeable commitment to raising children and building families. |
+| Motherhood requires a profound multifaceted sacrifice—physical, emotional, and social. Mother's Day at Liceria & Co. Academy serves to acknowledge these often-invisible daily contributions. At Studio Shodwe, we recognize that the holiday creates a dedicated space to validate exactly what mothers give forward in their unshakeable commitment to raising children and building families. |
 
 **Visual Note:** Sacrifice recognition theme with a dignified, high-impact serif design in ivory and gold. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the bedrock. You are the unshakeable foundation. You are the heart of every story told at Liceria & Co. Commons. Beyond the gifts and the dates, the true meaning of today is found in your presence. We stand together as one global family to say: Your love is our unshakeable guide, and your heart is where our community begins. |
+| You are the bedrock. You are the unshakeable foundation. You are the heart of every story told at Liceria & Co. Academy. Beyond the gifts and the dates, the true meaning of today is found in your presence. We stand together as one global family to say: Your love is our unshakeable guide, and your heart is where our community begins. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and floral accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every individual mother at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and family heart is a masterpiece we all benefit from. May your day be as unshakeable and as full of grace as the love you give us all year round. Happy Mother's Day from your friends at Liceria & Co. Academy! |
+| To every individual mother at Studio Shodwe: Thank you. Your dual-role of head of household and family heart is a masterpiece we all benefit from. May your day be as unshakeable and as full of grace as the love you give us all year round. Happy Mother's Day from your friends at Liceria & Co. Academy! |
 
 **Visual Note:** Unified celebration signature with a clean-academic finish. Use "In-Use" text.
 
@@ -139,3 +139,21 @@
 - The True Meaning Of Mother's Day
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Philosophical, meaningful, and educational.
+- **Color Palette:** Deep burgundy, antique cream, and metallic gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name)
+- www.reallygreatsite.com (Standard Website)

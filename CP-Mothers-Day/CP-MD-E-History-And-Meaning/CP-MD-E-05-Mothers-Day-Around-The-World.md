@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| At Liceria & Co. Commons, we recognize that the way we honor mothers is a direct reflection of our unshakeable societal values. In many cultures, motherhood is not just a biological state, but a vital community role characterized by unshakeable sacrifice and quiet leadership. Whether through annual festivals at Studio Shodwe or daily gestures of respect, every society finds its own way to validate the heart of its families. |
+| At Liceria & Co. Academy, we recognize that the way we honor mothers is a direct reflection of our unshakeable societal values. In many cultures, motherhood is not just a biological state, but a vital community role characterized by unshakeable sacrifice and quiet leadership. Whether through annual festivals at Studio Shodwe or daily gestures of respect, every society finds its own way to validate the heart of its families. |
 
 **Visual Note:** Interconnected community imagery with an elegant, warm-pastel finish.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the unshakeable heart of civilizations everywhere. From the ancient temples to the modern plazas of Liceria & Co. Commons, every mother represents the quiet, world-changing leadership we all celebrate. Today, we stand as one global neighborhood family to say: Your impact is eternal, your love is felt, and your presence is a universal treasure. |
+| You are the unshakeable heart of civilizations everywhere. From the ancient temples to the modern plazas of Liceria & Co. Academy, every mother represents the quiet, world-changing leadership we all celebrate. Today, we stand as one global neighborhood family to say: Your impact is eternal, your love is felt, and your presence is a universal treasure. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and world accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every cultural guardian and mother at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and community leader is a masterpiece we all celebrate. May your day be as vibrant and as full of unshakeable grace as the love you give us all year round. Happy Mother's Day from the Academy! |
+| To every cultural guardian and mother at Studio Shodwe: Thank you. Your dual-role of head of household and community leader is a masterpiece we all celebrate. May your day be as vibrant and as full of unshakeable grace as the love you give us all year round. Happy Mother's Day from the Academy! |
 
 **Visual Note:** Unified celebration signature with a clean-academic finish. Use "In-Use" text.
 
@@ -139,3 +139,21 @@
 - Mother's Day Around The World
 - Liceria & Co. Academy • 2024
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Scholarly, cross-cultural, and reflective.
+- **Color Palette:** Antique gold, parchment, and deep burgundy.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name)
+- www.reallygreatsite.com (Standard Website)

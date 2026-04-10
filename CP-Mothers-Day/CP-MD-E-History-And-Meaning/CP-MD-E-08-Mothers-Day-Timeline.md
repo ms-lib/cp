@@ -57,7 +57,7 @@
 
 | Kolom 1 |
 |---------|
-| In the early 1900s, Mother's Day at Liceria & Co. Commons was purely a day of quiet church services and unshakeable handwritten letters. Following Anna Jarvis's relentless campaign, President Wilson's 1914 proclamation made it an unshakeable part of the American calendar. These first decades at Studio Shodwe were defined by a sacred desire to honor the individual maternal heart before the industry emerged. |
+| In the early 1900s, Mother's Day at Liceria & Co. Academy was purely a day of quiet church services and unshakeable handwritten letters. Following Anna Jarvis's relentless campaign, President Wilson's 1914 proclamation made it an unshakeable part of the American calendar. These first decades at Studio Shodwe were defined by a sacred desire to honor the individual maternal heart before the industry emerged. |
 
 **Visual Note:** Historical context theme with a dignified, high-impact serif design in ivory and gold. Use "In-Use" text.
 
@@ -113,7 +113,7 @@
 
 | Kolom 1 |
 |---------|
-| You are the thread that connects this entire century. Through wars, economic shifts, and technological leaps at Liceria & Co. Commons, your unshakeable role has been the one constant we all celebrate. Today, we stand as one neighborhood family to say: Your impact is historical, your love is timeless, and you are the engine of all our shared progress. |
+| You are the thread that connects this entire century. Through wars, economic shifts, and technological leaps at Liceria & Co. Academy, your unshakeable role has been the one constant we all celebrate. Today, we stand as one neighborhood family to say: Your impact is historical, your love is timeless, and you are the engine of all our shared progress. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and timeline accents.
 
@@ -125,7 +125,7 @@
 **Judul Halaman:** Our Sincere Community Thanks  
 | Kolom 1 |
 |---------|
-| To every history-maker and mother at Studio Shodwe Gardens: Thank you. Your dual-role of head of household and family heart is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the century of honor we've explored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
+| To every history-maker and mother at Studio Shodwe: Thank you. Your dual-role of head of household and family heart is a masterpiece we all celebrate. May your day be as unshakeable and as full of joy as the century of honor we've explored today. Happy Mother's Day from your friends at Liceria & Co. Academy! |
 
 **Visual Note:** United celebration signature with a clean-academic finish. Use "In-Use" text.
 
@@ -139,3 +139,21 @@
 - Mother's Day Timeline
 - Studio Shodwe Academy • 2024
 - www.reallygreatsite.com
+
+---
+
+## NOTES FOR DESIGNER
+
+### Design Philosophy:
+- **Tone:** Historical, chronological, and authoritative.
+- **Color Palette:** Deep burgundy, antique cream, and metallic gold.
+
+### Technical Constraints (Canva Safety):
+- **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects for better print quality.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+
+### Customization Points:
+- Adeline Palmerston (Standardized Name)
+- Liceria & Co. (Generic Business Name)
+- Studio Shodwe (Generic Business Name)
+- www.reallygreatsite.com (Standard Website)
