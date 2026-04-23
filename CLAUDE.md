@@ -48,6 +48,8 @@ Selalu jadikan 3 file berikut sebagai **pedoman utama** sebelum membuat atau men
 
 ### Judul & Familiarity
 - Judul harus **familiar dan mudah dimengerti** oleh audiens umum — hindari istilah teknikal/niche yang hanya dikenal kalangan spesialis
+- **Anti-circular rule:** Subject dan purpose dalam judul harus BERBEDA dan saling melengkapi — bukan tautologi. Contoh buruk: "How *Effective* Leaders Run A *Successful* Summit" (effective ≈ successful = konsep yang sama diulang). Contoh baik: "How A Leadership Summit *Brings Teams Together*" (subject=summit, purpose=team cohesion — dua konsep berbeda)
+- Formula yang aman: "How [subject] [achieves distinct outcome]" atau "[Subject] For [clearly different purpose]"
 - **Hindari:** acronym teknikal (TCFD, TNFD, GRI, ISO), kata terlalu formal (Disclosure, Taskforce, Materiality)
 - **Gunakan:** kata yang sering muncul di berita, media umum, atau percakapan sehari-hari di dunia bisnis
 - Test sederhana: apakah orang non-spesialis bisa langsung paham judul ini tanpa googling?

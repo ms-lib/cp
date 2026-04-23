@@ -2,7 +2,7 @@
 
 **Theme:** Leadership  
 **Total Cluster:** 9 (A–I)  
-**Total Files:** 81 (9 cluster × 9 judul)
+**Total Files:** 82 (Cluster A: 10 judul; Clusters B–I: 9 judul each)
 
 ---
 
@@ -15,21 +15,22 @@
 |---|---|
 | A-01 | Annual Leadership Conference Presentation ✅ |
 | A-02 | Leadership Conference Event Program & Agenda ✅ |
-| A-03 | Leadership Conference Speaker Introduction Deck ✅ |
+| A-03 | Leadership Conference Participant Guide ✅ |
 
 ### Summit
 | # | Judul |
 |---|---|
-| A-04 | Executive Leadership Summit Presentation ✅ |
-| A-05 | Leadership Summit Opening & Closing Slides ✅ |
-| A-06 | Global Leadership Summit Agenda ✅ |
+| A-04 | How Executive Leaders Drive Organizational Strategy ✅ |
+| A-05 | How A Leadership Summit Brings Teams Together ✅ |
+| A-06 | Leadership Summit For Organizational Alignment ✅ |
+| A-10 | Leadership Summit For Better Team Performance ✅ |
 
 ### Workshop
 | # | Judul |
 |---|---|
 | A-07 | Leadership Workshop Program ✅ |
 | A-08 | Leadership Skills Workshop Agenda ✅ |
-| A-09 | Leadership Team Workshop Presentation ✅ |
+| A-09 | How Great Leadership Teams Work Together ✅ |
 
 ---
 
