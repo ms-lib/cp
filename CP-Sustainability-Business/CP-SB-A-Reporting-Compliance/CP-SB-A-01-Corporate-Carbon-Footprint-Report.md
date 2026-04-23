@@ -2,7 +2,7 @@
 ## Corporate Carbon Footprint Report Presentation
 
 **Sub-Topic:** A - Reporting & Compliance  
-**Main Keywords:** carbon footprint, ESG report, carbon footprint presentation, sustainability report slides, corporate carbon report, ESG disclosure presentation, climate report slides, green business  
+**Main Keywords:** carbon footprint, sustainability report, carbon footprint presentation, sustainability report slides, corporate carbon report, carbon disclosure presentation, climate report slides, green business  
 **Audience:** Investors, C-Suite executives  
 **Style:** Professional, Corporate, Minimalist, Clean  
 **Tone:** Data-driven, authoritative, strategic
@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: Corporate Carbon Footprint Report
-- Subtitle: A Strategic ESG Disclosure Framework for Investor-Ready Sustainability Reporting
+- Subtitle: A Strategic Sustainability Reporting Framework for Investor-Ready Carbon Disclosure
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Standard:** GHG Protocol — Scope 1, 2 & 3<br>**The Disclosure Lead:** Adeline Palmerston, Head of ESG & Sustainability<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To provide investors and C-Suite stakeholders with a transparent, data-backed overview of Liceria & Co.'s carbon footprint — and the strategic roadmap our team at Studio Shodwe is executing to reduce emissions, manage climate risk, and deliver long-term value. |
+| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Standard:** Carbon emissions tracking standards — operational, energy, and supply chain<br>**The Disclosure Lead:** Adeline Palmerston, Head of Sustainability & Reporting<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To provide investors and C-Suite stakeholders with a transparent, data-backed overview of Liceria & Co.'s carbon footprint — and the strategic roadmap our team at Studio Shodwe is executing to reduce emissions, manage climate risk, and deliver long-term value. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 
@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Measure:**<br>Accurate carbon accounting across all operational scopes. | **Disclose:**<br>Transparent reporting aligned with global ESG standards. | **Commit:**<br>Science-based targets and verified reduction milestones. |
+| **Measure:**<br>Accurate carbon accounting across all operational scopes. | **Disclose:**<br>Transparent reporting aligned with global sustainability standards. | **Commit:**<br>Science-based targets and verified reduction milestones. |
 
 **Visual Note:** Three bold icon pillars in sage green and slate. Clean, data-ready design.
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The ESG Lead:**<br>Adeline Palmerston, whose carbon reduction roadmap at Liceria & Co. has set a new benchmark for industry-wide transparency and investor confidence. | **The Financial Voice:**<br>Drew Feig, whose integration of carbon risk into Liceria & Co.'s financial planning has strengthened our long-term investor proposition. |
+| **The Sustainability Lead:**<br>Adeline Palmerston, whose carbon reduction roadmap at Liceria & Co. has set a new benchmark for industry-wide transparency and investor confidence. | **The Financial Voice:**<br>Drew Feig, whose integration of carbon risk into Liceria & Co.'s financial planning has strengthened our long-term investor proposition. |
 
 **Visual Note:** Duo-profile layout using professional serif typography and slate accents. Use "In-Use" text.
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **The Analyst:**<br>Jamie C. on portfolio risk. | **The Partner:**<br>Olivia W. on ESG alignment. | **The Advisor:**<br>Alfredo T. on reporting standards. |
+| **The Analyst:**<br>Jamie C. on portfolio risk. | **The Partner:**<br>Olivia W. on sustainability standards. | **The Advisor:**<br>Alfredo T. on reporting standards. |
 
 **Visual Note:** Engagement card layout with a professional, data-forward design. Use "In-Use" text.
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| As Liceria & Co. progresses toward our 2040 net zero milestone, our commitment to transparent carbon disclosure at Studio Shodwe remains unwavering. Every reduction target we set is backed by science, every milestone we report is independently verified, and every decision we make is aligned with long-term investor value. | **What Comes Next:**<br>Full data, methodology, and third-party audit reports are available upon request. To connect with our ESG team, contact Adeline Palmerston at Liceria & Co. |
+| As Liceria & Co. progresses toward our 2040 net zero milestone, our commitment to transparent carbon disclosure at Studio Shodwe remains unwavering. Every reduction target we set is backed by science, every milestone we report is independently verified, and every decision we make is aligned with long-term investor value. | **What Comes Next:**<br>Full data, methodology, and third-party audit reports are available upon request. To connect with our sustainability team, contact Adeline Palmerston at Liceria & Co. |
 
 **Visual Note:** Split closing layout — left for gratitude, right for actionable next steps. Clean sage and slate finish. Use "In-Use" text.
 
@@ -136,7 +136,7 @@
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Corporate ESG branding with a minimalist sage and slate finish.
+**Visual Note:** Corporate sustainability branding with a minimalist sage and slate finish.
 
 **Text:**
 - Corporate Carbon Footprint Report

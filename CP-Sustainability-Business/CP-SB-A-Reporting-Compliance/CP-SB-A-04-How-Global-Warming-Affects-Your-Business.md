@@ -136,7 +136,7 @@
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Corporate ESG branding with a minimalist slate and sage finish.
+**Visual Note:** Corporate sustainability branding with a minimalist slate and sage finish.
 
 **Text:**
 - How Global Warming Affects Your Business

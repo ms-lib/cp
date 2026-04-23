@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Standard:** ISO 14001 — Environmental Management & Air Quality Compliance<br>**The Disclosure Lead:** Adeline Palmerston, Director of Environmental Compliance<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To provide investors and C-Suite stakeholders with a fully transparent account of Liceria & Co.'s air quality performance and emissions profile — and the concrete reduction initiatives our team at Studio Shodwe is implementing to protect communities, meet regulatory standards, and deliver responsible environmental governance. |
+| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Disclosure Lead:** Adeline Palmerston, Director of Environmental Compliance<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To provide investors and C-Suite stakeholders with a fully transparent account of Liceria & Co.'s air quality performance and emissions profile — and the concrete reduction initiatives our team at Studio Shodwe is implementing to protect communities, meet regulatory standards, and deliver responsible environmental governance. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **The Analyst:**<br>Jamie C. on regulatory risk. | **The Partner:**<br>Olivia W. on ESG standards. | **The Advisor:**<br>Alfredo T. on emissions data. |
+| **The Analyst:**<br>Jamie C. on regulatory risk. | **The Partner:**<br>Olivia W. on sustainability standards. | **The Advisor:**<br>Alfredo T. on emissions data. |
 
 **Visual Note:** Engagement card layout with a professional, data-forward design. Use "In-Use" text.
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| As Liceria & Co. pursues our zero violation milestone, our commitment to transparent environmental disclosure at Studio Shodwe remains a core pillar of our ESG strategy. Every emissions data point we report is independently monitored, verified, and aligned with long-term investor value and regulatory excellence. | **What Comes Next:**<br>Full emissions data, compliance records, and third-party audit reports are available upon request. To connect with our Environmental Compliance team, contact Adeline Palmerston at Liceria & Co. |
+| As Liceria & Co. pursues our zero violation milestone, our commitment to transparent environmental disclosure at Studio Shodwe remains a core pillar of our sustainability strategy. Every emissions data point we report is independently monitored, verified, and aligned with long-term investor value and regulatory excellence. | **What Comes Next:**<br>Full emissions data, compliance records, and third-party audit reports are available upon request. To connect with our Environmental Compliance team, contact Adeline Palmerston at Liceria & Co. |
 
 **Visual Note:** Split closing layout — left for strategic commitment, right for actionable next steps. Clean sage and slate finish. Use "In-Use" text.
 
@@ -136,7 +136,7 @@
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Corporate ESG branding with a minimalist sage and slate finish.
+**Visual Note:** Corporate sustainability branding with a minimalist sage and slate finish.
 
 **Text:**
 - Corporate Air Quality & Emissions Report

@@ -136,7 +136,7 @@
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Corporate ESG branding with a minimalist sage and slate finish.
+**Visual Note:** Corporate sustainability branding with a minimalist sage and slate finish.
 
 **Text:**
 - Extreme Weather & Business Impact Report
