@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| Most of us spend our waking hours inside — at desks, in meeting rooms, in corridors. The air in those spaces directly affects how clearly we think and how well our bodies function. At Liceria & Co., we are committed to making our Studio Shodwe workplace a place where every breath supports health and performance. This guide shows you what affects indoor air quality — and what each of us can do. |
+| Most of us spend our waking hours inside — at desks, in meeting rooms, in corridors. The air we breathe directly affects how clearly we think and perform. At Liceria & Co., we are committed to making Studio Shodwe a place where every breath supports health and focus. |
 
 **Visual Note:** Fresh, airy imagery with clean, natural tones. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| Poor air quality is one of the most overlooked causes of low energy, poor concentration, and illness at work. At Liceria & Co., we have seen what clean air does — to the energy of our Studio Shodwe teams, to focus in long meetings, and to the wellbeing of everyone who spends their days with us. When we clean up our air, we clean up our performance. |
+| Poor air quality is among the most overlooked causes of low energy at work. At Liceria & Co., we have seen what clean air does — to the energy of our Studio Shodwe teams, to meeting focus, and to the wellbeing of everyone here. Better air means better performance. |
 
 **Visual Note:** Calm reflective design with clean minimal typography and a fresh green accent.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| We cannot always see air quality. But we can feel it — in the afternoon slump that lifts when a window opens, in the clarity of a well-ventilated room, in the comfort of a space that does not smell of chemicals. At Liceria & Co., clean air at Studio Shodwe is not a facility issue. It is a daily act of care for everyone who walks through our doors. When we take it seriously, our best work follows. |
+| We cannot always see air quality. But we feel it — in the slump that lifts when a window opens, in the clarity of a fresh room. At Liceria & Co., clean air at Studio Shodwe is a daily act of care that our best work depends on. |
 
 **Visual Note:** High-impact affirmation design with calm, natural typography and a soft green leaf accent.
 

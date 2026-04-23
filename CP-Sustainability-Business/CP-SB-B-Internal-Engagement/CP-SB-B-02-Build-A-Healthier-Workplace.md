@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| A healthy workplace does not happen by accident. It is built — decision by decision, by people who care about each other. At Liceria & Co., we believe that when our Studio Shodwe environment supports our physical and mental health, everything else improves: focus, energy, results, and relationships. This guide is an invitation to every team member to help build the workplace we all deserve. |
+| A healthy workplace is built — decision by decision, by people who care. At Liceria & Co., when our Studio Shodwe environment supports physical and mental health, everything improves: focus, energy, results, and relationships. This guide is an invitation to help build the workplace we all deserve. |
 
 **Visual Note:** Warm, inclusive team imagery. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| Too often, wellbeing at work is treated as something extra — a perk, a once-a-year initiative. At Liceria & Co., we see it differently. Your health — physical, mental, and emotional — is not separate from your work. It is the foundation of it. When our Studio Shodwe team feels supported, we show up with more energy and creativity. Building a healthier workplace is not a HR project. It is everyone's responsibility, and everyone's reward. |
+| Wellbeing is often treated as a perk. At Liceria & Co., we see it differently. Your health is not separate from your work — it is the foundation of it. When Studio Shodwe team members feel supported, we show up with more energy. That is everyone's responsibility and reward. |
 
 **Visual Note:** Warm reflective design with elegant serif typography and a soft green accent.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| The best work does not come from people who are exhausted or disconnected. It comes from people who feel good — who have energy, clarity, and the sense that someone has their back. At Liceria & Co., we are building that kind of place together. Not through grand gestures, but through the small, consistent acts of care that define a great team. Every check-in, every break, every honest conversation at Studio Shodwe adds up to a workplace worth showing up for. |
+| The best work comes from people who feel good and know someone has their back. At Liceria & Co., we build that kind of place through small, consistent acts of care. Every check-in and honest conversation at Studio Shodwe adds up to something great. |
 
 **Visual Note:** High-impact affirmation design with elegant serif typography and a warm pastel finish.
 

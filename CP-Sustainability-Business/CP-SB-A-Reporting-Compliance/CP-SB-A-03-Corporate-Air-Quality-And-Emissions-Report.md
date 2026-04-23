@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| At Liceria & Co., clean air is a business imperative. Poor air quality is tied to regulatory risk, community relations, and long-term operational viability. Investors want organizations that go beyond minimum standards. Our commitment to transparent air quality reporting at Studio Shodwe reflects our belief that environmental responsibility is the foundation of sustainable business performance. |
+| Clean air is a business imperative at Liceria & Co. Poor air quality creates regulatory risk and damages community relations. Investors want organizations that go beyond minimum standards. Our commitment to air quality reporting at Studio Shodwe reflects our belief that environmental responsibility drives long-term performance. |
 
 **Visual Note:** High-impact reflective design with clean serif typography in ivory and slate.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| Behind every emissions figure in this report is a commitment — made by the people of Liceria & Co. to operate with greater care. Clean air is not just a metric we report. It is a standard we uphold for every community near our operations, every employee at Studio Shodwe, and every future generation that inherits what we build today. Our path to zero violations is not a compliance target. It is a statement of who we are. |
+| Behind every emissions figure is a commitment made by the people of Liceria & Co. to operate with care. Clean air is a standard we uphold for every community near our operations and every employee at Studio Shodwe. Zero violations is our goal and our statement of intent. |
 
 **Visual Note:** High-impact affirmation design with clean minimalist typography and a subtle clean-air visual accent.
 

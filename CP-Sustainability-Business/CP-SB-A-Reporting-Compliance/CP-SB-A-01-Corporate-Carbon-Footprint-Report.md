@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| At Liceria & Co., voluntary reporting is no longer enough. Investors, regulators, and the market expect organizations to account for every ton of carbon across their value chain. Our commitment to transparent carbon disclosure at Studio Shodwe is not a compliance act — it is a declaration of strategic intent. Companies that measure their footprint today will lead tomorrow. |
+| Voluntary reporting is no longer enough. Investors and regulators expect organizations to account for every ton of carbon across their value chain. At Liceria & Co., transparent carbon disclosure at Studio Shodwe is a declaration of strategic intent. Companies that measure their footprint today will lead tomorrow. |
 
 **Visual Note:** High-impact reflective design with clean serif typography in ivory and slate.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| Behind every data point in this report is a decision — made by the people of Liceria & Co. to operate with greater care and accountability. Our carbon footprint is not just a number. It is the story of where we have been and the roadmap to where we are going. As we pursue net zero, we invite every investor and partner at Studio Shodwe to stand with us. We are not just managing risk — we are building the future. |
+| Behind every data point is a decision made by the people of Liceria & Co. to operate with care. Our carbon footprint is the story of where we have been and where we are going. As we pursue net zero, we invite partners at Studio Shodwe to join us. |
 
 **Visual Note:** High-impact affirmation design with clean minimalist typography and a subtle carbon-molecule accent.
 

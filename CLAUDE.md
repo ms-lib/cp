@@ -26,10 +26,7 @@ Selalu jadikan 3 file berikut sebagai **pedoman utama** sebelum membuat atau men
 - Aturan kolom: halaman pertama & terakhir selalu 1 kolom; tidak boleh 2 halaman 1-kolom berturut-turut di tengah
 
 ### Word Count untuk Halaman 1-Kolom
-Target kata untuk body paragraph (tidak termasuk label fields seperti "The Company:", "The Date:", dll):
-- **Page 2 (Opener):** ~35 kata
-- **Page 4 (Core Content A):** ~40 kata
-- **Page 8 (Emotional Peak):** ~50 kata
+Body paragraph di semua halaman 1-kolom (Pages 2, 4, 8) harus **30–49 kata** — tidak termasuk label fields seperti "The Company:", "The Date:", "Our Purpose:", dll.
 
 Prinsip: slide bukan artikel — teks pendek memberi ruang bagi designer dan memudahkan user untuk edit.
 

@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| At Liceria & Co., we treat employee wellbeing not as a benefit, but as a business strategy. The data from Studio Shodwe is clear: teams with higher wellbeing scores outperform on productivity, show lower absenteeism, and stay longer. For investors, that means lower costs, stronger output, and a more stable workforce. People who are well do better work. |
+| At Liceria & Co., we treat employee wellbeing as a core business strategy. Data from Studio Shodwe is clear: teams with higher wellbeing scores outperform on productivity, show lower absenteeism, and stay longer. For investors, that means lower costs, stronger output, and a more stable workforce. |
 
 **Visual Note:** High-impact reflective design with clean serif typography in ivory and slate.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| Every number in this report started with a person — someone at Liceria & Co. who chose to show up and bring their best each day. When we invested in that person's wellbeing at Studio Shodwe, the business grew. Not because we ran a program, but because we made a real commitment to the people who power everything we do. When people thrive, everything else follows. |
+| Every number in this report started with a person at Liceria & Co. who chose to give their best. When we invested in that person's wellbeing at Studio Shodwe, the business grew — not from a program, but from a real commitment to the people who power our work. |
 
 **Visual Note:** High-impact affirmation design with clean minimalist typography and a subtle human-growth visual accent.
 

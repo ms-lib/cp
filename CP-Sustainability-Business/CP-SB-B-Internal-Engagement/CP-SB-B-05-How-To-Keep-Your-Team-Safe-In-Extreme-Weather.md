@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| Extreme weather events — from intense storms to severe heatwaves — are becoming more frequent. The best thing we can do as a team is prepare before they happen. At Liceria & Co., keeping every person at Studio Shodwe safe is one of our highest responsibilities. This guide gives our team the knowledge and steps needed to stay safe, stay connected, and support each other when conditions get difficult. |
+| Extreme weather is becoming more frequent. The best thing we can do is prepare before it happens. At Liceria & Co., keeping every person at Studio Shodwe safe is a top priority. This guide gives our team steps to stay safe and support each other when conditions get difficult. |
 
 **Visual Note:** Clear, reassuring imagery with a professional tone. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| The teams that stay safest in a storm are never the lucky ones — they are the prepared ones. At Liceria & Co., investing in extreme weather readiness is not about expecting the worst. It is about showing every Studio Shodwe team member their safety comes first. When people know there is a plan, they act more clearly and recover faster. Preparedness is not a policy document. It is a statement: we value you enough to be ready. |
+| The teams that stay safest in a storm are the prepared ones. At Liceria & Co., investing in weather readiness shows Studio Shodwe team members their safety comes first. When people know there is a plan, they act clearly and recover faster. Preparedness says: we value you. |
 
 **Visual Note:** Calm, grounded reflective design with clean serif typography and a slate green accent.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| In moments of disruption, what people remember most is not the storm — it is how their team responded. At Liceria & Co., no one faces difficult moments alone. When extreme weather hits Studio Shodwe, our response is not panic — it is preparation, communication, and care. For the person who needs help commuting. For the colleague working alone at home. For anyone who needs reassurance. We look after each other. That is what makes us a team. |
+| In moments of disruption, people remember how their team responded. At Liceria & Co., no one faces it alone. When extreme weather hits Studio Shodwe, our response is preparation and care — for the person commuting, the colleague at home, anyone who needs support. We look after each other. |
 
 **Visual Note:** High-impact affirmation design with warm, grounded typography and a protective shield accent.
 
