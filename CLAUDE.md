@@ -45,6 +45,33 @@ Selalu jadikan 3 file berikut sebagai **pedoman utama** sebelum membuat atau men
 - **No Religion, Politics, Brand Names** (Instagram → "Social Media")
 - Gunakan placeholder instruksional: `[Type your message here]`
 
+### Judul & Familiarity
+- Judul harus **familiar dan mudah dimengerti** oleh audiens umum — hindari istilah teknikal/niche yang hanya dikenal kalangan spesialis
+- **Hindari:** acronym teknikal (TCFD, TNFD, GRI, ISO), kata terlalu formal (Disclosure, Taskforce, Materiality)
+- **Gunakan:** kata yang sering muncul di berita, media umum, atau percakapan sehari-hari di dunia bisnis
+- Test sederhana: apakah orang non-spesialis bisa langsung paham judul ini tanpa googling?
+- Jika sustainability theme-nya sendiri sudah niche, **ganti angle bisnis-nya** — bukan hanya judulnya. Contoh: "Understanding Nature's Force" → angle "Extreme Weather & Business Impact" (familiar di berita) bukan "Nature Risk & Resilience" (jargon industri)
+- Jika judul berubah signifikan, **seluruh konten harus ditulis ulang** menyesuaikan angle baru — bukan hanya update field judul
+
+### Main Keywords (SEO)
+- Wajib tambahkan `**Main Keywords:**` di baris kedua setiap file, tepat di bawah Sub-Topic
+- **Jangan gunakan kata "template"** dalam keywords
+- Format: **2–3 short-tail** (1–2 kata) + **4–5 long-tail** (3–4 kata), total 6–8 keywords
+- Short-tail: high volume, memorable (contoh: `carbon footprint`, `ESG report`)
+- Long-tail: spesifik, lower competition (contoh: `carbon footprint presentation`, `ESG disclosure presentation`)
+- Keywords harus relevan dengan tema, audience, dan business context file tersebut
+
+### Style Canva (Gunakan dari daftar resmi ini)
+Gunakan style dari daftar berikut — bisa lebih dari 1, pisahkan dengan koma:
+
+> Modern, Corporate, Purple, Minimalist, Professional, Bold, Illustrated, Fun, Clean, Colorful, Simple, Playful, Creative, Retro, Vintage, Aesthetic, Elegant, New, Organic, Floral, Gold, Grunge, Neon, Gradient, Black And White, 3D, Geometric, Digital, Illustrative, Abstract, Dark, Lines, Minimal, Tech, Infographic, Shapes, Illustration, Monochrome, Photo, Vibrant, Grid, Table, Animated, Classic, Cute, Pastel, Modular, Classy, Luxury, Basic, Blank, Feminine, Collage, Watercolor, Texture, Pattern, Shape, Natural, Cartoon, Arrow, Logo, Light, Plain, Line, Circle, Blob, Dots, Artistic, Happy, Frame, Fancy, Sketch, Optimized, Cool, Positive, Border, Round, Rustic, Fitness, Handwriting, Festive, Marble, Beautiful, Neat, Delicate, Boho, Dotted, Sparkle, Rainbow, Pixel, Funky, Glow, Polaroid, Script, Transparent, Promo, Rectangle, Psychedelic, Charcoal, Art Deco
+
+**Aturan pemilihan style:**
+- Wajib relevan dengan tone dan audience file
+- Gunakan 2–4 style per file untuk specificity yang baik
+- Jangan gunakan style yang kontradiktif (contoh: Minimalist + Grunge)
+- Tulis di field `**Style:**` menggunakan nama persis dari daftar di atas
+
 ### Standar Canva Review
 - Hindari tone akademis/kaku — gunakan inspiratif, celebratory, warm
 - Hindari diksi: Lesson Plan, Curriculum, Syllabus, Semester
@@ -60,13 +87,20 @@ CP/
 ├── FRAMEWORK-Canva-Guide.md       ← Standar platform Canva
 ├── FRAMEWORK-Metadata-Guide.md    ← Panduan title & keyword
 ├── CP-Mothers-Day.md              ← Master list 90 judul
-└── CP-Mothers-Day/
-    ├── CP-MD-A-Classroom-Activity-School-Project/   (15 files)
-    ├── CP-MD-B-Tribute-And-Appreciation/            (15 files)
-    ├── CP-MD-C-Company-Office-Celebration/          (15 files)
-    ├── CP-MD-D-Community-Event/                     (10 files, 10 pages each)
-    ├── CP-MD-E-History-And-Meaning/                 (10 files, 10 pages each)
-    └── CP-MD-F-Event-Program-And-Rundown/           (15 files, 10 pages each)
+├── CP-Mothers-Day/
+│   ├── CP-MD-A-Classroom-Activity-School-Project/   (15 files)
+│   ├── CP-MD-B-Tribute-And-Appreciation/            (15 files)
+│   ├── CP-MD-C-Company-Office-Celebration/          (15 files)
+│   ├── CP-MD-D-Community-Event/                     (10 files, 10 pages each)
+│   ├── CP-MD-E-History-And-Meaning/                 (10 files, 10 pages each)
+│   └── CP-MD-F-Event-Program-And-Rundown/           (15 files, 10 pages each)
+└── CP-Sustainability-Business/
+    ├── CP-SB-A-Reporting-Compliance/                (5 files, 10 pages each)
+    ├── CP-SB-B-Internal-Engagement/                 (5 files, 10 pages each)
+    ├── CP-SB-C-Risk-And-Strategy/                   (5 files, 10 pages each)
+    ├── CP-SB-D-Stakeholder-Communication/           (5 files, 10 pages each)
+    ├── CP-SB-E-Product-And-Service-Innovation/      (5 files, 10 pages each)
+    └── CP-SB-F-Marketing-And-Brand-Positioning/     (5 files, 10 pages each)
 ```
 
 ---
