@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| Extreme weather events — from intense storms and flooding to severe heatwaves — are becoming more frequent and more disruptive. As a team, the best thing we can do is be prepared before they happen. At Liceria & Co., keeping every person at Studio Shodwe safe during extreme weather is one of our highest responsibilities. This guide gives our entire team the knowledge and the steps needed to stay safe, stay connected, and support each other when conditions get difficult. |
+| Extreme weather events — from intense storms to severe heatwaves — are becoming more frequent. The best thing we can do as a team is prepare before they happen. At Liceria & Co., keeping every person at Studio Shodwe safe is one of our highest responsibilities. This guide gives our team the knowledge and steps needed to stay safe, stay connected, and support each other when conditions get difficult. |
 
 **Visual Note:** Clear, reassuring imagery with a professional tone. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| When a storm hits or a heatwave peaks, the teams that stay safest are never the ones who were lucky. They are the ones who were prepared. At Liceria & Co., investing in extreme weather preparedness is not about expecting the worst — it is about showing every member of our Studio Shodwe team that their safety comes first. When people know there is a plan, they feel calmer, act more clearly, and recover faster. Preparedness is not a policy document. It is a statement that says: we value you enough to be ready for you. |
+| The teams that stay safest in a storm are never the lucky ones — they are the prepared ones. At Liceria & Co., investing in extreme weather readiness is not about expecting the worst. It is about showing every Studio Shodwe team member their safety comes first. When people know there is a plan, they act more clearly and recover faster. Preparedness is not a policy document. It is a statement: we value you enough to be ready. |
 
 **Visual Note:** Calm, grounded reflective design with clean serif typography and a slate green accent.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| In moments of disruption, what people remember most is not the storm — it is how their team responded. At Liceria & Co., we have built a culture where no one faces difficult moments alone. When extreme weather hits Studio Shodwe, our response is not panic — it is preparation, communication, and care. For the person who needs help commuting. For the team member working alone at home. For the colleague who needs reassurance that everything is under control. We look after each other. That is what makes us a team. |
+| In moments of disruption, what people remember most is not the storm — it is how their team responded. At Liceria & Co., no one faces difficult moments alone. When extreme weather hits Studio Shodwe, our response is not panic — it is preparation, communication, and care. For the person who needs help commuting. For the colleague working alone at home. For anyone who needs reassurance. We look after each other. That is what makes us a team. |
 
 **Visual Note:** High-impact affirmation design with warm, grounded typography and a protective shield accent.
 

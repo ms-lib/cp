@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| Global warming is the biggest challenge of our time. And it can feel overwhelming. But here is what we know at Liceria & Co.: the solutions to global warming are built from millions of small actions taken by real people in real places — including our Studio Shodwe offices. You do not need to be a scientist or a policymaker to make a difference. You just need to be part of a team that decides to act. This guide shows you exactly how. |
+| Global warming is the biggest challenge of our time — and it can feel overwhelming. But here is what we know at Liceria & Co.: solutions are built from millions of small actions by real people in real places, including our Studio Shodwe offices. You do not need to be a scientist to make a difference. You just need to be part of a team that decides to act. |
 
 **Visual Note:** Bold, empowering team imagery. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| It is tempting to leave global warming to governments and corporations. But the data is clear: the fastest and most scalable solutions involve all of us — including the teams inside companies like Liceria & Co. Every action our Studio Shodwe team takes to reduce energy use, cut unnecessary travel, or choose lower-impact options is a direct contribution to slowing global warming. We are not too small to matter. Together, we are exactly the right size to make a difference. |
+| It is tempting to leave global warming to governments and corporations. But the data is clear: the fastest solutions involve all of us — including teams inside companies like Liceria & Co. Every action our Studio Shodwe team takes to reduce energy use, cut travel, or choose lower-impact options directly contributes to slowing warming. We are not too small to matter. Together, we are exactly the right size. |
 
 **Visual Note:** Bold reflective design with energetic typography and a deep green accent.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| Global warming did not happen overnight, and it will not be solved overnight. But it will be solved — by people who decided that their actions mattered. By teams who chose to act even when it felt small. By companies like Liceria & Co. who made the decision to face the truth and move forward. Every choice our Studio Shodwe team makes today is part of an answer the world urgently needs. We are not bystanders to a crisis. We are active participants in a solution. And that matters more than we know. |
+| Global warming will not be solved overnight. But it will be solved — by people who decided their actions mattered, by teams who chose to act even when it felt small, by companies like Liceria & Co. who faced the truth and moved forward. Every choice our Studio Shodwe team makes today is part of an answer the world needs. We are not bystanders. We are active participants in a solution. |
 
 **Visual Note:** High-impact affirmation design with bold, urgent typography and a strong green earth accent.
 

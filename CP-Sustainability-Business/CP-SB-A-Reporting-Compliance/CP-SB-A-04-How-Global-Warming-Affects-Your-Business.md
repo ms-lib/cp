@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Focus:** How Global Warming Creates Real Business Risk and Opportunity<br>**The Report Lead:** Adeline Palmerston, Head of Climate Strategy & Business Planning<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders a direct, honest picture of how global warming is already affecting Liceria & Co. — from rising operational costs at Studio Shodwe to shifts in supply chain reliability — and the strategic actions we are taking to stay ahead of the curve. |
+| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Focus:** How Global Warming Creates Real Business Risk and Opportunity<br>**The Report Lead:** Adeline Palmerston, Head of Climate Strategy & Business Planning<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders an honest picture of how global warming is already affecting Liceria & Co. — from rising costs at Studio Shodwe to supply chain shifts — and the actions we are taking to stay ahead. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| Global warming is not a future scenario for Liceria & Co. — it is a present reality. Higher cooling costs at Studio Shodwe, longer and more unpredictable weather disruptions, and growing pressure from regulators and investors are already shaping our decisions today. We are not reporting this to signal alarm. We are reporting it to demonstrate that we see it clearly, we take it seriously, and we have a plan. Businesses that face this reality directly are the ones that remain competitive. Those that do not will find themselves reacting to a world they were not prepared for. |
+| Global warming is not a future scenario for Liceria & Co. — it is a present reality. Higher cooling costs at Studio Shodwe, unpredictable weather disruptions, and growing pressure from regulators are already shaping our decisions. We report this not to signal alarm, but to demonstrate that we see it clearly and have a plan. Businesses that face this reality directly are the ones that stay competitive. |
 
 **Visual Note:** High-impact reflective design with clean serif typography in ivory and slate.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| Global warming is the defining business challenge of our generation. The question is no longer whether it will affect your company — it already has. The question is whether you are facing it with a plan or hoping it goes away. At Liceria & Co., we have chosen to face it directly. Every cost we track, every risk we disclose, and every strategy we execute at Studio Shodwe is a statement of intent: we are building a business for the world as it is, not as we wish it were. That is the standard that builds investor trust. |
+| Global warming is the defining business challenge of our generation. The question is no longer whether it will affect your company — it already has. The question is whether you are facing it with a plan. At Liceria & Co., we have chosen to face it head-on. Every cost we track and every risk we disclose at Studio Shodwe is a statement of intent: we are building a business for the world as it is. That is the standard that builds investor trust. |
 
 **Visual Note:** High-impact affirmation design with clean minimalist typography and a bold climate-strategy visual accent.
 

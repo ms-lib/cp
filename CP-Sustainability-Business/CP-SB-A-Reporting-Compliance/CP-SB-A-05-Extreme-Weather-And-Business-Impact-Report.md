@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Focus:** Extreme Weather Events & Operational Business Impact<br>**The Disclosure Lead:** Adeline Palmerston, Head of Operations & ESG<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To provide investors and C-Suite stakeholders with a clear, data-backed picture of how extreme weather events have affected Liceria & Co.'s operations — and the concrete steps our team at Studio Shodwe is taking to protect business continuity, safeguard assets, and maintain performance under pressure. |
+| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Focus:** Extreme Weather Events & Operational Business Impact<br>**The Disclosure Lead:** Adeline Palmerston, Head of Operations & Sustainability<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders a clear, data-backed picture of how extreme weather has affected Liceria & Co.'s operations — and the steps our Studio Shodwe team is taking to protect continuity, safeguard assets, and perform under pressure. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| Floods, heatwaves, and storms are no longer rare events on a risk register — they are regular headlines that disrupt supply chains, damage infrastructure, and force businesses to make decisions they were never prepared for. At Liceria & Co., we have chosen to face this reality directly. Our extreme weather impact reporting at Studio Shodwe gives investors an honest account of what happened, how we responded, and how we are building a business that does not stop when nature pushes back. |
+| Floods, heatwaves, and storms are no longer rare events — they disrupt supply chains, damage infrastructure, and force decisions businesses were never prepared for. At Liceria & Co., we face this reality directly. Our extreme weather reporting at Studio Shodwe gives investors an honest account of what happened, how we responded, and how we are building a business that holds when nature pushes back. |
 
 **Visual Note:** High-impact reflective design with clean serif typography in ivory and slate.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| Every flood warning, every heatwave alert, every storm forecast is a test of organizational character. At Liceria & Co., we have learned that the businesses investors trust most are not the ones that avoid disruption — they are the ones that respond to it with speed, transparency, and discipline. Our team at Studio Shodwe does not wait for the storm to pass. We prepare before it arrives, we act while it is here, and we report honestly when it is over. That is the standard we hold ourselves to. |
+| Every flood warning, every heatwave alert, every storm forecast is a test of organizational character. The businesses investors trust most are not the ones that avoid disruption — they are the ones that respond with speed, transparency, and discipline. At Liceria & Co., our Studio Shodwe team does not wait for the storm to pass. We prepare before it arrives, act while it is here, and report honestly when it is over. |
 
 **Visual Note:** High-impact affirmation design with clean minimalist typography and a bold weather-resilience visual accent.
 

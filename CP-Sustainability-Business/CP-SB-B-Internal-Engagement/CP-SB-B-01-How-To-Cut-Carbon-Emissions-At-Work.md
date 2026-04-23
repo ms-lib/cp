@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| Every one of us at Liceria & Co. has a role to play in reducing our carbon footprint. The good news? You do not need to be an expert to make a real difference. Small, consistent actions across our Studio Shodwe teams add up to measurable impact — for our planet, our community, and the future of our business. This guide is your practical starting point. Let's cut emissions together, one smart choice at a time. |
+| Every one of us at Liceria & Co. has a role in reducing our carbon footprint. You do not need to be an expert to make a real difference. Small, consistent actions across our Studio Shodwe teams add up to measurable impact — for our planet, our community, and our business. This guide is your starting point. |
 
 **Visual Note:** Warm, energetic team imagery. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| It is easy to feel like one person cannot make a difference. But at Liceria & Co., we believe the opposite. When every member of our Studio Shodwe team turns off a screen, chooses a video call over a flight, or switches to a reusable cup — those actions multiply. Across hundreds of people, across every working day, they become thousands of tons of carbon not emitted. Our footprint is built from our daily choices. So is our solution. |
+| It is easy to feel like one person cannot make a difference. But at Liceria & Co., we believe the opposite. When every member of our Studio Shodwe team turns off a screen, chooses a video call over a flight, or picks a reusable cup — those actions multiply. Across hundreds of people and every working day, they become thousands of tons of carbon not emitted. Our footprint is built from daily choices. So is our solution. |
 
 **Visual Note:** Reflective design with warm typography and a subtle earth-tone accent.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| The planet does not need a handful of people doing sustainability perfectly. It needs all of us doing it imperfectly but consistently. At Liceria & Co., we have something powerful — a team of people who care, who show up, and who are willing to build better habits together. Every screen you switch off at Studio Shodwe, every trip you reconsider, every reusable you choose — it is a vote for the kind of company we want to be. And the kind of world we want to live in. |
+| The planet does not need a handful of people doing sustainability perfectly. It needs all of us doing it consistently. At Liceria & Co., we have something powerful — a team that cares, shows up, and builds better habits together. Every screen you switch off, every trip you reconsider, every reusable you choose at Studio Shodwe is a vote for the company we want to be — and the world we want to live in. |
 
 **Visual Note:** High-impact affirmation design with bold, warm typography and a green earth accent.
 

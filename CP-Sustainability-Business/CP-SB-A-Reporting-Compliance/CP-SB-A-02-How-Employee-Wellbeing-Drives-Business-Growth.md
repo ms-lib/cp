@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Focus:** Employee Wellbeing as a Driver of Business Growth<br>**The Report Lead:** Adeline Palmerston, Head of People & Growth Strategy<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To provide investors and C-Suite stakeholders with a clear, data-backed case for why employee wellbeing is not a cost — it is a growth driver. This report from Liceria & Co. demonstrates how our team at Studio Shodwe has turned workforce health into measurable business performance. |
+| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Focus:** Employee Wellbeing as a Driver of Business Growth<br>**The Report Lead:** Adeline Palmerston, Head of People & Growth Strategy<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders a clear, data-backed case for why employee wellbeing is not a cost — it is a growth driver. This report shows how Liceria & Co. has turned workforce health into measurable business performance. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| At Liceria & Co., we made a decision early on — to treat employee wellbeing not as a benefit, but as a business strategy. The data from Studio Shodwe proves the point: teams with higher wellbeing scores consistently outperform on productivity, show lower absenteeism, and stay with the company longer. For investors, this translates directly into lower operational costs, stronger output, and a more stable workforce. People who are well do better work. Better work builds better businesses. |
+| At Liceria & Co., we treat employee wellbeing not as a benefit, but as a business strategy. The data from Studio Shodwe is clear: teams with higher wellbeing scores outperform on productivity, show lower absenteeism, and stay longer. For investors, that means lower costs, stronger output, and a more stable workforce. People who are well do better work. |
 
 **Visual Note:** High-impact reflective design with clean serif typography in ivory and slate.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| Every number in this report started with a person — a person at Liceria & Co. who chose to show up, to grow, and to bring their best to work each day. When we invested in that person's wellbeing at Studio Shodwe, the business grew. Not because we ran a program, but because we made a genuine commitment to the people who power everything we do. This is not a soft story. It is the hardest business truth we know: when people thrive, everything else follows. |
+| Every number in this report started with a person — someone at Liceria & Co. who chose to show up and bring their best each day. When we invested in that person's wellbeing at Studio Shodwe, the business grew. Not because we ran a program, but because we made a real commitment to the people who power everything we do. When people thrive, everything else follows. |
 
 **Visual Note:** High-impact affirmation design with clean minimalist typography and a subtle human-growth visual accent.
 

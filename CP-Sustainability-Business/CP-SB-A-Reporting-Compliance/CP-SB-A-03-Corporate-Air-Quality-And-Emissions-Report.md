@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Disclosure Lead:** Adeline Palmerston, Director of Environmental Compliance<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To provide investors and C-Suite stakeholders with a fully transparent account of Liceria & Co.'s air quality performance and emissions profile — and the concrete reduction initiatives our team at Studio Shodwe is implementing to protect communities, meet regulatory standards, and deliver responsible environmental governance. |
+| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Disclosure Lead:** Adeline Palmerston, Director of Environmental Compliance<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders a fully transparent account of Liceria & Co.'s air quality and emissions profile — and the reduction initiatives our Studio Shodwe team is implementing to protect communities and meet regulatory standards. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| At Liceria & Co., clean air is not simply an environmental concern — it is a business imperative. Poor air quality is increasingly tied to regulatory risk, community relations, and long-term operational viability. Investors who evaluate environmental compliance are looking for organizations that go beyond minimum standards. Our commitment to transparent air quality reporting at Studio Shodwe reflects our understanding that responsible environmental governance is the foundation of sustainable business performance. |
+| At Liceria & Co., clean air is a business imperative. Poor air quality is tied to regulatory risk, community relations, and long-term operational viability. Investors want organizations that go beyond minimum standards. Our commitment to transparent air quality reporting at Studio Shodwe reflects our belief that environmental responsibility is the foundation of sustainable business performance. |
 
 **Visual Note:** High-impact reflective design with clean serif typography in ivory and slate.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| Behind every emissions figure in this report is a commitment — a commitment made by the people of Liceria & Co. to operate with greater environmental care. Clean air is not just a metric we report. It is a standard we uphold for every community near our operations, for every employee at Studio Shodwe, and for every future generation that will inherit the environments we shape today. Our path to zero violations is not a compliance target. It is a statement of who we are. |
+| Behind every emissions figure in this report is a commitment — made by the people of Liceria & Co. to operate with greater care. Clean air is not just a metric we report. It is a standard we uphold for every community near our operations, every employee at Studio Shodwe, and every future generation that inherits what we build today. Our path to zero violations is not a compliance target. It is a statement of who we are. |
 
 **Visual Note:** High-impact affirmation design with clean minimalist typography and a subtle clean-air visual accent.
 
