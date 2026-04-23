@@ -39,11 +39,12 @@ Selalu jadikan 3 file berikut sebagai **pedoman utama** sebelum membuat atau men
 3. **Paralel struktur** — di halaman Profile/Spotlight dengan personal role labels (The Mentor, The Helper, dll.), semua kolom harus pakai nama orang
 
 ### Copywriting
-- Gunakan **Simple English** — relevan secara global
+- Gunakan **Simple English** — relevan secara global. Hindari istilah teknikal yang hanya dikenal kalangan spesialis (contoh: "stress-tested" → "tested and refined", "leverage" → "use", "synergy" → "working together")
 - **60% Rule** — sisakan 40% ruang kosong dalam text box
 - **Active Voice Only** — Celebrate, Honor, Share, Join, Create
 - **No Religion, Politics, Brand Names** (Instagram → "Social Media")
-- Gunakan placeholder instruksional: `[Type your message here]`
+- Gunakan placeholder instruksional: `[Type your message here]` — khusus untuk field yang benar-benar unik per user (nama event, tema)
+- **Date & Time:** gunakan contoh nyata, bukan placeholder. Format tanggal: `May 15, 2025`. Format waktu: `09:00 AM`, `10:00 AM`, dst. Designer tinggal ganti angkanya
 
 ### Judul & Familiarity
 - Judul harus **familiar dan mudah dimengerti** oleh audiens umum — hindari istilah teknikal/niche yang hanya dikenal kalangan spesialis
