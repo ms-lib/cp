@@ -36,7 +36,7 @@
 
 ## C — Risk & Strategy
 **Audience:** Operations managers, Senior management  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Sustainability Theme |
 |---|---|---|
