@@ -64,7 +64,7 @@
 
 ## E — Product & Service Innovation
 **Audience:** Product teams, R&D, Business owners  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Sustainability Theme |
 |---|---|---|
