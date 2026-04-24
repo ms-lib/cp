@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Session Date:** April 8, 2025<br>**The Venue:** Studio Shodwe Leadership Center<br>**The Session Lead:** Adeline Palmerston, Head of People & Performance<br><br>**Our Purpose:** Burnout is one of the most damaging — and most preventable — risks to business performance. At Liceria & Co., we treat it as a strategy issue, not just a people issue. This session at Studio Shodwe gives managers the framework to spot it early, understand its cost, and act before it damages the team and the results. |
+| **Company:** Liceria & Co.<br>**Session:** April 8, 2025<br>**Location:** Studio Shodwe Leadership Center<br>**Facilitator:** Adeline Palmerston, Head of People & Performance<br><br>**Our Focus:** Burnout is one of the most damaging — and most preventable — risks to business performance. At Liceria & Co., we treat it as a strategy issue, not just a people issue. This session at Studio Shodwe gives managers the framework to spot it early, understand its cost, and act before it damages the team and the results. |
 
 **Visual Note:** Clean corporate risk header with slate and terracotta accents. Maintain 40% white space for editability.
 

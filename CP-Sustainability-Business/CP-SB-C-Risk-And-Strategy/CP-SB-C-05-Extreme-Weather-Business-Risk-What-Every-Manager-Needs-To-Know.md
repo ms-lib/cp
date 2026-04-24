@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Session Date:** July 10, 2025<br>**The Venue:** Studio Shodwe Operations Center<br>**The Risk Lead:** Adeline Palmerston, Head of Operations & Risk Management<br><br>**Our Purpose:** Extreme weather is now one of the most common causes of business disruption — and most operations managers are not fully prepared for it. This session at Studio Shodwe gives every Liceria & Co. manager a clear picture of the risks, a practical response framework, and the confidence to lead their team through disruption when it comes. |
+| **Company:** Liceria & Co.<br>**Date:** July 10, 2025<br>**Location:** Studio Shodwe Operations Center<br>**Risk Lead:** Adeline Palmerston, Head of Operations & Risk Management<br><br>**Our Focus:** Extreme weather is now one of the most common causes of business disruption — and most operations managers are not fully prepared for it. This session at Studio Shodwe gives every Liceria & Co. manager a clear picture of the risks, a practical response framework, and the confidence to lead their team through disruption when it comes. |
 
 **Visual Note:** Bold corporate risk header with slate and amber accents. Maintain 40% white space for editability.
 

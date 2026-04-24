@@ -49,6 +49,7 @@ Prinsip: slide bukan artikel — teks pendek memberi ruang bagi designer dan mem
 - **Active Voice Only** — Celebrate, Honor, Share, Join, Create
 - **No Religion, Politics, Brand Names** (Instagram → "Social Media")
 - Gunakan placeholder instruksional: `[Type your message here]` — khusus untuk field yang benar-benar unik per user (nama event, tema)
+- **Label fields di Opener:** nama label bebas dan disesuaikan konteks file — tidak harus selalu "The Company", "The Date", dll. Boleh pakai "The" atau tidak, tapi **dalam 1 file harus konsisten** (kalau pakai "The" di satu label, semua label di file itu pakai "The")
 - **Date & Time:** gunakan contoh nyata, bukan placeholder. Format tanggal: `May 15, 2025`. Format waktu: `09:00 AM`, `10:00 AM`, dst. Designer tinggal ganti angkanya
 
 ### Judul & Familiarity

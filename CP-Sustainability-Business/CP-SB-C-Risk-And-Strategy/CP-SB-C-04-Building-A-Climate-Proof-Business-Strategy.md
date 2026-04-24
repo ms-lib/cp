@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Session Date:** June 18, 2025<br>**The Venue:** Studio Shodwe Strategy Center<br>**The Strategy Lead:** Adeline Palmerston, Chief Strategy Officer<br><br>**Our Purpose:** A climate-proof business strategy does not mean predicting the future — it means building an organization that can absorb disruption, adapt quickly, and keep moving forward. At Studio Shodwe today, we give Liceria & Co.'s senior leaders the practical framework to build exactly that. |
+| **Company:** Liceria & Co.<br>**Session Date:** June 18, 2025<br>**Venue:** Studio Shodwe Strategy Center<br>**Strategy Lead:** Adeline Palmerston, Chief Strategy Officer<br><br>**Our Goal:** A climate-proof business strategy does not mean predicting the future — it means building an organization that can absorb disruption, adapt quickly, and keep moving forward. At Studio Shodwe today, we give Liceria & Co.'s senior leaders the practical framework to build exactly that. |
 
 **Visual Note:** Bold corporate strategy header with forest green and gold accents. Maintain 40% white space for editability.
 

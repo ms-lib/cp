@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Date:** March 12, 2025<br>**The Venue:** Studio Shodwe Operations Center<br>**The Risk Lead:** Adeline Palmerston, Head of Operations & Risk<br><br>**Our Purpose:** Carbon risk is no longer a reporting issue — it is an operations issue. Rising energy costs, tightening regulations, and shifting supply chain expectations mean that operations managers at Liceria & Co. must understand and manage carbon exposure as part of their daily work. This session at Studio Shodwe shows you how. |
+| **Company:** Liceria & Co.<br>**Report Date:** March 12, 2025<br>**Venue:** Studio Shodwe Operations Center<br>**Risk Lead:** Adeline Palmerston, Head of Operations & Risk<br><br>**Our Purpose:** Carbon risk is no longer a reporting issue — it is an operations issue. Rising energy costs, tightening regulations, and shifting supply chain expectations mean that operations managers at Liceria & Co. must understand and manage carbon exposure as part of their daily work. This session at Studio Shodwe shows you how. |
 
 **Visual Note:** Bold corporate risk header with navy and amber accents. Maintain 40% white space for editability.
 

@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Session Date:** May 14, 2025<br>**The Venue:** Studio Shodwe Operations Center<br>**The Session Lead:** Adeline Palmerston, Director of Operations & Workplace Standards<br><br>**Our Purpose:** Poor air quality costs businesses more than most managers realize — through lost productivity, higher sick leave, and regulatory exposure. At Liceria & Co., we surface these costs at Studio Shodwe so operations managers can see exactly where poor air quality is affecting performance and what to do about it. |
+| **Company:** Liceria & Co.<br>**Date:** May 14, 2025<br>**Hosted at:** Studio Shodwe Operations Center<br>**Lead:** Adeline Palmerston, Director of Operations & Workplace Standards<br><br>**Our Purpose:** Poor air quality costs businesses more than most managers realize — through lost productivity, higher sick leave, and regulatory exposure. At Liceria & Co., we surface these costs at Studio Shodwe so operations managers can see exactly where poor air quality is affecting performance and what to do about it. |
 
 **Visual Note:** Bold corporate risk header with slate and teal accents. Maintain 40% white space for editability.
 
