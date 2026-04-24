@@ -36,7 +36,7 @@
 
 ## B — Development & Training
 **Sub-clusters:** Development, Training, Coaching  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 ### Development
 | # | Judul |
