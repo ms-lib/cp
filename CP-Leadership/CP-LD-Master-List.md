@@ -90,7 +90,7 @@
 
 ## D — Industry Vertical
 **Sub-clusters:** Healthcare, Education, Tech  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 ### Healthcare
 | # | Judul |
@@ -117,7 +117,7 @@
 
 ## E — Skills & Competency
 **Sub-clusters:** Communication, Decision Making, Emotional Intelligence  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 ### Communication
 | # | Judul |
@@ -144,7 +144,7 @@
 
 ## F — Mindset & Values
 **Sub-clusters:** Servant Leadership, Authentic Leadership, Inclusive Leadership  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 ### Servant Leadership
 | # | Judul |
@@ -171,7 +171,7 @@
 
 ## G — Strategy & Vision
 **Sub-clusters:** Vision, Culture, Succession  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 ### Vision
 | # | Judul |
@@ -198,7 +198,7 @@
 
 ## H — Reports & Planning
 **Sub-clusters:** Annual Report, Assessment, Retrospective  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 ### Annual Report
 | # | Judul |
@@ -225,7 +225,7 @@
 
 ## I — Team Leadership
 **Sub-clusters:** Remote Leadership, Cross-Cultural, High Performance  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 ### Remote Leadership
 | # | Judul |
