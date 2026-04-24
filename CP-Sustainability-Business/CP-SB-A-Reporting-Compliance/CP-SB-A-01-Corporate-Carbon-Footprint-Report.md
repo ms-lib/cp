@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Standard:** Carbon emissions tracking standards — operational, energy, and supply chain<br>**The Disclosure Lead:** Adeline Palmerston, Head of Sustainability & Reporting<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders a transparent, data-backed view of Liceria & Co.'s carbon footprint — and the roadmap our Studio Shodwe team is executing to cut emissions and deliver long-term value. |
+| **Reporting Entity:** Liceria & Co.<br>**Report Period:** Fiscal Year 2024<br>**Carbon Standard:** Carbon emissions tracking standards — operational, energy, and supply chain<br>**Disclosure Lead:** Adeline Palmerston, Head of Sustainability & Reporting<br>**Headquarters:** Studio Shodwe<br><br>**Our Commitment:** To give investors and C-Suite stakeholders a transparent, data-backed view of Liceria & Co.'s carbon footprint — and the roadmap our Studio Shodwe team is executing to cut emissions and deliver long-term value. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 

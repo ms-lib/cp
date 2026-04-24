@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Focus:** Extreme Weather Events & Operational Business Impact<br>**The Disclosure Lead:** Adeline Palmerston, Head of Operations & Sustainability<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders a clear, data-backed picture of how extreme weather has affected Liceria & Co.'s operations — and the steps our Studio Shodwe team is taking to protect continuity, safeguard assets, and perform under pressure. |
+| **Reporting Entity:** Liceria & Co.<br>**Period Covered:** Fiscal Year 2024<br>**Weather Risk Focus:** Extreme Weather Events & Operational Business Impact<br>**Operations Lead:** Adeline Palmerston, Head of Operations & Sustainability<br>**Base of Operations:** Studio Shodwe<br><br>**Our Goal:** To give investors and C-Suite stakeholders a clear, data-backed picture of how extreme weather has affected Liceria & Co.'s operations — and the steps our Studio Shodwe team is taking to protect continuity, safeguard assets, and perform under pressure. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 

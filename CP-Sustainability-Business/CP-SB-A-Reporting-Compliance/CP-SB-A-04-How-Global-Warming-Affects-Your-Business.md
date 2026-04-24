@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Focus:** How Global Warming Creates Real Business Risk and Opportunity<br>**The Report Lead:** Adeline Palmerston, Head of Climate Strategy & Business Planning<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders an honest picture of how global warming is already affecting Liceria & Co. — from rising costs at Studio Shodwe to supply chain shifts — and the actions we are taking to stay ahead. |
+| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Climate Focus:** How Global Warming Creates Real Business Risk and Opportunity<br>**The Climate Lead:** Adeline Palmerston, Head of Climate Strategy & Business Planning<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders an honest picture of how global warming is already affecting Liceria & Co. — from rising costs at Studio Shodwe to supply chain shifts — and the actions we are taking to stay ahead. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 

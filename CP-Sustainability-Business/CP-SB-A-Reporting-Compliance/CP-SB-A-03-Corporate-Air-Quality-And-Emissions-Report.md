@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Disclosure Lead:** Adeline Palmerston, Director of Environmental Compliance<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders a fully transparent account of Liceria & Co.'s air quality and emissions profile — and the reduction initiatives our Studio Shodwe team is implementing to protect communities and meet regulatory standards. |
+| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Compliance Lead:** Adeline Palmerston, Director of Environmental Compliance<br>**The Operations Base:** Studio Shodwe<br><br>**Our Commitment:** To give investors and C-Suite stakeholders a fully transparent account of Liceria & Co.'s air quality and emissions profile — and the reduction initiatives our Studio Shodwe team is implementing to protect communities and meet regulatory standards. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 

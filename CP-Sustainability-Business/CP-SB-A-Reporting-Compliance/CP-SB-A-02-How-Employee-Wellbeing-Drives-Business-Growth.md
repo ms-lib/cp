@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Focus:** Employee Wellbeing as a Driver of Business Growth<br>**The Report Lead:** Adeline Palmerston, Head of People & Growth Strategy<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders a clear, data-backed case for why employee wellbeing is not a cost — it is a growth driver. This report shows how Liceria & Co. has turned workforce health into measurable business performance. |
+| **Organization:** Liceria & Co.<br>**Report Period:** Fiscal Year 2024<br>**Wellbeing Focus:** Employee Wellbeing as a Driver of Business Growth<br>**Report Lead:** Adeline Palmerston, Head of People & Growth Strategy<br>**Prepared At:** Studio Shodwe<br><br>**Our Aim:** To give investors and C-Suite stakeholders a clear, data-backed case for why employee wellbeing is not a cost — it is a growth driver. This report shows how Liceria & Co. has turned workforce health into measurable business performance. |
 
 **Visual Note:** Clean professional header with high-end sage accents and structured layout. Maintain 40% white space for editability.
 
