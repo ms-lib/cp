@@ -78,7 +78,7 @@
 
 ## F — Marketing & Brand Positioning
 **Audience:** Marketing teams, Brand managers  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Sustainability Theme |
 |---|---|---|
