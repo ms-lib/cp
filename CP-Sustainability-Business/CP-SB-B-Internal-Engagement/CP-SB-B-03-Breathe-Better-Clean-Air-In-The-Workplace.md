@@ -8,7 +8,7 @@
 **Tone:** Informative, calm, action-oriented
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -39,14 +39,14 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Things That Affect Our Office Air  
-**Jumlah Kolom:** 3
+**Judul Halaman:** Two Sources That Shape Our Office Air  
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Ventilation:**<br>How fresh air moves through our spaces and replaces stale, polluted indoor air. | **Products:**<br>Cleaning supplies, printers, and materials that release invisible particles into our air. | **People:**<br>How our daily habits — from cooking to commuting — carry pollutants into shared spaces. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Our Space:**<br>Ventilation systems, cleaning products, printers, and building materials all affect the air around us — often invisibly and around the clock. | **Our Habits:**<br>The daily routines of our team — how we move, clean, cook, and commute — introduce pollutants into shared spaces that we can control with small changes. |
 
-**Visual Note:** Three clean minimal icons in sage green and white. Airy, informative design.
+**Visual Note:** Two clean minimal icons in sage green and white. Airy, informative design.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Team Members Leading The Change  
-**Jumlah Kolom:** 2
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The Green Office Lead:**<br>Estelle Darcy, who coordinated Liceria & Co.'s indoor plant program at Studio Shodwe and has transformed our common areas into fresher, calmer spaces for the whole team. | **The Clean Products Advocate:**<br>Cahaya Dewi, whose switch to eco-friendly cleaning products across our Liceria & Co. facilities has reduced chemical exposure and improved daily air quality for everyone. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **The Green Office Lead:**<br>Estelle Darcy, who coordinated Liceria & Co.'s indoor plant program at Studio Shodwe and has transformed our common areas into fresher, calmer spaces for the whole team. | **The Clean Products Advocate:**<br>Cahaya Dewi, whose switch to eco-friendly cleaning products across our Liceria & Co. facilities has reduced chemical exposure and improved daily air quality for everyone. | **The Ventilation Voice:**<br>Olivia Wilson, whose audit of airflow patterns across Studio Shodwe identified key areas for improvement and guided our ventilation upgrades that now benefit the whole office. |
 
-**Visual Note:** Duo-profile spotlight with clean minimal design. Use "In-Use" text.
+**Visual Note:** Trio-profile spotlight with clean minimal design. Use "In-Use" text.
 
 ---
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Voices From Our Team  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Observer:**<br>Kimberly N. on air awareness. | **The Planter:**<br>Harper R. on green spaces. | **The Opener:**<br>Matt Z. on ventilation habits. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **The Observer:**<br>Kimberly N. on air awareness. | **The Planter:**<br>Harper R. on green spaces. |
 
 **Visual Note:** Team voice cards with a fresh, natural layout. Use "In-Use" text.
 
@@ -158,9 +158,9 @@
 ### Customization Points:
 - Estelle Darcy (Standardized Name)
 - Cahaya Dewi (Standardized Name)
+- Olivia Wilson (Standardized Name)
 - Kimberly Nguyen (Standardized Name)
 - Harper Russo (Standardized Name)
-- Matt Zhang (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as workplace/venue reference only)
 - www.reallygreatsite.com (Standard Website)

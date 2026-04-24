@@ -8,7 +8,7 @@
 **Tone:** Urgent, empowering, action-oriented
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -67,12 +67,12 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Four Actions That Actually Move The Needle  
-**Jumlah Kolom:** 4
+**Judul Halaman:** Three Actions That Actually Move The Needle  
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Use Less Energy**<br>Switch off always. | **Fly Less**<br>Meet online first. | **Eat Lower Impact**<br>More plants, less meat. | **Buy Better**<br>Support green brands. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Cut Energy & Travel**<br>Switch off always and meet online before any flight. | **Eat Better**<br>More plants, less meat at every meal. | **Buy Wisely**<br>Choose products and suppliers with lower impact. |
 
 **Visual Note:** Bold action cards in deep green and white for high-impact team scanning.
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Voices From Our Team  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Switcher:**<br>Matt Z. on energy habits. | **The Eater:**<br>Kimberly N. on plant-based meals. | **The Speaker:**<br>Harper R. on climate conversations. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **The Switcher:**<br>Matt Z. on energy habits. | **The Eater:**<br>Kimberly N. on plant-based meals. | **The Speaker:**<br>Harper R. on climate conversations. | **The Organizer:**<br>Lorna A. on team climate pledges. |
 
 **Visual Note:** Team voice cards with a bold, inclusive layout. Use "In-Use" text.
 
@@ -161,6 +161,7 @@
 - Matt Zhang (Standardized Name)
 - Kimberly Nguyen (Standardized Name)
 - Harper Russo (Standardized Name)
+- Lorna Alvarado (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as workplace/venue reference only)
 - www.reallygreatsite.com (Standard Website)

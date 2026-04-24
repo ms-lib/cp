@@ -8,7 +8,7 @@
 **Tone:** Opportunity-focused, forward-looking, practical
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -68,11 +68,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Climate-Driven Product Opportunity Areas  
-**Jumlah Kolom:** 4
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Heat Management**<br>Cool homes and people. | **Outdoor Safety**<br>Protect from sun and heat. | **Water Conservation**<br>Do more with less water. | **Energy Efficiency**<br>Reduce cooling costs. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Heat & Protection**<br>Cool homes, people, and outdoor exposure. | **Water Conservation**<br>Do more with less water. | **Energy Efficiency**<br>Reduce cooling costs. |
 
 **Visual Note:** Bold climate product opportunity cards in deep teal and gold. Clean, innovation-ready layout.
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Opportunity Development Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Trend Lead:**<br>Lorna A. on climate market signals. | **Product Lead:**<br>Daniel G. on concept development. | **Launch Lead:**<br>Shawn G. on go-to-market. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Trend Lead:**<br>Lorna A. on climate market signals. | **Product Lead:**<br>Daniel G. on concept development. | **Launch Lead:**<br>Shawn G. on go-to-market. | **Research Lead:**<br>Kimberly N. on customer needs. |
 
 **Visual Note:** Opportunity development lead cards with a bold, forward-looking layout. Use "In-Use" text.
 
@@ -161,6 +161,7 @@
 - Lorna Alvarado (Standardized Name)
 - Daniel Gallego (Standardized Name)
 - Shawn Garcia (Standardized Name)
+- Kimberly Nguyen (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as venue reference only)
 - www.reallygreatsite.com (Standard Website)

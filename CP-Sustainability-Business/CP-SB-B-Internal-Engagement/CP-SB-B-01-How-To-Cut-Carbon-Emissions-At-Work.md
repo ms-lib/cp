@@ -8,7 +8,7 @@
 **Tone:** Motivational, practical, inclusive
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -68,11 +68,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Quick Wins You Can Start Today  
-**Jumlah Kolom:** 4
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Switch Off**<br>Lights & screens. | **Go Digital**<br>Skip the print. | **Eat Smart**<br>Less meat, more plants. | **Travel Less**<br>Meet online first. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Cut Energy & Paper**<br>Switch off lights, screens, and skip the print. | **Eat Better**<br>Less meat, more plants at every meal. | **Travel Less**<br>Meet online before booking any trip. |
 
 **Visual Note:** Bold action cards in fresh green and white for quick team scanning.
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Voices From Our Team  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Starter:**<br>Kimberly N. on small steps. | **The Advocate:**<br>Shawn G. on team habits. | **The Planner:**<br>Harper R. on office changes. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **The Starter:**<br>Kimberly N. on small steps. | **The Advocate:**<br>Shawn G. on team habits. | **The Planner:**<br>Harper R. on office changes. | **The Builder:**<br>Daniel G. on green daily routines. |
 
 **Visual Note:** Team voice cards with an energetic, inclusive design. Use "In-Use" text.
 
@@ -161,6 +161,7 @@
 - Kimberly Nguyen (Standardized Name)
 - Shawn Garcia (Standardized Name)
 - Harper Russo (Standardized Name)
+- Daniel Gallego (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as workplace/venue reference only)
 - www.reallygreatsite.com (Standard Website)

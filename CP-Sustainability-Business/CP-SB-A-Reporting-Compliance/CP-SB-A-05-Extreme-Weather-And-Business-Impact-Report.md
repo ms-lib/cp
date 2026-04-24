@@ -8,7 +8,7 @@
 **Tone:** Data-driven, grounded, strategic
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -39,14 +39,14 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Pillars Of Our Weather Response Strategy  
-**Jumlah Kolom:** 3
+**Judul Halaman:** Two Pillars Of Our Weather Response Strategy  
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Assess:**<br>Identifying which extreme weather events pose the greatest risk to Liceria & Co. operations. | **Prepare:**<br>Building concrete continuity plans that keep our Studio Shodwe teams operational under disruption. | **Report:**<br>Full transparent disclosure of weather-related impacts and our response performance. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Assess & Prepare:**<br>Identifying which extreme weather events pose the greatest risk to Liceria & Co. operations — then building concrete continuity plans that keep our Studio Shodwe teams operational under disruption. | **Respond & Report:**<br>Acting decisively when weather events strike, then delivering full transparent disclosure of what happened, how we responded, and what our recovery performance shows. |
 
-**Visual Note:** Three bold icon pillars in sage green and slate. Clean, data-ready design.
+**Visual Note:** Two bold pillars in sage green and slate. Clean, data-ready design.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Leadership On Operational Accountability  
-**Jumlah Kolom:** 2
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The Operations Lead:**<br>Adeline Palmerston, whose weather response framework at Liceria & Co. has reduced average recovery time and minimized revenue disruption during major weather events. | **The Risk Voice:**<br>Drew Feig, whose integration of weather impact data into Liceria & Co.'s financial planning has strengthened our operational transparency and investor confidence. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **The Operations Lead:**<br>Adeline Palmerston, whose weather response framework at Liceria & Co. has reduced average recovery time and minimized revenue disruption during major weather events. | **The Risk Voice:**<br>Drew Feig, whose integration of weather impact data into Liceria & Co.'s financial planning has strengthened our operational transparency and investor confidence. | **The Strategy Voice:**<br>Jamie Chastain, whose scenario planning work at Liceria & Co. has mapped our highest-risk exposure points and built the response playbooks our teams rely on when conditions turn severe. |
 
-**Visual Note:** Duo-profile layout using professional serif typography and slate accents. Use "In-Use" text.
+**Visual Note:** Trio-profile layout using professional serif typography and slate accents. Use "In-Use" text.
 
 ---
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Investor Engagement Highlights  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Analyst:**<br>Jamie C. on weather risk. | **The Partner:**<br>Olivia W. on ops continuity. | **The Advisor:**<br>Alfredo T. on impact reporting. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **The Partner:**<br>Olivia W. on ops continuity. | **The Advisor:**<br>Alfredo T. on impact reporting. |
 
 **Visual Note:** Engagement card layout with a professional, data-forward design. Use "In-Use" text.
 
@@ -159,8 +159,8 @@
 - Adeline Palmerston (Standardized Name)
 - Drew Feig (Standardized Name)
 - Jamie Chastain (Standardized Name)
-- Olivia Wilson (Standardized Name)
 - Alfredo Torres (Standardized Name)
+- Olivia Wilson (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as HQ/venue reference only)
 - www.reallygreatsite.com (Standard Website)

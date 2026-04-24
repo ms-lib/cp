@@ -8,7 +8,7 @@
 **Tone:** Opportunity-focused, practical, innovative
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -39,14 +39,14 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Growing Markets For Air Quality Products  
-**Jumlah Kolom:** 3
+**Judul Halaman:** Two Major Markets For Air Quality Products  
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Home:**<br>Consumers are investing in indoor air quality at home — driven by greater awareness of the health impact of dust, allergens, and pollutants in living spaces. | **Workplace:**<br>Businesses are increasingly responsible for the air quality in their facilities — creating strong demand for monitoring, filtration, and ventilation solutions. | **Urban Outdoor:**<br>Cities with worsening outdoor air quality are creating new demand for personal protection, monitoring tools, and products that reduce individual exposure. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Indoor Markets:**<br>Consumers are investing in home air quality driven by greater awareness of dust, allergens, and pollutants in living spaces. Businesses face growing responsibility for the air quality in their own facilities — creating strong demand for monitoring, filtration, and ventilation solutions across both residential and commercial settings. | **Outdoor & Urban Markets:**<br>Cities with worsening outdoor air quality are creating new demand for personal protection, monitoring tools, and products that reduce individual exposure. This segment is growing fastest in dense urban areas where pollution levels are most visible and where customers are most motivated to act. |
 
-**Visual Note:** Three bold air quality market cards in slate and teal. Clean, tech-forward product design.
+**Visual Note:** Two bold air quality market cards in slate and teal. Clean, tech-forward product design.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Product Innovation Leadership  
-**Jumlah Kolom:** 2
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The Product Lead:**<br>Adeline Palmerston, who has mapped the clean air product opportunity for Liceria & Co. at Studio Shodwe — identifying the customer segments with the strongest demand and the product categories with the most defensible long-term position. | **The R&D Voice:**<br>Drew Feig, whose technical research at Liceria & Co. has validated the performance standards that clean air products must meet to earn and hold customer trust in an increasingly informed and demanding market. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **The Product Lead:**<br>Adeline Palmerston, who has mapped the clean air product opportunity for Liceria & Co. at Studio Shodwe — identifying the customer segments with the strongest demand and the product categories with the most defensible long-term position. | **The R&D Voice:**<br>Drew Feig, whose technical research at Liceria & Co. has validated the performance standards that clean air products must meet to earn and hold customer trust in an increasingly informed and demanding market. | **The Market Voice:**<br>Estelle Darcy, who tracks customer behavior and buying patterns in the air quality space — giving Liceria & Co.'s product teams a clear picture of what buyers want, what they are willing to pay, and where the market is heading next. |
 
-**Visual Note:** Duo-profile innovation spotlight with bold modern design and teal accents. Use "In-Use" text.
+**Visual Note:** Trio-profile innovation spotlight with bold modern design and teal accents. Use "In-Use" text.
 
 ---
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Product Development Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Market Lead:**<br>Howard O. on customer demand. | **Tech Lead:**<br>Murad N. on product performance. | **Launch Lead:**<br>Shawn G. on go-to-market. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Market Lead:**<br>Howard O. on customer demand. | **Tech Lead:**<br>Murad N. on product performance. |
 
 **Visual Note:** Product development lead cards with a bold, tech-forward layout. Use "In-Use" text.
 
@@ -158,9 +158,9 @@
 ### Customization Points:
 - Adeline Palmerston (Standardized Name)
 - Drew Feig (Standardized Name)
+- Estelle Darcy (Standardized Name)
 - Howard Ong (Standardized Name)
 - Murad Naser (Standardized Name)
-- Shawn Garcia (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as venue reference only)
 - www.reallygreatsite.com (Standard Website)

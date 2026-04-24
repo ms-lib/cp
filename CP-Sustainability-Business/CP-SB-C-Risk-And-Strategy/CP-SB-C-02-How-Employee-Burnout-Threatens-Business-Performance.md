@@ -8,7 +8,7 @@
 **Tone:** Direct, empathetic, action-oriented
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -68,11 +68,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Burnout Risk Checklist  
-**Jumlah Kolom:** 4
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Workload:**<br>Is demand consistently exceeding capacity? | **Recovery:**<br>Are people taking time off — and truly resting? | **Recognition:**<br>Do people feel their effort is seen and valued? | **Control:**<br>Can people influence how they work and prioritize? |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Load & Autonomy:**<br>Is demand exceeding capacity — and can people shape how they work? | **Rest & Recovery:**<br>Are people genuinely switching off and returning recharged? | **Recognition:**<br>Do people feel their effort is seen and valued? |
 
 **Visual Note:** Bold burnout risk checklist cards in slate and terracotta. Clean, management-ready layout.
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Session Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Signals Lead:**<br>Kimberly N. on early warning signs. | **The Culture Lead:**<br>Lorna A. on team environment. | **The Recovery Lead:**<br>Matt Z. on sustainable workload. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **The Signals Lead:**<br>Kimberly N. on early warning signs. | **The Culture Lead:**<br>Lorna A. on team environment. | **The Recovery Lead:**<br>Matt Z. on sustainable workload. | **The Wellbeing Lead:**<br>Sacha D. on manager support tools. |
 
 **Visual Note:** Session lead cards with a clean, practical layout. Use "In-Use" text.
 
@@ -161,6 +161,7 @@
 - Kimberly Nguyen (Standardized Name)
 - Lorna Alvarado (Standardized Name)
 - Matt Zhang (Standardized Name)
+- Sacha Dubois (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as venue reference only)
 - www.reallygreatsite.com (Standard Website)

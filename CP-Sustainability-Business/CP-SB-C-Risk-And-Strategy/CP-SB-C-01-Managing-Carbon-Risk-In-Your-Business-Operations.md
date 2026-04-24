@@ -8,7 +8,7 @@
 **Tone:** Practical, risk-aware, strategic
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -39,14 +39,14 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Carbon Risks Every Operations Manager Faces  
-**Jumlah Kolom:** 3
+**Judul Halaman:** Two Carbon Risks Every Operations Manager Faces  
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Cost Risk:**<br>Rising energy prices and carbon-related fees directly increase the cost of running operations at every level. | **Compliance Risk:**<br>Regulations on emissions are tightening globally — non-compliance exposes Liceria & Co. to fines, delays, and reputational damage. | **Supply Chain Risk:**<br>Partners and customers increasingly require lower-carbon operations as a condition of doing business together. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Cost & Compliance Risk:**<br>Rising energy prices, carbon-related fees, and tightening emissions regulations directly increase the cost of operations — and non-compliance at Liceria & Co. exposes us to fines, delays, and reputational harm. | **Supply Chain Risk:**<br>Partners and customers increasingly require lower-carbon operations as a condition of doing business — making carbon management a commercial priority, not just a regulatory one. |
 
-**Visual Note:** Three bold risk cards in navy and amber. Strong, practical corporate design.
+**Visual Note:** Two bold risk cards in navy and amber. Strong, practical corporate design.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Risk Leadership At Liceria & Co.  
-**Jumlah Kolom:** 2
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The Risk Lead:**<br>Adeline Palmerston, who has built Liceria & Co.'s carbon risk framework from the ground up — connecting operations data directly to financial exposure and giving managers a clear picture of where to act first. | **The Operations Voice:**<br>Drew Feig, whose cross-functional work at Studio Shodwe has embedded carbon risk tracking into Liceria & Co.'s standard operations reporting — making it a routine part of how we manage the business. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **The Risk Lead:**<br>Adeline Palmerston, who has built Liceria & Co.'s carbon risk framework from the ground up — connecting operations data directly to financial exposure and giving managers a clear picture of where to act first. | **The Operations Voice:**<br>Drew Feig, whose cross-functional work at Studio Shodwe has embedded carbon risk tracking into Liceria & Co.'s standard operations reporting — making it a routine part of how we manage the business. | **The Data Voice:**<br>Olivia Wilson, whose analysis of energy and emissions data at Liceria & Co. surfaces the patterns that help operations managers prioritize the highest-impact carbon reduction actions first. |
 
-**Visual Note:** Duo-profile risk spotlight with bold corporate design and navy accents. Use "In-Use" text.
+**Visual Note:** Trio-profile risk spotlight with bold corporate design and navy accents. Use "In-Use" text.
 
 ---
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Risk Workstream Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Cost Lead:**<br>Kimberly N. on energy exposure. | **The Compliance Lead:**<br>Howard O. on regulatory risk. | **The Supply Lead:**<br>Alfredo T. on chain pressure. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **The Cost Lead:**<br>Kimberly N. on energy exposure. | **The Compliance Lead:**<br>Howard O. on regulatory risk. |
 
 **Visual Note:** Risk workstream cards with a bold, practical layout. Use "In-Use" text.
 
@@ -158,9 +158,9 @@
 ### Customization Points:
 - Adeline Palmerston (Standardized Name)
 - Drew Feig (Standardized Name)
+- Olivia Wilson (Standardized Name)
 - Kimberly Nguyen (Standardized Name)
 - Howard Ong (Standardized Name)
-- Alfredo Torres (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as venue reference only)
 - www.reallygreatsite.com (Standard Website)

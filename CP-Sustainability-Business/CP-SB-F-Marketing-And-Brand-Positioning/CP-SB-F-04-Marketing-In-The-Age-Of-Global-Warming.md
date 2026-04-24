@@ -8,7 +8,7 @@
 **Tone:** Forward-looking, practical, honest
 
 **Total Pages:** 10 halaman
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -45,20 +45,17 @@ Our Focus: Adapt your brand strategy to a world shaped by rising temperatures
 
 ---
 
-## Page 3 — Context (3 Columns)
+## Page 3 — Context (2 Columns)
 
-**Visual Note:** Ivory background. Three equal columns. Deep teal column headers. Gold accent dividers. Bold, professional editorial feel. Icons optional at column tops.
+**Visual Note:** Ivory background. Two equal columns. Deep teal column headers. Gold accent divider. Bold, professional editorial feel. Icons optional at column tops.
 
 **Section Header:** A World That Is Already Changing
 
-**Column 1 — Consumer Behavior**
-People are making different choices because of global warming — what they buy, who they buy from, and which brands they trust. Heat waves, wildfires, and rising costs are making climate part of everyday conversation, not just policy debate.
+**Column 1 — What Has Shifted**
+People are making different choices because of global warming — what they buy, who they buy from, and which brands they trust. Heat waves, wildfires, and rising costs are making climate part of everyday conversation, not just policy debate. Brands that ignore the link between their products and rising global temperatures are increasingly exposed to customer, journalist, and investor scrutiny.
 
-**Column 2 — Business Risk**
-Brands that ignore the link between their products and rising global temperatures are increasingly exposed. Customers, journalists, and investors are watching. The brands that address this clearly and honestly reduce their risk and build stronger reputations.
-
-**Column 3 — The Brand Role**
-Marketing teams are now on the front line of climate communication. The way your brand talks about global warming — what it says, what it does, and what it avoids — shapes how people see your company for years to come.
+**Column 2 — What This Means For Your Brand**
+Marketing teams are now on the front line of climate communication. The way your brand talks about global warming — what it says, what it does, and what it avoids — shapes how people see your company for years to come. The brands that address this clearly and honestly reduce their risk, build stronger reputations, and earn the trust of audiences that are paying closer attention than ever.
 
 ---
 
@@ -96,9 +93,9 @@ A climate-era brand message must show up everywhere — your packaging, your soc
 
 ---
 
-## Page 6 — Core C (2 Columns)
+## Page 6 — Core C (3 Columns)
 
-**Visual Note:** Ivory background. Left column with deep teal header block. Right column with gold header block. Body in dark charcoal. Structured and practical.
+**Visual Note:** Ivory background. Three equal columns — left with deep teal header block, center with gold header block, right with slate header block. Body in dark charcoal. Structured and practical.
 
 **Section Header:** Messaging That Holds Up Over Time
 
@@ -112,11 +109,16 @@ Global warming is not a campaign moment — it is a permanent part of your brand
 
 Adeline Palmerston's framework recommends anchoring your climate message in three consistent proof points that you build on over time — rather than refreshing your story with every news cycle. Stability earns trust. Reactive messaging loses it.
 
+**Column 3 — Audience Signals**
+Pay attention to how your audience talks about climate — the words they use, the concerns they raise, the actions they take. Estelle Darcy's research shows that the brands with the strongest climate messaging listen first and broadcast second.
+
+Track what your audience shares, responds to, and questions. Use those signals to sharpen your message over time. The goal is not to lead the conversation — it is to be the brand your audience trusts to be honest inside it.
+
 ---
 
-## Page 7 — Engagement (3 Columns)
+## Page 7 — Engagement (2 Columns)
 
-**Visual Note:** Clean white background. Three profile card columns. Deep teal card headers. Gold name accent. Illustrated avatar placeholders. No photos.
+**Visual Note:** Clean white background. Two profile card columns. Deep teal card headers. Gold name accent. Illustrated avatar placeholders. No photos.
 
 **Section Header:** The Team Behind This Strategy
 
@@ -129,11 +131,6 @@ Directs the overall brand message strategy. Ensures climate communications are h
 **Role:** Channel Lead
 **Name:** Estelle D.
 Manages how and where the message reaches the audience. Matches content depth to channel type and ensures the climate story is told consistently across every platform.
-
-**Column 3 — Insights Lead**
-**Role:** Insights Lead
-**Name:** Shawn G.
-Tracks how audiences are responding. Uses real data to identify what is landing, what needs adjustment, and where the brand's climate message has the most impact.
 
 ---
 
@@ -211,8 +208,7 @@ The future is already here. Build a brand that belongs in it.
 
 ### Customization Points
 - **Adeline Palmerston** (Standardized Name) — Head of Marketing Strategy, Liceria & Co. Appears in Opener (Page 2), Page 7 profile card, and Page 8 attribution
-- **Estelle Darcy** (Standardized Name) — Audience research/channel lead. Appears in Pages 5 and 7
-- **Shawn Garcia** (Standardized Name) — Insights Lead. Appears in Page 7 profile card only
+- **Estelle Darcy** (Standardized Name) — Audience research/channel lead. Appears in Pages 5, 6, and 7
 - **Liceria & Co.** (Standardized Name) — Primary company. Appears throughout
 - **Studio Shodwe** (Standardized Name) — Session venue. Appears in Opener (Page 2) and Page 9
 - Opener label fields use "The" prefix — maintain this consistency throughout the file

@@ -8,7 +8,7 @@
 **Tone:** Practical, clear, action-oriented
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -68,11 +68,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Manager's Weather Risk Response Framework  
-**Jumlah Kolom:** 4
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Before:**<br>Risk assessment and continuity planning. | **During:**<br>Clear communication and team safety protocols. | **After:**<br>Rapid recovery and honest impact reporting. | **Always:**<br>Updated plans reviewed before every season. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Before:**<br>Risk assessment, continuity planning, and seasonal reviews. | **During:**<br>Clear communication and team safety protocols. | **After:**<br>Rapid recovery and honest impact reporting. |
 
 **Visual Note:** Bold weather response framework cards in slate and amber. Clear, operations-ready layout.
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Response Team Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Safety Lead:**<br>Cahaya D. on people protocols. | **The Continuity Lead:**<br>Howard O. on operations backup. | **The Recovery Lead:**<br>Harper R. on post-event response. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **The Safety Lead:**<br>Cahaya D. on people protocols. | **The Continuity Lead:**<br>Howard O. on operations backup. | **The Recovery Lead:**<br>Harper R. on post-event response. | **The Comms Lead:**<br>Murad N. on team alerts. |
 
 **Visual Note:** Response team lead cards with a bold, operations-ready layout. Use "In-Use" text.
 
@@ -161,6 +161,7 @@
 - Cahaya Dewi (Standardized Name)
 - Howard Ong (Standardized Name)
 - Harper Russo (Standardized Name)
+- Murad Naser (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as venue reference only)
 - www.reallygreatsite.com (Standard Website)

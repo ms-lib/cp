@@ -8,7 +8,7 @@
 **Tone:** Innovative, practical, forward-looking
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -68,11 +68,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Low-Carbon Product Development Process  
-**Jumlah Kolom:** 4
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Audit:**<br>Map the carbon impact of your current product. | **Redesign:**<br>Identify where lower-carbon alternatives exist. | **Test:**<br>Validate that changes maintain quality and performance. | **Launch:**<br>Bring the improved product to market with a clear story. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Assess & Redesign:**<br>Map carbon impact, then identify lower-carbon alternatives. | **Test:**<br>Validate that changes maintain quality and performance. | **Launch:**<br>Bring the improved product to market with a clear story. |
 
 **Visual Note:** Bold product development step cards in forest green and gold. Clean, innovation-ready layout.
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Product Team Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Materials Lead:**<br>Kimberly N. on sourcing alternatives. | **Design Lead:**<br>Daniel G. on product redesign. | **Launch Lead:**<br>Shawn G. on market positioning. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Materials Lead:**<br>Kimberly N. on sourcing alternatives. | **Design Lead:**<br>Daniel G. on product redesign. | **Launch Lead:**<br>Shawn G. on market positioning. | **Testing Lead:**<br>Matt Z. on quality validation. |
 
 **Visual Note:** Product team lead cards with a bold, innovative layout. Use "In-Use" text.
 
@@ -161,6 +161,7 @@
 - Kimberly Nguyen (Standardized Name)
 - Daniel Gallego (Standardized Name)
 - Shawn Garcia (Standardized Name)
+- Matt Zhang (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as venue reference only)
 - www.reallygreatsite.com (Standard Website)

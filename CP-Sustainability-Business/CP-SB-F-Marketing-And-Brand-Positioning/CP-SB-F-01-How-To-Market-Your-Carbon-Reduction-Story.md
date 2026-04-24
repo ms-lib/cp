@@ -8,7 +8,7 @@
 **Tone:** Confident, strategic, practical
 
 **Total Pages:** 10 halaman
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -45,20 +45,17 @@ Our Goal: Build a confident brand message around your carbon reduction progress
 
 ---
 
-## Page 3 — Context (3 Columns)
+## Page 3 — Context (2 Columns)
 
-**Visual Note:** Clean white background. Three equal columns with forest green column headers. Gold divider lines between columns. Icons optional at top of each column.
+**Visual Note:** Clean white background. Two equal columns with forest green column headers. Gold divider line between columns. Icons optional at top of each column.
 
 **Section Header:** Why This Story Matters Now
 
-**Column 1 — The Shift**
-Customers, investors, and partners now pay close attention to how brands handle their environmental impact. Your carbon reduction work is no longer just an internal goal — it is a visible part of how your brand is judged.
+**Column 1 — The Problem**
+Customers, investors, and partners now pay close attention to how brands handle their environmental impact. Your carbon reduction work is no longer just an internal goal — it is a visible part of how your brand is judged. Yet many businesses do real, meaningful work to cut their carbon output but struggle to communicate it well. The result: your effort stays invisible, and the trust you earned goes unclaimed.
 
-**Column 2 — The Gap**
-Many businesses do real, meaningful work to reduce their carbon output but struggle to communicate it well. The result: your effort stays invisible, and the trust you earned goes unclaimed.
-
-**Column 3 — The Opportunity**
-A clear, honest carbon reduction story sets your brand apart. It builds loyalty, attracts aligned partners, and gives your team a message they can stand behind — in every campaign, pitch, and conversation.
+**Column 2 — The Opportunity**
+A clear, honest carbon reduction story sets your brand apart. It builds loyalty, attracts aligned partners, and gives your team a message they can stand behind — in every campaign, pitch, and conversation. The brands that learn to tell this story well are already pulling ahead, building the kind of trust that turns first-time buyers into long-term advocates.
 
 ---
 
@@ -96,9 +93,9 @@ Link your progress to something your audience already cares about — cleaner ai
 
 ---
 
-## Page 6 — Core C (2 Columns)
+## Page 6 — Core C (3 Columns)
 
-**Visual Note:** White background. Left column has forest green header block. Right column has gold header block. Body text in dark charcoal. Clean, professional layout.
+**Visual Note:** White background. Three equal columns — forest green header block on left, gold header block in center, slate header block on right. Body text in dark charcoal. Clean, professional layout.
 
 **Section Header:** Messaging That Builds Trust
 
@@ -112,11 +109,16 @@ Your carbon story belongs on every major channel — your website, your social m
 
 Work with Estelle Darcy's research on what your audience already knows and cares about. Tailor the depth of the message by channel — shorter for social, deeper for long-form content.
 
+**Column 3 — How To Say It**
+Use a calm, confident tone — not defensive, not boastful. The brands that build the most trust in this space speak like a person explaining something they genuinely believe in.
+
+Keep the language simple. Read every draft aloud. If it sounds like a report, rewrite it. If it sounds like something you would say to a colleague, it is ready.
+
 ---
 
-## Page 7 — Engagement (3 Columns)
+## Page 7 — Engagement (2 Columns)
 
-**Visual Note:** Ivory background. Three profile card columns. Forest green card headers. Gold name accent. Each card has role label, name, and short description. No photos — use illustrated avatar placeholder.
+**Visual Note:** Ivory background. Two profile card columns. Forest green card headers. Gold name accent. Each card has role label, name, and short description. No photos — use illustrated avatar placeholder.
 
 **Section Header:** Meet the Team Behind This Campaign
 
@@ -129,11 +131,6 @@ Leads overall campaign direction. Ensures the carbon story connects to brand pos
 **Role:** Content Lead
 **Name:** Estelle D.
 Shapes the words and formats for each channel. Brings audience research into every message to make content feel personal, clear, and credible.
-
-**Column 3 — Channel Lead**
-**Role:** Channel Lead
-**Name:** Jamie C.
-Manages where and how the story is shared. Coordinates timing, platform selection, and campaign distribution across all brand touchpoints.
 
 ---
 
@@ -212,7 +209,6 @@ Every great brand story starts with a decision to tell the truth. Start yours to
 ### Customization Points
 - **Adeline Palmerston** (Standardized Name) — Head of Brand & Marketing Strategy, Liceria & Co. Appears in Opener (Page 2), Page 7 profile card, and Page 8 attribution
 - **Estelle Darcy** (Standardized Name) — Content/messaging research lead. Appears in Pages 6 and 7
-- **Jamie Chastain** (Standardized Name) — Channel Lead. Appears in Page 7 profile card only
 - **Liceria & Co.** (Standardized Name) — Primary company. Appears throughout
 - **Studio Shodwe** (Standardized Name) — Workshop venue. Appears in Opener (Page 2) and Page 9
 - Date and time fields on Page 2 should use real example format: `May 15, 2025` / `09:00 AM`

@@ -8,7 +8,7 @@
 **Tone:** Inspiring, warm, human-centered
 
 **Total Pages:** 10 halaman
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -76,22 +76,19 @@ The most effective wellness brands do not sell products — they reflect a way o
 
 ---
 
-## Page 5 — Core B (4 Columns)
+## Page 5 — Core B (3 Columns)
 
 **Visual Note:** Sage green background. White column headers. Ivory body text. Terracotta accent markers at column tops. Warm, energetic layout.
 
-**Section Header:** Four Pillars of Healthier Lifestyle Brand Messaging
+**Section Header:** Three Pillars of Healthier Lifestyle Brand Messaging
 
 **Column 1 — Pillar 1: Real Over Perfect**
 Show real people making real choices, not polished models in ideal conditions. Audiences connect with progress, not perfection. Authenticity builds the kind of trust that keeps people coming back.
 
-**Column 2 — Pillar 2: Daily Over Dramatic**
-Anchor your messaging in everyday moments — a better morning, a cleaner lunch, a walk that became a habit. Small, consistent actions resonate more than big transformation promises.
+**Column 2 — Pillar 2: Daily & Inclusive**
+Anchor messaging in everyday moments and welcome people at every starting point. Small, consistent actions resonate more than big transformation promises — and a brand that feels accessible grows faster.
 
-**Column 3 — Pillar 3: Inclusive Over Exclusive**
-Healthier living is for everyone, not just the already-fit. Use language and visuals that welcome people at every starting point. A brand that feels accessible grows faster than one that feels aspirational.
-
-**Column 4 — Pillar 4: Evidence Over Enthusiasm**
+**Column 3 — Pillar 3: Evidence Over Enthusiasm**
 Back your brand claims with something real — a study, a partnership, an ingredient with a clear benefit. Warmth and enthusiasm are powerful, but credibility makes them last.
 
 ---
@@ -114,9 +111,9 @@ Choose channels where your audience already spends time. Visually rich platforms
 
 ---
 
-## Page 7 — Engagement (3 Columns)
+## Page 7 — Engagement (4 Columns)
 
-**Visual Note:** Warm white background. Three profile card columns. Sage green card headers. Terracotta name accent. Illustrated avatar placeholders. No photos.
+**Visual Note:** Warm white background. Four profile card columns. Sage green card headers. Terracotta name accent. Illustrated avatar placeholders. No photos.
 
 **Section Header:** The Team Shaping This Brand
 
@@ -134,6 +131,11 @@ Turns audience insight into words and formats that feel personal. Shapes copy fo
 **Role:** Creative Lead
 **Name:** Lorna A.
 Brings the visual identity to life. Ensures the brand looks and feels as warm and human as the words behind it — across every format and platform.
+
+**Column 4 — Data Lead**
+**Role:** Data Lead
+**Name:** Matt Z.
+Tracks audience response across every channel. Turns performance data into clear insights that help the team refine messages and reach the right people.
 
 ---
 
@@ -213,6 +215,7 @@ The healthiest brands are the most human ones. Build yours that way.
 - **Adeline Palmerston** (Standardized Name) — Head of Brand Strategy, Liceria & Co. Appears in Opener (Page 2), Page 7 profile card, and Page 8 attribution
 - **Estelle Darcy** (Standardized Name) — Audience insight lead. Appears in Pages 6 and 7
 - **Lorna Alvarado** (Standardized Name) — Creative Lead. Appears in Page 7 profile card only
+- **Matt Zhang** (Standardized Name) — Data Lead. Appears in Page 7 profile card only
 - **Liceria & Co.** (Standardized Name) — Primary company. Appears throughout
 - **Studio Shodwe** (Standardized Name) — Workshop venue. Appears in Opener (Page 2) and Page 9
 - Opener label fields use no "The" prefix — maintain this consistency throughout the file

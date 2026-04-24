@@ -8,7 +8,7 @@
 **Tone:** Accountable, clear, trust-building
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -68,11 +68,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Air Quality Performance At A Glance  
-**Jumlah Kolom:** 4
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Nitrogen**<br>Output reduced. | **Particles**<br>Levels monitored. | **Compounds**<br>Emissions tracked. | **Target**<br>Zero violations 2026. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Emissions**<br>Nitrogen output reduced. | **Air Quality**<br>Particles and compounds tracked. | **Target**<br>Zero violations by 2026. |
 
 **Visual Note:** Bold air quality performance cards in slate and teal. Clean, data-forward infographic layout.
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Compliance Workstream Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Monitoring Lead:**<br>Howard O. on air quality data. | **Reduction Lead:**<br>Murad N. on emissions programs. | **Reporting Lead:**<br>Olivia W. on stakeholder disclosure. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Monitoring Lead:**<br>Howard O. on air quality data. | **Reduction Lead:**<br>Murad N. on emissions programs. | **Reporting Lead:**<br>Olivia W. on stakeholder disclosure. | **Planning Lead:**<br>Jamie C. on compliance roadmap. |
 
 **Visual Note:** Workstream lead cards with a clean, professional layout. Use "In-Use" text.
 
@@ -161,6 +161,7 @@
 - Howard Ong (Standardized Name)
 - Murad Naser (Standardized Name)
 - Olivia Wilson (Standardized Name)
+- Jamie Chastain (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as HQ/venue reference only)
 - www.reallygreatsite.com (Standard Website)

@@ -8,7 +8,7 @@
 **Tone:** Strategic, forward-looking, confident
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -39,14 +39,14 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Pillars Of A Climate-Proof Strategy  
-**Jumlah Kolom:** 3
+**Judul Halaman:** Two Pillars Of A Climate-Proof Strategy  
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Flexibility:**<br>Operations and supply chains designed to pivot quickly when climate events disrupt the expected plan. | **Redundancy:**<br>Key business functions backed by alternatives — so one disruption does not shut down the whole operation. | **Transparency:**<br>Clear, honest reporting on climate exposure that builds investor and partner confidence even when conditions are challenging. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Operational Strength:**<br>Operations and supply chains designed with flexibility and built-in alternatives — so Liceria & Co. can pivot quickly and keep running when climate events disrupt the expected plan. | **Transparent Reporting:**<br>Clear, honest communication on climate exposure that builds investor and partner confidence — even when conditions are challenging and performance is under pressure. |
 
-**Visual Note:** Three bold strategy pillars in forest green and gold. Strong, forward-looking corporate design.
+**Visual Note:** Two bold strategy pillars in forest green and gold. Strong, forward-looking corporate design.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Strategy Leadership At Liceria & Co.  
-**Jumlah Kolom:** 2
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The Strategy Lead:**<br>Adeline Palmerston, who has integrated climate resilience into Liceria & Co.'s core business strategy — creating a planning framework that accounts for disruption without sacrificing growth or performance targets. | **The Operations Voice:**<br>Drew Feig, whose scenario planning work at Studio Shodwe has identified Liceria & Co.'s highest climate-risk operations and built the contingency frameworks that protect our performance when disruptions occur. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **The Strategy Lead:**<br>Adeline Palmerston, who has integrated climate resilience into Liceria & Co.'s core business strategy — creating a planning framework that accounts for disruption without sacrificing growth or performance targets. | **The Operations Voice:**<br>Drew Feig, whose scenario planning work at Studio Shodwe has identified Liceria & Co.'s highest climate-risk operations and built the contingency frameworks that protect our performance when disruptions occur. | **The Communications Voice:**<br>Kimberly Nguyen, whose work on investor and stakeholder reporting at Liceria & Co. ensures our climate resilience story is told clearly, credibly, and with the transparency our partners expect. |
 
-**Visual Note:** Duo-profile strategy spotlight with bold corporate design and forest green accents. Use "In-Use" text.
+**Visual Note:** Trio-profile strategy spotlight with bold corporate design and forest green accents. Use "In-Use" text.
 
 ---
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Strategy Workstream Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Risk Lead:**<br>Jamie C. on exposure mapping. | **The Design Lead:**<br>Lorna A. on resilience planning. | **The Reporting Lead:**<br>Alfredo T. on stakeholder transparency. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **The Risk Lead:**<br>Jamie C. on exposure mapping. | **The Design Lead:**<br>Lorna A. on resilience planning. |
 
 **Visual Note:** Strategy workstream cards with a bold, forward-looking layout. Use "In-Use" text.
 
@@ -158,9 +158,9 @@
 ### Customization Points:
 - Adeline Palmerston (Standardized Name)
 - Drew Feig (Standardized Name)
+- Kimberly Nguyen (Standardized Name)
 - Jamie Chastain (Standardized Name)
 - Lorna Alvarado (Standardized Name)
-- Alfredo Torres (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as venue reference only)
 - www.reallygreatsite.com (Standard Website)

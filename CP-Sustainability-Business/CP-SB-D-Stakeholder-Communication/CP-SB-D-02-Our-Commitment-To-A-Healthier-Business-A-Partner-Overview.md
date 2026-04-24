@@ -8,7 +8,7 @@
 **Tone:** Warm, transparent, partnership-focused
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -39,14 +39,14 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Ways We Are Building A Healthier Business  
-**Jumlah Kolom:** 3
+**Judul Halaman:** Two Pillars Of A Healthier Business  
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Healthier Teams:**<br>Investing in the physical and mental wellbeing of every Liceria & Co. employee — because healthy people build better businesses. | **Healthier Practices:**<br>Reviewing and improving how we work — reducing unnecessary pressure, improving flexibility, and making our operations more sustainable for the long term. | **Healthier Partnerships:**<br>Choosing partners and suppliers who share our commitment to the wellbeing of their own people and organizations. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Our People & Practices:**<br>Investing in the physical and mental wellbeing of every Liceria & Co. employee — while also reviewing and improving how we work. We are reducing unnecessary pressure, improving flexibility, and making our daily operations more sustainable for the long term. | **Our Partnerships:**<br>Choosing partners and suppliers who share our commitment to the wellbeing of their own people and organizations. Healthier partnerships are built on shared values — and we actively seek out and support organizations that hold those same standards. |
 
-**Visual Note:** Three bold health pillars in ivory and gold. Warm, elegant stakeholder design.
+**Visual Note:** Two bold health pillars in ivory and gold. Warm, elegant stakeholder design.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Who Leads Our Health Commitment  
-**Jumlah Kolom:** 2
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The People Lead:**<br>Adeline Palmerston, who has built Liceria & Co.'s organizational health strategy — connecting people investment directly to business performance and making wellbeing a core part of how we operate, not an add-on to it. | **The Partner Voice:**<br>Estelle Darcy, who manages Liceria & Co.'s partner health standards — ensuring that the organizations we work with share our commitment to building teams that are genuinely well and genuinely engaged. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **The People Lead:**<br>Adeline Palmerston, who has built Liceria & Co.'s organizational health strategy — connecting people investment directly to business performance and making wellbeing a core part of how we operate, not an add-on to it. | **The Partner Voice:**<br>Estelle Darcy, who manages Liceria & Co.'s partner health standards — ensuring that the organizations we work with share our commitment to building teams that are genuinely well and genuinely engaged. | **The Wellbeing Voice:**<br>Drew Feig, who leads the day-to-day wellbeing programs at Liceria & Co. — translating the organizational health strategy into practical initiatives that employees and partners can see and feel in their work. |
 
-**Visual Note:** Duo-profile elegant spotlight with warm design and gold accents. Use "In-Use" text.
+**Visual Note:** Trio-profile elegant spotlight with warm design and gold accents. Use "In-Use" text.
 
 ---
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Program Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Wellbeing Lead:**<br>Kimberly N. on team health. | **Culture Lead:**<br>Lorna A. on engagement. | **Partner Lead:**<br>Matt Z. on supplier standards. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Wellbeing Lead:**<br>Kimberly N. on team health. | **Culture Lead:**<br>Lorna A. on engagement. |
 
 **Visual Note:** Program lead cards with a warm, elegant layout. Use "In-Use" text.
 
@@ -158,9 +158,9 @@
 ### Customization Points:
 - Adeline Palmerston (Standardized Name)
 - Estelle Darcy (Standardized Name)
+- Drew Feig (Standardized Name)
 - Kimberly Nguyen (Standardized Name)
 - Lorna Alvarado (Standardized Name)
-- Matt Zhang (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as HQ/venue reference only)
 - www.reallygreatsite.com (Standard Website)

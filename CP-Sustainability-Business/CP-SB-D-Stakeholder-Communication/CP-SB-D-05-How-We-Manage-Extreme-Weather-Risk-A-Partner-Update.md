@@ -8,7 +8,7 @@
 **Tone:** Reassuring, transparent, practical
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -40,13 +40,13 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** How We Protect Our Operations From Extreme Weather  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **We Prepare Early:**<br>Liceria & Co. runs weather risk assessments before each season — identifying vulnerabilities and updating continuity plans before disruption arrives. | **We Respond Fast:**<br>Our teams follow tested protocols the moment a weather event is confirmed — prioritizing people safety and operational continuity in that order. | **We Report Honestly:**<br>After every significant weather event, we share a full impact report with our partners — what happened, what it cost, and what we improved as a result. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Before A Weather Event:**<br>Liceria & Co. runs weather risk assessments before each season — identifying vulnerabilities and updating continuity plans before disruption arrives. The moment a weather event is confirmed, our teams follow tested protocols that prioritize people safety and operational continuity in that order. | **After A Weather Event:**<br>Following every significant weather event, we share a full impact report with our partners — what happened, what it cost, and what we improved as a result. Honest reporting after disruption is as important to us as preparation before it. |
 
-**Visual Note:** Three bold weather management cards in slate and amber. Strong, reassuring corporate design.
+**Visual Note:** Two bold weather management cards in slate and amber. Strong, reassuring corporate design.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Who Manages Our Weather Risk  
-**Jumlah Kolom:** 2
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The Operations Lead:**<br>Adeline Palmerston, who oversees Liceria & Co.'s extreme weather response program — ensuring that every facility has a tested continuity plan and every team knows exactly what to do when conditions change. | **The Partner Voice:**<br>Drew Feig, who manages partner communication during weather events at Liceria & Co. — keeping suppliers and partners informed in real time so they can plan around any disruption to our operations. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **The Operations Lead:**<br>Adeline Palmerston, who oversees Liceria & Co.'s extreme weather response program — ensuring that every facility has a tested continuity plan and every team knows exactly what to do when conditions change. | **The Partner Voice:**<br>Drew Feig, who manages partner communication during weather events at Liceria & Co. — keeping suppliers and partners informed in real time so they can plan around any disruption to our operations. | **The Risk Voice:**<br>Lorna Alvarado, who leads risk assessment and scenario planning at Liceria & Co. — mapping the weather events most likely to affect our operations and ensuring our continuity plans are tested before they are needed. |
 
-**Visual Note:** Duo-profile partner update spotlight with bold corporate design and amber accents. Use "In-Use" text.
+**Visual Note:** Trio-profile partner update spotlight with bold corporate design and amber accents. Use "In-Use" text.
 
 ---
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Response Team Leads  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Safety Lead:**<br>Cahaya D. on people protocols. | **Continuity Lead:**<br>Howard O. on operations backup. | **Partner Lead:**<br>Harper R. on supplier communication. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Safety Lead:**<br>Cahaya D. on people protocols. | **Continuity Lead:**<br>Howard O. on operations backup. |
 
 **Visual Note:** Response team cards with a bold, reassuring layout. Use "In-Use" text.
 
@@ -158,9 +158,9 @@
 ### Customization Points:
 - Adeline Palmerston (Standardized Name)
 - Drew Feig (Standardized Name)
+- Lorna Alvarado (Standardized Name)
 - Cahaya Dewi (Standardized Name)
 - Howard Ong (Standardized Name)
-- Harper Russo (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as HQ/venue reference only)
 - www.reallygreatsite.com (Standard Website)

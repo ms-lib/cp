@@ -8,7 +8,7 @@
 **Tone:** Data-driven, accountable, strategic
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -68,11 +68,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Emissions Performance At A Glance  
-**Jumlah Kolom:** 4
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **NOx**<br>Nitrogen output. | **PM2.5**<br>Particle matter. | **VOCs**<br>Volatile compounds. | **Target**<br>Zero violation 2026. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Combustion Emissions**<br>NOx and particle matter tracked across all facilities. | **Chemical Output**<br>Volatile compound levels monitored and reported each quarter. | **Reduction Goal**<br>Zero violation target set for 2026. |
 
 **Visual Note:** Data-card design in sage and slate with bold metric labels. Clear, investor-ready layout.
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Investor Engagement Highlights  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 4
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Analyst:**<br>Jamie C. on regulatory risk. | **The Partner:**<br>Olivia W. on sustainability standards. | **The Advisor:**<br>Alfredo T. on emissions data. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **The Analyst:**<br>Jamie C. on regulatory risk. | **The Partner:**<br>Olivia W. on sustainability standards. | **The Advisor:**<br>Alfredo T. on emissions data. | **The Presenter:**<br>Estelle D. on disclosure strategy. |
 
 **Visual Note:** Engagement card layout with a professional, data-forward design. Use "In-Use" text.
 
@@ -161,6 +161,7 @@
 - Jamie Chastain (Standardized Name)
 - Olivia Wilson (Standardized Name)
 - Alfredo Torres (Standardized Name)
+- Estelle Darcy (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as HQ/venue reference only)
 - www.reallygreatsite.com (Standard Website)

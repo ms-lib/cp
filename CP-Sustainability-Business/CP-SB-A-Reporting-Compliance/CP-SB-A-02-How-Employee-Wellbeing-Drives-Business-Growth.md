@@ -8,7 +8,7 @@
 **Tone:** Data-driven, humanistic, growth-focused
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
@@ -39,14 +39,14 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Ways Wellbeing Grows Business  
-**Jumlah Kolom:** 3
+**Judul Halaman:** Two Pillars Where Wellbeing Drives Growth  
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Performance:**<br>Healthy employees produce more, stay focused longer, and deliver higher quality output. | **Retention:**<br>Teams that feel supported stay longer, reducing costly turnover and talent gaps. | **Culture:**<br>A thriving workplace attracts top talent and builds a reputation investors and clients trust. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **People Performance:**<br>Healthy employees produce more, stay focused longer, and deliver higher quality output. Teams that feel supported show lower absenteeism and stronger engagement across every function. | **Business Strength:**<br>Wellbeing directly reduces turnover costs and attracts top talent — while building a workplace reputation that investors, clients, and future hires consistently choose over the competition. |
 
-**Visual Note:** Three bold icon pillars in sage green and slate. Clean, data-ready design.
+**Visual Note:** Two bold pillars in sage green and slate. Clean, data-ready design.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Leadership On People And Performance  
-**Jumlah Kolom:** 2
+**Jumlah Kolom:** 3
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The People Lead:**<br>Adeline Palmerston, whose wellbeing strategy at Liceria & Co. has delivered measurable gains in team output, retention rates, and overall employee satisfaction scores. | **The Growth Voice:**<br>Drew Feig, whose financial modeling at Liceria & Co. has quantified the direct ROI of people investment and strengthened our growth story for investors. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **The People Lead:**<br>Adeline Palmerston, whose wellbeing strategy at Liceria & Co. has delivered measurable gains in team output, retention rates, and overall employee satisfaction scores. | **The Growth Voice:**<br>Drew Feig, whose financial modeling at Liceria & Co. has quantified the direct ROI of people investment and strengthened our growth story for investors. | **The Data Voice:**<br>Jamie Chastain, whose people analytics work at Liceria & Co. turns wellbeing survey data into clear, actionable insights that guide our workforce health decisions. |
 
-**Visual Note:** Duo-profile layout using professional serif typography and slate accents. Use "In-Use" text.
+**Visual Note:** Trio-profile layout using professional serif typography and slate accents. Use "In-Use" text.
 
 ---
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Investor Engagement Highlights  
-**Jumlah Kolom:** 3
+**Jumlah Kolom:** 2
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **The Analyst:**<br>Jamie C. on people ROI. | **The Partner:**<br>Olivia W. on talent strategy. | **The Advisor:**<br>Alfredo T. on workforce data. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **The Analyst:**<br>Olivia W. on talent strategy. | **The Advisor:**<br>Alfredo T. on workforce data. |
 
 **Visual Note:** Engagement card layout with a professional, data-forward design. Use "In-Use" text.
 
@@ -159,8 +159,8 @@
 - Adeline Palmerston (Standardized Name)
 - Drew Feig (Standardized Name)
 - Jamie Chastain (Standardized Name)
-- Olivia Wilson (Standardized Name)
 - Alfredo Torres (Standardized Name)
+- Olivia Wilson (Standardized Name)
 - Liceria & Co. (Generic Business Name)
 - Studio Shodwe (Generic Business Name — used as HQ/venue reference only)
 - www.reallygreatsite.com (Standard Website)

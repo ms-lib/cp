@@ -8,7 +8,7 @@
 **Tone:** Reassuring, confident, strategic
 
 **Total Pages:** 10 halaman
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1
 
 ---
 
@@ -76,11 +76,11 @@ A safety brand starts with what Drew Feig and his team can verify — what has b
 
 ---
 
-## Page 5 — Core B (4 Columns)
+## Page 5 — Core B (3 Columns)
 
 **Visual Note:** Slate gray background. White column headers. Ivory body text. Amber accent markers at column tops. Bold, professional grid layout.
 
-**Section Header:** Four Building Blocks of a Safety Brand
+**Section Header:** Three Building Blocks of a Safety Brand
 
 **Column 1 — Block 1: Validated Performance**
 Work with Drew Feig to document how your product or service performs under real conditions. Flood resistance, heat tolerance, storm durability — whatever applies. Real test results are the core of every credible safety claim.
@@ -88,11 +88,8 @@ Work with Drew Feig to document how your product or service performs under real 
 **Column 2 — Block 2: Plain-Language Proof**
 Translate performance data into language your audience understands. "Holds up in winds above 100 km/h" is more useful than a technical spec. Clear, specific language is more reassuring than industry terminology.
 
-**Column 3 — Block 3: Visible Consistency**
-Safety brand messaging must show up everywhere — packaging, product descriptions, social media, and customer service. Inconsistency signals that safety is a campaign, not a value. Every touchpoint should reinforce the same message.
-
-**Column 4 — Block 4: Community Connection**
-Brands that stand for safety during extreme weather events — by showing up for communities, not just selling to them — earn a loyalty that no campaign can replicate. Find the way your brand can contribute when it matters most.
+**Column 3 — Block 3: Visible & Community**
+Safety messaging must show up everywhere — and your brand should show up for communities during extreme weather events. Consistency across every touchpoint, combined with genuine community presence, earns loyalty that no campaign can replicate.
 
 ---
 
@@ -114,9 +111,9 @@ When extreme weather events occur, your brand should already be in the conversat
 
 ---
 
-## Page 7 — Engagement (3 Columns)
+## Page 7 — Engagement (4 Columns)
 
-**Visual Note:** Clean white background. Three profile card columns. Slate gray card headers. Amber name accent. Illustrated avatar placeholders. No photos.
+**Visual Note:** Clean white background. Four profile card columns. Slate gray card headers. Amber name accent. Illustrated avatar placeholders. No photos.
 
 **Section Header:** The Team Building This Brand
 
@@ -134,6 +131,11 @@ Bridges product performance and brand message. Translates test results and real-
 **Role:** Campaign Lead
 **Name:** Kimberly N.
 Plans and manages campaign execution. Builds the timing and channel strategy so the safety message reaches audiences before a crisis — and holds up strongly when one arrives.
+
+**Column 4 — Outreach Lead**
+**Role:** Outreach Lead
+**Name:** Jamie C.
+Manages community relationships and partner outreach. Ensures the brand is present and visible in the moments and channels where trust in safety brands is built over time.
 
 ---
 
@@ -213,6 +215,7 @@ Be the brand they already trust before the storm arrives.
 - **Adeline Palmerston** (Standardized Name) — Head of Brand Strategy, Liceria & Co. Appears in Opener (Page 2), Page 7 profile card, Pages 6 and 8
 - **Drew Feig** (Standardized Name) — Product validation/testing lead. Appears in Pages 4, 5, 6, and 7
 - **Kimberly Nguyen** (Standardized Name) — Campaign Lead. Appears in Page 7 profile card only
+- **Jamie Chastain** (Standardized Name) — Outreach Lead. Appears in Page 7 profile card only
 - **Liceria & Co.** (Standardized Name) — Primary company. Appears throughout
 - **Studio Shodwe** (Standardized Name) — Workshop venue. Appears in Opener (Page 2) and Pages 8 and 9
 - Opener label fields use no "The" prefix — maintain this consistency throughout the file
