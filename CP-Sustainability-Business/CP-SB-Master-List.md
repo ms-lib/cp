@@ -50,7 +50,7 @@
 
 ## D — Stakeholder Communication
 **Audience:** Board of directors, Partners, Suppliers  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Sustainability Theme |
 |---|---|---|
