@@ -1,173 +1,149 @@
-# Deep Slate 360 Leadership Feedback Report Corporate
+# JUDUL 6 OF 9
+## 360 Leadership Feedback Report
 
 **Sub-Topic:** H - Reports & Planning (Assessment)
 **Main Keywords:** 360 feedback, leadership feedback, 360 leadership feedback report, multi-source leadership review, leadership feedback summary, all-around leadership assessment, 360 degree leader evaluation
-
-**Style:** Corporate, Professional, Bold, Modern
-**Color:** Deep slate, gold, ivory, clean white
 **Audience:** Leaders, coaches, HR teams
+**Style:** Corporate, Professional, Bold, Modern
 **Tone:** Honest, supportive, developmental
-**Column Pattern:** 1 → 1 → 2 → 1 → 4 → 3 → 2 → 1 → 2 → 1
+
+**Total Pages:** 10 halaman
+**Pattern Kolom:** 1→1→2→1→4→3→2→1→2→1
 
 ---
 
-## Page 1 — Cover (1 Column)
+### PAGE 1 - COVER
+**Layout:** Cover page
+**Visual Note:** Full-bleed deep slate background, gold headline, ivory body text. Clean and authoritative layout with space for logo placement.
 
-**Headline:**
-360 Leadership Feedback Report
-
-**Subheadline:**
-What the People Around You See
-
-**Supporting Text:**
-Fiscal Year 2024 — Liceria & Co.
+**Text:**
+- Title: 360 Leadership Feedback Report
+- Subtitle: What the People Around You See
+- Supporting Text: Fiscal Year 2024 — Liceria & Co.
 
 ---
 
-## Page 2 — Opener (1 Column)
+### PAGE 2 - OPENER
+**Fase:** Opening
+**Tipe Halaman:** Opener
+**Judul Halaman:** 360 Leadership Feedback Report
+**Jumlah Kolom:** 1
 
-**Label Fields:**
-- Assessment Period: Fiscal Year 2024
-- Participant: Adeline Palmerston
-- Feedback Collected From: Direct Reports, Peers, Senior Leaders
-- Facilitated By: HR & Coaching Team, Liceria & Co.
-- Report Date: February 10, 2025
+| Kolom 1 |
+|---------|
+| **Assessment Period:**<br>Fiscal Year 2024<br>**Participant:**<br>Adeline Palmerston<br>**Feedback Collected From:**<br>Direct Reports, Peers, Senior Leaders<br>**Facilitated By:**<br>HR & Coaching Team, Liceria & Co.<br>**Report Date:**<br>February 10, 2025<br><br><br>This report compiles feedback from the people who work most closely with Adeline Palmerston — direct reports, peers, and senior leaders. The findings are presented with care and candor. The goal is to support growth, not deliver a verdict. |
 
-**Body Paragraph:**
-This report compiles feedback gathered from the people who work most closely with Adeline Palmerston — direct reports, peers, and senior leaders. The findings are presented with care and candor. The goal is to support growth, not deliver a verdict. Every insight here is an opportunity to lead better.
-
----
-
-## Page 3 — Context (2 Columns)
-
-**Section Title:**
-Two Lenses of 360 Feedback
-
-**Column 1 — Strengths**
-**Column Heading:** Strengths
-
-Strengths are the leadership behaviors that others notice, rely on, and benefit from consistently. These are the qualities that define how this leader shows up at their best — the things people mention without prompting when asked what makes this leader effective. Recognizing these strengths is not just affirmation. It is strategic: knowing what works helps a leader use those qualities with greater intention.
-
-**Column 2 — Growth Areas**
-**Column Heading:** Growth Areas
-
-Growth areas are the behaviors that others experience as gaps — moments where they wished the leader showed up differently. These are not failures. They are signals: patterns that, when changed, would meaningfully improve how others experience this leader's presence, decisions, and communication. Growth areas are where the next level of leadership lives.
+**Visual Note:** Report-document style — label fields clearly stacked, body paragraph below; formal but warm.
 
 ---
 
-## Page 4 — Core A (1 Column)
+### PAGE 3 - CONTEXT
+**Fase:** Context
+**Tipe Halaman:** Context
+**Judul Halaman:** Two Lenses of 360 Feedback
+**Jumlah Kolom:** 2
 
-**Section Title:**
-How to Read This Report
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Strengths**<br><br>Strengths are the leadership behaviors that others notice, rely on, and benefit from consistently. These are the qualities that define how this leader shows up at their best — the things people mention without prompting when asked what makes this leader effective. Recognizing these strengths is not just affirmation. It is strategic: knowing what works helps a leader use those qualities with greater intention. | **Growth Areas**<br><br>Growth areas are the behaviors that others experience as gaps — moments where they wished the leader showed up differently. These are not failures. They are signals: patterns that, when changed, would meaningfully improve how others experience this leader's presence, decisions, and communication. Growth areas are where the next level of leadership lives. |
 
-**Body Paragraph:**
-360 feedback reflects what others observe — not who you are. Read the findings with curiosity rather than defensiveness. Look for patterns across multiple respondents, not just individual comments. The most useful insight often lives in the gap between how you see yourself and how others experience you. That gap is where real leadership growth happens.
-
----
-
-## Page 5 — Core B (4 Columns)
-
-**Section Title:**
-Four Feedback Dimensions
-
-**Column 1**
-**Label:** Communication
-**Description:** How clearly and consistently does this leader communicate direction, expectations, and feedback? Do people leave conversations feeling informed and heard?
-
-**Column 2**
-**Label:** Trust & Integrity
-**Description:** Do others feel this leader is reliable, honest, and consistent? Does this leader follow through on commitments and behave the same way in public and private?
-
-**Column 3**
-**Label:** Developing Others
-**Description:** Does this leader invest in the growth of those around them? Do direct reports feel challenged, supported, and prepared for greater responsibility?
-
-**Column 4**
-**Label:** Handling Pressure
-**Description:** How does this leader perform when things are difficult or uncertain? Do others feel steady and supported, or anxious and unclear, when this leader is under stress?
+**Visual Note:** Equal-width split, gold column headings, light slate divider; clean and balanced.
 
 ---
 
-## Page 6 — Core C (3 Columns)
+### PAGE 4 - CORE A
+**Fase:** Core Content
+**Tipe Halaman:** Core A
+**Judul Halaman:** How to Read This Report
+**Jumlah Kolom:** 1
 
-**Section Title:**
-Facilitator Perspectives
+| Kolom 1 |
+|---------|
+| 360 feedback reflects what others observe — not who you are. Read the findings with curiosity rather than defensiveness. Look for patterns across multiple respondents, not just individual comments. The most useful insight often lives in the gap between how you see yourself and how others experience you. That gap is where real leadership growth happens. |
 
-**Column 1 — Adeline Palmerston**
-**Name:** Adeline Palmerston
-**Role:** Assessment Participant
-
-"Seeing yourself through others' eyes is uncomfortable and essential. I went into this process committed to hearing what people needed me to hear — not just what was easy."
-
-**Column 2 — Chiaki Sato**
-**Name:** Chiaki Sato
-**Role:** Executive Coach
-
-"The best thing a leader can do with 360 feedback is resist the urge to explain. Just listen. The patterns in what people are saying are always more useful than any individual comment."
-
-**Column 3 — Harper Russo**
-**Name:** Harper Russo
-**Role:** Senior HR Partner
-
-"We designed this process to feel safe and developmental — not punitive. When leaders engage with feedback from that place, they make real and lasting changes."
+**Visual Note:** Single-column centered layout, clear typographic hierarchy, supportive tone.
 
 ---
 
-## Page 7 — Engagement (2 Columns)
+### PAGE 5 - CORE B
+**Fase:** Core Content
+**Tipe Halaman:** Core B
+**Judul Halaman:** Four Feedback Dimensions
+**Jumlah Kolom:** 4
 
-**Section Title:**
-What Participants Experienced
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Communication**<br><br>How clearly and consistently does this leader communicate direction, expectations, and feedback? Do people leave conversations feeling informed and heard? | **Trust & Integrity**<br><br>Do others feel this leader is reliable, honest, and consistent? Does this leader follow through on commitments and behave the same way in public and private? | **Developing Others**<br><br>Does this leader invest in the growth of those around them? Do direct reports feel challenged, supported, and prepared for greater responsibility? | **Handling Pressure**<br><br>How does this leader perform when things are difficult or uncertain? Do others feel steady and supported, or anxious and unclear, when this leader is under stress? |
 
-**Card 1**
-**Name:** Matt Z.
-**Role:** Direct Report
-"The feedback process felt respectful and well-organized. I appreciated that our input was taken seriously and used in a way that actually helped our leader improve."
-
-**Card 2**
-**Name:** Shawn G.
-**Role:** Peer Leader
-"360 feedback works when leaders are genuinely open to it. What I saw here was a leader who wanted to grow — and that made the whole process feel worthwhile."
+**Visual Note:** Text-forward feedback dimension cards — label bold in gold, description in body font.
 
 ---
 
-## Page 8 — Emotional Peak (1 Column)
+### PAGE 6 - CORE C
+**Fase:** Core Content
+**Tipe Halaman:** Core C
+**Judul Halaman:** Facilitator Perspectives
+**Jumlah Kolom:** 3
 
-**Section Title:**
-Feedback Is a Form of Trust
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| [Photo placeholder]<br><br>**Adeline Palmerston**<br>Assessment Participant<br><br>*"Seeing yourself through others' eyes is uncomfortable and essential. I went into this process committed to hearing what people needed me to hear — not just what was easy."* | [Photo placeholder]<br><br>**Chiaki Sato**<br>Executive Coach<br><br>*"The best thing a leader can do with 360 feedback is resist the urge to explain. Just listen. The patterns in what people are saying are always more useful than any individual comment."* | [Photo placeholder]<br><br>**Harper Russo**<br>Senior HR Partner<br><br>*"We designed this process to feel safe and developmental — not punitive. When leaders engage with feedback from that place, they make real and lasting changes."* |
 
-**Body Paragraph:**
-When the people around you take the time to share honest feedback, they are telling you something important: they believe you can grow. They care enough to tell the truth. That is not criticism — it is one of the most generous things a colleague can do. Receiving it well, and acting on it, is how leaders earn the trust that feedback reflects.
-
----
-
-## Page 9 — Closing (2 Columns)
-
-**Section Title:**
-From Feedback to Action
-
-**Column 1**
-**Heading:** Your Next Steps
-Review the findings from each feedback dimension. Work with your coach or HR partner to identify the two or three patterns that appear most consistently. Turn those patterns into specific development goals with a clear timeline. Schedule a check-in at the 90-day mark to review progress.
-
-**Column 2**
-**Heading:** Support Available
-The coaching team at Liceria & Co. is available to debrief this report with you in a confidential session. Development resources, including workshops, reading guides, and peer coaching circles, are available to all leaders participating in this cycle. Reach out to your HR partner to begin.
+**Visual Note:** Portrait photo placeholder per column, italic quote, name + role below in small type.
 
 ---
 
-## Page 10 — Back Cover (1 Column)
+### PAGE 7 - ENGAGEMENT
+**Fase:** Engagement
+**Tipe Halaman:** Engagement
+**Judul Halaman:** What Participants Experienced
+**Jumlah Kolom:** 2
 
-**Tagline:**
-Honest Feedback. Real Growth. Better Leadership.
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Matt Z.**<br>Direct Report<br><br>"The feedback process felt respectful and well-organized. I appreciated that our input was taken seriously and used in a way that actually helped our leader improve." | **Shawn G.**<br>Peer Leader<br><br>"360 feedback works when leaders are genuinely open to it. What I saw here was a leader who wanted to grow — and that made the whole process feel worthwhile." |
 
-**Organization:**
-Liceria & Co.
+**Visual Note:** Horizontal cards, name above a gold rule, role small, quote body below.
 
-**Contact Line:**
-Prepared by the HR & Coaching Team — Leadership Development, Liceria & Co.
+---
 
-**Closing Note:**
-This report is confidential and intended solely for the use of the participant and their coach or HR partner.
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** Emotional Peak
+**Tipe Halaman:** Emotional / Reflective
+**Judul Halaman:** Feedback Is a Form of Trust
+**Jumlah Kolom:** 1
+
+| Kolom 1 |
+|---------|
+| When the people around you take the time to share honest feedback, they are telling you something important: they believe you can grow. They care enough to tell the truth. That is not criticism — it is one of the most generous things a colleague can do. Receiving it well, and acting on it, is how leaders earn the trust that feedback reflects. |
+
+**Visual Note:** Large centered layout, gold accent bar or underline on section title.
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** Closing
+**Tipe Halaman:** Closing
+**Judul Halaman:** From Feedback to Action
+**Jumlah Kolom:** 2
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Your Next Steps**<br><br>Review the findings from each feedback dimension. Work with your coach or HR partner to identify the two or three patterns that appear most consistently. Turn those patterns into specific development goals with a clear timeline. Schedule a check-in at the 90-day mark to review progress. | **Support Available**<br><br>The coaching team at Liceria & Co. is available to debrief this report with you in a confidential session. Development resources, including workshops, reading guides, and peer coaching circles, are available to all leaders participating in this cycle. Reach out to your HR partner to begin. |
+
+**Visual Note:** Action-step layout — headings bold, body descriptive and warm.
+
+---
+
+### PAGE 10 - BACK COVER
+**Layout:** Back cover page
+**Visual Note:** Full-bleed deep slate background matching cover. Gold tagline, ivory supporting text. Space for logo and contact details.
+
+**Text:**
+- Tagline: Honest Feedback. Real Growth. Better Leadership.
+- Organization: Liceria & Co.
+- Contact Line: Prepared by the HR & Coaching Team — Leadership Development, Liceria & Co.
+- Closing Note: This report is confidential and intended solely for the use of the participant and their coach or HR partner.
 
 ---
 

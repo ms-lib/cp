@@ -86,6 +86,62 @@ Gunakan style dari daftar berikut — bisa lebih dari 1, pisahkan dengan koma:
 - Hindari diksi: Lesson Plan, Curriculum, Syllabus, Semester
 - Gunakan: Activity, Our Journey, Let's Explore
 
+### Format File yang Wajib Dipatuhi
+
+Setiap file harus menggunakan format standar ini **tanpa variasi**. Agent yang tidak diberi contoh file akan mengarang format sendiri — selalu sertakan contoh atau template dalam prompt agent.
+
+**Header file:**
+```
+# JUDUL N OF [TOTAL]
+## [Judul File]
+
+**Sub-Topic:** ...
+**Main Keywords:** ...
+**Audience:** ...
+**Style:** ...
+**Tone:** ...
+
+**Total Pages:** 10 halaman
+**Pattern Kolom:** 1→1→X→1→X→X→X→1→2→1
+```
+
+**Format setiap halaman (wajib pakai struktur ini):**
+```
+### PAGE N - [NAMA]
+**Fase:** ...
+**Tipe Halaman:** ...
+**Judul Halaman:** ...
+**Jumlah Kolom:** N
+
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Bold Header:**<br>Content text. | ... | ... |
+
+**Visual Note:** ...
+```
+
+**Cover & Back Cover** tetap pakai format:
+```
+### PAGE 1 - COVER
+**Layout:** Cover page
+**Visual Note:** ...
+**Text:**
+- Title: ...
+- Subtitle: ...
+```
+
+**Larangan format:**
+- ❌ Jangan pakai `## Page 3 — Context (2 Columns)` (format prose)
+- ❌ Jangan pakai `**Column 1 — The Problem**` tanpa tabel markdown
+- ❌ Jangan pakai `**Body (30–49 words):**` sebagai label eksplisit dalam file
+- ✅ Selalu pakai markdown table `| Kolom 1 | Kolom 2 |` untuk konten multi-kolom
+
+### Aturan Eksekusi Agent
+
+- **Jalankan agent 1 per 1, tidak serentak (simultaneous)** — agent paralel meningkatkan konsumsi token secara mendadak dan berisiko menghasilkan format yang tidak konsisten
+- **Selalu sertakan contoh file atau format template** dalam prompt agent agar format output konsisten
+- Setelah setiap agent selesai, verifikasi format file sebelum lanjut ke agent berikutnya
+
 ---
 
 ## Struktur Project
