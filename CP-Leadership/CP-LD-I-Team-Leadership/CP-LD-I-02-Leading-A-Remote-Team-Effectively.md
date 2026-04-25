@@ -23,7 +23,10 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** What This Presentation Covers  **Jumlah Kolom:** 1  
+**Fase:** OPENING  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** What This Presentation Covers  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Organization:** Liceria & Co.<br>**Presenter:** Adeline Palmerston, Director of Leadership Development<br>**Location:** Studio Shodwe<br>**Session Date:** June 10, 2025<br>**Focus:** This presentation gives remote managers the foundations, habits, and mindset needed to lead distributed teams with confidence. It is built on what actually works — not assumptions about how remote work should look. |
@@ -33,7 +36,10 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Foundations Of Effective Remote Leadership  **Jumlah Kolom:** 3  
+**Fase:** OPENING  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Three Foundations Of Effective Remote Leadership  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Visibility:**<br>Remote team members need to know their work is seen. Leaders must actively surface contributions, not wait for performance reviews to acknowledge effort and results. | **Accountability:**<br>Clear ownership and deadlines prevent confusion. Effective remote leaders define who owns what — and make sure the whole team can see it, not just the manager. | **Communication:**<br>The best remote leaders communicate more often and more clearly than they think they need to. Gaps in communication are where remote teams start to drift apart. |
@@ -43,7 +49,10 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** The Shift That Changes Remote Leadership  **Jumlah Kolom:** 1  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** The Shift That Changes Remote Leadership  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | At Liceria & Co., Adeline Palmerston learned early that effective remote leadership starts with a mindset shift: stop managing tasks and start leading people. When you lead with people first, the work takes care of itself — even at a distance. That shift changes everything. |
@@ -53,7 +62,10 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Four Habits Of Effective Remote Leaders  **Jumlah Kolom:** 4  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Four Habits Of Effective Remote Leaders  
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Lead With Purpose:**<br>Connect every task to a bigger goal. Remote teams do better work when they understand why it matters. | **Protect Focus Time:**<br>Limit unnecessary meetings. Give team members time to do deep work without constant interruption. | **Stay Curious:**<br>Ask how team members are doing — not just about deliverables. Curiosity builds loyalty and surfaces problems early. | **Document Everything:**<br>Clear records of decisions, goals, and progress keep remote teams aligned without needing to ask questions constantly. |
@@ -63,7 +75,10 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Two Leaders, One Vision  **Jumlah Kolom:** 2  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** Two Leaders, One Vision  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Lead:**<br>Adeline Palmerston shapes remote leadership culture at Liceria & Co., helping managers across the organization build distributed teams that are engaged, aligned, and consistently high-performing. | **The Practitioner:**<br>Estelle Darcy leads a distributed team at Liceria & Co., applying the four habits daily and demonstrating how structured, people-first management produces strong and sustainable results. |
@@ -73,7 +88,10 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** What Remote Team Members Say  **Jumlah Kolom:** 3  
+**Fase:** ENGAGEMENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** What Remote Team Members Say  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **"I finally know where I stand."**<br>— Jamie C. | **"Our meetings actually have a point now."**<br>— Olivia W. | **"I feel part of something, not just online."**<br>— Alfredo T. |
@@ -83,7 +101,10 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Effective Leadership Has No Office  **Jumlah Kolom:** 1  
+**Fase:** PEAK  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** Effective Leadership Has No Office  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The most effective remote leaders at Liceria & Co. never waited for things to get easier. They built habits, held conversations, and led with clarity — every day, from wherever they were. That consistency is what made their teams great, not the location. |
@@ -93,7 +114,10 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE  **Tipe Halaman:** Practical/Utility  **Judul Halaman:** Lead Your Remote Team Starting Now  **Jumlah Kolom:** 2  
+**Fase:** CLOSE  
+**Tipe Halaman:** Practical/Utility  
+**Judul Halaman:** Lead Your Remote Team Starting Now  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Effective remote leadership is not a future goal — it is a daily practice. Start with one of the four habits. Build visibility into your team's work. Ask one better question this week. Small improvements in how you lead create large shifts in how your team performs. | **Take Action:**<br>Share these practices with your team. Review your current routines. Identify one thing to change this week. Contact Adeline Palmerston or the Leadership Development team at Liceria & Co. to continue the conversation. |

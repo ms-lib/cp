@@ -23,7 +23,10 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** Program Overview  **Jumlah Kolom:** 1  
+**Fase:** OPENING  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Program Overview  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Program:** Leadership Development Program<br>**The Start Date:** June 2, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston<br><br>**Our Goal:** To build the next generation of leaders at Liceria & Co. — equipping people with the mindset, skills, and practical experience needed to lead teams, drive results, and shape our organization's future. |
@@ -33,7 +36,10 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Pillars of Leadership Development  **Jumlah Kolom:** 3  
+**Fase:** OPENING  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Three Pillars of Leadership Development  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Mindset:**<br>Leadership starts within. Participants build the self-awareness, resilience, and growth orientation that strong leaders share. | **Skills:**<br>From communication to decision-making, participants develop the practical abilities that make leadership visible and effective. | **Practice:**<br>Real leadership is learned by doing. Participants take on live challenges, lead real projects, and grow through direct feedback. |
@@ -43,7 +49,10 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Why This Program Exists  **Jumlah Kolom:** 1  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** Why This Program Exists  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Leadership is not a title — it is a set of choices made every day. At Liceria & Co., we believe that the strongest organizations grow their own leaders: people who understand the culture, know the work, and carry the values forward. This program exists because great leadership does not happen by chance. It is built through intention, investment, and the right environment. Adeline Palmerston and the Liceria & Co. leadership team created this program for exactly that purpose. |
@@ -53,7 +62,10 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** The Four Program Stages  **Jumlah Kolom:** 4  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** The Four Program Stages  
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Stage 1: Foundation**<br>Build self-awareness and understand your leadership identity. | **Stage 2: Skills**<br>Develop core leadership capabilities through guided training. | **Stage 3: Application**<br>Lead real projects and receive structured feedback. | **Stage 4: Integration**<br>Solidify your leadership approach and set your next goals. |
@@ -63,7 +75,10 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** The Program Leads  **Jumlah Kolom:** 2  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** The Program Leads  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Program Director:**<br>Adeline Palmerston leads the Liceria & Co. Leadership Development Program — bringing years of organizational leadership experience to design a program that is structured, human, and built to create lasting growth. | **The Research Voice:**<br>Drew Feig contributes L&D research and evidence-based frameworks to ensure every stage of the program is grounded in what actually helps leaders develop and perform. |
@@ -73,7 +88,10 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Cohort Track Leads  **Jumlah Kolom:** 3  
+**Fase:** ENGAGEMENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** Cohort Track Leads  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Emerging Leaders Track:**<br>Jamie C. on leadership foundation. | **Team Leads Track:**<br>Olivia W. on people and performance. | **Senior Leaders Track:**<br>Alfredo T. on strategy and influence. |
@@ -83,7 +101,10 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** The Leader You Are Becoming  **Jumlah Kolom:** 1  
+**Fase:** PEAK  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** The Leader You Are Becoming  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Every great leader you admire was once at the beginning of this journey. They grew not because it was easy, but because they stayed committed to learning, to improving, and to showing up for the people who counted on them. This program is your space to grow — not to become someone else, but to become the fullest version of the leader already inside you. Liceria & Co. is investing in you. Now is your time to invest in yourself. |
@@ -93,7 +114,10 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Your Development Starts Here  **Jumlah Kolom:** 2  
+**Fase:** CLOSE  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** Your Development Starts Here  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The leaders who shape Liceria & Co.'s future are in this program today. Every stage you complete, every challenge you take on, and every conversation you have here is building the leader you will become. Start with intention. Grow with consistency. Lead with impact. | **What Comes Next:**<br>Program materials, stage guides, and session schedules are available through the Liceria & Co. L&D team. Connect with Adeline Palmerston to confirm your cohort track and begin Stage 1. |

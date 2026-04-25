@@ -23,7 +23,10 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** About This Guide  **Jumlah Kolom:** 1  
+**Fase:** OPENING  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** About This Guide  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Guide: Women In Business Leadership<br>Published: April 24, 2025<br>Organization: Liceria & Co.<br>Guide Lead: Adeline Palmerston<br><br>What This Guide Is For: This guide gives women in business a clear, honest framework for growing as leaders — covering the three areas where leadership is built, the four principles that sustain it, and the community that makes it possible. It is designed to be used, not just read. |
@@ -33,7 +36,10 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Areas of Leadership  **Jumlah Kolom:** 3  
+**Fase:** OPENING  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Three Areas of Leadership  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Presence:**<br>How you carry yourself in rooms, relationships, and decisions. Presence is the foundation — it shapes how people experience your leadership before you say a word. | **Networks:**<br>Leadership does not grow in isolation. The relationships you build — within your organization and beyond it — give you information, support, and the reach to do more. | **Advancement:**<br>Moving forward deliberately. Advancement is not just about titles — it is about knowing what you want, asking for it clearly, and building the track record that backs you up. |
@@ -43,7 +49,10 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** What This Guide Is Really About  **Jumlah Kolom:** 1  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** What This Guide Is Really About  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | A guide is only useful if it meets you where you actually are. This one was written for women who are already working hard — who are showing up, doing the work, and wondering what comes next. It does not offer a formula, because leadership does not follow one. It offers a framework: clear enough to use, flexible enough to make your own. Adeline Palmerston and the Liceria & Co. team built it from real experience, with real women in mind. |
@@ -53,7 +62,10 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Four Principles That Guide Your Leadership  **Jumlah Kolom:** 4  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Four Principles That Guide Your Leadership  
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Know Your Strengths:**<br>Lead from what you are genuinely good at. Authenticity outperforms performance every time. | **Build Relationships Intentionally:**<br>The people in your network are a leadership resource. Invest in them before you need them. | **Ask for What You Want:**<br>Clarity is a leadership skill. Be direct about your goals, your needs, and the value you bring. | **Grow Through Discomfort:**<br>The most useful growth happens at the edge of what feels comfortable. Lean toward it, not away. |
@@ -63,7 +75,10 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** The Voices Behind This Guide  **Jumlah Kolom:** 2  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** The Voices Behind This Guide  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Guide Lead:**<br>Adeline Palmerston leads the Women In Business Leadership initiative at Liceria & Co. — drawing on years of experience navigating leadership to create a guide that is grounded, practical, and genuinely useful for women at every stage. | **Contributing Voice:**<br>Estelle Darcy brings depth and nuance to this guide — contributing research, lived perspective, and the kind of honest insight that makes the difference between a document that is read once and one that is returned to again and again. |
@@ -73,7 +88,10 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Guide Leads  **Jumlah Kolom:** 3  
+**Fase:** ENGAGEMENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** Guide Leads  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Presence & Identity:**<br>Jamie C. on showing up as your full self in leadership. | **Networks & Relationships:**<br>Olivia W. on building the connections that support your growth. | **Advancement & Goals:**<br>Chiaki S. on moving forward with clarity and intention. |
@@ -83,7 +101,10 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** The Leader You Are Building  **Jumlah Kolom:** 1  
+**Fase:** PEAK  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** The Leader You Are Building  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Leadership is not a destination you arrive at — it is something you build, day by day, decision by decision. Every time you speak up clearly, ask for what you need, or hold the door open for someone else, you are adding to it. This guide gives you a framework. But what you build with it is entirely your own. At Liceria & Co., we believe in the leaders you are becoming — and we are here to support every step of the way. |
@@ -93,7 +114,10 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Your Next Step Starts Here  **Jumlah Kolom:** 2  
+**Fase:** CLOSE  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** Your Next Step Starts Here  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The three areas and four principles in this guide are starting points, not endpoints. Return to them when you need clarity. Use them to prepare for a conversation, a review, or a decision. Share them with someone you are mentoring. The guide is most powerful when it stays in use — not on a shelf. | **What Comes Next:**<br>Access the full Liceria & Co. Women In Business Leadership resource library. Connect with Adeline Palmerston to join the ongoing program, attend a session, or contribute your own leadership story. |

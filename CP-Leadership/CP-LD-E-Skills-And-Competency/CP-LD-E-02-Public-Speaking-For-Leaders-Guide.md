@@ -23,7 +23,10 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** About This Guide  **Jumlah Kolom:** 1  
+**Fase:** OPENING  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** About This Guide  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Topic:** Public Speaking For Leaders<br>**The Session Date:** June 9, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston<br><br>**Our Goal:** Public speaking is one of the most powerful tools a leader has — and one of the most avoided. This guide gives leaders and managers at Liceria & Co. the practical skills to speak with confidence, connect with any room, and deliver messages that people remember. |
@@ -33,7 +36,10 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Elements of Strong Leadership Presence  **Jumlah Kolom:** 3  
+**Fase:** OPENING  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Three Elements of Strong Leadership Presence  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Voice:**<br>How you sound matters as much as what you say. Pace, volume, and tone all signal confidence. A steady, clear voice puts audiences at ease and keeps attention sharp. | **Message:**<br>The best speakers have a single clear idea they want people to walk away with. Know your message before you speak — and come back to it, again and again. | **Room:**<br>Great speakers read their audience. They adjust energy, eye contact, and pacing based on who is listening — making every person in the room feel like they are being spoken to directly. |
@@ -43,7 +49,10 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Why Leaders Must Learn To Speak Well  **Jumlah Kolom:** 1  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** Why Leaders Must Learn To Speak Well  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Most leaders are not afraid of talking — they are afraid of being judged, misunderstood, or forgetting what they wanted to say. That fear is normal. But it cannot be the reason a good idea stays unheard or a team goes without the direction it needs. At Liceria & Co., we believe every leader can become a stronger speaker — not by being perfect, but by being prepared, present, and genuinely themselves. Adeline Palmerston designed this guide to turn that belief into practice. |
@@ -53,7 +62,10 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Four Public Speaking Principles For Leaders  **Jumlah Kolom:** 4  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Four Public Speaking Principles For Leaders  
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Prepare With Purpose:**<br>Know your goal. Know your audience. Know your opening sentence. Preparation is what turns nerves into energy. | **Start Strong:**<br>The first 30 seconds set the tone. Open with a question, a fact, or a story — not an apology or a disclaimer. | **Pause On Purpose:**<br>Silence is power. A well-placed pause gives the audience time to absorb, and gives the speaker time to think. Use it freely. | **End With One Thing:**<br>Close with the single most important message. Tell the room exactly what you want them to remember — then stop. |
@@ -63,7 +75,10 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** The Speaking Coaches  **Jumlah Kolom:** 2  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** The Speaking Coaches  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Program Lead:**<br>Adeline Palmerston leads Liceria & Co.'s public speaking program — helping leaders at all levels move from anxious to confident, from unclear to compelling, and from speaking to leading through every word they say. | **The Speaking Coach:**<br>Drew Feig brings hands-on coaching to every session at Studio Shodwe — working with participants one-on-one to improve delivery, refine structure, and build the speaking habits that stick long after the workshop ends. |
@@ -73,7 +88,10 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** What Participants Are Saying  **Jumlah Kolom:** 3  
+**Fase:** ENGAGEMENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** What Participants Are Saying  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **On Preparation:**<br>"Having a clear opening line changed everything for me." — Jamie C. | **On Pausing:**<br>"I used to rush. Now I pause — and the room actually listens more." — Olivia W. | **On Presence:**<br>"I stopped apologizing in my opening and my whole energy shifted." — Alfredo T. |
@@ -83,7 +101,10 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** The Room Is Yours  **Jumlah Kolom:** 1  
+**Fase:** PEAK  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** The Room Is Yours  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Every strong speaker you have ever admired was nervous the first time. They kept going anyway — and the more they spoke, the more natural it became. You are already leading. You already have something worth saying. Now it is time to say it clearly, say it with confidence, and trust that the room is ready to hear you. Liceria & Co. is behind you. Step forward and speak. |
@@ -93,7 +114,10 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE  **Tipe Halaman:** Practical/Utility  **Judul Halaman:** Your Speaking Journey Starts Now  **Jumlah Kolom:** 2  
+**Fase:** CLOSE  
+**Tipe Halaman:** Practical/Utility  
+**Judul Halaman:** Your Speaking Journey Starts Now  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Public speaking is a skill — not a talent. It grows with every presentation, every meeting, and every moment you choose to speak up rather than hold back. Start practicing the four principles in this guide. Apply them in real conversations first — then in the bigger rooms. | **Your Next Step:**<br>Connect with Adeline Palmerston and Drew Feig at Liceria & Co. to register for the next public speaking session at Studio Shodwe. Coaching slots and group practice sessions are available on request. |

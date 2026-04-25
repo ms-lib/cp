@@ -23,7 +23,10 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** About This Program  **Jumlah Kolom:** 1  
+**Fase:** OPENING  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** About This Program  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Program:** Startup Leadership & Growth<br>**The Date:** February 10, 2026<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To give startup founders and early-stage leaders the tools, mindset, and community to lead their teams through the chaos of growth — building organizations that move fast, stay grounded, and keep people at the center of everything they build. |
@@ -33,7 +36,10 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Challenges of Startup Leadership  **Jumlah Kolom:** 3  
+**Fase:** OPENING  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Three Challenges of Startup Leadership  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Everything Changes Fast:**<br>In a startup, the strategy shifts, the team grows, and the product evolves — sometimes all at once. Leaders who build the ability to stay clear-headed under constant change give their teams the steadiness they need to keep moving and performing under pressure. | **Everyone Wears Many Hats:**<br>Early-stage leaders often lead product, people, culture, and strategy at the same time. The risk is spreading too thin. The opportunity is seeing the full picture — and using that visibility to connect your team around a shared direction that keeps daily work meaningful. | **Building Trust While Moving Fast:**<br>Startup speed can erode trust if leaders are not deliberate. Teams that grow fast without investing in relationships, honest communication, and clear expectations often fracture under pressure. The best startup leaders build trust as fast as they build product. |
@@ -43,7 +49,10 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** The Leader the Startup Needs  **Jumlah Kolom:** 1  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** The Leader the Startup Needs  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Startups do not fail from bad ideas alone — they fail when leadership cannot keep up with growth. The moment a team goes from five people to fifteen, the way you lead has to change. What worked when you knew everyone's name and coffee order does not work when you have three teams, two time zones, and a product that ships every week. Adeline Palmerston and the Liceria & Co. team built this program for founders and early leaders who want to grow as fast as the business they are building. |
@@ -53,7 +62,10 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Stages of the Growth Program  **Jumlah Kolom:** 3  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Three Stages of the Growth Program  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Stage 1 — Lead Yourself:**<br>Great startup leaders start with self-awareness. Understand your strengths, name your blind spots, and build the habits and emotional resilience that allow you to lead well when the pressure is highest and the answers are unclear. | **Stage 2 — Lead Your Team:**<br>Build a team culture that attracts the right people and keeps them engaged. Learn how to give feedback that actually helps, how to delegate without losing direction, and how to create an environment where your team leads alongside you. | **Stage 3 — Lead the Organization:**<br>As the company grows, leadership becomes a system. Build structures, hire for leadership, and create the culture and communication rhythms that allow the organization to keep moving forward — even when you are not in the room. |
@@ -63,7 +75,10 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** The Voices Behind This Program  **Jumlah Kolom:** 2  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** The Voices Behind This Program  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Program Lead:**<br>Adeline Palmerston leads the Startup Leadership & Growth Program at Liceria & Co. — combining founder experience with a deep understanding of team dynamics to help early-stage leaders build organizations that grow with purpose, not just speed. | **The Supporting Voice:**<br>Drew Feig contributes operational depth and a grounded perspective to this program — ensuring every framework is tested against the real conditions of early-stage companies where resources are limited and the cost of poor leadership is immediate. |
@@ -73,7 +88,10 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Program Leads  **Jumlah Kolom:** 4  
+**Fase:** ENGAGEMENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** Program Leads  
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Leading Through Change:**<br>Lorna A. on staying clear and grounded when everything around you is moving fast and the pressure to react is constant. | **Team Building & Culture:**<br>Kimberly N. on building a startup team culture that attracts great people and keeps them engaged through the hard phases of growth. | **Delegation & Direction:**<br>Rosa Maria A. on how to delegate well, maintain strategic clarity, and stop being the bottleneck as the organization scales up. | **Organizational Growth:**<br>Chiaki S. on building the leadership systems, structures, and communication habits that allow a startup to grow without losing its soul. |
@@ -83,7 +101,10 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** You Are Building More Than a Company  **Jumlah Kolom:** 1  
+**Fase:** PEAK  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** You Are Building More Than a Company  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Every startup is a bet on what could exist that does not yet. But the thing people often underestimate is that you are also building a culture, a community, and a set of leadership habits that will define how your organization behaves for years. The decisions you make about how to treat your team today — how honest you are, how much you invest in people, how willing you are to slow down and listen — become the DNA of the company you are building. Lead that part with the same ambition you bring to the product. |
@@ -93,7 +114,10 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Build. Lead. Grow.  **Jumlah Kolom:** 2  
+**Fase:** CLOSE  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** Build. Lead. Grow.  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The work of building a startup is hard. The work of leading one with clarity, care, and conviction is harder — and more important. The leaders who invest in their own growth while growing their companies are the ones who build something that lasts. Liceria & Co. is here to support founders and early-stage leaders every step of the way. | **What Comes Next:**<br>Join the Startup Leadership cohort, access the full program resource library, and connect with Adeline Palmerston at Liceria & Co. to take the next step in building a company and a leadership practice worth being proud of. |

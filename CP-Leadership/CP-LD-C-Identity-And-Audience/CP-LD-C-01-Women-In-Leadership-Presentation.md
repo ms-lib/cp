@@ -23,7 +23,10 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** About This Presentation  **Jumlah Kolom:** 1  
+**Fase:** OPENING  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** About This Presentation  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Presentation:** Women In Leadership<br>**The Date:** May 15, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To celebrate the progress women have made in leadership, to name what still needs to change, and to give every woman in this room the language, the confidence, and the community to lead boldly — right now, at every level. |
@@ -33,7 +36,10 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Dimensions of Women's Leadership  **Jumlah Kolom:** 3  
+**Fase:** OPENING  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Three Dimensions of Women's Leadership  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Voice:**<br>Leadership begins with being heard. Women who lead with a strong, clear voice shape decisions, shift culture, and make space for others to speak up. | **Visibility:**<br>You cannot lead from the shadows. When women are visible — in rooms, on platforms, in data — they open paths for the women who come after them. | **Influence:**<br>True leadership moves people toward something meaningful. Women who lead with influence build lasting trust, strong teams, and organizations that grow with purpose. |
@@ -43,7 +49,10 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Why Women's Leadership Matters  **Jumlah Kolom:** 1  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** Why Women's Leadership Matters  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | When women lead, organizations think more broadly, decide more carefully, and grow more sustainably. The evidence is clear — diverse leadership teams outperform. But beyond the numbers, women's leadership matters because representation matters. Every woman in a leadership role expands what is possible for those who follow. Adeline Palmerston and the Liceria & Co. leadership team believe this deeply — and built this presentation to make that belief visible. |
@@ -53,7 +62,10 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Four Commitments We Make Together  **Jumlah Kolom:** 4  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Four Commitments We Make Together  
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Speak Up:**<br>Share your perspective — every time, in every room. Your voice is a leadership act. | **Step Forward:**<br>Raise your hand for the opportunity. Growth lives just past the comfortable edge. | **Lift Others:**<br>Sponsor, mentor, and celebrate the women around you. Leadership multiplies when shared. | **Stay the Course:**<br>Progress is not always linear. Commit to the long game — for yourself and for those watching you lead. |
@@ -63,7 +75,10 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** The Voices Behind This Presentation  **Jumlah Kolom:** 2  
+**Fase:** CORE CONTENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** The Voices Behind This Presentation  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Program Lead:**<br>Adeline Palmerston leads the Women In Leadership initiative at Liceria & Co. — bringing both personal experience and organizational depth to a presentation designed to inspire, challenge, and move people to act. | **The Supporting Voice:**<br>Estelle Darcy brings research, storytelling, and sharp perspective to this presentation — ensuring the content speaks honestly to the realities women face and the strengths they bring to leadership every day. |
@@ -73,7 +88,10 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Program Leads  **Jumlah Kolom:** 3  
+**Fase:** ENGAGEMENT  
+**Tipe Halaman:** Profile/Spotlight  
+**Judul Halaman:** Program Leads  
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Voice & Communication:**<br>Lorna A. on speaking up and being heard. | **Visibility & Presence:**<br>Kimberly N. on showing up and standing out. | **Influence & Impact:**<br>Rosa Maria A. on building trust and moving teams forward. |
@@ -83,7 +101,10 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** You Are Already a Leader  **Jumlah Kolom:** 1  
+**Fase:** PEAK  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** You Are Already a Leader  
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Leadership is not something you earn when the title arrives. It lives in the way you show up, the decisions you make, and the people you choose to lift along the way. Every woman in this room has already led — in quiet moments and loud ones, in meetings and in hallways, in choices no one else noticed. This presentation does not ask you to become something new. It asks you to see, fully and without apology, the leader you already are. |
@@ -93,7 +114,10 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Lead With Confidence  **Jumlah Kolom:** 2  
+**Fase:** CLOSE  
+**Tipe Halaman:** Emotional/Reflective  
+**Judul Halaman:** Lead With Confidence  
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The conversation that started here today does not end when this presentation closes. It continues in every decision you make, every voice you amplify, and every door you choose to hold open. Lead with confidence. Lead with care. And know that Liceria & Co. is behind you every step of the way. | **What Comes Next:**<br>Join the follow-up sessions, connect with the Women In Leadership community at Liceria & Co., and reach out to Adeline Palmerston to continue the conversation and access program resources. |
