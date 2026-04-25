@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** About This Presentation  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Organization:** Liceria & Co.<br>**Date:** May 20, 2025<br>**Venue:** Studio Shodwe<br>**Presenter:** Adeline Palmerston<br>**Focus:** [Type your session theme here]<br><br>**Purpose:** To introduce servant leadership in a way that is clear, practical, and immediately useful — giving every new and developing leader at Liceria & Co. a solid foundation for building a leadership style centered on people. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** How Servant Leadership Is Different  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Focus Shifts:**<br>Traditional leadership asks "How do I reach my goals?" Servant leadership asks "How do I help my team reach theirs?" The direction of attention changes everything. | **Power Is Shared:**<br>In traditional models, authority flows down. In servant leadership, decisions are made as close to the work as possible — with the people doing it. | **Success Is Redefined:**<br>A servant leader measures success by how well their people grow — not by how much recognition the leader receives. Team achievement is the scorecard. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Leadership Starts With A Question  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Most people learn leadership as a set of skills — how to delegate, how to present, how to decide. But servant leadership starts with a mindset shift. It asks you to lead from a place of genuine care. At Liceria & Co., Adeline Palmerston describes it simply: "The job is not to have all the answers. The job is to ask the right questions and make it safe for your team to answer honestly." That single shift — from telling to asking — is where servant leadership begins. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Four Traits of a Servant Leader  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Empathy:**<br>They understand how their team feels — and let that understanding shape how they lead. | **Humility:**<br>They do not need to be the smartest person in the room. They need to bring out the best in the room. | **Patience:**<br>They invest in long-term growth over short-term results. People develop at different speeds. | **Accountability:**<br>They hold themselves to the same standards they set for others — and own their mistakes openly. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Two Leaders, One Philosophy  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Adeline Palmerston — People Lead:**<br>When I became a leader, I thought my job was to have the best ideas. I quickly learned that my real job is to create the conditions where my team's best ideas can happen. Servant leadership gave me that clarity. | **Drew Feig — Team Lead:**<br>I came from a traditional management background. Shifting to servant leadership was uncomfortable at first — it felt like giving up control. What I found instead was that I gained something far better: a team that trusted me. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** What New Leaders Are Learning  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Jamie C.:**<br>"I used to think being in charge meant having all the answers. Now I know it means asking the right questions." | **Olivia W.:**<br>"The most powerful thing a leader can say is 'I don't know — what do you think?' It builds more trust than any answer could." | **Alfredo T.:**<br>"Servant leadership is not soft. It takes more courage to put someone else first than to assert your own authority." |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** You Don't Have To Lead Alone  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | New leaders often feel pressure to project confidence before they feel it. Servant leadership offers a different path. It says: your team is your strength, not your audience. When you stop trying to lead above your people and start leading alongside them, the pressure lifts — and the work gets better. You do not need all the answers on day one. You just need to show up curious, consistent, and genuinely committed to the people around you. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** One Mindset, One Step  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Servant leadership is not a destination. It is a daily practice. Start today by choosing one moment — a meeting, a check-in, a conversation — where you lead with a question instead of an answer. Notice what changes. | **Keep Going:**<br>Continue your servant leadership learning through Liceria & Co.'s leadership development programs. Connect with Adeline Palmerston or Drew Feig to explore next steps on your leadership journey. |

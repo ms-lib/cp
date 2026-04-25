@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Being Ready Is How We Take Care Of Each Other  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Extreme weather is becoming more frequent. The best thing we can do is prepare before it happens. At Liceria & Co., keeping every person at Studio Shodwe safe is a top priority. This guide gives our team steps to stay safe and support each other when conditions get difficult. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Types Of Weather Events We Prepare For  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Storms & Flooding:**<br>Heavy rain, flash floods, and strong winds that can affect travel, access, and our physical workspace. | **Extreme Heat:**<br>Heatwaves that affect health, focus, and the safety of team members commuting or working outdoors. | **Cold & Ice:**<br>Severe cold snaps and icy conditions that disrupt travel and create safety risks for our team. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Preparedness Is An Act Of Respect  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The teams that stay safest in a storm are the prepared ones. At Liceria & Co., investing in weather readiness shows Studio Shodwe team members their safety comes first. When people know there is a plan, they act clearly and recover faster. Preparedness says: we value you. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Your Weather Safety Checklist  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Know The Plan**<br>Read our emergency guide. | **Stay Informed**<br>Monitor weather alerts. | **Check In**<br>Contact your manager. | **Support Others**<br>Look out for teammates. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Team Leaders You Can Count On  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Safety Lead:**<br>Estelle Darcy, who designed Liceria & Co.'s extreme weather response protocol at Studio Shodwe and ensures every team member knows exactly what to do before, during, and after a weather event. | **The Wellbeing Coordinator:**<br>Cahaya Dewi, who manages our Liceria & Co. team check-in system during weather disruptions, making sure no one is left without support or communication. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Voices From Our Team  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Planner:**<br>Shawn G. on emergency kits. | **The Communicator:**<br>Harper R. on team check-ins. | **The First Responder:**<br>Matt Z. on quick action. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** We Look After Each Other — Always  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | In moments of disruption, people remember how their team responded. At Liceria & Co., no one faces it alone. When extreme weather hits Studio Shodwe, our response is preparation and care — for the person commuting, the colleague at home, anyone who needs support. We look after each other. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Be Ready Before The Next Weather Event  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Weather preparedness is not something we do once and forget. At Liceria & Co., our Studio Shodwe safety culture means we review our plans regularly, keep our contact lists current, and make sure every new team member knows the protocols from day one. The more prepared we are, the more confidently we can face whatever comes. | **Your Next Step:**<br>Read the full Liceria & Co. Extreme Weather Protocol, save emergency contacts to your phone, and confirm your remote work setup is ready. Contact Estelle Darcy at Liceria & Co. with any questions or concerns. |

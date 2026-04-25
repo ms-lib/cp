@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** About This Presentation  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Organization:** Liceria & Co.<br>**Date:** June 10, 2025<br>**Venue:** Studio Shodwe<br>**Presenter:** Adeline Palmerston<br>**Topic:** [Type your leadership theme here]<br><br>**Purpose:** To explore what authentic leadership means in practice — and to give every leader at Liceria & Co. the tools to lead from their genuine values, build real trust with their teams, and show up with consistency and confidence every day. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Two Foundations of Authentic Leadership  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Self-Awareness:**<br>Authentic leaders know their strengths, their blind spots, and what drives their decisions. This clarity lets them lead with intention rather than reaction — and helps their teams understand where their leader is coming from, even when things get hard. | **Values:**<br>Authentic leaders are anchored to a clear set of values that guide how they make decisions, treat people, and show up under pressure. When your values are visible to your team, they become the most reliable signal your leadership sends. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Leader Behind The Role  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Authentic leadership is not about having no flaws. It is about leading without pretending you do not have any. When Adeline Palmerston took on her current role at Liceria & Co., she made one commitment to her team: she would always tell them the truth — about the work, about her thinking, and about what she did not yet know. That commitment changed the team's culture faster than any initiative. People do not follow perfect leaders. They follow honest ones. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Four Pillars of Authentic Leadership  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Self-Awareness:**<br>Know your values, your patterns, and the impact your behavior has on others. | **Transparency:**<br>Share your reasoning openly. Let your team see how you think and why you decide what you do. | **Consistency:**<br>Show up the same way when things are easy and when things are hard. Consistency is the foundation of trust. | **Integrity:**<br>Do what you say you will do. Own your mistakes. Hold yourself accountable before anyone else does. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Three Voices on Authentic Leadership  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Adeline Palmerston — People Lead:**<br>Authentic leadership is not about sharing everything. It is about never saying something you do not mean. That one standard changes how every conversation lands. | **Estelle Darcy — Program Lead:**<br>I used to perform confidence I did not feel. When I started admitting uncertainty honestly, my team started trusting me more — not less. That surprised me. | **Drew Feig — Team Lead:**<br>Leading authentically means your team knows what you stand for before you say a word. Your actions teach them your values long before your words do. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** What Authentic Leadership Looks Like in Practice  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Jamie C.:**<br>"I share my values with every new team member on day one. It sets the tone before any task or project does." | **Olivia W.:**<br>"When I make a mistake in front of my team and own it directly, it opens a door that no amount of competence could. Authenticity is a trust accelerator." |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Trust You Build By Being Real  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | There is a version of leadership that looks confident, sounds polished, and keeps everyone at arm's length. And there is authentic leadership — which is messier, more human, and infinitely more powerful. When you lead authentically, your team does not just follow your direction. They trust your judgment, they speak honestly in return, and they bring problems to you before they become crises. That kind of trust cannot be bought or mandated. It is built slowly, one honest interaction at a time. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Lead From Who You Are  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | You do not need to reinvent your leadership style. Start by naming your top three values and asking yourself: do my team members see those values in how I show up every day? If not, that gap is where authentic leadership begins. | **Next Steps:**<br>Liceria & Co. offers ongoing leadership coaching and team workshops. Connect with Adeline Palmerston through our internal development programs to continue building your authentic leadership practice. |

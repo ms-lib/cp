@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** The Business Risk You Cannot Afford to Ignore  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Company:** Liceria & Co.<br>**Session:** April 8, 2025<br>**Location:** Studio Shodwe Leadership Center<br>**Facilitator:** Adeline Palmerston, Head of People & Performance<br><br>**Our Focus:** Burnout is one of the most damaging — and most preventable — risks to business performance. At Liceria & Co., we treat it as a strategy issue, not just a people issue. This session at Studio Shodwe gives managers the framework to spot it early, understand its cost, and act before it damages the team and the results. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** How Burnout Damages Business Performance  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Output Drops:**<br>Burned-out employees produce less, make more mistakes, and take longer to complete the same work. | **Turnover Rises:**<br>Burnout is one of the top reasons employees leave — and replacing them costs significantly more than keeping them. | **Culture Breaks:**<br>When burnout spreads through a team, engagement, trust, and collaboration all deteriorate — often silently. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Burnout Does Not Announce Itself  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | By the time burnout is obvious, the damage is already done. The early signs — missed deadlines, shorter tempers, quieter meetings — are easy to miss when you are focused on results. At Liceria & Co., we train managers at Studio Shodwe to see what is happening before performance falls off a cliff. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Burnout Risk Checklist  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Load & Autonomy:**<br>Is demand exceeding capacity — and can people shape how they work? | **Rest & Recovery:**<br>Are people genuinely switching off and returning recharged? | **Recognition:**<br>Do people feel their effort is seen and valued? |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** People Risk Leadership  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The People Lead:**<br>Adeline Palmerston, who has built Liceria & Co.'s burnout prevention framework — connecting early warning indicators directly to manager action plans that protect both people and business outcomes. | **The Performance Voice:**<br>Estelle Darcy, whose team health work at Studio Shodwe has helped Liceria & Co. reduce unplanned absences and improve output consistency across multiple high-pressure departments. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Session Leads  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **The Signals Lead:**<br>Kimberly N. on early warning signs. | **The Culture Lead:**<br>Lorna A. on team environment. | **The Recovery Lead:**<br>Matt Z. on sustainable workload. | **The Wellbeing Lead:**<br>Sacha D. on manager support tools. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Protect Your People. Protect Your Results.  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The best managers at Liceria & Co. do not wait for performance to drop before they act on team health. They understand that protecting people from burnout is the same as protecting results. When your team is well, the work is better. When the work is better, the business wins. That is not soft leadership — it is smart strategy. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** One Action That Protects Your Team This Week  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Before leaving Studio Shodwe today, identify one early warning sign of burnout in your Liceria & Co. team and one concrete action you will take in the next seven days. Early action is always cheaper — in every sense — than late recovery. | **Resources:**<br>Burnout risk assessments, workload review tools, and manager action guides are available from the Liceria & Co. people team. Contact Adeline Palmerston to access them. |

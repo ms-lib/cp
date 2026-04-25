@@ -26,8 +26,7 @@
 **Fase:** Opening  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** How To Build A Brand That Stands For Safety  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Workshop:**<br>How To Build A Brand That Stands For Safety<br>**Led by:**<br>Adeline Palmerston<br>**Venue:**<br>Studio Shodwe<br>**Our Goal:**<br>Build a safety-focused brand position that earns trust before a crisis arrives<br><br>Extreme weather events — floods, wildfires, heatwaves, storms — are happening more often and affecting more people. When conditions get difficult, people turn to brands they trust. This session shows your team how to build and communicate that trust before it is needed. |
@@ -40,8 +39,7 @@
 **Fase:** Context  
 **Tipe Halaman:** Context / Background  
 **Judul Halaman:** Why Safety Is a Brand Position, Not Just a Product Feature  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Changing Climate**<br>Extreme weather events are more frequent, more severe, and more visible than they were a decade ago. Consumers are paying attention — and they are making purchasing decisions based on which brands they believe will protect them when things get hard. | **The Trust Deficit**<br>Many brands claim to be safe, reliable, or weather-tested. Few can prove it in a way that resonates with a general audience. The gap between what brands say and what audiences believe is where safety brand strategy begins. | **The Market Position**<br>A brand that genuinely stands for safety — proven through real testing, honest communication, and consistent performance — earns a type of loyalty that is very hard to displace. When a crisis comes, your audience will already know your name. |
@@ -54,8 +52,7 @@
 **Fase:** Core Content  
 **Tipe Halaman:** Core A  
 **Judul Halaman:** Build the Proof First, Then Tell the Story  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Section Label:**<br>Core A — Safety Is Earned Before It Is Claimed<br><br>A safety brand starts with what Drew Feig and his team can verify — what has been tested, what has held up, and what performs when conditions are at their worst. You cannot market safety you have not built. Start with the evidence. |
@@ -68,8 +65,7 @@
 **Fase:** Core Content  
 **Tipe Halaman:** Core B  
 **Judul Halaman:** Three Building Blocks of a Safety Brand  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Block 1: Validated Performance**<br>Work with Drew Feig to document how your product or service performs under real conditions. Flood resistance, heat tolerance, storm durability — whatever applies. Real test results are the core of every credible safety claim. | **Block 2: Plain-Language Proof**<br>Translate performance data into language your audience understands. "Holds up in winds above 100 km/h" is more useful than a technical spec. Clear, specific language is more reassuring than industry terminology. | **Block 3: Visible & Community**<br>Safety messaging must show up everywhere — and your brand should show up for communities during extreme weather events. Consistency across every touchpoint, combined with genuine community presence, earns loyalty that no campaign can replicate. |
@@ -82,8 +78,7 @@
 **Fase:** Core Content  
 **Tipe Halaman:** Core C / Profile  
 **Judul Halaman:** Communicating Safety Without Overpromising  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **What Honesty Looks Like**<br>The fastest way to destroy a safety brand is to overpromise and underdeliver during a crisis. Work closely with Drew Feig to confirm exactly what your product can and cannot do under extreme conditions.<br><br>Your messaging should be precise: "built for heavy rain and wind" is honest. "Nothing can stop it" is not. Audiences who trust you before a crisis will trust you through it — if your claims hold up when tested. | **Building the Long-Term Narrative**<br>Adeline Palmerston's framework for safety brand positioning is built on three consistent proof points that you return to across every campaign, every season, and every channel. A safety brand is not built in one campaign — it is built over time, through consistent performance and consistent communication.<br><br>When extreme weather events occur, your brand should already be in the conversation. That happens through ongoing visibility, not reactive messaging. Show up consistently so your audience knows exactly who you are when they need you. |
@@ -96,8 +91,7 @@
 **Fase:** Engagement  
 **Tipe Halaman:** Team / Profile Cards  
 **Judul Halaman:** The Team Building This Brand  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Brand Lead**<br>**Adeline P.**<br>Directs the overall brand strategy. Ensures the safety message is consistent, credible, and positioned to reach the right audiences — especially when extreme weather brings the brand into the spotlight. | **Content Lead**<br>**Drew F.**<br>Bridges product performance and brand message. Translates test results and real-world data into clear, trustworthy language that works across every brand touchpoint and campaign format. | **Campaign Lead**<br>**Kimberly N.**<br>Plans and manages campaign execution. Builds the timing and channel strategy so the safety message reaches audiences before a crisis — and holds up strongly when one arrives. | **Outreach Lead**<br>**Jamie C.**<br>Manages community relationships and partner outreach. Ensures the brand is present and visible in the moments and channels where trust in safety brands is built over time. |
@@ -110,8 +104,7 @@
 **Fase:** Emotional Peak  
 **Tipe Halaman:** Pull Quote / Reflective  
 **Judul Halaman:** Already There, Already Trusted  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **"The brands people reach for during a storm are not the ones who appeared after the forecast — they are the ones who were already there, already trusted, already proven."**<br>— Adeline Palmerston, Head of Brand Strategy, Liceria & Co.<br><br>Safety is not a campaign — it is a brand commitment that shows up long before conditions get difficult. The work your team does here at Studio Shodwe is about building that foundation: the proof, the message, and the presence that earns trust when it matters most. |
@@ -124,8 +117,7 @@
 **Fase:** Closing  
 **Tipe Halaman:** Closing / Action  
 **Judul Halaman:** Build the Brand That Shows Up  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Take This Forward**<br>Extreme weather is not going away — and neither is your audience's need for brands they can count on. The marketing teams that build their safety positioning now, on a foundation of real performance and honest communication, will be the ones leading the conversation when it matters most.<br><br>The work here at Studio Shodwe with Adeline Palmerston and Drew Feig is the starting point. From here, you build the proof, shape the message, and show up consistently — so that when conditions get difficult, your brand is already the answer. | **Action Checklist**<br>- Confirm your core safety proof points with Drew Feig's team<br>- Write plain-language versions of each claim for general audiences<br>- Audit all active channels for consistency in safety messaging<br>- Identify community moments where your brand can genuinely contribute<br>- Build a long-term content plan anchored in three core safety proof points<br>- Schedule a 90-day review to assess reach, resonance, and message alignment |

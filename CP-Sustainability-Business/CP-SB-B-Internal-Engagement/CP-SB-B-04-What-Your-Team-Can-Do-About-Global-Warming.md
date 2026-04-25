@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** This Is Bigger Than Any One Person — And It Starts With Each Of Us  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Global warming can feel overwhelming. But solutions are built from millions of small actions by real people — including our Studio Shodwe teams at Liceria & Co. You do not need to be a scientist to make a difference. You just need to decide to act. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Ways Global Warming Connects To Our Work  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Energy We Use:**<br>Every kilowatt used in our offices contributes to — or cuts — our share of global emissions. | **Choices We Make:**<br>From food to travel to suppliers, our daily decisions carry a climate impact we can change. | **Voice We Have:**<br>Our team's commitment to climate action sends a signal that shapes our company's direction. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Your Actions Are Part Of The Solution  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | It is tempting to leave global warming to governments and corporations. But the fastest solutions involve all of us — including teams at Liceria & Co. Every action our Studio Shodwe team takes to reduce energy or cut travel helps slow warming. We are not too small to matter. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Actions That Actually Move The Needle  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Cut Energy & Travel**<br>Switch off always and meet online before any flight. | **Eat Better**<br>More plants, less meat at every meal. | **Buy Wisely**<br>Choose products and suppliers with lower impact. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Team Members Already Making A Difference  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Energy Reducer:**<br>Shawn Garcia, who led Liceria & Co.'s smart energy audit at Studio Shodwe and helped the team cut electricity use without cutting productivity. | **The Travel Challenger:**<br>Rosa Maria Aguado, whose virtual-first meeting policy at Liceria & Co. has eliminated dozens of unnecessary flights and significantly reduced our team's travel footprint. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Voices From Our Team  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **The Switcher:**<br>Matt Z. on energy habits. | **The Eater:**<br>Kimberly N. on plant-based meals. | **The Speaker:**<br>Harper R. on climate conversations. | **The Organizer:**<br>Lorna A. on team climate pledges. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** We Are Not Bystanders — We Are Part Of The Answer  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Global warming will not be solved overnight. But it will be solved — by teams who chose to act when it felt small, and by companies who faced the truth. Every choice our Studio Shodwe team makes today is part of an answer the world needs. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Start Your Climate Action Today  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The best time to act on global warming was yesterday. The second best time is today. At Liceria & Co., our Studio Shodwe team has the knowledge, the tools, and the community to take real climate action — starting with the very next decision each of us makes. Pick one action. Do it today. Then build from there. | **Your Next Step:**<br>Join our Climate Action Team, track your monthly impact, or start a conversation with your manager about a green initiative in your department. Contact Shawn Garcia at Liceria & Co. to get started. |

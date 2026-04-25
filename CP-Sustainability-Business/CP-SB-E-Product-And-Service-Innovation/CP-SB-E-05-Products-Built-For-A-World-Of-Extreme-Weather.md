@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Customers Are Buying For A More Difficult World  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Initiative: Extreme Weather Product Innovation<br>Session Date: July 8, 2025<br>Led by: Adeline Palmerston, Head of Product Innovation<br>Hosted at: Studio Shodwe Product Lab<br><br>Our Focus: Extreme weather events are becoming more frequent and more damaging — and customers are changing what they buy in response. This session at Studio Shodwe shows Liceria & Co.'s product teams where extreme weather is creating durable demand, and what it takes to build products that customers trust when conditions get hard. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Product Needs Extreme Weather Creates  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Protection:**<br>Customers want products that protect their homes, vehicles, and property from storm, flood, heat, and wind — and they are willing to pay more for products that genuinely deliver. | **Preparedness:**<br>Demand is growing for products that help people prepare before a weather event — from power backup systems to emergency supply kits to communication tools that work when networks go down. | **Recovery:**<br>After extreme weather, customers need products that help them restore normal life quickly — creating strong, recurring demand in repair, replacement, and rebuild categories. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Durability Is The New Premium  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Customers who have lived through extreme weather do not buy the same way again. They choose products that hold up — and they pay for that confidence. At Liceria & Co., designing for genuine durability is not a niche play. It is the direction the market is moving. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Extreme Weather Product Categories At A Glance  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Protect**<br>Shield homes and property. | **Prepare**<br>Equip people before events. | **Power**<br>Keep essential systems running. | **Recover**<br>Restore after disruption. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Product Innovation Leadership  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Product Lead:**<br>Adeline Palmerston, who has led Liceria & Co.'s extreme weather product initiative at Studio Shodwe — defining the performance standards and customer trust signals that products in this category must meet to earn lasting market position. | **The R&D Voice:**<br>Drew Feig, whose materials and stress-testing research at Liceria & Co. has established what it actually takes for a product to perform under extreme conditions — moving the team from aspiration to verified capability. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Product Development Leads  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Durability Lead:**<br>Murad N. on product testing. | **Design Lead:**<br>Chiaki S. on resilient design. | **Market Lead:**<br>Kimberly N. on customer demand. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Build Products People Can Count On When It Matters Most  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The products that earn the deepest customer loyalty are the ones that work when everything else does not. Customers who trust a product in an emergency tell everyone they know. At Liceria & Co., building for extreme conditions is not just a product decision — it is the clearest path to the kind of brand loyalty that no amount of marketing can buy. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Design For The Conditions That Are Coming  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Before leaving Studio Shodwe today, identify one Liceria & Co. product category where extreme weather performance is not yet a design consideration — and ask whether it should be. That question, taken seriously, is often where the most defensible product improvements start. | **Resources:**<br>Extreme weather product performance standards, customer demand analysis, and resilient design frameworks are available from the Liceria & Co. product team. Contact Adeline Palmerston to access them. |

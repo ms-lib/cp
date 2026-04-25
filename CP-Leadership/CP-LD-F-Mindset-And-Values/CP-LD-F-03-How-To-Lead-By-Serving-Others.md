@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Session Overview  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Session:** How To Lead By Serving Others<br>**The Date:** June 3, 2025<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Theme:** [Type your leadership focus here]<br><br>**The Purpose:** To move servant leadership from a concept to a daily practice — giving leaders at Liceria & Co. concrete, repeatable habits they can start using the moment they walk out of this room. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Ways Leaders Serve Their Teams Daily  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Make Space to Be Heard:**<br>Check in before you check up. Start every conversation by asking how your team member is doing — and listening to the full answer before moving to the task. | **Remove What Slows Them Down:**<br>Your most useful daily action is identifying what is blocking your team's progress and clearing it. A leader who removes obstacles multiplies output. | **Recognize Progress Out Loud:**<br>Name what your people are doing well — publicly and specifically. Recognition that names the exact contribution means far more than general praise. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Leader Who Shows Up Every Day  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Servant leadership does not live in keynotes or off-sites. It lives in the Monday morning check-in, the mid-week feedback conversation, and the Friday message that says "great work this week." At Liceria & Co., Adeline Palmerston has built her leadership on one consistent practice: showing up for her team the same way, every day, regardless of what else is going on. Consistency is not glamorous. But it is what trust is built from — and trust is the foundation every great team stands on. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Four Servant Leadership Habits  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **The Daily Check-In:**<br>Ask one person on your team each day: "What do you need from me right now?" Then act on the answer. | **The Weekly Win:**<br>End every week by recognizing one person's contribution specifically and publicly. Make it a habit, not an occasion. | **The Open Door:**<br>Let your team know when and how to reach you. Availability is one of the most powerful signals a servant leader can send. | **The Honest Debrief:**<br>After every project, ask your team what worked and what you could have done better as their leader. Listen without defending. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** How Two Leaders Practice It  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Adeline Palmerston — People Lead:**<br>Every Monday I ask my team one question before we talk about work: "What would make this week feel like a win for you?" The answers have completely changed how I plan and prioritize as a leader. | **Estelle Darcy — Program Lead:**<br>I used to think servant leadership meant saying yes to everything. I learned it actually means protecting your team's time and focus. Sometimes the most serving thing a leader can do is say no on their behalf. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Habits Our Leaders Stand By  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Jamie C.:**<br>"I block 15 minutes each morning just to check in with my team — no agenda, just presence." | **Olivia W.:**<br>"I send one specific piece of feedback every week. Not 'good job' — something real and named." | **Alfredo T.:**<br>"After every big project, I ask my team: 'What should I have done differently?' The answers make me better every time." |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Most Powerful Thing You Can Do Today  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | You do not need a new title, a bigger budget, or a restructured team to lead by serving. You need five minutes and one person on your team. Ask them one real question. Listen without interrupting. Act on what you hear. Do that consistently — today, tomorrow, and every week — and you will build something no strategy document can create: a team that trusts you, grows because of you, and chooses to follow you every day. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Start The Practice Today  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Leadership is not a one-time decision. It is a daily practice. Choose one habit from this session and commit to it for the next 30 days. Track what changes in your team's energy, output, and trust. Then add the next habit. | **Your Follow-Up:**<br>Connect with Adeline Palmerston or Estelle Darcy through Liceria & Co.'s leadership development track for ongoing coaching, peer accountability, and next steps on your servant leadership journey. |

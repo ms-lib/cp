@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Why Alignment Starts At The Top  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Event:** Leadership Alignment Summit — Liceria & Co.<br>**The Date:** September 18, 2025<br>**The Venue:** Studio Shodwe Conference Center<br>**The Summit Chair:** Adeline Palmerston, Global Head of Leadership & Strategy<br><br>**Our Purpose:** Misalignment at the leadership level is one of the most expensive problems an organization can have. Conflicting priorities, inconsistent messaging, and teams pulling in different directions — all of it traces back to leaders who were never fully aligned to begin with. This summit at Studio Shodwe exists to change that: to get every Liceria & Co. leader in the same room, on the same page, pointed in the same direction. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** What We Align On Today  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Strategic Priorities:**<br>Agreeing on what matters most — so every team below us is working toward the same organizational goals. | **Decision Principles:**<br>Establishing shared criteria for how leaders at Liceria & Co. make decisions when guidance is unclear or options compete. | **Communication Standards:**<br>Ensuring every leader leaves Studio Shodwe with the same message to carry back to their teams — clearly, consistently, and with confidence. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Misalignment Is Expensive. Alignment Is A Choice.  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | When leaders are not aligned, the cost shows up everywhere: in duplicated work, in conflicting team priorities, in the frustration of employees who receive different answers from different leaders about the same question. At Liceria & Co., we have seen what alignment does for an organization — how it speeds up decisions, simplifies communication, and builds the trust that makes every team more effective. Today at Studio Shodwe, alignment is not a hoped-for outcome. It is the explicit goal we are here to achieve — and we will not leave until we have it. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Alignment Summit Agenda  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **08:30 AM**<br>Strategic review. | **10:00 AM**<br>Priority alignment. | **01:30 PM**<br>Decision principles. | **04:00 PM**<br>Commitment close. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Summit Leadership  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Alignment Chair:**<br>Adeline Palmerston, whose cross-functional leadership work at Liceria & Co. has successfully aligned multiple teams and departments around shared organizational priorities — creating clarity where there was previously confusion and direction where there was drift. | **The Strategy Lead:**<br>Drew Feig, whose structured approach to organizational planning at Studio Shodwe ensures that alignment reached in the summit translates directly into clear priorities, assigned accountability, and measurable progress. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Workstream Leads  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Priority Lead:**<br>Alfredo T. on strategic focus. | **The Clarity Lead:**<br>Olivia W. on decision standards. | **The Messaging Lead:**<br>Matt Z. on communication alignment. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Aligned Leaders Move Organizations Forward  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Leadership is a multiplier. When leaders at Liceria & Co. are aligned, their clarity multiplies through every layer of the organization — reaching teams, shaping decisions, and building momentum that no single leader could create alone. When they are not aligned, the opposite happens: confusion spreads, energy is wasted, and the organization moves slower than it should. Today at Studio Shodwe, we choose alignment — not just for this room, but for every team and every decision that flows from what we agree on here. The work we do today makes the work of everyone below us easier, faster, and more impactful. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Carry The Alignment Back And Hold It  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Alignment reached at Studio Shodwe is only valuable if every Liceria & Co. leader holds it when they return to their teams — communicating consistently, deciding according to the shared principles we agreed on, and actively preventing the drift that misalignment creates. Protect what we built here. | **What Comes Next:**<br>Alignment summaries, shared priority documents, and communication guidelines will be distributed within 48 hours. For alignment follow-up, contact Adeline Palmerston at Liceria & Co. |

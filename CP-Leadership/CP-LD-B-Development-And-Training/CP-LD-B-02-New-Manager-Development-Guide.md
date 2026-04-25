@@ -23,11 +23,7 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING
-**Tipe Halaman:** Opener
-**Judul Halaman:** About This Guide
-**Jumlah Kolom:** 1
-
+**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** About This Guide  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **This Guide:** New Manager Development Guide<br>**Launch Date:** July 7, 2025<br>**Your Organization:** Liceria & Co.<br>**Your Program Lead:** Adeline Palmerston<br>**Designed For:** First-time and recently promoted managers<br><br>**Why It Exists:** Managing people is one of the most rewarding and most challenging roles in any organization. This guide gives new managers at Liceria & Co. a clear, practical path — so they can start strong, build confidence, and lead their teams with clarity and care. |
@@ -37,11 +33,7 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Three Challenges Every New Manager Faces
-**Jumlah Kolom:** 3
-
+**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Challenges Every New Manager Faces  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **People:**<br>Building trust, having difficult conversations, and supporting a team while earning your own footing as a new leader. | **Priorities:**<br>Knowing what to focus on, when to step in, and how to manage your time across individual work and team leadership. | **Presence:**<br>Finding the confidence, voice, and leadership style that is genuinely yours — one that earns respect and builds connection. |
@@ -51,11 +43,7 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** You Were Promoted For A Reason
-**Jumlah Kolom:** 1
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** You Were Promoted For A Reason  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The transition from individual contributor to manager is one of the biggest shifts in any career — and it is normal for it to feel uncertain at first. You were not promoted because you had all the answers. You were promoted because Liceria & Co. believed in your potential to grow, to lead, and to bring out the best in the people around you. Estelle Darcy's research on new manager success shows one thing clearly: the managers who thrive are not the most confident at the start — they are the most committed to learning. |
@@ -65,11 +53,7 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Your First-Year Development Milestones
-**Jumlah Kolom:** 4
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Your First-Year Development Milestones  **Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **First 30 Days**<br>Listen, learn, and build relationships with your team. | **First 60 Days**<br>Set clear expectations and establish your team's working rhythm. | **First 90 Days**<br>Deliver an early win and gather honest feedback on your leadership. | **First 180 Days**<br>Build a development plan for each team member and lead with consistency. |
@@ -79,11 +63,7 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** Your Development Support Team
-**Jumlah Kolom:** 2
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Your Development Support Team  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Your Program Lead:**<br>Adeline Palmerston guides new managers through the Liceria & Co. development journey — offering structured support, honest coaching, and the kind of practical wisdom that helps new leaders find their footing quickly. | **The People Researcher:**<br>Estelle Darcy brings people research and behavioral insights to the program — helping new managers understand what drives team performance and how to build trust from day one. |
@@ -93,11 +73,7 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** Your Support Leads
-**Jumlah Kolom:** 3
-
+**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Your Support Leads  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **People Support:**<br>Kimberly N. on team communication. | **Skills Support:**<br>Rosa Maria A. on managing priorities. | **Mindset Support:**<br>Cahaya D. on building confidence. |
@@ -107,11 +83,7 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Leadership Is A Practice, Not A Title
-**Jumlah Kolom:** 1
-
+**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Leadership Is A Practice, Not A Title  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | No one becomes a great manager overnight. The best leaders you know built their confidence through experience, their skills through feedback, and their reputation through consistency. The first year is not about being perfect — it is about being present, being honest, and being someone your team can count on. At Liceria & Co., you are not on this journey alone. Every step forward you take as a manager makes the whole organization stronger. |
@@ -121,11 +93,7 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Lead Well From The Start
-**Jumlah Kolom:** 2
-
+**Fase:** CLOSE  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Lead Well From The Start  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The decisions you make in your first year as a manager will shape the team culture, the trust you build, and the leader you become. Use this guide. Ask for help. Stay curious. The best managers never stop learning — and Liceria & Co. is here to support every step of your journey. | **What Comes Next:**<br>Connect with Adeline Palmerston to begin your 30-day plan. Your development guide, milestone check-ins, and support resources are available through the Liceria & Co. L&D team. |

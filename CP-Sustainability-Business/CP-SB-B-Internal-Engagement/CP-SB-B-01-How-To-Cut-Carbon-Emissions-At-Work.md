@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Why This Matters To All Of Us  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Every one of us has a role in reducing our carbon footprint at Liceria & Co. You do not need to be an expert to make a real difference. Small, consistent actions across our Studio Shodwe teams add up to measurable impact for our planet and our business. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Areas Where We Can Act Now  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Energy:**<br>How we use power in our offices and workspaces every single day. | **Travel:**<br>How we choose to move — from commutes to business trips and deliveries. | **Waste:**<br>How we manage materials, packaging, and resources across our teams. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Every Action Here Counts  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | It is easy to feel like one person cannot make a difference. But at Liceria & Co., we believe the opposite. When Studio Shodwe team members turn off screens or take calls over flights, those actions multiply into tons of carbon saved. Our footprint is built from daily choices. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Quick Wins You Can Start Today  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Cut Energy & Paper**<br>Switch off lights, screens, and skip the print. | **Eat Better**<br>Less meat, more plants at every meal. | **Travel Less**<br>Meet online before booking any trip. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Team Leaders Making It Happen  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Green Champion:**<br>Estelle Darcy, who launched Liceria & Co.'s first zero-waste desk initiative and reduced her team's paper use by over half in just three months. | **The Commute Leader:**<br>Matt Zhang, who organized our Studio Shodwe cycling-to-work program and helped cut team commute emissions significantly across the quarter. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Voices From Our Team  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **The Starter:**<br>Kimberly N. on small steps. | **The Advocate:**<br>Shawn G. on team habits. | **The Planner:**<br>Harper R. on office changes. | **The Builder:**<br>Daniel G. on green daily routines. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** We Are The Change We Are Looking For  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The planet does not need a few people doing this perfectly. It needs all of us doing it consistently. At Liceria & Co., every screen you switch off and every reusable you choose at Studio Shodwe is a vote for the world we want to build. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Let's Build This Together  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Cutting carbon at work is not about perfection — it is about progress. Every step our Liceria & Co. team takes at Studio Shodwe moves us closer to a workplace we are all proud of. The actions start small, but the impact compounds every single day. | **Your Next Step:**<br>Join our Green Team, track your actions on our sustainability board, or share one new habit with your colleagues this week. Contact Estelle Darcy at Liceria & Co. to get involved. |

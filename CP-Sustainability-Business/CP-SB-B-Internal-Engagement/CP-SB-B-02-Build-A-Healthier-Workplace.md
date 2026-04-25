@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** A Workplace That Works For Everyone  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | A healthy workplace is built — decision by decision, by people who care. At Liceria & Co., when our Studio Shodwe environment supports physical and mental health, everything improves: focus, energy, results, and relationships. This guide is an invitation to help build the workplace we all deserve. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Pillars Of A Healthy Workplace  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Body:**<br>Physical spaces, movement, and daily habits that keep our team energized and well. | **Mind:**<br>Mental health support, boundaries, and a culture where asking for help is encouraged. | **Connection:**<br>Relationships, belonging, and the human bonds that make work meaningful. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Your Wellbeing Is Not A Bonus — It Is The Point  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Wellbeing is often treated as a perk. At Liceria & Co., we see it differently. Your health is not separate from your work — it is the foundation of it. When Studio Shodwe team members feel supported, we show up with more energy. That is everyone's responsibility and reward. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Simple Habits That Make A Big Difference  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Move More**<br>Take walking breaks. | **Eat Well**<br>Fuel your focus. | **Rest Right**<br>Protect your sleep. | **Talk Often**<br>Check in on others. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Team Members Leading The Way  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Wellness Advocate:**<br>Estelle Darcy, who introduced Liceria & Co.'s lunchtime walking group at Studio Shodwe and has helped dozens of colleagues build a more active daily routine. | **The Mental Health Champion:**<br>Kimberly Nguyen, whose open conversations about stress and boundaries have helped create a more honest and supportive culture across our Liceria & Co. teams. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Voices From Our Team  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Mover:**<br>Matt Z. on daily activity. | **The Listener:**<br>Harper R. on team support. | **The Planner:**<br>Shawn G. on office habits. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Healthy People Build Better Things  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The best work comes from people who feel good and know someone has their back. At Liceria & Co., we build that kind of place through small, consistent acts of care. Every check-in and honest conversation at Studio Shodwe adds up to something great. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Start With One Small Change  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Building a healthier workplace does not require a big program or a perfect plan. It starts with one person choosing one better habit — and sharing it with the team. At Liceria & Co., every step our Studio Shodwe team takes toward better wellbeing is a step in the right direction. | **Your Next Step:**<br>Try one new healthy habit this week. Share it with a teammate. Join our Wellness Circle or reach out to Kimberly Nguyen at Liceria & Co. to learn about our ongoing wellbeing initiatives. |

@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Performance Starts With Leadership  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Event:** Leadership Performance Summit — Liceria & Co.<br>**The Date:** August 14, 2025<br>**The Venue:** Studio Shodwe Conference Center<br>**The Summit Lead:** Adeline Palmerston, Head of Leadership & Performance<br><br>**Our Purpose:** Team performance does not improve on its own. It improves when the leaders responsible for those teams get honest about what is working, what is not, and what needs to change. This summit at Studio Shodwe is designed for exactly that: a focused, honest conversation among Liceria & Co. leaders about what we can do differently to help our teams perform at a higher level — starting with what happens in this room today. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** What Drives Team Performance  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Clear Expectations:**<br>Teams perform best when leaders communicate exactly what is expected — and consistently reinforce those expectations with feedback. | **Strong Support:**<br>Performance improves when leaders remove the obstacles holding their teams back and give them the tools and confidence to do their best work. | **Honest Accountability:**<br>The highest-performing teams have leaders who address problems directly, celebrate progress genuinely, and hold every member to the same standard. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Better Leaders Create Better Teams  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The most common reason a team underperforms is not a lack of talent — it is a gap in leadership. Leaders who are unclear in their direction, inconsistent in their feedback, or reluctant to address problems create environments where even talented people cannot do their best work. At Liceria & Co., we gather at Studio Shodwe because we are committed to being the kind of leaders our teams deserve: clear, present, consistent, and genuinely invested in their success. Today, we look honestly at what we can improve — because better leadership is the fastest path to better team performance. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Summit Session Agenda  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **09:00 AM**<br>Performance review. | **10:30 AM**<br>Barrier identification. | **01:30 PM**<br>Action planning. | **03:30 PM**<br>Leader commitments. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Summit Facilitators  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Performance Lead:**<br>Adeline Palmerston, who has led team performance initiatives at Liceria & Co. across multiple business units — with a track record of helping leadership teams move from recognizing performance gaps to implementing practical, measurable improvements. | **The Action Coach:**<br>Drew Feig, whose structured facilitation approach at Studio Shodwe ensures that every performance conversation today ends with clear ownership, specific actions, and timelines that leaders are genuinely committed to following. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Session Leads  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Review Lead:**<br>Kimberly N. on performance data. | **The Barrier Lead:**<br>Harper R. on what holds teams back. | **The Action Lead:**<br>Matt Z. on implementation planning. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Your Team Is Waiting For This Conversation  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The teams we lead are watching. Not to catch us out — but because they want to see what kind of leaders we are willing to be. They want leaders who are honest when performance falls short. Leaders who remove the barriers that slow them down. Leaders who invest in making the team better — not just the results. At Liceria & Co., this summit at Studio Shodwe is one of the most direct investments we make in our people. Because when our leaders leave this room committed to leading better, the teams that depend on them feel it immediately. Today, we do that work — for them. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** One Commitment That Changes Everything  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Every Liceria & Co. leader leaves Studio Shodwe today with one specific commitment to their team — one change they will make in how they lead that will directly improve team performance. Not a list of intentions. One clear, specific commitment that their team will be able to see and feel from tomorrow. | **Summit Outputs:**<br>Performance action plans, leader commitment records, and follow-up check-in schedules will be distributed within 48 hours. For post-summit support, contact Adeline Palmerston at Liceria & Co. |

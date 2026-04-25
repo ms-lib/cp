@@ -23,11 +23,7 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING
-**Tipe Halaman:** Opener
-**Judul Halaman:** Program Details
-**Jumlah Kolom:** 1
-
+**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** Program Details  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Program:** Leadership Training Program — Liceria & Co.<br>**Program Date:** August 19, 2025<br>**Venue:** Studio Shodwe, Main Training Hall<br>**Program Lead:** Adeline Palmerston<br>**Group:** [Type your team or participant group here]<br><br>**Our Focus:** To bring together leaders from across Liceria & Co. for a full day of hands-on learning, honest conversation, and skill-building — designed to make every participant a stronger, more effective leader starting today. |
@@ -37,11 +33,7 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Two Themes That Run Through Everything
-**Jumlah Kolom:** 2
-
+**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Two Themes That Run Through Everything  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Building Skills**<br>Today's sessions give you the frameworks, tools, and practices that effective leaders use every day — covering communication, decision-making, team management, and leading through change. | **Applying Them**<br>Skills only grow through practice. Every session includes time to apply, discuss, and reflect — so that what you learn in this room becomes something you actually use when you return to work. |
@@ -51,11 +43,7 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Training That Actually Changes How You Lead
-**Jumlah Kolom:** 1
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Training That Actually Changes How You Lead  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The best training programs do not just teach — they shift the way you think and act. Today's agenda is built around that idea: every session connects to a real situation you face as a leader, and every tool you learn is one you can use tomorrow. |
@@ -65,11 +53,7 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Today's Program At A Glance
-**Jumlah Kolom:** 4
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Today's Program At A Glance  **Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Session 1**<br>Leading With Clarity<br>09:00 AM. | **Session 2**<br>Managing People Well<br>10:30 AM. | **Session 3**<br>Decisions Under Pressure<br>01:00 PM. | **Session 4**<br>Leading Change<br>02:30 PM. |
@@ -79,11 +63,7 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** Your Program Facilitators
-**Jumlah Kolom:** 3
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Your Program Facilitators  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Program Lead:**<br>Adeline Palmerston leads today's program with a focus on practical leadership that works in the real world — drawing on her deep experience building strong leaders and high-performing teams at Liceria & Co. | **The Communication Expert:**<br>Chiaki Sato facilitates the sessions on clarity, listening, and leading conversations with intention — helping participants find language and approaches that build trust and get results. | **The Change Specialist:**<br>Harper Russo guides participants through the sessions on decision-making and change — bringing a direct, action-oriented approach that helps leaders move forward even in uncertain situations. |
@@ -93,11 +73,7 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** Session Leads
-**Jumlah Kolom:** 2
-
+**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Session Leads  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Morning Sessions:**<br>Matt Z. on clarity and people. | **Afternoon Sessions:**<br>Shawn G. on decisions and change. |
@@ -107,11 +83,7 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Lead With More Than You Came In With
-**Jumlah Kolom:** 1
-
+**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Lead With More Than You Came In With  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Every hour spent in a room like this one is a choice to grow. The leaders who show up, engage honestly, and take the tools they learn back into their work — those are the leaders who build something that lasts. |
@@ -121,11 +93,7 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** End the Day With One Clear Commitment
-**Jumlah Kolom:** 2
-
+**Fase:** CLOSE  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** End the Day With One Clear Commitment  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The most important outcome of today is not what you remember — it is what you do. Before you leave Studio Shodwe, write down one skill you want to practice, one habit you want to build, and one conversation you will have this week. | **What Comes Next:**<br>Session notes, practice tools, and follow-up resources will be shared by Adeline Palmerston. Connect with your HR team or program leads at Liceria & Co. to continue your development. |

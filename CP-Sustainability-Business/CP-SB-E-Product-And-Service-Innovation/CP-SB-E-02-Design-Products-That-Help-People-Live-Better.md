@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Products Built Around People  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Initiative: Human-Centered Product Design<br>Session Date: April 15, 2025<br>Facilitated by: Adeline Palmerston, Head of Product & Customer Experience<br>Location: Studio Shodwe Design Lab<br><br>Our Aim: The products that earn lasting customer loyalty are the ones that genuinely improve people's lives — not just the ones that perform their function. This session at Studio Shodwe gives Liceria & Co.'s product teams the framework to design with real human impact in mind, from the first sketch to the final launch. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Ways Products Can Help People Live Better  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Save Time:**<br>Products that reduce friction, simplify tasks, and give people back minutes or hours they can spend on what actually matters to them. | **Reduce Stress:**<br>Products that make something difficult easier — fewer decisions, clearer steps, and outcomes people can trust without second-guessing. | **Improve Health:**<br>Products that support better physical or mental wellbeing — through safer materials, healthier habits, or simply less exposure to things that harm. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Best Products Solve Real Problems  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | At Liceria & Co., the products we are most proud of are the ones our customers use every day because they genuinely help. Not because they are clever, or well-designed, or well-marketed — but because they make something in a person's life measurably better. That is the standard we bring to Studio Shodwe, and it is the standard that builds lasting product businesses. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Human-Centered Design Process  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Understand:**<br>Spend time with real users before designing anything. | **Define:**<br>Identify the specific life problem your product will solve. | **Build:**<br>Design and prototype with the real user in mind at every decision. | **Validate:**<br>Test with real people before you scale. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Product Innovation Leadership  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Design Lead:**<br>Adeline Palmerston, who leads Liceria & Co.'s human-centered design practice at Studio Shodwe — building product teams that start every brief with the question "how does this make someone's life better?" before asking anything else. | **The Research Voice:**<br>Estelle Darcy, whose customer research at Liceria & Co. has identified the real daily friction points that our products have the opportunity to solve — turning user insight into product decisions that actually matter. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Design Team Leads  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Research Lead:**<br>Lorna A. on user insight. | **Design Lead:**<br>Chiaki S. on product experience. | **Test Lead:**<br>Rosa Maria A. on validation. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Build Something Worth Using Every Day  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The highest praise any product can receive is that someone uses it every day and would genuinely miss it if it were gone. At Liceria & Co., that is what we build toward — products that earn a permanent place in people's lives not through habit, but through real value. When you design something that helps people live better, the market follows. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Design With A Real Person In Mind  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Before your next product brief at Liceria & Co., spend one hour talking to a real user about their actual daily experience. Not their preferences — their problems. What you hear will change what you build. Leave Studio Shodwe today and schedule that conversation this week. | **Resources:**<br>Human-centered design frameworks, user research guides, and product validation tools are available from the Liceria & Co. product team. Contact Adeline Palmerston to access them. |

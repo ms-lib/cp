@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** About Today's Workshop  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Event:** Leadership Skills Workshop — Liceria & Co.<br>**The Date:** August 5, 2025<br>**The Venue:** Studio Shodwe Training Room<br>**The Lead Facilitator:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** This agenda is the complete guide to today's Leadership Skills Workshop at Studio Shodwe — outlining each session, its objectives, its format, and the specific skills every Liceria & Co. participant will practice and take home. Every session in this agenda exists for one reason: to make you a more effective leader by the end of today. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Skills We Focus On Today  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Communication:**<br>How to deliver clear, confident messages that move people to action. | **Decision Making:**<br>How to make faster, more confident decisions under pressure and uncertainty. | **Team Building:**<br>How to create the conditions where teams do their best work consistently. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Skills That Transfer From This Room To Every Room  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The skills we build in this workshop at Studio Shodwe are not theoretical — they are immediately transferable. Every communication technique practiced, every decision-making tool applied, and every team-building exercise completed today is designed to work in the real world: in your next team meeting, your next difficult conversation, and your next moment of uncertainty. At Liceria & Co., we invest in leadership skills because we know that better leaders build better teams — and better teams build better organizations. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Full Workshop Agenda  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **09:00 AM**<br>Skills intro. | **10:30 AM**<br>Communication. | **01:30 PM**<br>Decision making. | **03:00 PM**<br>Team building. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Workshop Facilitators  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Skills Lead:**<br>Adeline Palmerston, whose practical leadership skills curriculum at Liceria & Co. has been delivered to over a dozen teams — producing measurable improvements in communication clarity and decision speed. | **The Practice Coach:**<br>Drew Feig, who guides participants through real-world skill applications at Studio Shodwe — ensuring every technique practiced in the workshop has a direct path to daily leadership use. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Skill Session Coaches  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Communicator:**<br>Harper R. on message clarity. | **The Decider:**<br>Matt Z. on confident choices. | **The Builder:**<br>Rosa Maria A. on team dynamics. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Skills Are The Foundation Of Great Leadership  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Vision without skill is just a wish. At Liceria & Co., we believe that every great leader is first a skilled leader — one who has done the work to build the tools that make their vision possible. Today at Studio Shodwe, every exercise, every practice, and every reflection is an act of professional investment. You are not just attending a workshop. You are building the foundation that everything else in your leadership rests on. Skills compound. Every one you sharpen today multiplies the impact of every decision you make tomorrow. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Practice Until It Becomes Natural  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The skills practiced today at Studio Shodwe will not perfect themselves in this room. They will improve every time you use them — in real conversations, real decisions, and real team moments at Liceria & Co. The agenda ends here. The practice continues every day from tomorrow. | **Workshop Resources:**<br>Skill practice sheets, session recordings, and recommended reading lists are available for all participants. For follow-up skill coaching, contact Adeline Palmerston at Liceria & Co. |

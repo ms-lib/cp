@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Why Carbon Risk Is An Operations Problem  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Company:** Liceria & Co.<br>**Report Date:** March 12, 2025<br>**Venue:** Studio Shodwe Operations Center<br>**Risk Lead:** Adeline Palmerston, Head of Operations & Risk<br><br>**Our Purpose:** Carbon risk is no longer a reporting issue — it is an operations issue. Rising energy costs, tightening regulations, and shifting supply chain expectations mean that operations managers at Liceria & Co. must understand and manage carbon exposure as part of their daily work. This session at Studio Shodwe shows you how. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Two Carbon Risks Every Operations Manager Faces  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Cost & Compliance Risk:**<br>Rising energy prices, carbon-related fees, and tightening emissions regulations directly increase the cost of operations — and non-compliance at Liceria & Co. exposes us to fines, delays, and reputational harm. | **Supply Chain Risk:**<br>Partners and customers increasingly require lower-carbon operations as a condition of doing business — making carbon management a commercial priority, not just a regulatory one. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Carbon Risk Is Already Affecting Your Numbers  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Carbon risk is not abstract at Liceria & Co. — it shows up in energy bills, compliance costs, and conversations with suppliers who want proof of progress. Operations managers who track and manage this exposure are not just reducing risk. They are protecting margin and keeping our business competitive. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Carbon Risk Management Process  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Map:**<br>Identify where carbon risk sits in your operations. | **Measure:**<br>Quantify exposure in cost and compliance terms. | **Prioritize:**<br>Focus on the risks with the greatest business impact. | **Act:**<br>Implement changes and track progress monthly. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Risk Leadership At Liceria & Co.  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Risk Lead:**<br>Adeline Palmerston, who has built Liceria & Co.'s carbon risk framework from the ground up — connecting operations data directly to financial exposure and giving managers a clear picture of where to act first. | **The Operations Voice:**<br>Drew Feig, whose cross-functional work at Studio Shodwe has embedded carbon risk tracking into Liceria & Co.'s standard operations reporting — making it a routine part of how we manage the business. | **The Data Voice:**<br>Olivia Wilson, whose analysis of energy and emissions data at Liceria & Co. surfaces the patterns that help operations managers prioritize the highest-impact carbon reduction actions first. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Risk Workstream Leads  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Cost Lead:**<br>Kimberly N. on energy exposure. | **The Compliance Lead:**<br>Howard O. on regulatory risk. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Managers Who See This Coming Win  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Carbon risk is growing faster than most operations plans account for. The managers who build it into their thinking now — tracking exposure, reducing waste, engaging suppliers — will be the ones who protect their numbers when others are scrambling. At Liceria & Co., managing carbon risk is not extra work. It is smart operations. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Your Next Step In Carbon Risk Management  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The strongest risk management move any Liceria & Co. operations manager can make is to start mapping carbon exposure now — before it becomes a financial or compliance crisis. Use the framework from today's Studio Shodwe session and begin with your highest-impact operations first. | **Resources:**<br>Carbon risk mapping tools, compliance checklists, and reduction planning guides are available from the Liceria & Co. operations team. Contact Adeline Palmerston to get started. |

@@ -23,11 +23,7 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING
-**Tipe Halaman:** Opener
-**Judul Halaman:** About This Program
-**Jumlah Kolom:** 1
-
+**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** About This Program  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Program:** Healthcare Team Leadership<br>**The Date:** July 8, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To strengthen the leadership of healthcare team leaders — the charge nurses, department heads, and unit leads who hold teams together every day — by building the skills, structure, and confidence they need to lead with consistency and care. |
@@ -37,11 +33,7 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Three Foundations of Healthcare Team Leadership
-**Jumlah Kolom:** 3
-
+**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Foundations of Healthcare Team Leadership  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Clear Communication:**<br>Healthcare teams run on information. Leaders who communicate clearly — in handovers, in meetings, in moments of pressure — reduce errors, build trust, and keep everyone moving in the same direction. | **Psychological Safety:**<br>A team that feels safe to speak up catches mistakes before they reach the patient. Leaders create that safety by listening without judgment, responding without blame, and treating every voice as valuable. | **Consistent Standards:**<br>Great team leaders hold the line — on quality, on conduct, on expectations. Consistency is not rigidity. It is the foundation that allows every team member to know what good looks like and work toward it every shift. |
@@ -51,11 +43,7 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** The Weight and the Reward of Leading a Team
-**Jumlah Kolom:** 1
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** The Weight and the Reward of Leading a Team  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Leading a healthcare team is one of the most demanding leadership roles in any industry. You are responsible for the people who care for people — and that weight is real. But so is the reward. When your team is strong, the whole unit is strong. When your team trusts you, they give their best. Adeline Palmerston and the Liceria & Co. team built this program to honor that responsibility — and to give team leaders the tools to carry it well. |
@@ -65,11 +53,7 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Four Program Modules
-**Jumlah Kolom:** 4
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Four Program Modules  **Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Module 1 — Leading With Clarity:**<br>Communication, delegation, and expectation-setting for frontline healthcare leaders. | **Module 2 — Building Team Safety:**<br>Creating environments where staff speak up, support each other, and perform without fear. | **Module 3 — Managing Performance:**<br>Giving feedback, holding standards, and supporting growth in a high-pressure clinical setting. | **Module 4 — Sustaining Your Team:**<br>Protecting your team from burnout, navigating change, and building resilience that lasts beyond the next crisis. |
@@ -79,11 +63,7 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** The Voices Behind This Program
-**Jumlah Kolom:** 2
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** The Voices Behind This Program  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Program Lead:**<br>Adeline Palmerston leads the Healthcare Team Leadership Program at Liceria & Co. — bringing both a deep respect for frontline healthcare leaders and a practical approach to building the skills that make team leadership work in real clinical settings. | **The Supporting Voice:**<br>Drew Feig brings operational insight and a grounded team perspective to this program — ensuring every module reflects the reality of leading healthcare teams under pressure and across complex, fast-moving environments. |
@@ -93,11 +73,7 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** Program Leads
-**Jumlah Kolom:** 3
-
+**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Program Leads  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Communication & Clarity:**<br>Lorna A. on leading through clear, consistent communication in fast-moving clinical environments. | **Team Safety & Trust:**<br>Kimberly N. on building a team culture where every voice is heard and every person feels safe to perform. | **Performance & Resilience:**<br>Rosa Maria A. on holding standards, supporting growth, and keeping teams strong through pressure and change. |
@@ -107,11 +83,7 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Your Team Reflects Your Leadership
-**Jumlah Kolom:** 1
-
+**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Your Team Reflects Your Leadership  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The culture of your team is not accidental. It is built in the way you show up every shift — the tone you set, the standards you hold, the respect you give. When your team is calm under pressure, that is your leadership. When they speak up and support each other, that is your leadership too. The way you lead reaches every patient your team touches. That is not a burden. It is a privilege. Lead it well. |
@@ -121,11 +93,7 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Lead Your Team Forward
-**Jumlah Kolom:** 2
-
+**Fase:** CLOSE  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Lead Your Team Forward  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Healthcare team leaders carry one of the most important roles in the entire system. The skills built through this program will strengthen your team, your unit, and the care you deliver. Liceria & Co. is committed to supporting you — not just through this program, but in every challenge that comes after. | **What Comes Next:**<br>Join the Healthcare Team Leadership follow-up sessions, access the full program resource library, and reach out to Adeline Palmerston at Liceria & Co. to continue building the skills your team needs. |

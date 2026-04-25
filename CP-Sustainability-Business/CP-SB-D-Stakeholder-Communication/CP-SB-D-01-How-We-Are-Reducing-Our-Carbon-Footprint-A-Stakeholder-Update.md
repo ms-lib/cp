@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Our Carbon Reduction Progress  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Presented by: Liceria & Co.<br>Update Period: Fiscal Year 2024<br>Prepared for: Board of Directors, Partners & Suppliers<br>Sustainability Lead: Adeline Palmerston, Head of Sustainability & Reporting<br><br>Our Commitment: This update gives our stakeholders a clear, honest account of how Liceria & Co. is reducing its carbon footprint — what we committed to, what we have delivered, and where we are focused next. We believe our partners deserve transparency, not just progress claims. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Things We Are Doing To Reduce Carbon  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Cutting Energy Use:**<br>Reducing energy consumption across all Liceria & Co. facilities through smarter operations and upgraded equipment. | **Greening Our Supply Chain:**<br>Working with suppliers to lower the carbon impact of materials and services we bring into our operations. | **Investing In Alternatives:**<br>Shifting to lower-carbon energy sources and transport options wherever operationally and financially viable. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** We Made A Commitment. Here Is Where We Stand.  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Liceria & Co. made carbon reduction commitments publicly — to our board, our partners, and our suppliers. This update exists because we believe accountability to those commitments is not optional. The numbers in this report are honest, the gaps are acknowledged, and the path forward is clear. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Carbon Reduction Progress At A Glance  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Operations**<br>Energy reduction. | **Supply Chain**<br>Supplier progress. | **Transport**<br>Emissions cut. | **Target**<br>Net zero 2040. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Who Leads Our Carbon Commitment  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Sustainability Lead:**<br>Adeline Palmerston, who oversees all carbon reduction initiatives at Liceria & Co. — ensuring that every commitment made to stakeholders is tracked, reported, and delivered with full transparency. | **The Partner Voice:**<br>Drew Feig, who manages supplier and partner relationships at Liceria & Co. — working directly with our supply chain to embed carbon reduction expectations into every major procurement decision. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Progress Workstream Leads  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Operations Lead:**<br>Kimberly N. on facility reduction. | **Supply Lead:**<br>Alfredo T. on supplier progress. | **Data Lead:**<br>Jamie C. on carbon measurement. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Transparency Is The Foundation Of Partnership  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Stakeholders who invest in, supply, or partner with Liceria & Co. deserve to know exactly where we stand on the commitments we make. We do not share only the good news. We share the full picture — because lasting partnerships are built on honest reporting, not managed impressions. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** What Comes Next In Our Carbon Journey  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Liceria & Co.'s next carbon reduction milestones are already in motion. Our commitment to keeping every stakeholder fully informed of our progress — and our challenges — remains unchanged. The next update will be shared within six months. | **Get In Touch:**<br>Full carbon data, methodology notes, and audit records are available on request. Contact Adeline Palmerston at Liceria & Co. for stakeholder briefings or partnership discussions. |

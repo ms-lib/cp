@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** A Briefing Built On Honesty  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Briefing by: Liceria & Co.<br>Period: Fiscal Year 2024<br>Presented to: Board of Directors<br>Climate Lead: Adeline Palmerston, Head of Climate Strategy & Business Planning<br><br>Our Purpose: This briefing gives the Liceria & Co. board a direct, honest account of how global warming is affecting our business — the costs we are absorbing, the risks we are managing, and the strategic response we are executing. There is no managed narrative here. The board deserves the full picture. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Areas Where Global Warming Affects Our Business  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Operating Costs:**<br>Energy, cooling, and logistics costs are rising as temperatures and weather volatility increase — and these are already visible in our numbers. | **Supply Chain:**<br>Climate disruptions are affecting the reliability and cost of materials and services we depend on across our supplier network. | **Regulatory Pressure:**<br>Governments are moving faster on climate-related business rules — and our response today determines our compliance position tomorrow. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Board Needs The Real Numbers  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Global warming is showing up in Liceria & Co.'s financials — in energy costs, supply disruptions, and regulatory compliance spending. This briefing does not soften those numbers. The board's job is to understand the real picture and make decisions that protect our long-term performance. That is what this briefing is for. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Our Climate Response At A Glance  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Cost Control**<br>Energy efficiency programs. | **Supply Chain**<br>Supplier diversification. | **Compliance**<br>Regulatory readiness. | **Strategy**<br>Long-term resilience plan. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Who Leads Our Climate Response  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Climate Lead:**<br>Adeline Palmerston, who leads Liceria & Co.'s strategic response to global warming — connecting climate cost data directly to financial planning and ensuring our board has the information it needs to make sound long-term decisions. | **The Financial Voice:**<br>Drew Feig, whose financial modeling at Liceria & Co. now includes full climate cost scenarios — giving the board an honest forward view of how global warming will affect our performance under different conditions. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Briefing Workstream Leads  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Cost Lead:**<br>Jamie C. on financial exposure. | **Supply Lead:**<br>Alfredo T. on chain resilience. | **Compliance Lead:**<br>Olivia W. on regulatory readiness. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Boards That Face This Now Lead Better Later  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The boards that will serve their organizations best over the next decade are the ones engaging honestly with climate risk today — not the ones approving plans that treat it as a future problem. At Liceria & Co., we brief our board on global warming because the decisions made in this room shape how well our business performs in the years ahead. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Board Actions From This Briefing  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The Liceria & Co. board is asked to review the climate cost data, approve the proposed response priorities, and confirm the reporting cadence for future briefings. The next board climate briefing will be delivered in six months. | **Further Information:**<br>Full climate cost modeling, scenario analysis, and regulatory exposure reports are available on request. Contact Adeline Palmerston for board-level documentation. |

@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** When Weather Becomes A Business Risk  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Company:** Liceria & Co.<br>**Date:** July 10, 2025<br>**Location:** Studio Shodwe Operations Center<br>**Risk Lead:** Adeline Palmerston, Head of Operations & Risk Management<br><br>**Our Focus:** Extreme weather is now one of the most common causes of business disruption — and most operations managers are not fully prepared for it. This session at Studio Shodwe gives every Liceria & Co. manager a clear picture of the risks, a practical response framework, and the confidence to lead their team through disruption when it comes. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Weather Risks Every Manager Must Understand  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Operational Disruption:**<br>Floods, storms, and heatwaves shut down facilities, delay supply chains, and force sudden changes to how work gets done. | **People Safety:**<br>Extreme heat and severe weather create real safety risks for employees — and managers are responsible for how their teams respond. | **Financial Exposure:**<br>Unplanned downtime, damaged assets, and lost revenue from weather disruptions can hit hard and fast if there is no plan in place. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Every Manager Will Face This  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Extreme weather is not a rare event anymore — it is a regular business condition. At Liceria & Co., we prepare our Studio Shodwe managers because we know the question is not whether disruption will come, but whether the team will be ready when it does. Preparation is the difference between a managed disruption and a crisis. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Manager's Weather Risk Response Framework  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Before:**<br>Risk assessment, continuity planning, and seasonal reviews. | **During:**<br>Clear communication and team safety protocols. | **After:**<br>Rapid recovery and honest impact reporting. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Risk Management Leadership  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Risk Lead:**<br>Adeline Palmerston, whose weather risk management program at Liceria & Co. has reduced average disruption recovery time — giving operations managers a tested playbook for every major weather scenario. | **The Operations Voice:**<br>Drew Feig, whose continuity planning at Studio Shodwe has protected Liceria & Co.'s revenue and kept teams safe during several significant extreme weather events in recent years. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Response Team Leads  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **The Safety Lead:**<br>Cahaya D. on people protocols. | **The Continuity Lead:**<br>Howard O. on operations backup. | **The Recovery Lead:**<br>Harper R. on post-event response. | **The Comms Lead:**<br>Murad N. on team alerts. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Prepared Managers Protect Everything  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | When extreme weather hits, the quality of the response depends entirely on the preparation that came before it. At Liceria & Co., we train our Studio Shodwe managers because we know that a prepared team does not just survive disruption — it protects the people, the operations, and the results that everyone is counting on. Preparation is leadership. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Leave With A Plan, Not Just Awareness  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Awareness of weather risk is not enough — every Liceria & Co. manager leaves Studio Shodwe today with one concrete action: review your team's weather response plan before the next season begins. If one does not exist, start building it this week. | **Resources:**<br>Weather risk assessment tools, continuity plan templates, and seasonal readiness checklists are available from the Liceria & Co. operations team. Contact Adeline Palmerston to access them. |

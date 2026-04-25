@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Strategy That Holds In Any Weather  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Company:** Liceria & Co.<br>**Session Date:** June 18, 2025<br>**Venue:** Studio Shodwe Strategy Center<br>**Strategy Lead:** Adeline Palmerston, Chief Strategy Officer<br><br>**Our Goal:** A climate-proof business strategy does not mean predicting the future — it means building an organization that can absorb disruption, adapt quickly, and keep moving forward. At Studio Shodwe today, we give Liceria & Co.'s senior leaders the practical framework to build exactly that. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Two Pillars Of A Climate-Proof Strategy  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Operational Strength:**<br>Operations and supply chains designed with flexibility and built-in alternatives — so Liceria & Co. can pivot quickly and keep running when climate events disrupt the expected plan. | **Transparent Reporting:**<br>Clear, honest communication on climate exposure that builds investor and partner confidence — even when conditions are challenging and performance is under pressure. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Strategy Without Climate Thinking Is Incomplete  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Any business strategy built today that does not account for climate risk is missing a growing part of the picture. At Liceria & Co., we do not build strategies at Studio Shodwe by hoping conditions stay favorable — we build them to perform when conditions change. That is what separates resilient businesses from fragile ones. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Climate-Proof Strategy Framework  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Assess:**<br>Map where climate risk touches your business most. | **Design:**<br>Build flexibility and backup into operations and supply. | **Test:**<br>Run scenarios to find weaknesses before disruption does. | **Report:**<br>Communicate your resilience clearly to stakeholders. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Strategy Leadership At Liceria & Co.  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Strategy Lead:**<br>Adeline Palmerston, who has integrated climate resilience into Liceria & Co.'s core business strategy — creating a planning framework that accounts for disruption without sacrificing growth or performance targets. | **The Operations Voice:**<br>Drew Feig, whose scenario planning work at Studio Shodwe has identified Liceria & Co.'s highest climate-risk operations and built the contingency frameworks that protect our performance when disruptions occur. | **The Communications Voice:**<br>Kimberly Nguyen, whose work on investor and stakeholder reporting at Liceria & Co. ensures our climate resilience story is told clearly, credibly, and with the transparency our partners expect. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Strategy Workstream Leads  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Risk Lead:**<br>Jamie C. on exposure mapping. | **The Design Lead:**<br>Lorna A. on resilience planning. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Resilient Businesses Are Built On Purpose  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Climate resilience does not happen by accident. It is built deliberately — through honest risk assessment, smarter operations design, and leaders willing to plan for disruption rather than hope it does not come. At Liceria & Co., we do not wait for the next disruption to expose our weaknesses. We find them first and build around them. That is what a climate-proof strategy looks like. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Build The Strategy Your Business Needs Now  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The leaders who build climate resilience into Liceria & Co.'s strategy today are the ones who will protect our performance tomorrow. Leave Studio Shodwe with one part of your strategy identified for a climate resilience review — and a commitment to start that review within 30 days. | **Resources:**<br>Climate resilience frameworks, scenario planning tools, and strategy review guides are available from the Liceria & Co. strategy team. Contact Adeline Palmerston to begin. |

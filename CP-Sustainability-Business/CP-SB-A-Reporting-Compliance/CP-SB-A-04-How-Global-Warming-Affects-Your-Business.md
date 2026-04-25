@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Official Report Overview  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Climate Focus:** How Global Warming Creates Real Business Risk and Opportunity<br>**The Climate Lead:** Adeline Palmerston, Head of Climate Strategy & Business Planning<br>**The Headquarters:** Studio Shodwe<br><br>**Our Purpose:** To give investors and C-Suite stakeholders an honest picture of how global warming is already affecting Liceria & Co. — from rising costs at Studio Shodwe to supply chain shifts — and the actions we are taking to stay ahead. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Ways Global Warming Hits Business  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Costs Rise:**<br>Energy, insurance, and raw material costs increase as global temperatures climb. | **Operations Shift:**<br>Heatwaves, floods, and supply disruptions force businesses to adapt or fall behind. | **Rules Change:**<br>Governments worldwide are tightening environmental regulations faster than ever before. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** This Is Already Happening To Business  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Global warming is not a future scenario — it is a present reality for Liceria & Co. Rising costs at Studio Shodwe and regulatory pressure are already shaping our decisions. We report this to show we have a plan. Businesses that face reality directly stay competitive. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Business Impact At A Glance  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Energy**<br>Cost increase. | **Supply**<br>Chain disruption. | **Regulation**<br>Compliance cost. | **Strategy**<br>Response plan. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Leadership On Climate Accountability  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Climate Lead:**<br>Adeline Palmerston, whose global warming response strategy at Liceria & Co. has reduced our climate-related cost exposure and positioned us ahead of incoming regulatory requirements. | **The Business Voice:**<br>Drew Feig, whose financial planning at Liceria & Co. now fully accounts for global warming scenarios, giving investors a clearer and more honest picture of our long-term performance outlook. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Investor Engagement Highlights  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Analyst:**<br>Jamie C. on climate costs. | **The Partner:**<br>Olivia W. on regulatory risk. | **The Advisor:**<br>Alfredo T. on business strategy. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Businesses That Act Now Will Lead Tomorrow  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Global warming is the defining business challenge of our generation. It already affects your company. At Liceria & Co., every cost we track and every risk we disclose at Studio Shodwe declares our intent: we are building for the world as it is. That is what investors trust. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Climate Strategy Going Forward  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | As global warming continues to reshape the business environment, Liceria & Co.'s commitment to transparent climate impact reporting at Studio Shodwe remains central to our investor proposition. Every cost we disclose, every risk we model, and every reduction we deliver is designed to show that our business can perform — and grow — in a warming world. | **What Comes Next:**<br>Full climate cost data, regulatory exposure analysis, and third-party strategy audits are available upon request. To connect with our Climate Strategy team, contact Adeline Palmerston at Liceria & Co. |

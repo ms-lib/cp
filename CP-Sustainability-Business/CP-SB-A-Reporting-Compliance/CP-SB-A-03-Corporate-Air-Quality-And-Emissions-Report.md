@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Official Report Overview  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Company:** Liceria & Co.<br>**The Report Period:** Fiscal Year 2024<br>**The Compliance Lead:** Adeline Palmerston, Director of Environmental Compliance<br>**The Operations Base:** Studio Shodwe<br><br>**Our Commitment:** To give investors and C-Suite stakeholders a fully transparent account of Liceria & Co.'s air quality and emissions profile — and the reduction initiatives our Studio Shodwe team is implementing to protect communities and meet regulatory standards. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Pillars Of Our Air Quality Strategy  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Monitor:**<br>Real-time air quality tracking across all Liceria & Co. facilities and operations. | **Report:**<br>Full emissions disclosure aligned with global environmental compliance standards. | **Reduce:**<br>Targeted reduction initiatives driving cleaner operations across Studio Shodwe. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Why Air Quality Disclosure Matters  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Clean air is a business imperative at Liceria & Co. Poor air quality creates regulatory risk and damages community relations. Investors want organizations that go beyond minimum standards. Our commitment to air quality reporting at Studio Shodwe reflects our belief that environmental responsibility drives long-term performance. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Emissions Performance At A Glance  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Combustion Emissions**<br>NOx and particle matter tracked across all facilities. | **Chemical Output**<br>Volatile compound levels monitored and reported each quarter. | **Reduction Goal**<br>Zero violation target set for 2026. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Leadership On Environmental Accountability  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Environmental Lead:**<br>Adeline Palmerston, whose air quality compliance framework at Liceria & Co. has eliminated reportable violations and set a new standard for operational transparency. | **The Operations Voice:**<br>Drew Feig, whose integration of environmental risk into Liceria & Co.'s operational planning has strengthened our compliance track record and investor confidence. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Investor Engagement Highlights  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **The Analyst:**<br>Jamie C. on regulatory risk. | **The Partner:**<br>Olivia W. on sustainability standards. | **The Advisor:**<br>Alfredo T. on emissions data. | **The Presenter:**<br>Estelle D. on disclosure strategy. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Clean Air Is A Business Responsibility  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Behind every emissions figure is a commitment made by the people of Liceria & Co. to operate with care. Clean air is a standard we uphold for every community near our operations and every employee at Studio Shodwe. Zero violations is our goal and our statement of intent. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Environmental Commitment Going Forward  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | As Liceria & Co. pursues our zero violation milestone, our commitment to transparent environmental disclosure at Studio Shodwe remains a core pillar of our sustainability strategy. Every emissions data point we report is independently monitored, verified, and aligned with long-term investor value and regulatory excellence. | **What Comes Next:**<br>Full emissions data, compliance records, and third-party audit reports are available upon request. To connect with our Environmental Compliance team, contact Adeline Palmerston at Liceria & Co. |

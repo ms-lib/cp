@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Our Weather Risk Position  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Update from: Liceria & Co.<br>Period: Fiscal Year 2024<br>Shared with: Partners & Suppliers<br>Operations Lead: Adeline Palmerston, Head of Operations & Risk Management<br><br>Our Goal: This update gives our partners and suppliers a clear picture of how Liceria & Co. manages extreme weather risk — our preparation frameworks, our response protocols, and our recovery performance. We share this because our operational resilience directly affects the reliability of every partnership we hold. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** How We Protect Our Operations From Extreme Weather  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Before A Weather Event:**<br>Liceria & Co. runs weather risk assessments before each season — identifying vulnerabilities and updating continuity plans before disruption arrives. The moment a weather event is confirmed, our teams follow tested protocols that prioritize people safety and operational continuity in that order. | **After A Weather Event:**<br>Following every significant weather event, we share a full impact report with our partners — what happened, what it cost, and what we improved as a result. Honest reporting after disruption is as important to us as preparation before it. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Resilience Is Your Reliability  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Every partner who works with Liceria & Co. is affected by how well we manage disruption. When extreme weather hits our operations, how quickly we recover determines how much it affects theirs. This update exists to show our partners that we take that responsibility seriously — and that our weather risk management is built to protect the partnerships that depend on us. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Weather Risk Performance At A Glance  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Events**<br>Weather incidents managed. | **Response**<br>Average response time. | **Recovery**<br>Average recovery time. | **Impact**<br>Disruption minimized. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Who Manages Our Weather Risk  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Operations Lead:**<br>Adeline Palmerston, who oversees Liceria & Co.'s extreme weather response program — ensuring that every facility has a tested continuity plan and every team knows exactly what to do when conditions change. | **The Partner Voice:**<br>Drew Feig, who manages partner communication during weather events at Liceria & Co. — keeping suppliers and partners informed in real time so they can plan around any disruption to our operations. | **The Risk Voice:**<br>Lorna Alvarado, who leads risk assessment and scenario planning at Liceria & Co. — mapping the weather events most likely to affect our operations and ensuring our continuity plans are tested before they are needed. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Response Team Leads  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Safety Lead:**<br>Cahaya D. on people protocols. | **Continuity Lead:**<br>Howard O. on operations backup. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** A Partner Who Is Ready Is A Partner You Can Count On  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Extreme weather is not a question of if — it is a question of when and how ready we are. At Liceria & Co., we invest in weather risk management because we understand that our partners' confidence in us depends on our ability to keep delivering when conditions get difficult. Being ready is how we honor every partnership we hold. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Commitment To Partner Continuity  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Liceria & Co. will continue to share weather risk performance updates with all partners annually — and in real time during any significant weather event. Our commitment is to keep you informed before, during, and after any disruption that affects our shared operations. | **Get In Touch:**<br>Full weather risk frameworks, continuity plans, and incident reports are available on request. Contact Adeline Palmerston at Liceria & Co. for partner briefings. |

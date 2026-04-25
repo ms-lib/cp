@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** The Air Around Us At Work  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Most of us spend our waking hours inside — at desks, in meeting rooms, in corridors. The air we breathe directly affects how clearly we think and perform. At Liceria & Co., we are committed to making Studio Shodwe a place where every breath supports health and focus. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Two Sources That Shape Our Office Air  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Our Space:**<br>Ventilation systems, cleaning products, printers, and building materials all affect the air around us — often invisibly and around the clock. | **Our Habits:**<br>The daily routines of our team — how we move, clean, cook, and commute — introduce pollutants into shared spaces that we can control with small changes. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** What Bad Air Does To A Good Team  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Poor air quality is among the most overlooked causes of low energy at work. At Liceria & Co., we have seen what clean air does — to the energy of our Studio Shodwe teams, to meeting focus, and to the wellbeing of everyone here. Better air means better performance. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Easy Ways To Improve Our Air Today  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Open Windows**<br>Let fresh air in. | **Add Plants**<br>Nature filters air. | **Go Natural**<br>Use eco cleaners. | **Check Vents**<br>Keep them clear. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Team Members Leading The Change  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Green Office Lead:**<br>Estelle Darcy, who coordinated Liceria & Co.'s indoor plant program at Studio Shodwe and has transformed our common areas into fresher, calmer spaces for the whole team. | **The Clean Products Advocate:**<br>Cahaya Dewi, whose switch to eco-friendly cleaning products across our Liceria & Co. facilities has reduced chemical exposure and improved daily air quality for everyone. | **The Ventilation Voice:**<br>Olivia Wilson, whose audit of airflow patterns across Studio Shodwe identified key areas for improvement and guided our ventilation upgrades that now benefit the whole office. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Voices From Our Team  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Observer:**<br>Kimberly N. on air awareness. | **The Planter:**<br>Harper R. on green spaces. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Clean Air Is A Daily Act Of Care  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | We cannot always see air quality. But we feel it — in the slump that lifts when a window opens, in the clarity of a fresh room. At Liceria & Co., clean air at Studio Shodwe is a daily act of care that our best work depends on. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** One Fresh Step At A Time  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Better air quality in our Liceria & Co. workplace starts with small, consistent actions from every person on our team. Open a window. Add a plant. Swap one chemical product for a natural one. Each step makes our Studio Shodwe environment a little bit fresher — and a lot more supportive of the people working in it. | **Your Next Step:**<br>Pick one air quality action from this guide and put it into practice this week. To join our Green Office initiative or share ideas, contact Estelle Darcy at Liceria & Co. |

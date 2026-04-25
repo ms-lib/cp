@@ -23,11 +23,7 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING
-**Tipe Halaman:** Opener
-**Judul Halaman:** Program Overview
-**Jumlah Kolom:** 1
-
+**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** Program Overview  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston, Director of Leadership Development<br>**The Venue:** Studio Shodwe<br>**The Launch Date:** August 04, 2025<br>**The Objective:** To equip leaders across Liceria & Co. with the skills, frameworks, and mindset to build teams that perform at their highest level — and to sustain that performance as the organization grows and evolves. |
@@ -37,11 +33,7 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Three Pillars Of This Program
-**Jumlah Kolom:** 3
-
+**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Pillars Of This Program  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **People Leadership:**<br>Build the skills to understand, motivate, and develop each team member as an individual. Leaders who invest in people create teams that invest in results. | **Team Systems:**<br>Design the structures, habits, and communication routines that help teams work well together — reducing friction and increasing focus across every project and goal. | **Performance Culture:**<br>Shape a team environment where high standards are shared, accountability is normal, and continuous improvement is built into how the team operates every day. |
@@ -51,11 +43,7 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Why This Program Exists
-**Jumlah Kolom:** 1
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Why This Program Exists  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | At Liceria & Co., we have seen what happens when leaders are left to figure out team performance alone. The teams that struggle most are not led by bad people — they are led by people who were never given the right tools. This program changes that. |
@@ -65,11 +53,7 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Three Phases Of The Program
-**Jumlah Kolom:** 3
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Phases Of The Program  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Phase 1 — Assess And Align:**<br>Leaders begin with a team assessment to identify current strengths and gaps. Goals are set for both the leader and the team, creating a clear starting point and shared direction for the program. | **Phase 2 — Build And Practice:**<br>Leaders apply new frameworks in real team situations — from running better meetings to giving sharper feedback. Coaches and peers support the learning through regular check-ins and reflection. | **Phase 3 — Sustain And Scale:**<br>Leaders build habits and systems that keep high performance going beyond the program. Teams review their own growth, celebrate progress, and set goals for the next chapter. |
@@ -79,11 +63,7 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** The Program Team
-**Jumlah Kolom:** 2
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** The Program Team  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Program Director:**<br>Adeline Palmerston leads the High-Performance Team Leadership Program at Liceria & Co., designing the curriculum, coaching participants, and ensuring that every leader leaves with tools they can use immediately. | **The Delivery Lead:**<br>Drew Feig manages program delivery and participant experience at Liceria & Co., coordinating sessions at Studio Shodwe and supporting leaders through each phase of the development journey. |
@@ -93,11 +73,7 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT
-**Tipe Halaman:** Interactive/Fun
-**Judul Halaman:** What Program Participants Are Saying
-**Jumlah Kolom:** 4
-
+**Fase:** ENGAGEMENT  **Tipe Halaman:** Interactive/Fun  **Judul Halaman:** What Program Participants Are Saying  **Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Jamie C.:**<br>"Phase 1 was a wake-up call. I thought my team was aligned. The assessment showed me where we actually were." | **Olivia W.:**<br>"The coaching in Phase 2 changed how I give feedback. My team noticed the difference before I even told them I was in the program." | **Alfredo T.:**<br>"Phase 3 gave me a system I still use every week. High performance is not a moment — it is a habit you build on purpose." | **Estelle D.:**<br>"I came in thinking this was about my team. I left realizing it was about me as a leader — and that made all the difference." |
@@ -107,11 +83,7 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** High Performance Is A Choice Leaders Make Every Day
-**Jumlah Kolom:** 1
-
+**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** High Performance Is A Choice Leaders Make Every Day  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | At Liceria & Co., the teams in this program did not become high-performing overnight. They became high-performing because their leaders chose — day after day — to show up with clarity, care, and the courage to keep raising the standard. That is what this program builds. |
@@ -121,11 +93,7 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE
-**Tipe Halaman:** Practical/Utility
-**Judul Halaman:** Join The Program
-**Jumlah Kolom:** 2
-
+**Fase:** CLOSE  **Tipe Halaman:** Practical/Utility  **Judul Halaman:** Join The Program  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | High-performance teams do not happen by chance. They are built by leaders who invest in the right skills, the right systems, and the right support. This program gives you all three. The next cohort at Liceria & Co. is ready when you are. | **Program Details:**<br>The next intake opens September 01, 2025 at Studio Shodwe. Places are limited. Contact Adeline Palmerston at Liceria & Co. to register your interest or find out how to bring this program to your team. |

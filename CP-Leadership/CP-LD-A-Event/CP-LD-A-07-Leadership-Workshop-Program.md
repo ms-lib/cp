@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Welcome To The Workshop  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Event:** Leadership Workshop — Liceria & Co.<br>**The Date:** July 22, 2025<br>**The Venue:** Studio Shodwe Learning Center<br>**The Lead Facilitator:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** This workshop is not a lecture. It is a learning experience — built on real conversations, honest reflection, and hands-on practice. At Liceria & Co., we believe that leadership skills are not taught from a slide. They are built in rooms like this one at Studio Shodwe, where leaders challenge each other, practice together, and leave with tools they can use from tomorrow. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** What This Workshop Covers  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Skills:**<br>Core leadership competencies practiced in real scenarios — not just discussed in theory. | **Reflection:**<br>Honest self-assessment of how we currently lead and where our growth edge lies. | **Action:**<br>A personal leadership action plan each participant takes out of Studio Shodwe today. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Leadership Is A Skill — And Skills Are Built  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Great leadership is not a personality trait you are born with. It is a skill — and like every skill, it is built through practice, feedback, and honest reflection. At Liceria & Co., we run leadership workshops at Studio Shodwe because we believe that every leader — regardless of experience level — has room to grow. Today is not about knowing more. It is about doing better. By the end of this session, every participant will walk out with a clearer sense of how they lead, how they want to lead, and one concrete action to close the gap. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Workshop Schedule  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **09:00 AM**<br>Intro & warm-up. | **10:00 AM**<br>Core skills session. | **01:00 PM**<br>Group exercises. | **03:30 PM**<br>Action planning. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Your Facilitators Today  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Lead Facilitator:**<br>Adeline Palmerston, who has designed and facilitated leadership workshops for Liceria & Co. teams across multiple departments — known for creating sessions that are challenging, practical, and genuinely enjoyable. | **The Co-Facilitator:**<br>Estelle Darcy, whose coaching background and team leadership experience at Studio Shodwe bring a practical, people-centered approach to every exercise and discussion in this workshop. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Session Coaches  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Skills Coach:**<br>Jamie C. on practical tools. | **The Reflection Guide:**<br>Kimberly N. on self-awareness. | **The Action Planner:**<br>Shawn G. on next steps. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Best Leaders Never Stop Learning  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The leaders who grow the most are not the ones who know the most. They are the ones who stay curious — who walk into a room like this one at Studio Shodwe with genuine openness to being challenged, changed, and improved. At Liceria & Co., showing up to a workshop is already an act of leadership. It says: I am not finished. I can do better. I am willing to do the work. Today, that work happens here. And what you build in this room, you carry into every team you lead and every decision you make. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Your Action Plan Starts Now  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Every participant leaves this Liceria & Co. Leadership Workshop at Studio Shodwe with one leadership action to implement in the next seven days. The skill is built in the workshop. The leader is built in what comes after. Do not wait for the perfect moment. Start with the action you committed to today. | **Workshop Resources:**<br>Workbooks, reflection sheets, and facilitator notes are available for all participants. For follow-up coaching sessions or workshop resources, contact Adeline Palmerston at Liceria & Co. |

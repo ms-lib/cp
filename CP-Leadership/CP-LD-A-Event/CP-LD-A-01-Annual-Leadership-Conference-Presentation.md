@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Official Event Overview  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Event:** Annual Leadership Conference<br>**The Date:** May 15, 2025<br>**The Venue:** Studio Shodwe Grand Hall<br>**The Host:** Liceria & Co. Leadership Committee<br>**The Theme:** [Type your conference theme here]<br><br>**Our Purpose:** To bring together the leaders of Liceria & Co. for a day of bold conversations, strategic alignment, and shared vision — creating the clarity and energy needed to lead our organization into its next chapter. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** What This Conference Is Built On  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Vision:**<br>A shared direction that every leader in this room is aligned to and accountable for. | **Connection:**<br>The relationships between leaders that make strategy real and execution possible. | **Action:**<br>Concrete decisions and next steps that leave this room and enter the organization. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Why We Gather As Leaders  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Leadership is not built in isolation. The strategies we craft alone in offices become real only when they are tested and refined in rooms like this one — where people ask hard questions, challenge assumptions, and commit to a direction together. At Liceria & Co., our Annual Leadership Conference at Studio Shodwe is not a formality. It is the moment where our organization's direction is sharpened, where trust between leaders deepens, and where the energy to execute is ignited. What happens in this room shapes what happens everywhere else. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Today's Conference At A Glance  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Opening**<br>09:00 AM. | **Sessions**<br>10:00 AM. | **Workshop**<br>01:00 PM. | **Closing**<br>04:00 PM. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Featured Speakers  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Keynote Speaker:**<br>Adeline Palmerston, whose decade of leadership at Liceria & Co. has shaped our culture, our strategy, and our people — speaking today on the future of leadership in a changing world. | **The Industry Voice:**<br>Drew Feig, whose cross-sector leadership experience brings an outside perspective on what it takes to lead organizations through uncertainty and growth. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Session Facilitators  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Strategist:**<br>Jamie C. on team alignment. | **The Coach:**<br>Olivia W. on leader mindset. | **The Innovator:**<br>Alfredo T. on future leadership. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Leadership Is A Shared Responsibility  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The greatest leaders are not the ones who carry the most — they are the ones who build the most. They build teams that think clearly, cultures that endure, and organizations that outlast any single person's tenure. Today at Studio Shodwe, we are not just attending a conference. We are choosing — together — what kind of leaders we want to be and what kind of organization we want Liceria & Co. to become. That choice, made in this room, is the most important leadership act of the year. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Leave Here Ready To Lead  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Every conversation had, every commitment made, and every idea sparked at Studio Shodwe today is an investment in the future of Liceria & Co. Leave this conference with one clear priority, one strengthened relationship, and one action you will take before the week is out. | **What Comes Next:**<br>Session notes, speaker resources, and follow-up actions will be shared by the Liceria & Co. Leadership Committee. Connect with Adeline Palmerston for post-conference alignment and next steps. |

@@ -23,11 +23,7 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING
-**Tipe Halaman:** Opener
-**Judul Halaman:** About This Presentation
-**Jumlah Kolom:** 1
-
+**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** About This Presentation  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston, Director of People Experience<br>**The Date:** July 22, 2025<br>**The Venue:** Studio Shodwe<br>**The Purpose:** Hybrid work is here to stay — and it demands a new kind of leadership. This presentation equips managers with the mindset, practices, and structure needed to lead teams that span office and home environments without losing cohesion, fairness, or performance. |
@@ -37,11 +33,7 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Three Challenges Unique To Hybrid Leadership
-**Jumlah Kolom:** 3
-
+**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Challenges Unique To Hybrid Leadership  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Fairness:**<br>In-office employees often get more visibility and informal access to the leader. Remote members can feel overlooked. Hybrid leaders must work hard to ensure every team member gets equal opportunity and recognition. | **Consistency:**<br>Different work environments create different experiences. Leaders must set consistent standards — for expectations, communication, and support — so every team member gets the same quality of leadership regardless of where they work. | **Inclusion:**<br>Hybrid meetings often favor the room over the screen. Leaders must actively bring remote voices into every conversation and make sure decisions are never made only by those who happen to be in the office that day. |
@@ -51,11 +43,7 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Hybrid Leadership Starts With A Choice
-**Jumlah Kolom:** 1
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Hybrid Leadership Starts With A Choice  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | At Liceria & Co., Adeline Palmerston saw teams thrive and teams fall apart in the same hybrid environment. The difference was never the policy — it was the leader. Hybrid leadership is a daily choice to treat every team member as equally present, equally valued, and equally heard. |
@@ -65,11 +53,7 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Four Principles For Hybrid Leaders
-**Jumlah Kolom:** 4
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Four Principles For Hybrid Leaders  **Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Digital First:**<br>Default to digital communication so remote and in-office members access the same information at the same time. | **Equal Access:**<br>Rotate in-person privileges fairly. Make sure remote team members are not at a structural disadvantage in meetings or decisions. | **Presence Over Location:**<br>Judge contributions by quality and outcomes, not by who is visible in the office most often. | **Regular Pulse Checks:**<br>Ask each team member how the hybrid arrangement is working for them — and act on what they tell you. |
@@ -79,11 +63,7 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** Leading The Hybrid Conversation
-**Jumlah Kolom:** 2
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Leading The Hybrid Conversation  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Lead:**<br>Adeline Palmerston designs hybrid work culture at Liceria & Co., building fair, inclusive systems that give every team member — in-office or remote — a real sense of belonging and a clear path to contribute. | **The Partner:**<br>Drew Feig manages hybrid operations at Liceria & Co., turning Adeline's leadership principles into workable daily structures that keep both in-office and remote members aligned and supported. |
@@ -93,11 +73,7 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** What Hybrid Team Members Experience
-**Jumlah Kolom:** 3
-
+**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** What Hybrid Team Members Experience  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **"I feel as included as my office colleagues."**<br>— Jamie C. | **"My leader treats location as just a detail."**<br>— Olivia W. | **"We all get the same information now."**<br>— Alfredo T. |
@@ -107,11 +83,7 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** A Great Team Feels Great Everywhere
-**Jumlah Kolom:** 1
-
+**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** A Great Team Feels Great Everywhere  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The hybrid teams at Liceria & Co. that work best are not the ones with perfect policies. They are the ones with leaders who decided that where you sit would never determine how much you matter. That decision changes the whole team's experience. |
@@ -121,11 +93,7 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE
-**Tipe Halaman:** Practical/Utility
-**Judul Halaman:** Build Your Hybrid Leadership Practice
-**Jumlah Kolom:** 2
-
+**Fase:** CLOSE  **Tipe Halaman:** Practical/Utility  **Judul Halaman:** Build Your Hybrid Leadership Practice  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Hybrid leadership is not a special skill — it is standard leadership, applied more intentionally. Begin with fairness. Build your communication rituals. Make digital the default. Your team — wherever they work — will notice the difference. | **Your Next Move:**<br>Audit your current team practices. Ask one remote team member how they experience your leadership this week. Connect with Adeline Palmerston and the People Experience team at Liceria & Co. for further support. |

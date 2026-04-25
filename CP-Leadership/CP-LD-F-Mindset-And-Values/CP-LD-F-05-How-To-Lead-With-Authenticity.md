@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Welcome To This Session  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Host:** Liceria & Co.<br>**Date:** June 17, 2025<br>**Venue:** Studio Shodwe<br>**Presenter:** Adeline Palmerston<br>**Session Focus:** [Type your leadership theme here]<br><br>**Why This Matters:** Authentic leadership sounds simple until you try to practice it under pressure. This session gives every leader at Liceria & Co. the language and tools to navigate the real challenges of authentic leadership — not just the inspiring idea of it. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Two Tensions Every Authentic Leader Navigates  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Openness:**<br>Authentic leaders share their thinking, admit their uncertainties, and invite honest dialogue. But openness without discernment can create confusion — or leave a team without a clear direction to follow. The skill is in knowing what to share, when, and with whom. | **Boundaries:**<br>Healthy boundaries allow authentic leaders to stay present and sustainable without becoming depleted or compromised. Setting limits is not a contradiction of authentic leadership — it is one of its most important expressions. A leader who says no to the wrong things protects the yes that matters most. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Authentic Is Not The Same As Unfiltered  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | One of the most common misunderstandings about authentic leadership is that it means sharing everything, saying whatever you feel, and never adjusting your approach. Adeline Palmerston addresses this directly at Liceria & Co.: "Authenticity means your actions match your values — not that you have no filter. The best authentic leaders are deeply self-aware. They choose their words carefully because they care deeply about the impact they have on people." Authentic leadership is disciplined honesty, not unmanaged transparency. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Four Practices for Authentic Leadership  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Know Your Values:**<br>Write them down. Share them with your team. Use them as a compass when decisions get difficult. | **Speak With Intention:**<br>Choose honesty over comfort — but deliver it with care. The truth lands better when it comes from a place of respect. | **Hold Your Boundaries:**<br>Decide in advance what you will and will not compromise. A leader with clear limits is easier to trust than one with none. | **Stay Consistent:**<br>Let your behavior under pressure match your behavior when things are easy. Consistency is the loudest signal authenticity sends. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Three Leaders Reflect  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Adeline Palmerston — People Lead:**<br>Authenticity means I show up the same way in the board room as I do in a one-on-one. My team should never have to wonder which version of me they are getting. | **Estelle Darcy — Program Lead:**<br>Learning to say no authentically was one of the hardest things I did as a leader. But the moment I started protecting my team's time with clear limits, our output improved and so did my credibility. | **Drew Feig — Team Lead:**<br>The tension between openness and boundaries is real. I resolved it by being transparent about my reasoning without oversharing my doubts. People want to trust a leader who thinks — not one who second-guesses out loud. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Authentic Moments From The Field  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Jamie C.:**<br>"I told my team I did not have all the answers going into a major project. They worked harder than they ever had because they knew I trusted them to help figure it out." | **Olivia W.:**<br>"I stopped pretending I was fine when I was not. When I started being honest about my own challenges, my team started being honest with me about theirs. Everything got better." |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Your Team Is Watching How You Handle Hard Moments  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Authentic leadership is not tested when things are going well. It is tested when the project fails, the decision is wrong, and the team is looking at you for a signal. In that moment, the leaders who perform confidence they do not feel lose their team's trust slowly and permanently. The leaders who say "this is hard, here is what I know, and here is how we move forward" — they earn something no training program can manufacture. They earn belief. And belief is what moves teams. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Lead From Your Real Self  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Authentic leadership does not ask you to be perfect. It asks you to be honest — about what you know, what you value, and how you lead. That honesty, practiced consistently, is the most powerful leadership tool you have. | **Continue The Work:**<br>Join Liceria & Co.'s ongoing leadership coaching track. Connect with Adeline Palmerston to align your personal values with your leadership practice and build a plan that is true to who you are. |

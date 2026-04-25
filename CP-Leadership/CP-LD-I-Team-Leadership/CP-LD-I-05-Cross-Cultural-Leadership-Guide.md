@@ -23,11 +23,7 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING
-**Tipe Halaman:** Opener
-**Judul Halaman:** Guide Overview
-**Jumlah Kolom:** 1
-
+**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** Guide Overview  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Organization:** Liceria & Co.<br>**Guide Lead:** Adeline Palmerston, Head of Global People Strategy<br>**Published At:** Studio Shodwe<br>**Publication Date:** October 08, 2025<br>**What This Guide Covers:** This guide gives leaders in multinational and multicultural organizations the foundations and practical tools they need to lead with cultural intelligence. It is a resource for both experienced global leaders and managers stepping into cross-cultural leadership for the first time. |
@@ -37,11 +33,7 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Two Foundations Of Cross-Cultural Leadership
-**Jumlah Kolom:** 2
-
+**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Two Foundations Of Cross-Cultural Leadership  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Curiosity:**<br>Cross-cultural leaders approach differences with genuine interest, not judgment. They ask questions before drawing conclusions, invest time in understanding the people they lead, and treat every new perspective as something worth learning from — not correcting. | **Adaptability:**<br>Great cross-cultural leaders adjust their style without losing their values. They recognize that how you communicate, motivate, and evaluate people may need to shift depending on cultural context — and they build the flexibility to do that well, consistently. |
@@ -51,11 +43,7 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Why Cultural Intelligence Changes Leadership
-**Jumlah Kolom:** 1
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Why Cultural Intelligence Changes Leadership  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | At Liceria & Co., Adeline Palmerston has seen leaders with strong technical skills struggle to keep multicultural teams together — and leaders with cultural intelligence build trust across every boundary. Cultural intelligence is not a soft skill. It is a core leadership competency that determines how far your influence can reach. |
@@ -65,11 +53,7 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Four Guide Principles For Cross-Cultural Leaders
-**Jumlah Kolom:** 4
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Four Guide Principles For Cross-Cultural Leaders  **Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Suspend Assumptions:**<br>Check the story you are telling yourself about a team member's behavior before deciding what it means. | **Learn The Context:**<br>Understand the cultural background your team member comes from. Context explains behavior that would otherwise seem confusing. | **Communicate With Care:**<br>Adjust your words, tone, and directness level depending on what is most clear and respectful for each person. | **Build Trust Slowly:**<br>Trust is built differently across cultures. Some people need shared experiences; others need consistency over time. Respect both paths equally. |
@@ -79,11 +63,7 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** Three Voices On Cross-Cultural Leadership
-**Jumlah Kolom:** 3
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Three Voices On Cross-Cultural Leadership  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The Strategist:**<br>Adeline Palmerston leads global people strategy at Liceria & Co., building cross-cultural leadership programs that help managers across the organization lead with cultural intelligence and genuine respect. | **The Practitioner:**<br>Estelle Darcy leads a multinational team at Liceria & Co., applying cross-cultural principles to her daily leadership practice and helping team members from different backgrounds collaborate effectively. | **The Connector:**<br>Drew Feig coordinates global initiatives at Liceria & Co., bridging communication and cultural gaps across offices and time zones to keep international teams aligned on shared goals. |
@@ -93,11 +73,7 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** What Global Team Members Shared
-**Jumlah Kolom:** 2
-
+**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** What Global Team Members Shared  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **"My leader adjusted how she gave feedback after learning how I prefer to receive it. It made every conversation better."**<br>— Jamie C. | **"Working in a multicultural team taught me more about leadership than any course I've taken."**<br>— Olivia W. |
@@ -107,11 +83,7 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Cultural Difference Is A Leadership Gift
-**Jumlah Kolom:** 1
-
+**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Cultural Difference Is A Leadership Gift  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The most capable leaders at Liceria & Co. are not the ones who have worked only with people like themselves. They are the ones who have led across differences — and came out with greater perspective, stronger judgment, and a deeper understanding of what it means to truly lead people. |
@@ -121,11 +93,7 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE
-**Tipe Halaman:** Practical/Utility
-**Judul Halaman:** Apply Your Cross-Cultural Leadership Today
-**Jumlah Kolom:** 2
-
+**Fase:** CLOSE  **Tipe Halaman:** Practical/Utility  **Judul Halaman:** Apply Your Cross-Cultural Leadership Today  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Start with curiosity. Bring adaptability into one conversation this week. Notice one assumption you have been making about a team member and replace it with a question. Cross-cultural leadership grows one honest interaction at a time — and every step forward builds a stronger global team. | **Next Steps:**<br>Use this guide with your leadership team. Identify one cultural gap you want to close this quarter. Contact Adeline Palmerston at Liceria & Co. or visit Studio Shodwe for leadership development resources and continued cross-cultural support. |

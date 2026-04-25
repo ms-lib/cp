@@ -27,8 +27,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Leadership Annual Report  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **Reporting Period:**<br>Fiscal Year 2024<br>**Prepared By:**<br>Adeline Palmerston<br>**Co-Author:**<br>Drew Feig<br>**Submitted To:**<br>Board of Directors, Liceria & Co.<br>**Date Submitted:**<br>January 15, 2025<br><br>This report captures our leadership journey through Fiscal Year 2024. It reflects what our teams built, how our leaders showed up, and the progress we made toward the goals we set. We share this openly — with honesty, clarity, and a clear view forward. |
@@ -41,8 +40,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Areas of Leadership Performance  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **People**<br><br>Strong teams start with strong leaders. This year, we invested in building trust, developing talent, and creating a culture where people could do their best work. Our leaders focused on listening, coaching, and showing up consistently for their teams. | **Strategy**<br><br>We moved from planning to action. Our leadership team aligned on shared priorities, made faster decisions, and removed roadblocks that had slowed progress. Strategic clarity helped every team understand where we were going and why it mattered. | **Results**<br><br>Our efforts produced measurable outcomes. Revenue targets were met, key projects were delivered, and team engagement scores rose across the organization. These results reflect the hard work of our people and the quality of our leadership. |
@@ -55,8 +53,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** What Drove Our Progress  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Behind every result is a decision, a conversation, or a choice to keep going. This year, our leaders made more of those moments count — staying focused under pressure, bringing teams together around shared goals, and building the kind of trust that makes good work possible. |
@@ -69,8 +66,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Key Metrics & Highlights  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Team Engagement**<br><br>**87%**<br><br>Organization-wide engagement score, up from 79% in the prior year | **Projects Delivered**<br><br>**42**<br><br>Strategic initiatives completed on time and within scope | **Leaders Developed**<br><br>**124**<br><br>Leaders who completed a formal development program this year | **Retention Rate**<br><br>**93%**<br><br>Leadership team retention across all levels and regions |
@@ -83,8 +79,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Leadership In Focus  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Adeline Palmerston**<br>Chief Leadership Officer, Liceria & Co.<br><br>*"The most important thing we did this year was decide to be honest — with each other, with our teams, and with this report. That honesty made everything else possible."*<br><br>Adeline led the annual reporting process and championed transparency across every level of the organization. | **Drew Feig**<br>Head of Strategy & Performance<br><br>*"We stopped measuring activity and started measuring impact. That shift changed how every leader in this organization thought about their work."*<br><br>Drew led the shift to outcome-based performance tracking, which shaped how results were captured across all teams. |
@@ -97,8 +92,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Voices From Our Leaders  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Jamie C.**<br>Regional Director<br><br>*"We had clarity this year — real clarity. Every decision felt connected to something bigger."* | **Olivia W.**<br>Head of People<br><br>*"Our leaders didn't just manage. They coached, they listened, and they grew alongside their teams."* | **Alfredo T.**<br>Director of Operations<br><br>*"The data tells one story. The people behind it tell a better one. Both are in this report."* |
@@ -111,8 +105,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Leadership Is A Responsibility  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Every number in this report represents a real person making a real choice. Our leaders chose to show up, to be honest, and to build something worth being proud of. That is what accountability looks like — not just in reports, but in every decision, every day. |
@@ -125,8 +118,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Looking Ahead to Fiscal Year 2025  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **What We Will Build On**<br><br>This year showed us what strong leadership makes possible. In 2025, we will deepen those foundations — investing in people, maintaining strategic focus, and continuing to hold ourselves accountable to the goals we set. | **What We Will Change**<br><br>We learned where we can do better. In 2025, we will move faster in developing early-career leaders, improve how we track learning outcomes, and create more spaces for honest feedback to shape how we lead. |

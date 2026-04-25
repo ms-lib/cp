@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** The Product Opportunity In Lower Carbon  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Initiative: Low-Carbon Product Line Development<br>Session Date: March 20, 2025<br>Led by: Adeline Palmerston, Head of Product Innovation<br>Hosted at: Studio Shodwe Product Lab<br><br>Our Focus: Customers are choosing lower-carbon products more than ever — and the businesses building them are gaining real competitive ground. This session at Studio Shodwe gives Liceria & Co.'s product teams a clear, practical framework for reducing the carbon impact of our products without compromising quality, performance, or profitability. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Three Places Carbon Hides In Your Product  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Materials:**<br>The raw materials used to make a product often carry the largest share of its total carbon impact — and are the highest-leverage place to reduce it. | **Manufacturing:**<br>How a product is made — the energy used, the waste generated, the processes involved — all contribute to its carbon footprint. | **End of Life:**<br>What happens to a product when it is no longer used matters — products designed for reuse or recycling carry a significantly lower total impact. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Lower Carbon Is Better Product Design  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Reducing the carbon impact of a product is not a compromise — it is a design discipline. The teams at Liceria & Co. who have gone through this process at Studio Shodwe consistently find that lower-carbon design leads to smarter material choices, leaner manufacturing, and products that customers value more. Carbon reduction and product quality move in the same direction. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** The Low-Carbon Product Development Process  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Assess & Redesign:**<br>Map carbon impact, then identify lower-carbon alternatives. | **Test:**<br>Validate that changes maintain quality and performance. | **Launch:**<br>Bring the improved product to market with a clear story. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Product Innovation Leadership  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Product Lead:**<br>Adeline Palmerston, who has guided Liceria & Co.'s low-carbon product redesign program at Studio Shodwe — helping product teams find carbon reduction opportunities that strengthen rather than compromise what makes their products great. | **The R&D Voice:**<br>Drew Feig, whose materials research at Liceria & Co. has identified lower-carbon alternatives across multiple product lines — delivering reduced impact without the performance trade-offs that teams initially feared. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Product Team Leads  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Materials Lead:**<br>Kimberly N. on sourcing alternatives. | **Design Lead:**<br>Daniel G. on product redesign. | **Launch Lead:**<br>Shawn G. on market positioning. | **Testing Lead:**<br>Matt Z. on quality validation. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Products Built For Tomorrow Are Being Built Today  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The product teams winning market share in the next decade are the ones building lower-carbon products right now — before it becomes a requirement. At Liceria & Co., we are not waiting for customers to demand it or regulators to require it. We are building the product line that leads the market rather than follows it. That is what innovation looks like today. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Start With One Product This Quarter  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | The most effective low-carbon product programs at Liceria & Co. started with one product, one audit, and one redesign sprint. Leave Studio Shodwe today with one product identified for a carbon review — and a committed start date before the end of this quarter. | **Resources:**<br>Carbon audit tools, material alternative guides, and low-carbon design frameworks are available from the Liceria & Co. product team. Contact Adeline Palmerston to get started. |

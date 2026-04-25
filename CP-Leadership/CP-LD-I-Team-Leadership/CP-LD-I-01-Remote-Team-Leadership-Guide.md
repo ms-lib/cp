@@ -23,11 +23,7 @@
 ---
 
 ### PAGE 2 - OPENER
-**Fase:** OPENING
-**Tipe Halaman:** Opener
-**Judul Halaman:** About This Guide
-**Jumlah Kolom:** 1
-
+**Fase:** OPENING  **Tipe Halaman:** Opener  **Judul Halaman:** About This Guide  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | **The Organization:** Liceria & Co.<br>**The Guide Lead:** Adeline Palmerston, Head of Remote Leadership<br>**The Venue:** Studio Shodwe<br>**The Date:** May 15, 2025<br>**The Purpose:** To give remote team leaders a clear, practical framework for building connection, maintaining clarity, and earning trust — no matter where the team is located. This guide is built from real leadership practice, not theory. |
@@ -37,11 +33,7 @@
 ---
 
 ### PAGE 3 - CONTEXT
-**Fase:** OPENING
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Three Challenges Every Remote Leader Faces
-**Jumlah Kolom:** 3
-
+**Fase:** OPENING  **Tipe Halaman:** List/Value  **Judul Halaman:** Three Challenges Every Remote Leader Faces  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Connection:**<br>Distance breaks the small moments that build team relationships. Remote leaders must work harder to create a sense of belonging for every team member. | **Clarity:**<br>Without face-to-face cues, instructions and expectations can easily get lost. Remote teams need more structure, not less, to stay aligned on goals and responsibilities. | **Trust:**<br>Trust takes longer to build at a distance. Leaders who check in too often risk micromanaging. Those who don't check in enough risk losing the team's confidence and focus. |
@@ -51,11 +43,7 @@
 ---
 
 ### PAGE 4 - CORE CONTENT A
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** What Remote Leadership Really Demands
-**Jumlah Kolom:** 1
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** What Remote Leadership Really Demands  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Leading remotely is not just about tools and schedules. At Liceria & Co., Adeline Palmerston found that the strongest remote teams are built on one thing: intentional leadership. Every touchpoint matters. Every message shapes how the team feels about their work, their role, and their leader. |
@@ -65,11 +53,7 @@
 ---
 
 ### PAGE 5 - CORE CONTENT B
-**Fase:** CORE CONTENT
-**Tipe Halaman:** List/Value
-**Judul Halaman:** Four Remote Leadership Practices That Work
-**Jumlah Kolom:** 4
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** List/Value  **Judul Halaman:** Four Remote Leadership Practices That Work  **Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Check In Daily:**<br>Short, regular check-ins keep alignment strong and give team members a voice. | **Set Clear Goals:**<br>Define what success looks like for each week, each project, and each person on the team. | **Celebrate Wins:**<br>Recognize team and individual achievements openly — remote teams need to hear that their work matters. | **Build Rituals:**<br>Consistent team moments — a Monday kick-off, a Friday wrap-up — build rhythm and a sense of shared identity. |
@@ -79,11 +63,7 @@
 ---
 
 ### PAGE 6 - CORE CONTENT C
-**Fase:** CORE CONTENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** Leadership Voices From The Team
-**Jumlah Kolom:** 2
-
+**Fase:** CORE CONTENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Leadership Voices From The Team  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **The Lead:**<br>Adeline Palmerston drives remote leadership strategy at Liceria & Co., building a culture of accountability, clarity, and care across a fully distributed team. | **The Partner:**<br>Drew Feig leads remote operations at Liceria & Co., translating Adeline's leadership framework into daily systems that help team members stay connected and productive. |
@@ -93,11 +73,7 @@
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
-**Fase:** ENGAGEMENT
-**Tipe Halaman:** Profile/Spotlight
-**Judul Halaman:** Voices From The Remote Team
-**Jumlah Kolom:** 3
-
+**Fase:** ENGAGEMENT  **Tipe Halaman:** Profile/Spotlight  **Judul Halaman:** Voices From The Remote Team  **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **"Structure saved us."**<br>— Jamie C. | **"Trust changed everything."**<br>— Olivia W. | **"We finally felt like a real team."**<br>— Alfredo T. |
@@ -107,11 +83,7 @@
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK
-**Tipe Halaman:** Emotional/Reflective
-**Judul Halaman:** Distance Never Has To Mean Disconnection
-**Jumlah Kolom:** 1
-
+**Fase:** PEAK  **Tipe Halaman:** Emotional/Reflective  **Judul Halaman:** Distance Never Has To Mean Disconnection  **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The best remote teams at Liceria & Co. don't succeed because of the tools they use. They succeed because their leader chose to show up with intention every single day — and the team felt it, no matter the distance. |
@@ -121,11 +93,7 @@
 ---
 
 ### PAGE 9 - CLOSING
-**Fase:** CLOSE
-**Tipe Halaman:** Practical/Utility
-**Judul Halaman:** Your Next Steps As A Remote Leader
-**Jumlah Kolom:** 2
-
+**Fase:** CLOSE  **Tipe Halaman:** Practical/Utility  **Judul Halaman:** Your Next Steps As A Remote Leader  **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Start with the three challenges: Connection, Clarity, and Trust. Pick the one your team needs most right now. Build one new practice around it this week. Small, consistent actions are how great remote leaders earn their team's best work. | **Get Started:**<br>Use this guide as a living reference. Bring your team into the conversation. Share what works and adjust what doesn't. Adeline Palmerston and the team at Liceria & Co. are always refining — so can you. |

@@ -26,8 +26,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** A Business Built On People  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | Shared with: Board of Directors, Partners & Suppliers<br>Overview Period: Fiscal Year 2024<br>People Lead: Adeline Palmerston, Head of People & Organizational Health<br>Prepared at: Liceria & Co. — Studio Shodwe<br><br>Our Aim: This overview shares how Liceria & Co. is investing in the health and wellbeing of our organization — from our people to our practices. For our partners, it is a window into the kind of business we are building: one that performs well because it takes care of the people behind the performance. |
@@ -40,8 +39,7 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Two Pillars Of A Healthier Business  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Our People & Practices:**<br>Investing in the physical and mental wellbeing of every Liceria & Co. employee — while also reviewing and improving how we work. We are reducing unnecessary pressure, improving flexibility, and making our daily operations more sustainable for the long term. | **Our Partnerships:**<br>Choosing partners and suppliers who share our commitment to the wellbeing of their own people and organizations. Healthier partnerships are built on shared values — and we actively seek out and support organizations that hold those same standards. |
@@ -54,8 +52,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** A Healthier Business Performs Better  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | At Liceria & Co., we share this overview with partners because we believe the health of our organization directly affects the quality of every relationship we hold. Businesses that take care of their people produce more consistent work, make better decisions, and show up as more reliable partners. That is what we are building. |
@@ -68,8 +65,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Organizational Health At A Glance  
-**Jumlah Kolom:** 4
-
+**Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Wellbeing**<br>Team health score. | **Retention**<br>People staying longer. | **Performance**<br>Output consistency. | **Culture**<br>Engagement level. |
@@ -82,8 +78,7 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Who Leads Our Health Commitment  
-**Jumlah Kolom:** 3
-
+**Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **The People Lead:**<br>Adeline Palmerston, who has built Liceria & Co.'s organizational health strategy — connecting people investment directly to business performance and making wellbeing a core part of how we operate, not an add-on to it. | **The Partner Voice:**<br>Estelle Darcy, who manages Liceria & Co.'s partner health standards — ensuring that the organizations we work with share our commitment to building teams that are genuinely well and genuinely engaged. | **The Wellbeing Voice:**<br>Drew Feig, who leads the day-to-day wellbeing programs at Liceria & Co. — translating the organizational health strategy into practical initiatives that employees and partners can see and feel in their work. |
@@ -96,8 +91,7 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Program Leads  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Wellbeing Lead:**<br>Kimberly N. on team health. | **Culture Lead:**<br>Lorna A. on engagement. |
@@ -110,8 +104,7 @@
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** The Businesses We Admire Take Care Of Their People  
-**Jumlah Kolom:** 1
-
+**Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
 | The organizations our partners most want to work with are the ones that show up consistently — with reliable teams, stable relationships, and the kind of culture that does not burn out quietly. At Liceria & Co., building a healthier business is not just good practice. It is what makes us a better partner in every sense of the word. |
@@ -124,8 +117,7 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Commitment To You As A Partner  
-**Jumlah Kolom:** 2
-
+**Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | Liceria & Co. is committed to keeping our board, partners, and suppliers informed of our organizational health progress — because we believe the strength of a partnership reflects the strength of the businesses behind it. The next overview will be shared in six months. | **Get In Touch:**<br>Full organizational health data and partner standards documentation are available on request. Contact Adeline Palmerston at Liceria & Co. for partnership discussions. |
