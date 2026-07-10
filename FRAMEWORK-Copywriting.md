@@ -198,7 +198,34 @@ Untuk menjamin template lolos review Canva (Creative Marketplace), patuhi aturan
 
 ---
 
-## 8. Contoh Copywriting yang Sudah Dibuat
+## 8. Pelajaran dari Kasus Penolakan (Case Study: E-04)
+
+Berdasarkan kasus penolakan template **CP-SB-E-04** versi awal (yang menggunakan pendekatan iklim kaku/langsung) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Pembingkaian Positif & Berorientasi Peluang (Framing)
+- **Larangan:** Hindari kata-kata krisis iklim yang terlalu spesifik atau bernada menakutkan seperti *Global Warming* atau *Warming World* untuk produk bisnis/umum.
+- **Rekomendasi:** Bingkai masalah sebagai tren adaptasi pasar atau kondisi yang berkembang. Gunakan istilah seperti *Environmental Trends*, *Evolving Conditions*, atau *Changing Conditions*.
+
+### B. Konsistensi Brand & Venues
+- Pastikan nama merek utama (*Liceria & Co.*) dan nama tempat/venue/lab (*Studio Shodwe* atau *Studio Liceria*) konsisten di seluruh slide. Jangan mencampuradukkannya atau menukar penggunaannya di tengah dokumen.
+
+### C. Penamaan Fitur yang User-Centric (Active & Benefit-Driven)
+- Gunakan penamaan pilar atau fitur yang fokus pada manfaat langsung bagi pengguna alih-alih pelestarian pasif.
+  - ❌ *Heat & Protection* $\rightarrow$  *Thermal Comfort* (Meningkatkan kenyamanan pengguna).
+  - ❌ *Water Conservation* $\rightarrow$  *Water Efficiency* (Efisiensi penggunaan air).
+
+### D. Penulisan Nama Anggota Tim Secara Profesional
+- Untuk pilar kredibilitas atau halaman profil tim, tulis nama lengkap tokoh/anggota tim secara profesional (misal: *Lorna Alvarado*, *Daniel Gallego*) alih-alih menggunakan inisial singkatan nama belakang (misal: *Lorna A.*).
+
+### E. Proyeksi Garis Waktu Jangka Panjang (Strategic Timeline)
+- Untuk presentasi berorientasi bisnis masa depan (*forward-looking*), gunakan target waktu strategis jangka panjang yang logis (contoh: tahun **2030** alih-alih tahun yang terlalu dekat seperti **2025**).
+
+### F. Wajib Quality Assurance (QA) Tata Bahasa pasca Revisi Cepat
+- Ketika melakukan revisi kilat atas masukan desainer/klien, lakukan pemeriksaan grammar ulang secara menyeluruh. Pastikan tidak ada struktur kalimat bahasa Inggris yang rusak atau menggantung akibat penyuntingan terburu-buru (contoh kesalahan yang harus dihindari: *"needs in evolving conditions is producing"* atau *"problem that is influencing and identify"*).
+
+---
+
+## 9. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 
