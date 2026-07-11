@@ -317,9 +317,20 @@ Berdasarkan kasus penolakan template **CP-SB-C-01** versi awal (yang menggunakan
 - Hindari penggunaan diksi yang bernada dramatis, alarmis, menggambarkan kepanikan kompetitor, atau keputusasaan (seperti *scrambling, panic, disaster*). Pastikan nada tulisan tetap profesional, objektif, dan berorientasi pada penyelesaian masalah internal secara tenang.
   - ❌ *...will be the ones who protect their numbers when others are scrambling* $\rightarrow$ **...will better support business performance...**
 
+## 14. Pelajaran dari Kasus Penolakan (Case Study: B-01)
+
+Berdasarkan kasus penolakan template **CP-SB-B-01** versi awal (yang menggunakan pendekatan keterlibatan karyawan mikro praktis) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Peningkatan Skala Pembahasan (Strategic Up-scaling over Micro-tips)
+- Untuk presentasi bertema keterlibatan karyawan/tim (*Internal Engagement*), hindari menulis tips harian kasual berskala mikro (seperti menghemat listrik, menu makanan vegetarian, atau naik sepeda). Tingkatkan skala pembahasan (*up-scale*) ke arah analisis biaya operasional makro, efisiensi energi korporat, dan strategi kepemimpinan taktis agar memiliki nilai jual komersial premium yang tinggi di pasar Canva.
+  - ❌ *Switch off lights, screens, and skip the print / Less meat, more plants at every meal / Meet online before booking any trip* $\rightarrow$ **Energy (Cost trends) / Supply (Supply Status) / Strategy (Continuity Plans) / Regulation (Policy Updates)**
+
+### B. Konsistensi Tokoh dan Profil Kepemimpinan Seri (Series Character Consistency)
+- Jaga konsistensi pilar tokoh pimpinan di seluruh seri template. Gunakan kembali tokoh kepemimpinan utama (seperti *Drew Feig* dan *Adeline Palmerston*) daripada menciptakan tokoh baru yang terlalu spesifik proyek (seperti *Estelle Darcy* sebagai Green Champion atau *Matt Zhang* sebagai Commute Leader) untuk mempermudah keselarasan narasi brand *Liceria & Co.*
+
 ---
 
-## 14. Contoh Copywriting yang Sudah Dibuat
+## 15. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 
