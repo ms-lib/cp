@@ -325,9 +325,21 @@ Berdasarkan kasus penolakan template **CP-SB-B-01** versi awal (yang menggunakan
 - Untuk presentasi bertema keterlibatan karyawan/tim (*Internal Engagement*), hindari menulis tips harian kasual berskala mikro (seperti menghemat listrik, menu makanan vegetarian, atau naik sepeda). Tingkatkan skala pembahasan (*up-scale*) ke arah analisis biaya operasional makro, efisiensi energi korporat, dan strategi kepemimpinan taktis agar memiliki nilai jual komersial premium yang tinggi di pasar Canva.
   - ❌ *Switch off lights, screens, and skip the print / Less meat, more plants at every meal / Meet online before booking any trip* $\rightarrow$ **Energy (Cost trends) / Supply (Supply Status) / Strategy (Continuity Plans) / Regulation (Policy Updates)**
 
+## 15. Pelajaran dari Kasus Penolakan (Case Study: A-05)
+
+Berdasarkan kasus penolakan template **CP-SB-A-05** versi awal (yang menggunakan pendekatan laporan data bencana pasif) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Ubah "Laporan Pasif" Menjadi "Panduan Aktif" (Disaster Preparedness Playbook)
+- Untuk topik keberlanjutan yang melibatkan risiko operasional fisik nyata (seperti cuaca ekstrem, badai, atau banjir), hindari menyajikan data bencana secara pasif (seperti sekadar melaporkan jenis bencana). Kemas tulisan menjadi panduan cara bertindak (*how-to playbook*) bagi manajer operasional agar memiliki nilai guna praktis (*practical utility*) yang tinggi bagi pengguna.
+  - ❌ *Extreme Weather & Business Impact Report* $\rightarrow$ **Extreme Weather Business Risk: What Every Manager Needs To Know**
+
+### B. Penerapan Kerangka Waktu Tindakan Kronologis (Chronological Action Flow)
+- Pada slide proses krisis/tanggap darurat, gunakan alur kronologi waktu yang berurutan untuk menyajikan langkah tindakan agar lebih mudah dipahami secara visual.
+  - ❌ Menggunakan rincian jenis cuaca (*Floods, Heatwaves, Storms*) $\rightarrow$ **Before (Persiapan) / During (Komunikasi & Keselamatan) / After (Pemulihan & Laporan Dampak)**
+
 ---
 
-## 15. Contoh Copywriting yang Sudah Dibuat
+## 16. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 
