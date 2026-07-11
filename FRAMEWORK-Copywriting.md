@@ -304,9 +304,22 @@ Berdasarkan kasus penolakan template **CP-SB-C-02** versi awal (yang menggunakan
 - Hindari penggunaan kalimat sangkalan atau nada defensif (seperti *"not soft leadership"*) pada slogan, kutipan, atau body copy. Gunakan pernyataan afirmatif/positif yang langsung menyatakan nilai manfaat profesional.
   - ❌ *That is not soft leadership — it is smart strategy* $\rightarrow$ **That is practical leadership and smart strategy**
 
+## 13. Pelajaran dari Kasus Penolakan (Case Study: C-01)
+
+Berdasarkan kasus penolakan template **CP-SB-C-01** versi awal (yang menggunakan pendekatan kepatuhan/risiko kaku) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Penyelarasan Nama Jabatan Kepatuhan (Compliance/Risk Title Softening)
+- Ubah nama jabatan internal tim yang bernada hukum atau audit kepatuhan berat (*Risk/Compliance*) menjadi istilah yang berorientasi pada perencanaan operasional dan penyelarasan standar (*Planning/Standard*) agar terkesan lebih konstruktif.
+  - ❌ *Risk Lead* $\rightarrow$ **Planning Lead**
+  - ❌ *Compliance Lead* $\rightarrow$ **Standard Lead**
+
+### B. Menjaga Nada Tenang Korporat (Maintaining Professional Calm)
+- Hindari penggunaan diksi yang bernada dramatis, alarmis, menggambarkan kepanikan kompetitor, atau keputusasaan (seperti *scrambling, panic, disaster*). Pastikan nada tulisan tetap profesional, objektif, dan berorientasi pada penyelesaian masalah internal secara tenang.
+  - ❌ *...will be the ones who protect their numbers when others are scrambling* $\rightarrow$ **...will better support business performance...**
+
 ---
 
-## 13. Contoh Copywriting yang Sudah Dibuat
+## 14. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 
