@@ -325,9 +325,6 @@ Berdasarkan kasus penolakan template **CP-SB-B-01** versi awal (yang menggunakan
 - Untuk presentasi bertema keterlibatan karyawan/tim (*Internal Engagement*), hindari menulis tips harian kasual berskala mikro (seperti menghemat listrik, menu makanan vegetarian, atau naik sepeda). Tingkatkan skala pembahasan (*up-scale*) ke arah analisis biaya operasional makro, efisiensi energi korporat, dan strategi kepemimpinan taktis agar memiliki nilai jual komersial premium yang tinggi di pasar Canva.
   - ❌ *Switch off lights, screens, and skip the print / Less meat, more plants at every meal / Meet online before booking any trip* $\rightarrow$ **Energy (Cost trends) / Supply (Supply Status) / Strategy (Continuity Plans) / Regulation (Policy Updates)**
 
-### B. Konsistensi Tokoh dan Profil Kepemimpinan Seri (Series Character Consistency)
-- Jaga konsistensi pilar tokoh pimpinan di seluruh seri template. Gunakan kembali tokoh kepemimpinan utama (seperti *Drew Feig* dan *Adeline Palmerston*) daripada menciptakan tokoh baru yang terlalu spesifik proyek (seperti *Estelle Darcy* sebagai Green Champion atau *Matt Zhang* sebagai Commute Leader) untuk mempermudah keselarasan narasi brand *Liceria & Co.*
-
 ---
 
 ## 15. Contoh Copywriting yang Sudah Dibuat
