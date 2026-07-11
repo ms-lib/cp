@@ -337,9 +337,26 @@ Berdasarkan kasus penolakan template **CP-SB-A-05** versi awal (yang menggunakan
 - Pada slide proses krisis/tanggap darurat, gunakan alur kronologi waktu yang berurutan untuk menyajikan langkah tindakan agar lebih mudah dipahami secara visual.
   - ❌ Menggunakan rincian jenis cuaca (*Floods, Heatwaves, Storms*) $\rightarrow$ **Before (Persiapan) / During (Komunikasi & Keselamatan) / After (Pemulihan & Laporan Dampak)**
 
+## 16. Pelajaran dari Kasus Penolakan (Case Study: E-02)
+
+Berdasarkan kasus penolakan template **CP-SB-E-02** versi awal (yang menggunakan pendekatan kesejahteraan/emosi pekerja kasual) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Fokus Ketergunaan Produk Makro (Usability & User Experience Focus)
+- Hindari frasa berlebihan tentang kualitas hidup/kesehatan personal (seperti membantu hidup lebih baik). Gunakan istilah bisnis yang wajar seperti pengalaman pengguna (*user experience*) atau kenyamanan pakai sehari-hari (*usability*).
+  - ❌ *Design Products That Help People Live Better* $\rightarrow$ **Design Products to Improve Everyday Experience**
+  - ❌ *make someone's life better* $\rightarrow$ **improve the user experience**
+
+### B. Diksi Pengalaman dan Kebutuhan Pengguna (User Needs vs. Life Problems)
+- Saat riset produk, hindari menanyakan masalah hidup (*problems*) pengguna secara personal. Fokuslah bertanya tentang pengalaman (*experiences*) atau kebutuhan (*user needs*) mereka agar terdengar lebih profesional dan berorientasi solusi.
+  - ❌ *Identify specific life problem* $\rightarrow$ **Identify specific user need**
+  - ❌ *Not their preferences — their problems* $\rightarrow$ **Not their preferences — their experiences**
+
+### C. Penomoran Langkah Alur Proses (Numbered Steps)
+- Pada slide yang berisi proses atau langkah bertahap, berikan penomoran angka yang rapi (seperti **(01), (02), (03)**) agar hierarki visual dan alurnya terlihat jelas bagi pembaca.
+
 ---
 
-## 16. Contoh Copywriting yang Sudah Dibuat
+## 17. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 
