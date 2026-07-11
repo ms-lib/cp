@@ -264,7 +264,7 @@ Berdasarkan kasus penolakan template **CP-SB-F-03** versi awal (yang menggunakan
 ### B. Efisiensi Konten & Kepadatan Informasi (Conciseness)
 - Pada slide taktis (seperti deskripsi tim atau alur cerita), kurangi kalimat deskriptif yang terlalu panjang atau pertanyaan reflektif yang tidak memberikan informasi langsung. Pertahankan informasi yang ringkas dan padat.
   - Hapus pertanyaan reflektif panjang pada halaman alur cerita jika tidak krusial.
-  - Pada halaman profil tim, hilangkan deskripsi tugas panjang dan cukup cantumkan nama serta jabatan untuk menjaga ruang kosong (*white space*).
+  - Pada halaman profil tim, deskripsi tugas/tanggung jawab peran tetap diperbolehkan, namun harus ditulis dengan kalimat yang sangat ringkas, padat, dan tidak bertele-tele agar ruang kosong (*white space*) visual slide tetap terjaga.
 
 ### C. Simplifikasi Metrik Menjadi Manfaat Umum (Benefit-Driven vs Technical Specs)
 - Jangan menulis metrik spesifikasi teknis yang kaku karena akan membatasi kegunaan template bagi pembeli yang memiliki produk berbeda. Ubah spesifikasi teknis menjadi klaim manfaat umum.
