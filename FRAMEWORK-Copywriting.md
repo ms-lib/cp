@@ -225,7 +225,34 @@ Berdasarkan kasus penolakan template **CP-SB-E-04** versi awal (yang menggunakan
 
 ---
 
-## 9. Contoh Copywriting yang Sudah Dibuat
+## 9. Pelajaran dari Kasus Penolakan (Case Study: F-04)
+
+Berdasarkan kasus penolakan template **CP-SB-F-04** versi awal (yang menggunakan pendekatan branding iklim kaku/alarmis) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Pembingkaian Bahasa Pemasaran (Marketing Framing & Tone)
+- Di modul pemasaran/branding, kurangi diksi yang berfokus pada "krisis/masalah" dan perbanyak diksi yang berorientasi pada "kesiapan bisnis" (*business readiness*).
+  - ❌ *Climate resilience* $\rightarrow$ **Operational readiness** (lebih netral dan berorientasi bisnis).
+  - ❌ *Carbon-neutral pathway* $\rightarrow$ **Long-term reduction plan** (lebih praktis dan membumi).
+
+### B. Fleksibilitas Penggunaan Nama Canva Ipsum
+- Nama-nama tokoh yang tercantum dalam daftar Canva Ipsum (seperti *Drew Feig*, *Adeline Palmerston*, dll.) bersifat fleksibel dan bebas digunakan secara silang di jenis presentasi mana pun tanpa pembatasan kaku, selama nama tersebut terdaftar secara resmi di dalam panduan Canva Ipsum.
+
+### C. Standardisasi Nama Peran Tim (Professional Role Titles)
+- Penamaan peran tim dalam slide profil harus menggunakan nomenklatur standar industri yang umum digunakan di dunia profesional pemasaran/bisnis, bukan istilah kustom proyek yang terlalu spesifik.
+  - ❌ *Messaging Lead* $\rightarrow$ **Brand Lead**
+  - ❌ *Channel Lead* $\rightarrow$ **Communications Lead**
+
+### D. Simplifikasi Jargon Teknis (Plain Language Rule)
+- Setiap jargon teknis yang rumit wajib diterjemahkan langsung ke padanan kata bahasa sehari-hari yang menggambarkan tindakan nyata di lapangan agar mudah dipahami secara global oleh audiens awam.
+  - ❌ *"carbon-neutral pathway"* $\rightarrow$ *"plan to remove more carbon than we produce"*
+  - ❌ *"climate resilience"* $\rightarrow$ *"ready for what comes next"*
+
+### E. Aturan Deteksi Kesalahan QA (Anti-Tautology & Grammar Check)
+- Setiap kali melakukan revisi atau penggantian istilah secara massal (*bulk replace*), wajib dilakukan pengecekan ulang tata bahasa untuk menghindari kesalahan artikel (*a/an*) atau penumpukan kata yang sama secara tidak sengaja (*tautology*). Contoh kesalahan yang harus dihindari: *"Changing a Environment"* dan *"brand's brand position"*.
+
+---
+
+## 10. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 
