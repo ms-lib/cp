@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: Back To School Night
-- Subtitle: A Practical Team Guide to Improving Environmental Efficiency Together
+- Subtitle: A Practical Guide for Parents and Families on How to Support Student Success Together
 
 ---
 
