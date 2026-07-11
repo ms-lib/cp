@@ -309,9 +309,9 @@ Berdasarkan kasus penolakan template **CP-SB-C-02** versi awal (yang menggunakan
 Berdasarkan kasus penolakan template **CP-SB-C-01** versi awal (yang menggunakan pendekatan kepatuhan/risiko kaku) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
 
 ### A. Penyelarasan Nama Jabatan Kepatuhan (Compliance/Risk Title Softening)
-- Ubah nama jabatan internal tim yang bernada hukum atau audit kepatuhan berat (*Risk/Compliance*) menjadi istilah yang berorientasi pada perencanaan operasional dan penyelarasan standar (*Planning/Standard*) agar terkesan lebih konstruktif.
-  - ❌ *Risk Lead* $\rightarrow$ **Planning Lead**
-  - ❌ *Compliance Lead* $\rightarrow$ **Standard Lead**
+- Ubah nama jabatan internal tim yang bernada hukum, regulasi, atau pengawasan ketat (*Risk/Compliance/Audit*) menjadi istilah yang lebih ramah dan disesuaikan dengan topik presentasi bersangkutan (misal: *Planning/Standard Lead* untuk operasional, atau *Brand/People Lead* untuk pemasaran/SDM) agar terkesan lebih konstruktif.
+  - ❌ *Risk Lead* $\rightarrow$ **Planning Lead** (Disesuaikan untuk operasional)
+  - ❌ *Compliance Lead* $\rightarrow$ **Standard Lead** (Disesuaikan untuk standar kualitas)
 
 ### B. Menjaga Nada Tenang Korporat (Maintaining Professional Calm)
 - Hindari penggunaan diksi yang bernada dramatis, alarmis, menggambarkan kepanikan kompetitor, atau keputusasaan (seperti *scrambling, panic, disaster*). Pastikan nada tulisan tetap profesional, objektif, dan berorientasi pada penyelesaian masalah internal secara tenang.
