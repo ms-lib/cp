@@ -283,7 +283,35 @@ Berdasarkan kasus penolakan template **CP-SB-F-03** versi awal (yang menggunakan
 
 ---
 
-## 11. Contoh Copywriting yang Sudah Dibuat
+## 11. Pelajaran dari Kasus Penolakan (Case Study: D-03)
+
+Berdasarkan kasus penolakan template **CP-SB-D-03** versi awal (yang menggunakan pendekatan iklim sempit/kaku) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Generalisasi Laporan Kepatuhan (Sustainability vs. Compliance)
+- Dalam slide pelaporan kepatuhan pemangku kepentingan (*Stakeholder Communication*), kemas laporan menggunakan kerangka kinerja keberlanjutan umum (*Sustainability Performance*) dan metrik operasional (*Operational Metrics*) alih-alih berfokus sempit pada satu jenis polusi/emisi khusus.
+  - ❌ *Our Clean Air Commitment* $\rightarrow$ **Our Sustainability Performance**
+  - ❌ *Emissions Performance* $\rightarrow$ **Operational Metrics**
+
+### B. Standardisasi & Konsistensi Tim Audit (Audit & Compliance Roles)
+- Wajib menuliskan nama lengkap secara formal pada slide audit kepatuhan. Nama jabatan harus berfokus pada peran pengawasan (*Monitoring Lead, Reporting Lead, Reduction Lead*) untuk memperkuat akuntabilitas laporan di mata pemangku kepentingan.
+
+### C. Visi Jangka Panjang Target Keberlanjutan (Strategic Future-Proofing)
+- Dalam slide proyeksi/target kepatuhan, pasang tahun target jangka panjang yang umum di industri (seperti visi tahun 2030 atau 2040) agar template tetap relevan secara global dan tidak cepat terasa kedaluwarsa bagi pengguna.
+  - ❌ Target zero violations by 2026 $\rightarrow$ **Target full standards alignment by 2040**
+
+### D. Penyederhanaan Slogan Penutup (Tagline Simplicity)
+- Kalimat slogan atau penutup pada halaman belakang (*back cover*) harus menggunakan struktur paling ringkas dan padat untuk kenyamanan visual serta keterbacaan yang cepat.
+  - ❌ *Trust builds brands that last* $\rightarrow$ **Trust builds lasting brands**
+
+### E. Aturan QA Konversi Istilah: Kategori vs. Sifat (Category vs. Adjective Check)
+- Saat melakukan penggantian istilah (seperti *Clean Air* $\rightarrow$ *Environmental*), pastikan tidak ada pengulangan frasa dengan arti sama dalam satu kalimat (redundansi), dan perbaiki tata bahasa jika kata sifat dipaksa menjadi subjek kalimat.
+  - ❌ *...local stakeholders we are part of* (struktur kalimat menggantung).
+  - ❌ *Environmental is not a niche category* (kata sifat dipaksa menjadi subjek).
+  - ❌ *...indoor and outdoor environments indoors and out* (pemborosan kata).
+
+---
+
+## 12. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 
