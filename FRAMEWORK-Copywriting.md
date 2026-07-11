@@ -252,7 +252,38 @@ Berdasarkan kasus penolakan template **CP-SB-F-04** versi awal (yang menggunakan
 
 ---
 
-## 10. Contoh Copywriting yang Sudah Dibuat
+## 10. Pelajaran dari Kasus Penolakan (Case Study: F-03)
+
+Berdasarkan kasus penolakan template **CP-SB-F-03** versi awal (yang menggunakan pendekatan iklim sempit/kaku) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Perluasan Tema Utama (Broadening Scope for Universal Appeal)
+- Jangan membatasi presentasi pada sub-topik yang terlalu sempit (*niche*) jika ingin memiliki daya tarik pasar yang luas. Perluas terminologi agar relevan bagi berbagai macam industri.
+  - ❌ *Clean Air / Air Quality* $\rightarrow$ **Environmental / Environmental Quality**
+  - ❌ *Cleaner air* $\rightarrow$ **Improved environments**
+
+### B. Efisiensi Konten & Kepadatan Informasi (Conciseness)
+- Pada slide taktis (seperti deskripsi tim atau alur cerita), kurangi kalimat deskriptif yang terlalu panjang atau pertanyaan reflektif yang tidak memberikan informasi langsung. Pertahankan informasi yang ringkas dan padat.
+  - Hapus pertanyaan reflektif panjang pada halaman alur cerita jika tidak krusial.
+  - Pada halaman profil tim, hilangkan deskripsi tugas panjang dan cukup cantumkan nama serta jabatan untuk menjaga ruang kosong (*white space*).
+
+### C. Simplifikasi Metrik Menjadi Manfaat Umum (Benefit-Driven vs Technical Specs)
+- Jangan menulis metrik spesifikasi teknis yang kaku karena akan membatasi kegunaan template bagi pembeli yang memiliki produk berbeda. Ubah spesifikasi teknis menjadi klaim manfaat umum.
+  - ❌ *"Removes 99% of airborne particles"* $\rightarrow$ **"Delivers measurable results"** (dapat diterapkan oleh produk/jasa apa pun).
+
+### D. Penggunaan Diksi Penutup Berorientasi Pertumbuhan (Growth-Oriented Closing)
+- Slogan atau tagline penutup pada halaman akhir harus menggunakan kata kerja aktif yang kuat dan berorientasi pada pertumbuhan bisnis (*growth*), serta ditulis seefisien mungkin.
+  - ❌ *Moves Business Forward* $\rightarrow$ **Drives Business Growth**
+  - ❌ *Trust builds brands that last* $\rightarrow$ **Trust builds lasting brands**
+
+### E. Aturan Ketat QA Penyelarasan Kelas Kata (Part of Speech Matching)
+- Saat melakukan penggantian kata kunci secara massal, pastikan kata pengganti memiliki kelas kata yang sama (misal: mengganti kata benda dengan kata benda, bukan kata sifat) agar struktur kalimat tidak rusak, menggantung, atau terjadi pemborosan kata (*redundancy*).
+  - ❌ *Position Brand for Environmental* (kata sifat menggantung tanpa kata benda).
+  - ❌ *Environmental is a Daily Concern* (kata sifat dipaksa menjadi subjek).
+  - ❌ *...indoor and outdoor environments indoors and out* (terjadi pemborosan kata/redundansi).
+
+---
+
+## 11. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 
