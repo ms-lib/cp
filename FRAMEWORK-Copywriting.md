@@ -291,9 +291,22 @@ Berdasarkan kasus penolakan template **CP-SB-D-03** versi awal (yang menggunakan
 - Untuk slide profil/tim di presentasi komersial, gunakan deskripsi biografi profesional yang bersifat umum (*generic*) alih-alih biografi tugas teknis yang terlalu spesifik pada sains/proyek tertentu. Ini meningkatkan *usability* template agar pembeli dari berbagai macam sektor industri dapat langsung menggunakannya tanpa menulis ulang biografi dari nol.
   - ❌ *Drew Feig, whose integration of air quality data into operations planning ensures compliance...* $\rightarrow$ **Drew Feig — The Operations Voice: Whose cross-sector leadership experience brings an outside perspective on what it takes to lead organizations through uncertainty and growth.**
 
+## 12. Pelajaran dari Kasus Penolakan (Case Study: C-02)
+
+Berdasarkan kasus penolakan template **CP-SB-C-02** versi awal (yang menggunakan pendekatan kesejahteraan/emosi pekerja kaku) dan adopsi versi baru (ekstraksi presentasi terupdate), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Pembingkaian Kesejahteraan Pekerja (Human & Workforce Sustainability)
+- Untuk topik yang membahas perasaan, tingkat stres, atau kesehatan mental pekerja (seperti *burnout*), hindari diksi klinis atau sensitif yang terkesan konfrontatif (seperti *burnout, threatens, damages*). Bingkai ulang isu tersebut sebagai masalah manajemen operasional yang netral dan konstruktif.
+  - ❌ *How Employee Burnout Threatens Business Performance* $\rightarrow$ **How Workforce Balance Impacts Business Performance**
+  - ❌ *The Burnout Risk Checklist* $\rightarrow$ **Workforce Balance Checklist**
+
+### B. Reduksi Diksi Defensif / Perbandingan Negatif (Avoiding Defensive/Negative Phrasing)
+- Hindari penggunaan kalimat sangkalan atau nada defensif (seperti *"not soft leadership"*) pada slogan, kutipan, atau body copy. Gunakan pernyataan afirmatif/positif yang langsung menyatakan nilai manfaat profesional.
+  - ❌ *That is not soft leadership — it is smart strategy* $\rightarrow$ **That is practical leadership and smart strategy**
+
 ---
 
-## 12. Contoh Copywriting yang Sudah Dibuat
+## 13. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 
