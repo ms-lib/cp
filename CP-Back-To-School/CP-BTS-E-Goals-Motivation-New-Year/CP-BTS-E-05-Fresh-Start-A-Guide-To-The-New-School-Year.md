@@ -67,12 +67,12 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Daily Intentions  
+**Judul Halaman:** Three Daily Habits  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Be Kind:**<br>Offer help to peers and speak encouraging words. | **Be Curious:**<br>Ask questions and explore class library books. | **Be Patient:**<br>Take slow breaths when tasks feel tricky. |
+| **Kindness:**<br>Offering help to our peers and speaking encouraging words. | **Curiosity:**<br>Asking questions and exploring new school books. | **Patience:**<br>Taking slow, calm breaths when learning feels tricky. |
 
 **Visual Note:** Three clean columns in soft gold shades, showing small icons for a hand, a magnifying glass, and an hourglass.  
 
