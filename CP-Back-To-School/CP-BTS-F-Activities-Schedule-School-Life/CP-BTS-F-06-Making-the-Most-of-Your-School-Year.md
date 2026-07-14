@@ -17,7 +17,7 @@
 **Visual Note:** High-energy bold cover. Vibrant orange background with solid yellow geometric layout boxes and icons representing backpacks, pencils, and stars. Playful title case typography. Use Title Case for the title.  
 
 **Text:**
-- Title: Your Amazing School Year
+- Title: My Amazing School Year
 - Subtitle: A Playful Guide to Daily Habits, Positive Friendships, and Getting Ready for a Wonderful Adventure
 
 ---
@@ -139,7 +139,7 @@
 **Visual Note:** High-energy back cover matching the cover design, with school details and website centered.  
 
 **Text:**
-- Your Amazing School Year
+- My Amazing School Year
 - Studio Shodwe School
 - www.reallygreatsite.com
 
