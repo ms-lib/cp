@@ -70,9 +70,9 @@
 |---|---|---|
 | D-01 | Back To School Parent Night Presentation | Event malam ortu |
 | D-02 | School Year Overview For Families | Overview tahunan ke ortu |
-| D-03 | What Your Child Will Learn This Year | Kurikulum dalam bahasa ortu |
-| D-04 | How To Support Your Child This School Year | Tips untuk ortu di rumah |
-| D-05 | A Message From Your Child's Teacher | Pesan personal ke ortu |
+| D-03 | Our Learning Journey This School Year | Kurikulum dalam bahasa ortu |
+| D-04 | Supporting Your Child's Journey This School Year | Tips untuk ortu di rumah |
+| D-05 | A Welcome Message from the Teacher | Pesan personal ke ortu |
 | D-06 | Back To School Family Orientation Guide | Orientasi keluarga lengkap |
 
 ---
