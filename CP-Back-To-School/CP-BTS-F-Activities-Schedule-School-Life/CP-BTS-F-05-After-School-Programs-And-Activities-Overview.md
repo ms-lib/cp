@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Safe Place to Play  
+**Judul Halaman:** A Safe Haven to Grow  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| I want our program to be a safe haven of warmth and laughter. Together, let's support every student, celebrate their unique creative talents, and make sure that every family feels welcome in our school community. |
+| Our program is designed to be a safe haven of warmth and laughter. Together, we support every student, celebrate their unique creative talents, and ensure that every family feels welcome in our school community. |
 
 **Visual Note:** Empathetic typography on a soft, warm clay-colored background with large leaf-shaped quotation marks.  
 
