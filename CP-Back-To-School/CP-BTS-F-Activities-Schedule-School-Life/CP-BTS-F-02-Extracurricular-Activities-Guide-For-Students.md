@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Celebrating Shared Efforts  
+**Judul Halaman:** Supporting Each Other  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| True victory lies in how we support our team. By cheering for our friends, respecting our opponents, and working together on every task, we turn our after-school hours into a safe place of kindness and fun. |
+| Being part of our programs is about sharing friendly smiles and supporting each other. When we listen to new ideas, help our classmates, and celebrate every creative effort, we make our school community a warm place to grow. |
 
 **Visual Note:** High-contrast text slide on a pastel blue background with huge colorful quotation marks and a border of stars.  
 
