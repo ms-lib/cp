@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Video Ads:**<br>Show supply guides. | **PDF Binders:**<br>Printable checklists. | **Coupon Codes:**<br>Digital discount codes. | **POS Signs:**<br>Bright store boards. |
+| **Video Ads:**<br>Showing supply guides. | **PDF Binders:**<br>Printable checklists. | **Coupon Codes:**<br>Digital discount codes. | **POS Signs:**<br>Bright store boards. |
 
 **Visual Note:** Four colorful horizontal columns styled as paper sticky notes with bright terracotta and teal borders.  
 
