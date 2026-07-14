@@ -11,7 +11,7 @@
 **Audience:** Guru, admin sekolah, event organizer  
 **Search Intent:** Ada event spesifik, butuh agenda/program resmi  
 **Sub-clusters:** Back to School Night, First Day, Open House  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Angle |
 |---|---|---|
@@ -29,7 +29,7 @@
 **Audience:** Guru mempresentasikan diri ke murid dan orang tua  
 **Search Intent:** Kenalkan diri, set ekspektasi kelas, classroom setup  
 **Sub-clusters:** Meet The Teacher, Classroom Guide, Class Overview  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Angle |
 |---|---|---|
@@ -47,7 +47,7 @@
 **Audience:** Murid, guru membuat aktivitas ice breaker  
 **Search Intent:** Slides perkenalan diri, profil murid, kenalan dengan kelas  
 **Sub-clusters:** About Me, Meet The Class, New Student  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Angle |
 |---|---|---|
@@ -64,7 +64,7 @@
 **Audience:** Guru dan admin berkomunikasi ke orang tua  
 **Search Intent:** Komunikasi formal sekolah ke keluarga, parent night  
 **Sub-clusters:** Parent Night, Family Orientation, School-Home Communication  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Angle |
 |---|---|---|
@@ -81,7 +81,7 @@
 **Audience:** Murid, guru motivasi, evergreen content  
 **Search Intent:** Inspirasi awal tahun, tips sukses akademis, goal setting  
 **Sub-clusters:** Goals, Study Tips, Fresh Start  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Angle |
 |---|---|---|
