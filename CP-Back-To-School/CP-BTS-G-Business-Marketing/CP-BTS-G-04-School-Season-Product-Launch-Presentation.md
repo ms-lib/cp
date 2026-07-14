@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Exclusive Retailers:**<br>Distribute launching stocks to priority brick-and-mortar stores. | **Digital Media Kits:**<br>Provide branding assets, product photos, and display files. | **Early Bird Offers:**<br>Promote special wholesale discount rates for pre-orders. |
+| **Exclusive Retailers:**<br>Distributing launching stocks to priority brick-and-mortar stores. | **Digital Media Kits:**<br>Providing branding assets, product photos, and display files. | **Early Bird Offers:**<br>Promoting special wholesale discount rates for pre-orders. |
 
 **Visual Note:** Process timeline layout showing gold numbered circular nodes for steps one, two, and three.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Dedicated Displays:**<br>Request custom store banners, shelf stand layouts, and display checklists. | **Margin Protection:**<br>Maintain stable seasonal price ranges and enjoy wholesale volume discounts. |
+| **Dedicated Displays:**<br>Requesting custom store banners, shelf stand layouts, and display checklists. | **Margin Protection:**<br>Maintaining stable seasonal price ranges and offering wholesale volume discounts. |
 
 **Visual Note:** Two modern graphic layout cards showing barcode icons and percentage metrics.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We are fully prepared to support your inventory setup and supply launch events this seasonal rush. | **Launch Lead:**<br>Sample request kits, catalog sheets, and retail strategy files are ready. Contact Drew Feig to submit orders. |
+| **Operational Readiness:**<br>Coordinating warehouse distribution timelines and retail supply setups ensures a smooth launch for partners. | **Launch Lead:**<br>Sample request kits, catalog sheets, and retail strategy files are ready. Contact Drew Feig to submit orders. |
 
 **Visual Note:** Split layout. Deep navy left panel for closing statements, slate grey right panel for contact actions.  
 
