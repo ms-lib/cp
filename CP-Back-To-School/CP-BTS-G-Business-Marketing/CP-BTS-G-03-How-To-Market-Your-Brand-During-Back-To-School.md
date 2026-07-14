@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Social Video Sharing:**<br>Post short videos showing students packing backpacks, testing notebooks, and organizing drawing kits. | **Complete Product Bundles:**<br>Combine pencils, notebooks, and folders into single-click buy buttons on portal sites. |
+| **Social Video Sharing:**<br>Posting short videos showing students packing backpacks, testing notebooks, and organizing drawing kits. | **Complete Product Bundles:**<br>Combining pencils, notebooks, and folders into single-click buy buttons on portal sites simplifies shopping. |
 
 **Visual Note:** Two vertical blocks split with a bold hand-drawn squiggle line, featuring graphic checkmark badges.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Setup Ads:**<br>Publish social video ads and send out newsletter guides weekly. | **Launch Promos:**<br>Activate coupon codes and coordinate store display layouts. | **Track Feedback:**<br>Review parent reviews and adjust inventory levels daily. |
+| **Setup Ads:**<br>Publishing social video ads and sending out newsletter guides weekly. | **Launch Promos:**<br>Activating coupon codes and coordinating store display layouts. | **Track Feedback:**<br>Reviewing parent reviews and adjusting inventory levels daily. |
 
 **Visual Note:** Three clean activity cards with hand-drawn checklist circles and tiny stars.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We are excited to support your campaign strategy and help your retail business grow this school season. | **Strategy Lead:**<br>Marketing checklists, media templates, and campaign timelines are ready. Contact Lorna Alvarado to get files. |
+| **Brand Alignment:**<br>Coordinating marketing materials across all channels ensures a consistent brand presence and drives seasonal growth. | **Strategy Lead:**<br>Marketing checklists, media templates, and campaign timelines are ready. Contact Lorna Alvarado to get files. |
 
 **Visual Note:** Split layout. Left panel for positive closing statements, right panel for strategy guide actions.  
 
