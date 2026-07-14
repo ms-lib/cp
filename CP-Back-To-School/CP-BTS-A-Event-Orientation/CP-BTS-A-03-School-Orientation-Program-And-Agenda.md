@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Institution:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Orientation Lead:** Adeline Palmerston, Director of Admissions  <br><br>Welcome to our school orientation program! We are excited to guide new students and families as they transition into our campus life. This week-long program provides schedules, helpful resources, and opportunities to connect with staff, teachers, and peers. |
+| **Institution:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Orientation Lead:** Adeline Palmerston, Director of Admissions  <br><br>Welcome to our school orientation program! We are excited to guide new students and families as they transition into our campus life. This week-long program provides schedules, helpful resources, and opportunities to connect with staff, teachers, and peers. |
 
 **Visual Note:** Balanced header layout with a thin gold border. 40% white space around the body text for high readability.  
 
