@@ -8,7 +8,7 @@
 **Tone:** Collaborative, strategic, supportive  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1  
+**Pattern Kolom:** 1→1→3→2→1→4→2→1→2→1  
 
 ---
 
@@ -54,11 +54,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Our Educational Mission  
-**Jumlah Kolom:** 1  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 |
-|---------|
-| Our mission as educators goes beyond teaching academic lessons; we are here to nurture student confidence, creativity, and safety. By aligning our goals and practices today, we ensure that every student receives the support they need to succeed. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Our True Mission:**<br>Our mission goes beyond academic lessons; we are here to nurture student confidence, creativity, and safety. | **Supporting Success:**<br>By aligning our campus goals and practices today, we ensure that every student receives the support to succeed. |
 
 **Visual Note:** Elegant professional quote slide on an ivory background with clean navy line borders.  
 
@@ -68,11 +68,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Staff Training Agenda  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Session 1 (01):**<br>Principal kickoff and annual goals briefing. | **Session 2 (02):**<br>Departmental planning and schedule reviews. | **Session 3 (03):**<br>Student safety training and health protocols. | **Session 4 (04):**<br>Team-building activity and group lunch. |
+| Kolom 1 |
+|---------|
+| Our internal orientation agenda features a comprehensive annual goals briefing from the principal, departmental planning sessions, schedule reviews, student safety training, health protocols coordination, team-building activities, and our staff group lunch. |
 
 **Visual Note:** Four horizontal columns in slate blue and grey, showing a chronological agenda block.  
 
@@ -82,11 +82,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Orientation Leaders  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 4  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The Principal Lead:**<br>Principal Adeline Palmerston coordinates the academic programs and leads our faculty orientation, ensuring high teaching standards and a supportive environment for our staff. | **The Standard Lead:**<br>Assistant Drew Feig manages the campus facilities, safety training programs, and operational resources to support teachers in their day-to-day work. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Principal Lead:**<br>Adeline Palmerston oversees teaching quality. | **Standard Lead:**<br>Drew Feig coordinates safety training. | **Faculty Lead:**<br>Estelle Darcy manages teacher schedules. | **Support Lead:**<br>Lorna Alvarado runs the health office. |
 
 **Visual Note:** Duo-profile layout featuring portraits of Adeline Palmerston and Drew Feig with clean, professional navy borders.  
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Department Coordinators  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Faculty Coordinator:**<br>Estelle Darcy manages teacher schedules and coordinates subject resources. | **Student Support Lead:**<br>Lorna Alvarado runs the health office and coordinates safety protocols. | **Operations Assistant:**<br>Chiaki Sato assists with classroom setup and digital tool training. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Operations Lead:**<br>Chiaki Sato assists with classroom setups and digital tool training for our faculty. | **Safety Liaison:**<br>Rosa Maria Aguado leads facility walkthroughs and emergency protocols. |
 
 **Visual Note:** Three clean profile columns with blue accent borders, describing department leads.  
 

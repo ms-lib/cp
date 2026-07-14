@@ -8,7 +8,7 @@
 **Tone:** Excited, forward-looking, celebratory  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1  
+**Pattern Kolom:** 1→1→3→2→4→1→3→1→2→1  
 
 ---
 
@@ -54,11 +54,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Connecting Our Community  
-**Jumlah Kolom:** 1  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 |
-|---------|
-| Kickoff events are designed to bring our entire school community together before classroom learning begins. By participating in these activities, we build the connections, trust, and shared excitement that make our school a great place to grow. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Our Shared Vibe:**<br>Kickoff events bring our entire school community together before classroom learning begins. | **Strong Connections:**<br>By participating in these games and tours, we build the connections, trust, and excitement to help us grow. |
 
 **Visual Note:** Minimalist slide with a bright orange border, featuring centered text in bold modern typography and ample empty space.  
 
@@ -82,11 +82,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Kickoff Program Organizers  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The Principal Lead:**<br>Principal Adeline Palmerston oversees the event coordination at Studio Shodwe School, ensuring that all safety protocols, facilities, and staff are aligned for a successful kickoff event. | **The Planning Lead:**<br>Assistant Drew Feig coordinates the student club booths, sports registrations, and community lunches to keep families connected and engaged throughout the day. |
+| Kolom 1 |
+|---------|
+| **Kickoff Coordinators:**<br>Principal Adeline Palmerston and Assistant Drew Feig work together at Studio Shodwe School to align safety protocols, coordinate student club booths, manage sports registrations, and oversee event logistics for our community. |
 
 **Visual Note:** Bold duo-profile spotlight displaying the portraits of Adeline Palmerston and Drew Feig with modern bright circular frames.  
 

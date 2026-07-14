@@ -8,7 +8,7 @@
 **Tone:** Celebratory, inspiring, formal  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→3→1→2→1  
+**Pattern Kolom:** 1→1→2→1→3→3→2→1→2→1  
 
 ---
 
@@ -40,11 +40,11 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Highlights of the Day  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Welcoming Address:**<br>Opening remarks from the principal and school leadership team. | **Our Standards:**<br>A brief introduction to our core standards and safety guidelines. | **Peers Welcome:**<br>Welcoming new students and introducing classroom helpers. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Welcome Remarks:**<br>Opening address from the principal and our school leadership team. | **Standards & Support:**<br>An overview of school safety guidelines, core values, and helping new students settle in. |
 
 **Visual Note:** Three columns styled like classical shields, colored in rich burgundy and gold accents.  
 
@@ -68,11 +68,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Ceremony Agenda  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Part 1 (01):**<br>Opening assembly and banner procession. | **Part 2 (02):**<br>Speech by standard lead and counselor. | **Part 3 (03):**<br>Student awards and recognition event. | **Part 4 (04):**<br>Group fun activities and school song. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Assembly Kickoff:**<br>Opening procession, banner walk, and principal remarks. | **Leadership Speeches:**<br>Joint address by our academic leads and student counselors. | **Celebration & Song:**<br>Student recognition ceremony, group activities, and the school song. |
 
 **Visual Note:** Four horizontal cards arranged in a timeline flow, colored in burgundy and cream.  
 
@@ -82,11 +82,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Ceremony Leaders and Speakers  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **The Principal Lead:**<br>Principal Adeline Palmerston opens the ceremony with a welcoming address, setting academic goals and outlining our vision for student success in the coming school year. | **The Counselor Voice:**<br>Estelle Darcy shares inspiring words on mental wellbeing, student support programs, and community safety guidelines to guide our journey. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **The Principal Lead:**<br>Principal Adeline Palmerston opens the ceremony with a welcoming address, setting academic goals and outlining our vision. | **The Counselor Voice:**<br>Estelle Darcy shares inspiring words on mental wellbeing, student support programs, and community safety guidelines. | **The Operations Voice:**<br>Assistant Drew Feig coordinates the event logistics, assembly setup, and facility guides to ensure a smooth kickoff. |
 
 **Visual Note:** Classy duo-profile spotlight displaying the portraits of Adeline Palmerston and Estelle Darcy with elegant gold highlights.  
 
@@ -96,11 +96,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Student Ceremony Assistants  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Banner Carrier:**<br>Chiaki Sato leads the procession with our school emblem. | **Music Lead:**<br>Lorna Alvarado coordinates the assembly music program. | **Greeter Lead:**<br>Rosa Maria Aguado welcomes parents and guests. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Assembly Helpers:**<br>Chiaki Sato leads the procession with our school emblem, and Lorna Alvarado coordinates the music program. | **Welcome Greeter:**<br>Rosa Maria Aguado welcomes parents and guests at the main entrance. |
 
 **Visual Note:** Three clean columns with profile descriptions, styled like a program booklet with gold accents.  
 
