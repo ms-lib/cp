@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Store Traffic:**<br>Design welcoming entrance paths to guide families toward main promo displays. | **Visual Display:**<br>Set bright signs, organized shelf layouts, and clear product pricing tags. | **Inventory Flow:**<br>Monitor hot items daily and prepare backup stocks in warehouses. |
+| **Store Traffic:**<br>Designing welcoming entrance paths to guide families toward main promo displays. | **Visual Display:**<br>Setting bright signs, organized shelf layouts, and clear product pricing tags. | **Inventory Flow:**<br>Monitoring hot items daily and preparing backup stocks in warehouses. |
 
 **Visual Note:** Three clean columns in slate grey, white, and navy, featuring small clean icons representing a graph, a sign, and a crate box.  
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Front Window Display:**<br>Place high-contrast banners showing colored markers, drawing pads, and backpacks near entrance doors. | **Bundle Deal Zones:**<br>Arrange pencils and binders together on central tables to simplify search paths for shoppers. |
+| **Front Window Display:**<br>Placing high-contrast banners showing colored markers, drawing pads, and backpacks near entrance doors. | **Bundle Deal Zones:**<br>Arranging pencils and binders together on central tables to simplify search paths for shoppers. |
 
 **Visual Note:** Two distinct text blocks with thin navy borders on a solid cool grey background layout.  
 
@@ -72,7 +72,7 @@
 
 | Kolom 1 |
 |---------|
-| Anticipating customer shopping behaviors early is key to maintaining store efficiency. By aligning visual displays with common checklist needs and ensuring product categories are simple to find, we create an effortless shopping path for busy local families. |
+| Anticipating customer shopping behaviors early is key to maintaining store efficiency. By aligning visual displays with common checklist needs and ensuring product categories are simple to find, we create an effortless shopping path for local families. |
 
 **Visual Note:** Professional quote slide with centered navy serif text and ample breathing room on a clean white background.  
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Front Shelving:**<br>Place pencils. | **Price Marking:**<br>Set discount tags. | **Staff Training:**<br>Review guide files. | **Exit Promos:**<br>Add checkout code. |
+| **Front Shelving:**<br>Placing pencils. | **Price Marking:**<br>Setting discount tags. | **Staff Training:**<br>Reviewing guide files. | **Exit Promos:**<br>Adding checkout code. |
 
 **Visual Note:** Four structured grid cards in navy and grey shades, showing clean, minimalist numbers one to four in gold.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Inventory Verification:**<br>Verify daily stock levels of stationery kits, drawing papers, and USB accessories. | **Signage Audit:**<br>Check that promotional banners, price labels, and entry codes are clearly visible. |
+| **Inventory Verification:**<br>Verifying daily stock levels of stationery kits, drawing papers, and USB accessories. | **Signage Audit:**<br>Checking that promotional banners, price labels, and entry codes are clearly visible. |
 
 **Visual Note:** Two clean worksheet cards with navy sketch borders and checkmarks indicating progress checkpoints.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We are ready to help you optimize store displays, train cashiers, and manage seasonal supply inventories. | **Operations Lead:**<br>Display templates, checklist files, and layout sheets are ready. Contact Chiaki Sato to coordinate staff shifts. |
+| **Operational Alignment:**<br>Coordinating daily staff shifts, training cashiers, and updating store display guidelines ensures a smooth checkout. | **Operations Lead:**<br>Display templates, checklist files, and layout sheets are ready. Contact Chiaki Sato to coordinate staff shifts. |
 
 **Visual Note:** Structured split layout. Left panel for positive closing statements, right panel for strategy actions.  
 
