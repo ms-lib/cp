@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Write it Down:**<br>Keep your goals simple, clear, and visible on your desk study card. | **Be Specific:**<br>Instead of "read more", write "read fifteen minutes every evening before bed". |
+| **Writing Our Goals:**<br>Keeping our targets simple, clear, and visible on our study cards helps us stay focused daily. | **Specific Actions:**<br>Choosing clear actions (like reading fifteen minutes every evening) makes our milestones easy to reach. |
 
 **Visual Note:** Two distinct text blocks with thin grey borders on a clean beige background.  
 
