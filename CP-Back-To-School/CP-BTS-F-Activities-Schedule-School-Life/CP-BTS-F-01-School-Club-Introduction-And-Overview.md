@@ -53,7 +53,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Finding Your Passion  
+**Judul Halaman:** Discovering Your Talents  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Sports Club:**<br>Run and play together. | **Music Club:**<br>Practice guitar and sing. | **Science Club:**<br>Erect fun experiments. | **Arts Club:**<br>Paint and draw sketches. |
+| **Sports Club:**<br>Run and play together. | **Music Club:**<br>Practice guitar and sing. | **Science Club:**<br>Try fun experiments. | **Arts Club:**<br>Paint and draw sketches. |
 
 **Visual Note:** Four horizontal columns in colorful grids, showing a basketball, guitar, beaker, and paint palette icons.  
 
