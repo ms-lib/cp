@@ -86,7 +86,7 @@
 
 | Kolom 1 |
 |---------|
-| Our goal is to ensure that learning feels exciting and meaningful for every student. By tailoring activities to individual interests and encouraging collaboration, we help children build confidence, discover new talents, and enjoy their school journey. |
+| We believe that learning should be a joyful adventure for every child. By creating fun activities, celebrating their unique ideas, and encouraging them to ask questions, we help students build confidence, discover new interests, and enjoy their school journey. |
 
 **Visual Note:** Center-aligned quote on a soft sage green background with thin gold borders.  
 
