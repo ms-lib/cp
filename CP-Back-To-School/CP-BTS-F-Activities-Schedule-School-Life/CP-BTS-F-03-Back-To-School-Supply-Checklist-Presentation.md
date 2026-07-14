@@ -81,12 +81,12 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Beyond the Supplies  
+**Judul Halaman:** Ready and Confident  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Having the right tools is helpful, but bringing a curious mind is what truly counts. By staying positive and treating every classroom task as a chance to grow, you make our school year a wonderful learning journey. |
+| Being organized is the first step to a happy and smooth school day. When our pencils, notebooks, and tools are neatly prepared, we can focus all of our creative energy on exploring new ideas and enjoying class. |
 
 **Visual Note:** Minimalist slide with a dark grey accent bar, centered text in beautiful serif font, and ample breathing room.  
 
