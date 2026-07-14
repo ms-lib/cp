@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| I want our class to be a safe haven of safety, warmth, and laughter. Together, let's build a supportive community where we celebrate every small achievement, lift each other up, and turn our learning journey into a happy adventure. |
+| I want our class to be a safe haven of warmth and laughter. Together, let's build a supportive community where we celebrate every small achievement, lift each other up, and turn our learning journey into a happy adventure. |
 
 **Visual Note:** Empathetic typography on a soft, warm clay-colored background with large leaf-shaped quotation marks.  
 
