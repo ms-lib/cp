@@ -81,7 +81,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Why Rules Keep Us Safe  
+**Judul Halaman:** Creating a Supportive Space  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
