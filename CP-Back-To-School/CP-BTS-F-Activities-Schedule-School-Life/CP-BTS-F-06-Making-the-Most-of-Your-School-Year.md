@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Notebooks:**<br>Pack school binder. | **Pens:**<br>Label all colors. | **Portal:**<br>Check online codes. | **Goal Card:**<br>Draft main target. |
+| **Notebooks:**<br>Ruled study binder. | **Pens:**<br>Labeled colored pens. | **Portal:**<br>Online login codes. | **Goal Card:**<br>Main goal target. |
 
 **Visual Note:** Four bold square cards in orange, yellow, blue, and green, showing clean kid-friendly checkmark icons.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Choose Buddy:**<br>Share one daily habit target with your desk partner. | **Checklist Win:**<br>Check off three completed checklist steps on your planner card together. |
+| **Choose Buddy:**<br>Sharing one daily habit target with our desk partner helps us practice. | **Checklist Win:**<br>Checking off completed checklist steps on our cards together is fun. |
 
 **Visual Note:** Two friendly activity columns styled as checklist cards with pencil sketch borders.  
 
