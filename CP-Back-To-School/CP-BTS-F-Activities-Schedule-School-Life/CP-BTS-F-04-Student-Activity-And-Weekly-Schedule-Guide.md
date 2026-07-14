@@ -67,7 +67,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Mindset for Time  
+**Judul Halaman:** Learning and Growing  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
