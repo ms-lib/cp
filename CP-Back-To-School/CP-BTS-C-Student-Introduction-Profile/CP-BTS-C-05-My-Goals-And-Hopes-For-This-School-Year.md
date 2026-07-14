@@ -86,7 +86,7 @@
 
 | Kolom 1 |
 |---------|
-| When learning gets tricky, it is a chance to learn something new and become stronger. By staying positive, asking for help, and trying my best, I can overcome obstacles, learn from mistakes, and enjoy my school journey. |
+| When learning gets tricky, it is a chance to learn something new and become stronger. By staying positive, asking for help, and trying my best, I can find new ways to grow and enjoy my school journey. |
 
 **Visual Note:** Center-aligned quote on a soft sage green background with thin gold borders.  
 
