@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Supporting Our Routine  
+**Judul Halaman:** Growing Day by Day  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| A successful week is built on kindness. By helping classmates track their tasks, sharing our supplies, and working together on group activities, we create a warm and supportive classroom community where everyone can thrive. |
+| A wonderful school year is about balance. By planning our classes and managing our homework, we make plenty of time to play, explore our hobbies, and enjoy happy moments with our friends and family. |
 
 **Visual Note:** Empathetic typography on a soft, warm clay-colored background with large leaf-shaped quotation marks.  
 
