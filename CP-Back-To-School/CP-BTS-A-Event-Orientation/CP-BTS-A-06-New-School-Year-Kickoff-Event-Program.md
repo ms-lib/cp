@@ -32,7 +32,7 @@
 |---------|
 | **Event Name:** Back to School Festival  <br>**Date:** September 05, 2030  <br>**Facilitator:** Adeline Palmerston, Principal  <br><br>Welcome to our New School Year Kickoff Event Program! This presentation provides the complete schedule, fun activities, and safety guidelines for our kickoff event. Let's start the academic year energized, connected, and ready to learn together. |
 
-**Visual Note:** Bright, happy graphic showing students playing and teachers welcoming families in an outdoor campus yard. Maintain 40% white space for easy editing.  
+**Visual Note:** Bright, happy graphic showing students playing and teachers welcoming families in an outdoor school yard. Maintain 40% white space for easy editing.  
 
 ---
 

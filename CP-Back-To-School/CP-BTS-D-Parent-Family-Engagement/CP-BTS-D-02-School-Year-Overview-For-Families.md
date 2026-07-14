@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Principal:**<br>Adeline Palmerston coordinates overall campus operations and guidelines. | **Class Helper:**<br>Drew Feig manages parent-teacher meeting slots and digital portals. | **Tech Assistant:**<br>Chiaki Sato assists with family portal passwords and accounts. |
+| **Principal:**<br>Adeline Palmerston coordinates overall school operations and guidelines. | **Class Helper:**<br>Drew Feig manages parent-teacher meeting slots and digital portals. | **Tech Assistant:**<br>Chiaki Sato assists with family portal passwords and accounts. |
 
 **Visual Note:** Three clean profile columns resembling cards with photos inside thin slate-grey circular frames.  
 

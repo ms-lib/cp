@@ -2,7 +2,7 @@
 ## ___ ___ New School Year Welcome Back To School Guide Presentation
 
 **Sub-Topic:** C - Student Introduction & Profile  
-**Main Keywords:** new student welcome, welcome back to school, school welcome guide, new student handbook, back to school presentation, student orientation guide, campus guide slides  
+**Main Keywords:** new student welcome, welcome back to school, school welcome guide, new student handbook, back to school presentation, student orientation guide, school guide slides  
 **Audience:** Students, Parents  
 **Style:** Modern, Clean, Supportive, Clean  
 **Tone:** Welcoming, supportive, informative  
@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: New Student Welcome Back To School Guide
-- Subtitle: A Friendly Handbook for Navigating Campus Life, Finding Classrooms, and Settling In
+- Subtitle: A Friendly Handbook for Navigating School Life, Finding Classrooms, and Settling In
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Institution:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Guide Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our school community! We are absolutely thrilled to have you here. This guide is designed to help new students and families navigate classroom buildings, find helpful daily resources, and settle into our warm and encouraging campus environment smoothly. |
+| **Institution:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Guide Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our school community! We are absolutely thrilled to have you here. This guide is designed to help new students and families navigate classroom buildings, find helpful daily resources, and settle into our warm and encouraging school environment smoothly. |
 
 **Visual Note:** Crisp professional photo of a modern school entrance or welcoming reception desk. Maintain 40% margin spacing.  
 
@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Find Your Way:**<br>Pick up a campus map and locate your locker, homeroom, and cafeteria. | **Meet Your Buddy:**<br>Get paired with a friendly classmate who will show you around campus. | **Ask for Help:**<br>Visit the main lobby desk if you have any questions about schedules. |
+| **Find Your Way:**<br>Pick up a school map and locate your locker, homeroom, and cafeteria. | **Meet Your Buddy:**<br>Get paired with a friendly classmate who will show you around school. | **Ask for Help:**<br>Visit the main lobby desk if you have any questions about schedules. |
 
 **Visual Note:** Three columns with minimalist icons representing a map, handshakes, and a question mark.  
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Homeroom Location:**<br>Most of your core subject activities are held in the main academy wing, on the second floor. | **Specialty Rooms:**<br>Our science labs, computer rooms, and creative art studios are located in the north campus building. |
+| **Homeroom Location:**<br>Most of your core subject activities are held in the main academy wing, on the second floor. | **Specialty Rooms:**<br>Our science labs, computer rooms, and creative art studios are located in the north school building. |
 
 **Visual Note:** Two clean vertical columns split by a solid line, with clear map references.  
 
@@ -67,7 +67,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Daily Campus Landmarks  
+**Judul Halaman:** Daily School Landmarks  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Buddy Lead:**<br>Lorna Alvarado matches new students with class buddies. | **Locker Helper:**<br>Drew Feig helps assign lockers and distribute key combinations. | **Tour Coordinator:**<br>Chiaki Sato leads guided walks through key campus buildings. |
+| **Buddy Lead:**<br>Lorna Alvarado matches new students with class buddies. | **Locker Helper:**<br>Drew Feig helps assign lockers and distribute key combinations. | **Tour Coordinator:**<br>Chiaki Sato leads guided walks through key school buildings. |
 
 **Visual Note:** Three clean profile cards showing peer guide photos inside modern square frames with navy highlights.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We are here to make your transition smooth, happy, and successful. Welcome once again to our amazing school family. | **Next Steps:**<br>Campus maps, orientation booklets, and student checklists are available at the front office. Contact Adeline Palmerston to get them. |
+| We are here to make your transition smooth, happy, and successful. Welcome once again to our amazing school family. | **Next Steps:**<br>School maps, orientation booklets, and student checklists are available at the front office. Contact Adeline Palmerston to get them. |
 
 **Visual Note:** Split layout with dark navy on the left and warm cream on the right, providing clear next actions.  
 

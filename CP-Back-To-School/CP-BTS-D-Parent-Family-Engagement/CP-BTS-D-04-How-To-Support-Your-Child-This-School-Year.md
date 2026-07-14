@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Morning Routine:**<br>Ensure your child eats a healthy breakfast, packs their schoolbag, and arrives at campus on time. | **Evening Review:**<br>Spend fifteen minutes reading together, check school worksheets, and prepare clothes for the next day. |
+| **Morning Routine:**<br>Ensure your child eats a healthy breakfast, packs their schoolbag, and arrives at school on time. | **Evening Review:**<br>Spend fifteen minutes reading together, check school worksheets, and prepare clothes for the next day. |
 
 **Visual Note:** Two pastel panels side-by-side with hand-drawn pencil borders and clear typography.  
 

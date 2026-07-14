@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: Back To School Family Orientation Guide
-- Subtitle: A Comprehensive Handbook for Navigating Campus Resources, Schedules, and Partnerships
+- Subtitle: A Comprehensive Handbook for Navigating School Resources, Schedules, and Partnerships
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome families and guardians! We are absolutely thrilled to welcome you to our family orientation. This guide outlines campus logistics, safety policies, parent volunteer systems, and key milestones, helping you prepare your child for a smooth and happy school transition. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome families and guardians! We are absolutely thrilled to welcome you to our family orientation. This guide outlines school logistics, safety policies, parent volunteer systems, and key milestones, helping you prepare your child for a smooth and happy school transition. |
 
 **Visual Note:** High-quality photo placeholder showing a group of smiling elementary school kids in a colorful classroom. Maintain 40% white space for easy editing.  
 
@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Campus Safety:**<br>Review visitor procedures, parking details, and entry policies. | **Active Contact:**<br>Check email newsletters, updates, and family portal logins. | **Parent Helper:**<br>Register for volunteer opportunities and school events. |
+| **School Safety:**<br>Review visitor procedures, parking details, and entry policies. | **Active Contact:**<br>Check email newsletters, updates, and family portal logins. | **Parent Helper:**<br>Register for volunteer opportunities and school events. |
 
 **Visual Note:** Three clean columns in bright primary colors with bold circular icons for a key, an envelope, and a handshake.  
 
@@ -53,12 +53,12 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Campus Health and Safety  
+**Judul Halaman:** School Health and Safety  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| We prioritize the safety and well-being of every student in our care. By coordinating with campus security, practicing drop-off safety, and maintaining clean, supervised classrooms, we provide a secure, comfortable environment where children can thrive. |
+| We prioritize the safety and well-being of every student in our care. By coordinating with school security, practicing drop-off safety, and maintaining clean, supervised classrooms, we provide a secure, comfortable environment where children can thrive. |
 
 **Visual Note:** Center-aligned quote on a soft sky blue background, framed by a border of smiling stars.  
 

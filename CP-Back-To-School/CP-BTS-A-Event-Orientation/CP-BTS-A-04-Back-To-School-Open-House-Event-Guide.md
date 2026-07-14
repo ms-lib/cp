@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: Back To School Open House Event Guide
-- Subtitle: A Guide for Families Visiting Classrooms, Meeting Teachers, and Exploring Campus Life
+- Subtitle: A Guide for Families Visiting Classrooms, Meeting Teachers, and Exploring School Life
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Host:** Studio Shodwe School  <br>**Date:** September 15, 2030  <br>**Host Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our annual Back to School Open House! This guide helps families navigate classroom visits, explore student facilities, and meet our teachers. We are thrilled to welcome you to our campus and share our plans for a successful school year. |
+| **Host:** Studio Shodwe School  <br>**Date:** September 15, 2030  <br>**Host Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our annual Back to School Open House! This guide helps families navigate classroom visits, explore student facilities, and meet our teachers. We are thrilled to welcome you to our school and share our plans for a successful school year. |
 
 **Visual Note:** Crisp professional photo of a modern school lobby or entrance. Clean layouts with 40% margin spacing.  
 
@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Classroom Visits:**<br>Walk through student hallways, see displays, and meet subject teachers. | **Campus Tour:**<br>Explore our library, science labs, and creative art studios. | **Resource Center:**<br>Pick up safety guides, school calendars, and activity programs. |
+| **Classroom Visits:**<br>Walk through student hallways, see displays, and meet subject teachers. | **School Tour:**<br>Explore our library, science labs, and creative art studios. | **Resource Center:**<br>Pick up safety guides, school calendars, and activity programs. |
 
 **Visual Note:** Three clean columns with elegant icons showing a door, a building, and a brochure.  
 

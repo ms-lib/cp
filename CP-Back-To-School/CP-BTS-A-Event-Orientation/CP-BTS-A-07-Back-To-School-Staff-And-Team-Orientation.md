@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: Back To School Staff And Team Orientation
-- Subtitle: Aligning Campus Goals, Safety Standards, and Support Playbooks Together
+- Subtitle: Aligning School Goals, Safety Standards, and Support Playbooks Together
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Institution:** Studio Shodwe School  <br>**Date:** August 25, 2028  <br>**Orientation Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our Back to School Staff and Team Orientation! This presentation outlines our campus goals, safety protocols, and student support resources for the upcoming year. Let's work together to build a safe, inspiring environment where everyone can grow. |
+| **Institution:** Studio Shodwe School  <br>**Date:** August 25, 2028  <br>**Orientation Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our Back to School Staff and Team Orientation! This presentation outlines our school goals, safety protocols, and student support resources for the upcoming year. Let's work together to build a safe, inspiring environment where everyone can grow. |
 
 **Visual Note:** Professional photo of school teachers participating in a collaborative workshop. Clean layouts with 40% margin spacing.  
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Our True Mission:**<br>Our mission goes beyond academic lessons; we are here to nurture student confidence, creativity, and safety. | **Supporting Success:**<br>By aligning our campus goals and practices today, we ensure that every student receives the support to succeed. |
+| **Our True Mission:**<br>Our mission goes beyond academic lessons; we are here to nurture student confidence, creativity, and safety. | **Supporting Success:**<br>By aligning our school goals and practices today, we ensure that every student receives the support to succeed. |
 
 **Visual Note:** Elegant professional quote slide on an ivory background with clean navy line borders.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We appreciate your dedication and energy as we prepare for another successful school year. Let's work hand-in-hand to make this year outstanding for every student on campus. | **Staff Resources:**<br>Faculty guides, safety checklists, and training calendars are available on our server. Contact Adeline Palmerston to access them. |
+| We appreciate your dedication and energy as we prepare for another successful school year. Let's work hand-in-hand to make this year outstanding for every student on school. | **Staff Resources:**<br>Faculty guides, safety checklists, and training calendars are available on our server. Contact Adeline Palmerston to access them. |
 
 **Visual Note:** Split layout with dark blue and soft cream panels, clean typography dividing closing encouragement and resources.  
 
