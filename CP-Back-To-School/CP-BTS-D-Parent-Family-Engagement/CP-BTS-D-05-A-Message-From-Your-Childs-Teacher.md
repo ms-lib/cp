@@ -1,5 +1,5 @@
 # JUDUL 5 OF 6
-## ___ ___ A Message From Your Child's Teacher Presentation
+## ___ ___ A Warm Welcome From the Teacher Presentation
 
 **Sub-Topic:** D - Parent & Family Engagement  
 **Main Keywords:** message from teacher, parent teacher communication, back to school letter, school year welcome, parent handbook presentation, home school partnership, student welcome guide  
@@ -17,7 +17,7 @@
 **Visual Note:** High-end minimalist design. Soft beige background with clean navy borders and elegant typography. Use Title Case for the title.  
 
 **Text:**
-- Title: A Message From Your Child's Teacher
+- Title: A Warm Welcome From the Teacher
 - Subtitle: Building Trust, Open Communication, and a Warm Home-School Partnership
 
 ---
@@ -139,7 +139,7 @@
 **Visual Note:** Elegant back cover with school name and website centered on a slate grey background.  
 
 **Text:**
-- A Message From Your Child's Teacher
+- A Warm Welcome From the Teacher
 - Studio Shodwe School
 - www.reallygreatsite.com
 
