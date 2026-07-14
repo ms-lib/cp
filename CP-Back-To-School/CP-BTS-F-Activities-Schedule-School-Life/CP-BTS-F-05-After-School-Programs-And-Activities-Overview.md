@@ -25,12 +25,12 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Welcome to After School  
+**Judul Halaman:** Welcome to After-School Care  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Guide Lead:** Adeline Palmerston  <br><br>Hello families! Our after-school programs are designed to provide a safe, nurturing, and creative environment where students can complete their homework, explore new hobbies, and build beautiful friendships under the guidance of our dedicated staff. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Guide Lead:** Adeline Palmerston  <br><br>Hello families! Our after-school programs are designed to provide a safe, supportive, and creative environment where students can complete their homework, explore new hobbies, and build beautiful friendships under the guidance of our dedicated staff. |
 
 **Visual Note:** High-quality photo placeholder showing children happily collaborating on crafts at a classroom table. Maintain 40% white space for easy editing.  
 
