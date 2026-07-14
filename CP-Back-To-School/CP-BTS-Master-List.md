@@ -86,11 +86,11 @@
 | # | Judul | Angle |
 |---|---|---|
 | E-01 | New School Year Goals And Plans Presentation | Goal setting awal tahun |
-| E-02 | How To Have Your Best School Year | Motivasi, tips praktis |
+| E-02 | Making This Your Best School Year | Motivasi, tips praktis |
 | E-03 | Back To School Study Tips Presentation | Tips belajar efektif |
 | E-04 | Setting Goals For A Successful School Year | Goal + action plan |
 | E-05 | Fresh Start A Guide To The New School Year | Angle "fresh start", emosional |
-| E-06 | How Great Students Prepare For A New Year | Habits & mindset positif |
+| E-06 | Preparing for a Wonderful School Year | Habits & mindset positif |
 
 ---
 
