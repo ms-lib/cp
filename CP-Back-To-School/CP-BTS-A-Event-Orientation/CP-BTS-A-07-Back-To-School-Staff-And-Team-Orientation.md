@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Safety Protocols:**<br>Review emergency plans, health guidelines, and facility protocols. | **Academic Quality:**<br>Coordinate standard classroom practices and support tools. | **Team Collaboration:**<br>Plan inter-departmental projects and community events. |
+| **Safety Protocols:**<br>Review emergency plans, health guidelines, and facility protocols. | **Academic Quality:**<br>Coordinate standard classroom practices and support tools. | **Team Collaboration:**<br>Planning inter-departmental projects and community events. |
 
 **Visual Note:** Three clean columns with professional icons showing a shield, a checked box, and gear wheels.  
 

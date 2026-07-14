@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Daily Activity:**<br>Explore our regular schedule and classroom routines. | **Home Support:**<br>Find practical ways to encourage reading at home. | **School Events:**<br>Join us for monthly parent meetings and events. | **Digital Updates:**<br>Receive weekly news through our school app. |
+| **Daily Activity:**<br>Explore our regular schedule and classroom routines. | **Home Support:**<br>Finding practical ways to encourage reading at home. | **School Events:**<br>Join us for monthly parent meetings and events. | **Digital Updates:**<br>Receive weekly news through our school app. |
 
 **Visual Note:** Four horizontal card elements in alternating navy and cream colors for clear data scanning.  
 

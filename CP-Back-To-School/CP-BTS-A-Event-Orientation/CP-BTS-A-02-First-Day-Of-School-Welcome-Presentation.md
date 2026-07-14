@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Your Space:**<br>Find your desk, settle in, and organize your school tools. | **Our Rules:**<br>We listen to each other, raise our hands, and help our friends. | **Fun Plans:**<br>Explore exciting school group activities, games, and art today. |
+| **Your Space:**<br>Finding your desk, settling in, and organizing your school tools. | **Our Rules:**<br>We listen to each other, raise our hands, and help our friends. | **Fun Plans:**<br>Explore exciting school group activities, games, and art today. |
 
 **Visual Note:** Three playful cards in pastel colors (mint, yellow, pink) with simple hand-drawn illustrations of a backpack, a hand, and a smiley face.  
 
@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Morning Fun:**<br>Start each day with sharing and storytelling. | **Class Time:**<br>Explore math, reading, and science together. | **Recess Break:**<br>Play outdoor games and chat with friends. | **Group Art:**<br>Create colorful school projects as a team. |
+| **Morning Fun:**<br>Start each day with sharing and storytelling. | **Class Time:**<br>Explore math, reading, and science together. | **Recess Break:**<br>Play outdoor games and chat with friends. | **Group Art:**<br>Creating colorful school projects as a team. |
 
 **Visual Note:** Four vertical columns structured as stepping stones, guiding students through the parts of a school day.  
 

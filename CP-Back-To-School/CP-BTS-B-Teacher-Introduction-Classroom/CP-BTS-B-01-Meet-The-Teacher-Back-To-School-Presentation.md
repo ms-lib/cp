@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Math Magic:**<br>Solve fun number puzzles. | **Book Club:**<br>Read exciting adventure stories. | **Lab Science:**<br>Try hands-on weekly experiments. | **Creative Art:**<br>Paint colorful classroom projects. |
+| **Math Magic:**<br>Solve fun number puzzles. | **Book Club:**<br>Read exciting adventure stories. | **Lab Science:**<br>Trying hands-on weekly experiments. | **Creative Art:**<br>Paint colorful classroom projects. |
 
 **Visual Note:** Four horizontal card elements in bright, friendly primary colors for clear data scanning.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Favorite Hobby:**<br>Tell us what games you love playing. | **Dream Trip:**<br>Sharing the coolest place you want to visit. | **Super Talent:**<br>Showing what special skill you have. |
+| **Favorite Hobby:**<br>Sharing what games you love playing. | **Dream Trip:**<br>Sharing the coolest place you want to visit. | **Super Talent:**<br>Showing what special skill you have. |
 
 **Visual Note:** Three colorful columns spotlighting sharing topics with stars and speech bubble graphics.  
 

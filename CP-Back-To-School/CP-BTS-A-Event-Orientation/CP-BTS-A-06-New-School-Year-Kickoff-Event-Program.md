@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Meet & Greet:**<br>Connect with other school families, classmates, and teachers. | **School Tours:**<br>Check out classrooms, library resources, and student labs. | **Activity Sign-ups:**<br>Register for student clubs, sports, and after-school programs. |
+| **Meet & Greet:**<br>Connect with other school families, classmates, and teachers. | **School Tours:**<br>Checking out classrooms, library resources, and student labs. | **Activity Sign-ups:**<br>Registering for student clubs, sports, and after-school programs. |
 
 **Visual Note:** Three colorful columns with bold round icons representing talking bubbles, binoculars, and a clipboard.  
 

@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Step 1:**<br>Say hello to a peer. | **Step 2:**<br>Write down one hope. | **Step 3:**<br>Label your drawing tools. | **Step 4:**<br>Smile and try best. |
+| **Step 1:**<br>Say hello to a peer. | **Step 2:**<br>Writing down one hope. | **Step 3:**<br>Label your drawing tools. | **Step 4:**<br>Smile and try best. |
 
 **Visual Note:** Four horizontal columns styled as paper notes with tape graphics on top, using warm terracotta headers.  
 
