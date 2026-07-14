@@ -81,7 +81,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Quality for Families  
+**Judul Halaman:** Happy School Prep  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
