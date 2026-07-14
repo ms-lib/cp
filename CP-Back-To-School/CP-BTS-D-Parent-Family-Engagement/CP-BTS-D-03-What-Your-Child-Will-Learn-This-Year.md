@@ -1,5 +1,5 @@
 # JUDUL 3 OF 6
-## ___ ___ What Your Child Will Learn This Year Presentation
+## ___ ___ Our Learning Journey This School Year Presentation
 
 **Sub-Topic:** D - Parent & Family Engagement  
 **Main Keywords:** what your child will learn, yearly school program, parent information slides, back to school presentation, learning milestones, home school partnership, student activity guide  
@@ -17,7 +17,7 @@
 **Visual Note:** Warm and creative organic design. Soft cream background with illustrations of green leaves, rising sun, and hand-drawn stars. Warm gold serif typography. Use Title Case for the title.  
 
 **Text:**
-- Title: What Your Child Will Learn This Year
+- Title: Our Learning Journey This School Year
 - Subtitle: A Parent's Guide to Key Learning Areas, Subject Themes, and Interactive Group Activities
 
 ---
@@ -139,7 +139,7 @@
 **Visual Note:** Organic back cover matching the cover design, with school details and website centered.  
 
 **Text:**
-- What Your Child Will Learn This Year
+- Our Learning Journey This School Year
 - Studio Shodwe School
 - www.reallygreatsite.com
 
