@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Discount Schedule:**<br>Special pricing campaigns run daily throughout August. Check inventory stock levels before launch dates. | **Bundle Deal Offers:**<br>Get additional savings when purchasing complete bundles of notebooks, pencil cases, and drawing pads together. |
+| **Discount Schedule:**<br>Special pricing campaigns run daily throughout August. Checking inventory stock levels early ensures a smooth launch. | **Bundle Deal Offers:**<br>Get additional savings when purchasing complete bundles of notebooks, pencil cases, and drawing pads together. |
 
 **Visual Note:** Two distinct text blocks with bold black borders and yellow accents on a clean white background.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Online Code:**<br>Use promo code SCHOOL20 at checkout for twenty percent off. | **Membership Perks:**<br>Sign up daily for our store loyalty app to earn double points. | **Shipping Offer:**<br>Enjoy free local delivery on retail orders containing study furniture. |
+| **Online Code:**<br>Applying promo code SCHOOL20 at checkout offers customers a twenty percent discount. | **Membership Perks:**<br>Signing up for our store loyalty app daily allows customers to earn double points. | **Shipping Offer:**<br>Enjoy free local delivery on retail orders containing study furniture. |
 
 **Visual Note:** Three clean voucher cards styled with modern dashed lines, ticket stub graphics, and star elements.  
 
