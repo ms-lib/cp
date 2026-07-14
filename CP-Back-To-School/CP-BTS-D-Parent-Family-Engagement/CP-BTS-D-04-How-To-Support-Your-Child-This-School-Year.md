@@ -1,5 +1,5 @@
 # JUDUL 4 OF 6
-## ___ ___ How To Support Your Child This School Year Presentation
+## ___ ___ Supporting Your Child's Journey This School Year Presentation
 
 **Sub-Topic:** D - Parent & Family Engagement  
 **Main Keywords:** how to support child, parent tips slides, back to school presentation, home school communication, learning support guide, parent engagement slides, child growth encouragement  
@@ -17,7 +17,7 @@
 **Visual Note:** Warm, friendly, hand-drawn cover design. Soft cream background with doodles of houses, hearts, books, and smiling families. Colorful handwritten typography. Use Title Case for the title.  
 
 **Text:**
-- Title: How To Support Your Child This School Year
+- Title: Supporting Your Child's Journey This School Year
 - Subtitle: Practical Tips, Daily Routines, and Encouragement for Families to Foster Student Growth
 
 ---
@@ -139,7 +139,7 @@
 **Visual Note:** Whimsical back cover with doodles matching the cover page, displaying school contact details.  
 
 **Text:**
-- How To Support Your Child This School Year
+- Supporting Your Child's Journey This School Year
 - Studio Shodwe School
 - www.reallygreatsite.com
 
