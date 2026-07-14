@@ -86,7 +86,7 @@
 
 | Kolom 1 |
 |---------|
-| We believe that premium quality learning tools should be accessible to all students. By providing affordable options and managing seasonal supply demands, we help parents save resources and ensure every classroom is fully equipped for a successful year. |
+| Every pencil, notebook, and drawing pad is a tool for student growth. By providing premium supplies at family-friendly prices, we help parents prepare comfortably, making the journey back to school a happy adventure for everyone. |
 
 **Visual Note:** Minimalist slide with a bold yellow vertical line, centered clean sans-serif text, and ample breathing room.  
 
