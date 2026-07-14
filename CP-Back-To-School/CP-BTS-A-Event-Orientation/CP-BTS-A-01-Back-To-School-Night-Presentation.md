@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Leadership Team:**<br>Led by Principal Adeline Palmerston, our school administration is dedicated to creating a safe, inclusive, and nurturing environment where every student can thrive. | **The Guidance Voice:**<br>Counselor Estelle Darcy works closely with teachers and parents to support student emotional wellbeing and guide social development throughout the year. |
+| **The Leadership Team:**<br>Led by Principal Adeline Palmerston, our school administration is dedicated to creating a safe, inclusive, and supportive environment where every student can thrive. | **The Guidance Voice:**<br>Counselor Estelle Darcy works closely with teachers and parents to support student emotional wellbeing and guide social development throughout the year. |
 
 **Visual Note:** Duo-profile layout featuring portraits of Adeline Palmerston and Estelle Darcy with clean text blocks.  
 

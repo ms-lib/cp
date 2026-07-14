@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| A strong school is built on the active engagement and support of its families. When we work together to coordinate events, encourage reading, and maintain open communication, we build a beautiful, nurturing community that helps every child succeed. |
+| A strong school is built on the active engagement and support of its families. When we work together to coordinate events, encourage reading, and maintain open communication, we build a beautiful, supportive community that helps every child succeed. |
 
 **Visual Note:** High-contrast text slide on a sun yellow background with huge colorful quotation marks and hand-drawn stars.  
 

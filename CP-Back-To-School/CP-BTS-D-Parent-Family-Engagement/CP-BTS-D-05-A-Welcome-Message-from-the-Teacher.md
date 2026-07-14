@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Safe Environment:**<br>I aim to build a secure, warm classroom space where students feel valued, safe, and comfortable trying new things. | **Creative Growth:**<br>I focus on nurturing individual talents, helping children build confidence, and fostering collaborative skills daily. |
+| **Safe Environment:**<br>I aim to build a secure, warm classroom space where students feel valued, safe, and comfortable trying new things. | **Creative Growth:**<br>I focus on supporting individual talents, helping children build confidence, and building collaborative skills daily. |
 
 **Visual Note:** Two clean vertical columns split by a solid line, with clear map references.  
 

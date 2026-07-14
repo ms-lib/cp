@@ -53,7 +53,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Nurturing Every Child  
+**Judul Halaman:** Supporting Every Child  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |

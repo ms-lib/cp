@@ -53,7 +53,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Nurturing Your Potential  
+**Judul Halaman:** Growing Every Day  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
