@@ -81,7 +81,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Finding Support  
+**Judul Halaman:** Meet The Classroom Team  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
