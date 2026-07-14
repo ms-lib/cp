@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Promise to You  
+**Judul Halaman:** My Commitment to You  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| I promise to listen to your ideas, support you through challenging lessons, and celebrate your individual achievements. We are a team, and together we are going to make this school year an extraordinary adventure filled with joy and growth. |
+| I am dedicated to listening to your ideas, supporting you through challenging activities, and celebrating your achievements. We are a team, and together we will make this school year an extraordinary adventure filled with joy and growth. |
 
 **Visual Note:** High-contrast text slide on a pastel blue background with huge colorful quotation marks and a border of stars.  
 

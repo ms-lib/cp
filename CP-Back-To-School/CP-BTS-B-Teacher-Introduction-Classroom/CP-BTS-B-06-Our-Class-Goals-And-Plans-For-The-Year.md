@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| Every effort you make counts toward our classroom success. I promise to support you through difficult lessons, help you overcome obstacles, and celebrate every single step of your growth, because your determination is what makes this class extraordinary. |
+| Every effort you make counts toward our classroom success. I am here to support you through challenging activities, help you overcome obstacles, and celebrate every single step of your growth, because your determination makes our class extraordinary. |
 
 **Visual Note:** Full-page quote slide with large, vibrant quotation marks and modern typography on a bold orange background.  
 
