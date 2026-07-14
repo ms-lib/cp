@@ -70,7 +70,7 @@
 **Judul Halaman:** Open House Agenda  
 **Jumlah Kolom:** 4  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Session 1:**<br>Principal welcome address in the main hall. | **Session 2:**<br>Classroom walkthroughs and teacher meetups. | **Session 3:**<br>School activity sign-ups and club booths. | **Session 4:**<br>Informal discussions and refreshments. |
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We look forward to an amazing year of growth, discovery, and collaboration. Thank you for your continued trust in our school and your dedication to our student community. | **Next Steps:**<br>Orientation resource guides, schedules, and calendars are available at the front desk. Contact Adeline Palmerston to get involved. |
+| We look forward to an amazing year of growth, discovery, and collaboration. Thank you for your continued trust in our school and your dedication to our student community. | **Next Steps:**<br>Open House resource guides, schedules, and calendars are available at the front desk. Contact Adeline Palmerston to get involved. |
 
 **Visual Note:** Split layout using soft cream and dark green colors. Concluding note on the left, next steps and contact details on the right.  
 
