@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Weekly Newsletters:**<br>Check your email inbox every Friday for a summary of classroom highlights, upcoming activities, and helper schedules. | **Digital Portal:**<br>Access student portfolios, worksheet archives, and guide documents online using your personalized family login code. |
+| **Weekly Newsletters:**<br>Checking your email inbox every Friday for a summary of classroom highlights, upcoming activities, and helper schedules. | **Digital Portal:**<br>Access student portfolios, worksheet archives, and guide documents online using your personalized family login code. |
 
 **Visual Note:** Two vertical columns split by a clean thin grey line, with clean email and key icons on top.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **How to Connect?**<br>Check our weekly newsletters and online school portal. | **Volunteering?**<br>Sign up for event setup on the clipboard by the door. | **Supplies Needed?**<br>Spare drawing pencils and paper are always welcome. |
+| **How to Connect?**<br>Checking weekly newsletters and online school portals. | **Volunteering?**<br>Sign up for event setup on the clipboard by the door. | **Supplies Needed?**<br>Spare drawing pencils and paper are always welcome. |
 
 **Visual Note:** Three friendly columns styled as talking bubbles with question mark icons in soft clay color.  
 

@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Locker Setup:**<br>Keep books, supplies, and coats neatly organized. Label everything with your full name. | **Homework Drop:**<br>Place completed worksheets in the colored tray by the classroom door before homeroom begins. |
+| **Locker Setup:**<br>Keeping books, supplies, and coats neatly organized. Labeling everything with your full name. | **Homework Drop:**<br>Place completed worksheets in the colored tray by the classroom door before homeroom begins. |
 
 **Visual Note:** Two distinct text blocks with thin grey borders on a clean white background.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Step 1:**<br>Check the class board first. | **Step 2:**<br>Ask your desk partner. | **Step 3:**<br>Read the resource guide. | **Step 4:**<br>Raise hand to ask teacher. |
+| **Step 1:**<br>Checking the class board first. | **Step 2:**<br>Asking your desk partner. | **Step 3:**<br>Read the resource guide. | **Step 4:**<br>Raise hand to ask teacher. |
 
 **Visual Note:** Four horizontal columns styled as numbered tiles in shades of grey, indicating sequential steps.  
 

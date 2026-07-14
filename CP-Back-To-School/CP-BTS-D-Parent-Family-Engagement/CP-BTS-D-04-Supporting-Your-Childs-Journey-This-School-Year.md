@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Create Routines:**<br>Set a regular bedtime and designate a quiet homework space. | **Ask Openly:**<br>Talk about their daily activities and listen to their feelings. | **Stay Connected:**<br>Check weekly newsletters and message helper teachers regularly. |
+| **Create Routines:**<br>Set a regular bedtime and designate a quiet homework space. | **Ask Openly:**<br>Talk about their daily activities and listen to their feelings. | **Stay Connected:**<br>Checking weekly newsletters and messaging helper teachers regularly. |
 
 **Visual Note:** Three clean columns with whimsical doodles showing a clock, a speech bubble, and an envelope.  
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Read Daily:**<br>Read fifteen minutes together. | **Designate Space:**<br>Quiet, distraction-free study desk. | **Limit Tech:**<br>Balanced digital screen time. | **Listen Well:**<br>Show interest in ideas. |
+| **Read Daily:**<br>Read fifteen minutes together. | **Designate Space:**<br>Quiet, distraction-free study desk. | **Limit Tech:**<br>Balanced digital screen time. | **Listen Well:**<br>Showing interest in new ideas. |
 
 **Visual Note:** Four horizontal columns in light pastel colors, showing hand-drawn book, desk, tablet, and ear doodles.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Family Goal Card:**<br>Write down one special skill or hobby you hope to explore together this year. | **Progress Check:**<br>Review the goal card monthly to celebrate small victories and adapt routines. |
+| **Family Goal Card:**<br>Writing down one special skill or hobby you hope to explore together this year. | **Progress Check:**<br>Review the goal card monthly to celebrate small victories and adapt routines. |
 
 **Visual Note:** Two playful worksheet cards with hand-drawn sketch frames and cute star elements.  
 

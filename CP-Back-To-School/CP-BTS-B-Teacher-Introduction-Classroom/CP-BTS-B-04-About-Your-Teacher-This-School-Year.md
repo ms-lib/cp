@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Your Hobby:**<br>Draw your favorite after-school activity on the worksheet. | **Your Goal:**<br>Write down one special thing you want to learn. |
+| **Your Hobby:**<br>Draw your favorite after-school activity on the worksheet. | **Your Goal:**<br>Writing down one special thing you want to learn. |
 
 **Visual Note:** Two playful worksheet cards with hand-drawn sketch frames and cute star elements.  
 

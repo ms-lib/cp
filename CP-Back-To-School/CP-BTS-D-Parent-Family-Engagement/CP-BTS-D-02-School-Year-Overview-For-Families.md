@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Consistent Progress:**<br>Engage in active learning, complete weekly check-ins, and build key skills. | **Active Partnership:**<br>Keep in touch with helper teachers, review newsletters, and join events. |
+| **Consistent Progress:**<br>Engage in active learning, complete weekly check-ins, and build key skills. | **Active Partnership:**<br>Keeping in touch with helper teachers, reviewing newsletters, and joining events. |
 
 **Visual Note:** Two clean columns in slate grey and white with minimalist bullet points and thin border outlines.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Family Portal:**<br>Register your parent account online to access progress logs and notes. | **Contact Update:**<br>Verify your email address and phone number with the administration. |
+| **Family Portal:**<br>Registering parent accounts online provides access to progress logs and notes. | **Contact Update:**<br>Verify your email address and phone number with the administration. |
 
 **Visual Note:** Two playful worksheet cards with hand-drawn sketch frames and clean grey accents.  
 

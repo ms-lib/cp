@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **In the Classroom:**<br>Raise your hand to speak, keep hands to yourself, and listen to teacher instructions. | **During Group Work:**<br>Share materials, cooperate with teammates, and encourage everyone's participation. |
+| **In the Classroom:**<br>Raise your hand to speak, keep hands to yourself, and listen to teacher instructions. | **During Group Work:**<br>Sharing materials, cooperating with teammates, and encouraging participation. |
 
 **Visual Note:** Two neat vertical columns split with a solid center line, featuring clear graphic text.  
 
@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Be Ready:**<br>Bring supplies and homework daily. | **Be Kind:**<br>Help peers and speak politely. | **Be Safe:**<br>Walk indoors and keep desk tidy. | **Be Curious:**<br>Ask questions and explore ideas. |
+| **Be Ready:**<br>Bring supplies and homework daily. | **Be Kind:**<br>Help peers and speak politely. | **Be Safe:**<br>Walk indoors and keep desk tidy. | **Be Curious:**<br>Asking questions and exploring new ideas. |
 
 **Visual Note:** Four bold square cards in forest green and school bus yellow, showing clean high-contrast icons.  
 

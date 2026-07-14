@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Academic Growth:**<br>Read wider genres, improve math skills, and explore scientific methods. | **Community Spirit:**<br>Help desk partners, respect school rules, and share positive feedback. | **Creative Talents:**<br>Build group art boards, play class music, and write original stories. |
+| **Academic Growth:**<br>Read wider genres, improve math skills, and explore scientific methods. | **Community Spirit:**<br>Help desk partners, respect school rules, and share positive feedback. | **Creative Talents:**<br>Building group art boards, playing class music, and writing original stories. |
 
 **Visual Note:** Three colorful columns with bold round icons representing a book, handshake, and paint palette in bright primary colors.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Personal Target:**<br>Write down one study habit you want to improve on your goal card. | **Skill Goal:**<br>Choose one creative skill (art, sport, music) you want to learn this year. |
+| **Personal Target:**<br>Writing down one study habit you want to improve on your goal card. | **Skill Goal:**<br>Choose one creative skill (art, sport, music) you want to learn this year. |
 
 **Visual Note:** Two friendly worksheet tiles styled with bright yellow headers and hand-drawn stars.  
 

@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **New Friendships:**<br>Build strong connections, collaborate with desk partners, and help classmates during group activities. | **Skill Mastery:**<br>Learn to play the acoustic guitar and improve my painting techniques during art class. |
+| **New Friendships:**<br>Building strong connections, collaborating with desk partners, and helping classmates during group activities. | **Skill Mastery:**<br>Learn to play the acoustic guitar and improve my painting techniques during art class. |
 
 **Visual Note:** Two warm-toned columns with organic leaf icons showing handshakes and a guitar.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Step 1:**<br>Write goals down clearly. | **Step 2:**<br>Practice skills daily. | **Step 3:**<br>Ask teacher for help. | **Step 4:**<br>Celebrate every success. |
+| **Step 1:**<br>Writing goals down clearly. | **Step 2:**<br>Practice skills daily. | **Step 3:**<br>Asking helper teachers for guidance. | **Step 4:**<br>Celebrate every success. |
 
 **Visual Note:** Four horizontal columns styled as paper notes with tape graphics on top, using warm terracotta headers.  
 

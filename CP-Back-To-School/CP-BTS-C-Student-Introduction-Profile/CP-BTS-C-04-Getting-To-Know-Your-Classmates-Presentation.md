@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Be Curious:**<br>Ask your classmates friendly questions about their favorite games and foods. | **Listen Well:**<br>Pay close attention to their stories and celebrate what makes them unique. | **Have Fun:**<br>Participate actively in every round and encourage your partners. |
+| **Be Curious:**<br>Asking classmates friendly questions about their favorite games and foods. | **Listen Well:**<br>Pay close attention to their stories and celebrate what makes them unique. | **Have Fun:**<br>Participate actively in every round and encourage your partners. |
 
 **Visual Note:** Three clean columns in bright primary colors with bold circular icons for a question mark, an ear, and a trophy.  
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Step One:**<br>Find a partner you do not know well and ask about their favorite summer memories. | **Step Two:**<br>Write down two unique facts about them on your classmate interview worksheet. |
+| **Step One:**<br>Finding a partner you do not know well and asking about favorite summer memories. | **Step Two:**<br>Writing down two unique facts about them on classmate interview worksheets. |
 
 **Visual Note:** Two vertical columns split by a bright yellow line, with bold steps icons on top.  
 

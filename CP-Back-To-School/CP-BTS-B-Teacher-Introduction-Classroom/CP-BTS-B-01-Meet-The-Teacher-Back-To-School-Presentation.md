@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Favorite Hobby:**<br>Tell us what games you love playing. | **Dream Trip:**<br>Share the coolest place you want to visit. | **Super Talent:**<br>Show us what special skill you have. |
+| **Favorite Hobby:**<br>Tell us what games you love playing. | **Dream Trip:**<br>Sharing the coolest place you want to visit. | **Super Talent:**<br>Showing what special skill you have. |
 
 **Visual Note:** Three colorful columns spotlighting sharing topics with stars and speech bubble graphics.  
 

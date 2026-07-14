@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **School Safety:**<br>Review visitor procedures, parking details, and entry policies. | **Active Contact:**<br>Check email newsletters, updates, and family portal logins. | **Parent Helper:**<br>Register for volunteer opportunities and school events. |
+| **School Safety:**<br>Review visitor procedures, parking details, and entry policies. | **Active Contact:**<br>Checking email newsletters, updates, and family portal logins. | **Parent Helper:**<br>Registering for volunteer opportunities and school events. |
 
 **Visual Note:** Three clean columns in bright primary colors with bold circular icons for a key, an envelope, and a handshake.  
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Health Forms:**<br>Submit student records. | **Portal Login:**<br>Register family accounts. | **Supply Bag:**<br>Label all drawing tools. | **Goal Card:**<br>Review family worksheets. |
+| **Health Forms:**<br>Submitting student records. | **Portal Login:**<br>Registering family accounts. | **Supply Bag:**<br>Label all drawing tools. | **Goal Card:**<br>Review family worksheets. |
 
 **Visual Note:** Four bold square cards in primary colors (red, blue, yellow, green) with clean kid-friendly checkmark icons.  
 
