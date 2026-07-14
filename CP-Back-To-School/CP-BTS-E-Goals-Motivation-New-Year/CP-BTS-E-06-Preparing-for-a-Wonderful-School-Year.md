@@ -53,12 +53,12 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Mindset for Success  
+**Judul Halaman:** Ready to Learn and Grow  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Entering the classroom with an open mind is the key to discovering new talents. When we focus on our daily progress, stay curious about science and art, and respect our peers, we build a wonderful path toward learning. |
+| Every student brings something special to our classroom. When we listen to new ideas, treat our peers with kindness, and work together on fun projects, we build a beautiful and friendly place to learn. |
 
 **Visual Note:** Modern quote slide with centered typography on a bold orange background with abstract white lines.  
 
