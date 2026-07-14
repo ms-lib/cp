@@ -1,5 +1,5 @@
 # JUDUL 6 OF 6
-## ___ ___ Making the Most of Your School Year Presentation
+## ___ ___ My Amazing School Year Presentation
 
 **Sub-Topic:** F - Activities, Schedule & School Life  
 **Main Keywords:** making the most of school, successful school year, back to school presentation, positive habits guide, student motivation slides, school life tips, student checklist presentation  

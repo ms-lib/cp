@@ -107,7 +107,7 @@
 | F-03 | Back To School Supply Checklist Presentation | Daftar perlengkapan sekolah |
 | F-04 | Student Activity And Weekly Schedule Guide | Jadwal mingguan murid |
 | F-05 | After School Programs And Activities Overview | Program sepulang sekolah |
-| F-06 | Making the Most of Your School Year | Life tips, soft skills |
+| F-06 | My Amazing School Year | Life tips, soft skills |
 
 ---
 
