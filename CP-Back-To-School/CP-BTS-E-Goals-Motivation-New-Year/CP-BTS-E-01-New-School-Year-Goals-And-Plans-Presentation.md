@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Autumn Phase:**<br>Write goals down clearly. | **Winter Phase:**<br>Join school activity clubs. | **Spring Phase:**<br>Run simple science labs. | **Summer Phase:**<br>Celebrate class goals. |
+| **Autumn Phase:**<br>Writing goals down clearly. | **Winter Phase:**<br>Join school activity clubs. | **Spring Phase:**<br>Run simple science labs. | **Summer Phase:**<br>Celebrate class goals. |
 
 **Visual Note:** Four horizontal columns in warm autumn and cool winter shades, showing chronological milestones.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **My Main Goal:**<br>Choose one skill you want to improve this term. | **My Creative Goal:**<br>Write one artistic activity you want to try. | **My Helper Goal:**<br>Detail how you plan to support your classmates. |
+| **My Main Goal:**<br>Choose one skill you want to improve this term. | **My Creative Goal:**<br>Writing one artistic activity you want to try. | **My Helper Goal:**<br>Detail how you plan to support your classmates. |
 
 **Visual Note:** Three friendly worksheet tiles styled with bright yellow headers and hand-drawn stars.  
 

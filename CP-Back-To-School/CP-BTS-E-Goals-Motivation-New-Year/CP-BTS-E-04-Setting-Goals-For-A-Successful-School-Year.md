@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Choose Goal:**<br>Focus on one target. | **List Steps:**<br>Write simple actions. | **Find Helpers:**<br>Ask teachers for advice. | **Review Weekly:**<br>Check your progress. |
+| **Choose Goal:**<br>Focus on one target. | **List Steps:**<br>Writing simple actions. | **Find Helpers:**<br>Asking teachers for advice. | **Review Weekly:**<br>Checking your progress. |
 
 **Visual Note:** Four horizontal columns styled as paper notes with tape graphics on top, using warm terracotta headers.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Create Goal Card:**<br>Draw your main goal on the worksheet card using bright colors. | **Daily Check:**<br>Check off completed action steps on your desk log every morning. |
+| **Create Goal Card:**<br>Draw your main goal on the worksheet card using bright colors. | **Daily Check:**<br>Checking off completed action steps on your desk log every morning. |
 
 **Visual Note:** Two playful worksheet cards with hand-drawn sketch borders and cute star elements.  
 

@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Organize Space:**<br>Keep a clean, distraction-free study desk at home. | **Track Time:**<br>Use a simple checklist to organize your weekly tasks. | **Ask Helpers:**<br>Reach out to teachers and desk partners when confused. |
+| **Organize Space:**<br>Keeping a clean, distraction-free study desk at home. | **Track Time:**<br>Using a simple checklist to organize your weekly tasks. | **Ask Helpers:**<br>Reach out to teachers and desk partners when confused. |
 
 **Visual Note:** Three clean columns in slate grey with small modern icons representing a desk, a clock, and a lightbulb.  
 

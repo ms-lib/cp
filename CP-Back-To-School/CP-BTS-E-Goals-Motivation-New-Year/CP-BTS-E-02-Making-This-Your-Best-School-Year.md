@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Positive Habits:**<br>Prepare your schoolbag in the evening and keep your study desk neat. | **Active Friendship:**<br>Help classmates during group activities and make new friends at recess. |
+| **Positive Habits:**<br>Preparing your schoolbag in the evening and keeping your study desk neat. | **Active Friendship:**<br>Help classmates during group activities and make new friends at recess. |
 
 **Visual Note:** Two clean columns with whimsical doodles of a notebook and a smiling hand-drawn star.  
 

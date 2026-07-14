@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Try New Skills:**<br>Do not worry if you make mistakes. Every error is a normal and helpful step in learning. | **Ask for Guidance:**<br>Reach out to helper teachers or class buddies when you feel confused or unsure. |
+| **Try New Skills:**<br>Understanding that mistakes are a normal and helpful step in learning builds confidence. | **Ask for Guidance:**<br>Reach out to helper teachers or class buddies when you feel confused or unsure. |
 
 **Visual Note:** Two distinct text blocks with thin grey borders on a clean beige background.  
 
