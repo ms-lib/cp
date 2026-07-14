@@ -1,5 +1,5 @@
 # JUDUL 3 OF 5
-## ___ ___ How To Market Your Brand During Back To School Presentation
+## ___ ___ Back To School Brand Marketing Strategy Presentation
 
 **Sub-Topic:** G - Business & Back To School Marketing  
 **Main Keywords:** brand marketing tips, market brand back to school, seasonal marketing presentation, retail business guide, brand strategy slides  
@@ -17,7 +17,7 @@
 **Visual Note:** High-energy illustrative cover. Vibrant teal background with hand-drawn doodles of megaphones, lightbulbs, target boards, and books. Bold handwritten title case typography. Use Title Case for the title.  
 
 **Text:**
-- Title: How To Market Your Brand During Back To School
+- Title: Back To School Brand Marketing Strategy
 - Subtitle: A Creative Guide to Target Segments, Value-Driven Campaigns, and Launching Seasonal Product Bundles
 
 ---
@@ -139,7 +139,7 @@
 **Visual Note:** Playful illustrative back cover matching the cover design, with store name and website centered.  
 
 **Text:**
-- How To Market Your Brand During Back To School
+- Back To School Brand Marketing Strategy
 - Studio Shodwe School
 - www.reallygreatsite.com
 

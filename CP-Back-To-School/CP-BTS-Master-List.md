@@ -121,7 +121,7 @@
 |---|---|---|
 | G-01 | Back To School Sale Presentation | Promosi diskon toko |
 | G-02 | Back To School Marketing Campaign Guide | Strategi kampanye brand |
-| G-03 | How To Market Your Brand During Back To School | Tips marketing ke brand |
+| G-03 | Back To School Brand Marketing Strategy | Tips marketing ke brand |
 | G-04 | School Season Product Launch Presentation | Peluncuran produk musiman |
 | G-05 | Back To School Retail Strategy Presentation | Strategi toko/retail |
 
