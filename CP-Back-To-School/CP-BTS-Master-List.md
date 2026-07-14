@@ -98,7 +98,7 @@
 **Audience:** Club/OSIS, koordinator ekskul, guru wali  
 **Search Intent:** Info konkret — jadwal, klub, ekskul, perlengkapan  
 **Sub-clusters:** Club & Extracurricular, Schedule & Supplies, School Life  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Angle |
 |---|---|---|
@@ -107,7 +107,7 @@
 | F-03 | Back To School Supply Checklist Presentation | Daftar perlengkapan sekolah |
 | F-04 | Student Activity And Weekly Schedule Guide | Jadwal mingguan murid |
 | F-05 | After School Programs And Activities Overview | Program sepulang sekolah |
-| F-06 | How To Get The Most Out Of School This Year | Life tips, soft skills |
+| F-06 | Making the Most of Your School Year | Life tips, soft skills |
 
 ---
 
