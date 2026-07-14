@@ -86,7 +86,7 @@
 
 | Kolom 1 |
 |---------|
-| Every difficult challenge is an opportunity to grow my brain and build resilience. By staying determined, asking for support, and practicing consistently, I can overcome obstacles, learn from mistakes, and achieve my personal best in every activity. |
+| Every difficult challenge is a chance to learn something new and become stronger. By staying positive, asking for help, and trying my best, I can overcome obstacles, learn from mistakes, and enjoy my school journey. |
 
 **Visual Note:** Center-aligned quote on a soft sage green background with thin gold borders.  
 
