@@ -2,7 +2,7 @@
 ## ___ ___ A Welcome Message from the Teacher Presentation
 
 **Sub-Topic:** D - Parent & Family Engagement  
-**Main Keywords:** message from teacher, parent teacher communication, back to school letter, school year welcome, parent handbook presentation, home school partnership, student welcome guide  
+**Main Keywords:** welcome message from teacher, teacher welcome message, message from teacher, parent teacher communication, back to school letter, school year welcome, parent handbook presentation, home school partnership, student welcome guide  
 **Audience:** Parents  
 **Style:** Personal, Clean, Modern  
 **Tone:** Intimate, welcoming, warm  
