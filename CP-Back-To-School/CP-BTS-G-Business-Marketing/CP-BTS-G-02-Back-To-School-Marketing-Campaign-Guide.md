@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Digital Marketing:**<br>Build engaging social media ads, launch email newsletters, and distribute coupon codes. | **In-Store Experience:**<br>Design vibrant shop window displays, place price banners, and optimize product shelves. |
+| **Digital Marketing:**<br>Building engaging social media ads, launching newsletters, and distributing coupons. | **In-Store Experience:**<br>Designing vibrant window displays, placing price banners, and organizing shelves. |
 
 **Visual Note:** Two minimalist slate-grey columns split with a clean vertical divider line, featuring circular icon borders on top.  
 
@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Prep Phase:**<br>Verify inventory stocks, design graphics, and organize promo files. | **Launch Phase:**<br>Publish digital ads, activate coupon codes, and set store displays. | **Peak Phase:**<br>Monitor traffic metrics, assist customers, and restock hot items. |
+| **Prep Phase:**<br>Checking inventory stocks, designing graphics, and organizing promo files. | **Launch Phase:**<br>Publishing digital ads, activating coupon codes, and setting store displays. | **Peak Phase:**<br>Monitoring traffic metrics, assisting customers, and restocking hot items. |
 
 **Visual Note:** Three horizontal columns styled as process steps with subtle arrow indicators, using muted corporate colors.  
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Email Newsletters:**<br>Send personalized promo discounts directly to loyal parents. | **Social Campaigns:**<br>Share colorful videos showing drawing tools and backpack items. | **Point of Sale:**<br>Place high-contrast display stands next to checkout registers. |
+| **Email Newsletters:**<br>Sending personalized promo discounts directly to loyal parents. | **Social Campaigns:**<br>Sharing colorful videos showing drawing tools and backpack items. | **Point of Sale:**<br>Placing high-contrast display stands next to checkout registers. |
 
 **Visual Note:** Three clean columns resembling cards with simple graphic labels inside circular frames.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Traffic Count:**<br>Track customer visits daily on our digital sites and physical store locations. | **Conversion Rates:**<br>Measure total coupon redemptions and monitor complete bundle sales weekly. |
+| **Traffic Count:**<br>Tracking customer visits daily on digital sites and store locations. | **Conversion Rates:**<br>Measuring coupon redemptions and monitoring bundle sales weekly. |
 
 **Visual Note:** Two minimalist worksheet cards with clean border grids and graphical metrics charts.  
 
