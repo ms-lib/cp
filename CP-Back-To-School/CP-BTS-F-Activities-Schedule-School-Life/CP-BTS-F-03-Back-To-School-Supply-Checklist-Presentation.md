@@ -109,7 +109,7 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Prepared for Safety  
+**Judul Halaman:** The Joy of Sharing  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
