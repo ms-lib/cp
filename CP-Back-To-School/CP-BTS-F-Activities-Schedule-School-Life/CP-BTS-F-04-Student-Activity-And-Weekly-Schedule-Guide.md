@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Time Management:**<br>Divide your hours daily between reading, homework, and outdoor sports. | **Activity Focus:**<br>Prepare drawing tools and folders before your specialized classes start. | **Family Connection:**<br>Share your planner calendar with parents to coordinate after-school plans. |
+| **Time Management:**<br>Dividing your hours daily between reading, homework, and outdoor sports. | **Activity Focus:**<br>Preparing drawing tools and folders before specialized classes start. | **Family Connection:**<br>Sharing your planner calendar with parents coordinates after-school plans. |
 
 **Visual Note:** Three warm-toned columns with organic leaf icons showing clocks, pencils, and handshakes.  
 

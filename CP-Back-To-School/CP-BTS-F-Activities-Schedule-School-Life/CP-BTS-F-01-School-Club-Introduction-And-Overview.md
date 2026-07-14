@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Explore Interests:**<br>Try new hobbies and discover secret talents in coding, drawing, or team sports. | **Make Friends:**<br>Connect with friendly classmates who share your passion outside the regular classroom. | **Build Confidence:**<br>Work together on fun community projects and celebrate group successes. |
+| **Explore Interests:**<br>Trying new hobbies and discovering secret talents in coding, drawing, or team sports. | **Make Friends:**<br>Connecting with friendly classmates who share your passion outside the regular classroom. | **Build Confidence:**<br>Working together on fun community projects and celebrating group successes. |
 
 **Visual Note:** Three bright columns in yellow, orange, and blue with icons showing a compass, a handshake, and a trophy.  
 
@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Sports Club:**<br>Run and play together. | **Music Club:**<br>Practice guitar and sing. | **Science Club:**<br>Try fun experiments. | **Arts Club:**<br>Paint and draw sketches. |
+| **Sports Club:**<br>Running and playing together. | **Music Club:**<br>Practicing guitar and singing. | **Science Club:**<br>Trying fun experiments. | **Arts Club:**<br>Painting and drawing sketches. |
 
 **Visual Note:** Four horizontal columns in colorful grids, showing a basketball, guitar, beaker, and paint palette icons.  
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Meeting Schedule:**<br>Clubs gather twice every week after daily lessons. Check the student noticeboard for room updates. | **Group Activities:**<br>Teams practice for seasonal events, design original artworks, and support local community drives. |
+| **Meeting Schedule:**<br>Clubs gather twice every week after daily lessons. Checking the student noticeboard offers quick room updates. | **Group Activities:**<br>Teams practice for seasonal events, design original artworks, and support local community drives. |
 
 **Visual Note:** Two distinct text blocks split with a clean modern dashed line, featuring clear graphic text.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **My Top Choice:**<br>Write the main activity club you are most excited to join. | **My Friend Buddy:**<br>Invite one classmate to join the same team with you. | **Club Leader:**<br>Find and speak to Lorna Alvarado for registration details. |
+| **My Top Choice:**<br>Writing the main activity club you are most excited to join. | **My Friend Buddy:**<br>Inviting one classmate to join the same team with you. | **Club Leader:**<br>Speaking to Lorna Alvarado provides complete registration details. |
 
 **Visual Note:** Three friendly card tiles styled with hand-drawn checkmarks and bright stars.  
 
