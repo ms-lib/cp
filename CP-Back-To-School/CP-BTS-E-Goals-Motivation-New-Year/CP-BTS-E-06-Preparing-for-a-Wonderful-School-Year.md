@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Morning Routine:**<br>Prepare clothes the night before, eat a healthy breakfast, and arrive at homeroom with high energy. | **Recess Support:**<br>Say hello to new classmates, collaborate during group games, and help helpers clean desks. |
+| **Morning Routine:**<br>Preparing clothes the night before, eating a healthy breakfast, and arriving at homeroom with positive energy starts our day strong. | **Recess Fun:**<br>Saying hello to new classmates, playing group games, and keeping our desk areas clean makes recess fun for everyone. |
 
 **Visual Note:** Two vertical columns split by a bright yellow line, with bold sun and smiley icons on top.  
 
