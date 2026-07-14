@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Daily Writing Gear:**<br>Pack three dark graphite pencils and one transparent ruler in your pencil case every morning. | **Desk Organization:**<br>Keep homework sheets and drawing pads neatly sorted in your home study locker. |
+| **Daily Writing Gear:**<br>Packing three graphite pencils and a ruler in our pencil pouches every morning ensures we are ready for class. | **Desk Organization:**<br>Keeping homework sheets and drawing pads sorted in our study boxes at home makes learning simple. |
 
 **Visual Note:** Two distinct text blocks with thin slate-grey borders on a clean white background.  
 
