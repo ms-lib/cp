@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We are ready to help you implement these marketing strategies and optimize your store campaigns. | **Campaign Leads:**<br>Strategy guides, budget plans, and branding assets are ready. Contact Chiaki Sato to coordinate finance approvals. |
+| **Creative Alignment:**<br>Coordinating your brand message across digital and in-store channels ensures a cohesive shopper experience. | **Resource Access:**<br>Strategy templates, budget plan sheets, and media packages are available. Contact Chiaki Sato to coordinate finance approvals. |
 
 **Visual Note:** Minimalist split layout. Left panel for closing statements, right panel for contact actions.  
 
