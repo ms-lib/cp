@@ -115,7 +115,7 @@
 **Audience:** Brand, retailer, toko perlengkapan sekolah  
 **Search Intent:** Promosi musiman, kampanye back to school  
 **Sub-clusters:** Sale & Promo, Brand Campaign, Retail Strategy  
-**Status:** 🔲 Pending
+**Status:** ✅ Done
 
 | # | Judul | Angle |
 |---|---|---|
