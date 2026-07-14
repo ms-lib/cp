@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 10, 2025  <br>**Facilitator:** Adeline Palmerston, Principal  <br><br>We are delighted to welcome all parents and guardians to our annual Back to School Night. Tonight, we share our vision for the upcoming school year, explore classroom environments, and discuss how we can work together to support student growth and success. |
+| **School:** Studio Shodwe School  <br>**Date:** September 10, 2030  <br>**Facilitator:** Adeline Palmerston, Principal  <br><br>We are delighted to welcome all parents and guardians to our annual Back to School Night. Tonight, we share our vision for the upcoming school year, explore classroom environments, and discuss how we can work together to support student growth and success. |
 
 **Visual Note:** High-quality image of parents and teachers chatting in a clean classroom. Maintain 40% white space for easy editing.  
 

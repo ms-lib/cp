@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Event:** Ceremony Kickoff  <br>**Date:** September 01, 2025  <br>**Ceremony Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our Welcome Back to School Ceremony! Today, we celebrate the opening of a brand-new academic year. This assembly brings together students, teachers, and parents to share our community values, highlight goals, and welcome new members. |
+| **Event:** Ceremony Kickoff  <br>**Date:** September 01, 2030  <br>**Ceremony Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our Welcome Back to School Ceremony! Today, we celebrate the opening of a brand-new academic year. This assembly brings together students, teachers, and parents to share our community values, highlight goals, and welcome new members. |
 
 **Visual Note:** High-quality photo of a beautifully decorated assembly hall with school banners. Clean layouts with 40% margin spacing.  
 
