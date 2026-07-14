@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Busy Parents:**<br>Offer convenient school checklists, bundle deals, and quick checkout options. | **Active Students:**<br>Promote colorful stickers, tech cases, and playful stationery designs. | **Dedicated Teachers:**<br>Highlight organization folders, classroom supplies, and bulk discount packs. |
+| **Dedicated Parents:**<br>Offering convenient school checklists, bundle deals, and quick checkout options. | **Active Students:**<br>Promoting colorful stickers, tech cases, and playful stationery designs. | **Dedicated Teachers:**<br>Highlighting organization folders, classroom supplies, and bulk discount packs. |
 
 **Visual Note:** Three columns in teal, orange, and yellow cards with doodles of a shopping cart, a skateboard, and a desk organizer.  
 
