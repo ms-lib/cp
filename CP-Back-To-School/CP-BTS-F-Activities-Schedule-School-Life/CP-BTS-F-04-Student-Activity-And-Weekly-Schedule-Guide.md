@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Lead Advisor:** Adeline Palmerston  <br><br>Welcome to your weekly schedule guide! Having a clear plan for your classes, homework, and playtime helps you manage your time effectively, reduce stress, and enjoy a successful and happy learning journey throughout the school year. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Lead Advisor:** Adeline Palmerston  <br><br>Welcome to your weekly schedule guide! Having a clear plan for your classes, homework, and playtime helps you manage your time effectively, feel confident, and enjoy a successful and happy learning journey throughout the school year. |
 
 **Visual Note:** High-quality photo placeholder showing a child writing in a colorful planner page near a window. Maintain 40% white space for easy editing.  
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Core Subjects:**<br>Daily classes for reading, math, and science run every morning. Check your classroom number before homeroom. | **Special Activities:**<br>Afternoons are reserved for creative painting workshops, group sports, and library reading hours. |
+| **Core Subjects:**<br>Daily classes for reading, math, and science run every morning. Checking our classroom numbers before homeroom starts our day smoothly. | **Special Activities:**<br>Afternoons are reserved for creative painting workshops, group sports, and library reading hours. |
 
 **Visual Note:** Two distinct text blocks with thin gold borders on a clean beige background.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Write Schedule:**<br>Fill in your daily class times and study goals on the card worksheet. | **Buddy Share:**<br>Review your weekly homework checklist with a desk partner to stay updated. |
+| **Weekly Planner:**<br>Filling in our daily class times and study goals on the worksheets helps us stay organized. | **Buddy Review:**<br>Reviewing our weekly homework checklist with a desk partner keeps us updated. |
 
 **Visual Note:** Two playful worksheet cards with hand-drawn sketch borders and cute star elements.  
 
