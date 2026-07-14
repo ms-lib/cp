@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Safe Haven to Grow  
+**Judul Halaman:** A Place to Shine  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| You have all the talents needed to start this new year. I am dedicated to supporting your growth, celebrating your efforts, and ensuring our classroom remains a safe, happy environment. Let's make this year an amazing learning adventure. |
+| You are ready for a wonderful year of discovery. I am fully committed to helping you learn, celebrating your unique efforts, and keeping our classroom a safe, friendly space where you can shine your brightest. |
 
 **Visual Note:** High-contrast text slide on a sun yellow background with huge colorful quotation marks and hand-drawn stars.  
 
