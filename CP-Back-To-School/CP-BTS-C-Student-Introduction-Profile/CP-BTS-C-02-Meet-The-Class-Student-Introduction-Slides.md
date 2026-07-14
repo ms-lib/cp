@@ -17,7 +17,7 @@
 **Visual Note:** Bright creative cover. Soft teal background with a colorful collage of student silhouette drawings, hand-drawn paper airplanes, and warm star details. Creative serif typography. Use Title Case for the title.  
 
 **Text:**
-- Title: Meet The Class
+- Title: Meet The Class Student Introduction
 - Subtitle: Celebrating Our Diverse Talents, Unique Personalities, and Shared Goals Together
 
 ---
@@ -139,7 +139,7 @@
 **Visual Note:** Minimalist back cover matching the cover design, with school name and website centered.  
 
 **Text:**
-- Meet The Class
+- Meet The Class Student Introduction
 - Studio Shodwe School
 - www.reallygreatsite.com
 

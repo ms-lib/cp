@@ -17,7 +17,7 @@
 **Visual Note:** Bright playful cover with custom teacher illustrations. Soft yellow background with colorful book stacks, apple icons, and hand-drawn stars. Friendly serif typography. Use Title Case for the title.  
 
 **Text:**
-- Title: Meet The Teacher
+- Title: Meet The Teacher Back To School
 - Subtitle: Let's Start a Wonderful New School Year of Learning and Fun Together
 
 ---
@@ -139,7 +139,7 @@
 **Visual Note:** Playful back cover matching the cover art, with school details and a friendly website link.  
 
 **Text:**
-- Meet The Teacher
+- Meet The Teacher Back To School
 - Studio Shodwe School
 - www.reallygreatsite.com
 

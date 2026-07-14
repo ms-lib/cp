@@ -17,7 +17,7 @@
 **Visual Note:** High-energy playful cover. Bright yellow background with colorful hand-drawn stars, crayons, and school bag illustrations. Fun handwritten typography. Use Title Case for the title.  
 
 **Text:**
-- Title: All About Me
+- Title: All About Me Back To School
 - Subtitle: A Playful Introduction of My Story, Hobbies, Favorites, and Big Dreams
 
 ---
@@ -139,7 +139,7 @@
 **Visual Note:** Playful back cover matching the cover art, with school name and website centered.  
 
 **Text:**
-- All About Me
+- All About Me Back To School
 - Studio Shodwe School
 - www.reallygreatsite.com
 

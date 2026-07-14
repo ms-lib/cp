@@ -1,5 +1,5 @@
 # JUDUL 3 OF 6
-## ___ ___ New School Year Welcome Back To School Guide Presentation
+## ___ ___ New Student Welcome Back To School Guide Presentation
 
 **Sub-Topic:** C - Student Introduction & Profile  
 **Main Keywords:** new student welcome, welcome back to school, school welcome guide, new student handbook, back to school presentation, student orientation guide, school guide slides  
@@ -139,7 +139,7 @@
 **Visual Note:** Clean navy back cover featuring the school website centered in white.  
 
 **Text:**
-- New School Year Welcome Back To School Guide
+- New Student Welcome Back To School Guide
 - Studio Shodwe School
 - www.reallygreatsite.com
 
