@@ -86,7 +86,7 @@
 
 | Kolom 1 |
 |---------|
-| Managing your time and resources is a vital skill that supports your academic progress. By following these simple daily procedures, we reduce confusion, maintain a quiet environment, and maximize our active learning time in every single lesson we share. |
+| Keeping our space organized helps us focus and feel comfortable throughout the day. By following these simple steps, we make sure that our classroom remains a peaceful, creative, and fun environment for everyone in our community. |
 
 **Visual Note:** Minimalist slide with a dark grey accent bar, centered text in beautiful serif font, and ample breathing room.  
 
