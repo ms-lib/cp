@@ -95,7 +95,7 @@
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
-**Judul Halaman:** Study Helpers Timetable  
+**Judul Halaman:** Meet Our Team  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
