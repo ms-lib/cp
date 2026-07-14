@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Sleep Pattern:**<br>Adjust your sleeping hours a week before school starts. | **Active Mind:**<br>Practice reading fifteen minutes daily and draw simple cards. | **Supply Bag:**<br>Organize your schoolbag, books, and labeled drawing tools. |
+| **Sleep Routine:**<br>Adjusting our sleeping hours a week before school starts helps us wake up feeling refreshed. | **Active Mind:**<br>Reading fifteen minutes daily and drawing simple cards keeps our minds active and curious. | **Supply Bag:**<br>Organizing our schoolbags, books, and labeled drawing tools makes daily routines simple. |
 
 **Visual Note:** Three clean columns in bright primary colors with bold circular icons for a moon, an open book, and a backpack.  
 
