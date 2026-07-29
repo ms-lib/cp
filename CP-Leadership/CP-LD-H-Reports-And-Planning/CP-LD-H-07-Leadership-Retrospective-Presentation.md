@@ -19,18 +19,18 @@
 **Text:**
 - Title: Leadership Retrospective Presentation
 - Subtitle: What We Learned From the Year We Just Lived
-- Supporting Text: Year 2024 — Liceria & Co.
+- Supporting Text: Year 2034 — Liceria & Co.
 
 ---
 
 ### PAGE 2 - OPENER
 **Fase:** Opening  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Leadership Retrospective — Year 2024  
+**Judul Halaman:** Leadership Retrospective — Year 2034  
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Retrospective Period:**<br>Year 2024<br>**Facilitated By:**<br>Adeline Palmerston<br>**Co-Facilitator:**<br>Drew Feig<br>**Team:**<br>Leadership Group, Liceria & Co.<br>**Session Date:**<br>December 12, 2024<br><br><br>A retrospective is one of the most honest things a leadership team can do. It asks three simple questions: What worked? What didn't? What do we do next? This presentation captures what we discovered when we asked those questions — and committed to answering them honestly. |
+| **Retrospective Period:**<br>Year 2034<br>**Facilitated By:**<br>Adeline Palmerston<br>**Co-Facilitator:**<br>Drew Feig<br>**Team:**<br>Leadership Group, Liceria & Co.<br>**Session Date:**<br>December 12, 2034<br><br><br>A retrospective is one of the most honest things a leadership team can do. It asks three simple questions: What worked? What didn't? What do we do next? This presentation captures what we discovered when we asked those questions — and committed to answering them honestly. |
 
 **Visual Note:** Structured session-report style — label fields stacked, body paragraph below. Clean sans-serif type on light background.
 
@@ -117,11 +117,11 @@
 ### PAGE 9 - CLOSING
 **Fase:** Closing  
 **Tipe Halaman:** Closing  
-**Judul Halaman:** Taking Our Learnings Into 2025  
+**Judul Halaman:** Taking Our Learnings Into 2035  
 **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **What We Will Protect**<br><br>The practices and habits that served us well in 2024 will be named, documented, and built into how we work in 2025. We will not rely on memory to preserve what works — we will make it part of how we operate. | **What We Will Change**<br><br>The three action items that came from this retrospective are owned, scheduled, and tied to specific leaders. We will revisit them at our June 2025 mid-year review to assess progress and adjust as needed. |
+| **What We Will Protect**<br><br>The practices and habits that served us well in 2034 will be named, documented, and built into how we work in 2035. We will not rely on memory to preserve what works — we will make it part of how we operate. | **What We Will Change**<br><br>The three action items that came from this retrospective are owned, scheduled, and tied to specific leaders. We will revisit them at our June 2035 mid-year review to assess progress and adjust as needed. |
 
 **Visual Note:** Action-focused split layout — headings bold, body clear and direct. Equal-width columns with clean divider.
 

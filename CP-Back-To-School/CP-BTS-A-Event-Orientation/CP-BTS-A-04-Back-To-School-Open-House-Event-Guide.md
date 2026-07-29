@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Host:** Studio Shodwe School  <br>**Date:** September 15, 2030  <br>**Host Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our annual Back to School Open House! This guide helps families navigate classroom visits, explore student facilities, and meet our teachers. We are thrilled to welcome you to our school and share our plans for a successful school year. |
+| **Host:** Studio Shodwe School  <br>**Date:** September 15, 2035  <br>**Host Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our annual Back to School Open House! This guide helps families navigate classroom visits, explore student facilities, and meet our teachers. We are thrilled to welcome you to our school and share our plans for a successful school year. |
 
 **Visual Note:** Crisp professional photo of a modern school lobby or entrance. Clean layouts with 40% margin spacing.  
 

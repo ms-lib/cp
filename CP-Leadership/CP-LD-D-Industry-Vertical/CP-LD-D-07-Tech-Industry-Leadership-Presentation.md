@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Presentation:** Tech Industry Leadership<br>**The Date:** November 4, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To sharpen the leadership skills of tech managers, engineering leads, and product leaders — equipping them to move fast without losing clarity, build strong teams without slowing down, and lead in an industry where the only constant is change. |
+| **The Presentation:** Tech Industry Leadership<br>**The Date:** November 4, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To sharpen the leadership skills of tech managers, engineering leads, and product leaders — equipping them to move fast without losing clarity, build strong teams without slowing down, and lead in an industry where the only constant is change. |
 
 **Visual Note:** Clean structured opener on white. Teal rule accents, slate header. 40% white space for editability.
 

@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Teacher:** Adeline Palmerston  <br><br>Welcome to our classroom guide! To help everyone succeed, we have established clear rules, expectations, and goals. By understanding and practicing these core values daily, we create a positive, safe, and productive space where every student can focus and grow together. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Teacher:** Adeline Palmerston  <br><br>Welcome to our classroom guide! To help everyone succeed, we have established clear rules, expectations, and goals. By understanding and practicing these core values daily, we create a positive, safe, and productive space where every student can focus and grow together. |
 
 **Visual Note:** Crisp professional graphic layout featuring a checklist and school icons. Maintain 40% white space for easy editing.  
 

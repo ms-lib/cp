@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Session:** How To Lead By Serving Others<br>**The Date:** June 3, 2025<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Theme:** [Type your leadership focus here]<br><br>**The Purpose:** To move servant leadership from a concept to a daily practice — giving leaders at Liceria & Co. concrete, repeatable habits they can start using the moment they walk out of this room. |
+| **The Session:** How To Lead By Serving Others<br>**The Date:** June 3, 2035<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Theme:** [Type your leadership focus here]<br><br>**The Purpose:** To move servant leadership from a concept to a daily practice — giving leaders at Liceria & Co. concrete, repeatable habits they can start using the moment they walk out of this room. |
 
 **Visual Note:** Bold navy header with gold rule and clean white body. Structured and professional. Maintain 40% white space.
 

@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Guide:** Academic Leadership<br>**The Date:** October 7, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To support leaders in higher education — heads of department, deans, and faculty managers — with a clear, practical guide to the complexity of academic leadership: balancing scholarly standards with institutional demands, and leading people who are both colleagues and direct reports. |
+| **The Guide:** Academic Leadership<br>**The Date:** October 7, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To support leaders in higher education — heads of department, deans, and faculty managers — with a clear, practical guide to the complexity of academic leadership: balancing scholarly standards with institutional demands, and leading people who are both colleagues and direct reports. |
 
 **Visual Note:** Structured opener on warm ivory. Deep slate header, gold rule accent. 40% white space for editability.
 

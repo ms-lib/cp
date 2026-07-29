@@ -19,7 +19,7 @@
 **Text:**
 - Title: Leadership Lessons & Learnings Report
 - Subtitle: What This Period Taught Us About Leading Well
-- Supporting text: Year 2024 — Liceria & Co.
+- Supporting text: Year 2034 — Liceria & Co.
 
 ---
 
@@ -30,7 +30,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Report Period:**<br>Year 2024<br><br>**Compiled By:**<br>Adeline Palmerston<br><br>**Contributing Author:**<br>Drew Feig<br><br>**Prepared For:**<br>Leadership & L&D Teams, Liceria & Co.<br><br>**Published:**<br>January 8, 2025<br><br><br>Every period of leadership leaves lessons worth keeping. This report gathers the most meaningful ones from Year 2024 — from success, from setbacks, and from the example of others — so we carry them forward and lead better because of them. |
+| **Report Period:**<br>Year 2034<br><br>**Compiled By:**<br>Adeline Palmerston<br><br>**Contributing Author:**<br>Drew Feig<br><br>**Prepared For:**<br>Leadership & L&D Teams, Liceria & Co.<br><br>**Published:**<br>January 8, 2035<br><br><br>Every period of leadership leaves lessons worth keeping. This report gathers the most meaningful ones from Year 2034 — from success, from setbacks, and from the example of others — so we carry them forward and lead better because of them. |
 
 **Visual Note:** Clean report style — label fields stacked left, body paragraph below with generous white space. Forest green and ivory palette.
 
@@ -56,7 +56,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| Most leaders have more lessons than they realize. The challenge is that lessons, left uncaptured, fade. The insight from a difficult project gets replaced by the next challenge. This report exists to stop that loss — to name what Year 2024 actually taught, so the learning outlasts the moment it came from. |
+| Most leaders have more lessons than they realize. The challenge is that lessons, left uncaptured, fade. The insight from a difficult project gets replaced by the next challenge. This report exists to stop that loss — to name what Year 2034 actually taught, so the learning outlasts the moment it came from. |
 
 **Visual Note:** Large centered body copy, generous padding, clean white background with forest green accent heading.
 
@@ -117,11 +117,11 @@
 ### PAGE 9 - CLOSING
 **Fase:** Closing  
 **Tipe Halaman:** Closing  
-**Judul Halaman:** Bringing These Lessons Into 2025  
+**Judul Halaman:** Bringing These Lessons Into 2035  
 **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **How We Will Use What We Learned**<br><br>The lessons from Year 2024 will be integrated into our leadership development programs, used to update how we run retrospectives, and shared with incoming leaders as part of onboarding. We will not let this year's learning sit on a shelf — we will put it to work. | **The Questions We Will Keep Asking**<br><br>We commit to continuing three questions in 2025: What is working and why? What fell short and what does that reveal? What did someone else do that we should learn from? These questions, asked regularly and answered honestly, are how leadership teams keep getting better. |
+| **How We Will Use What We Learned**<br><br>The lessons from Year 2034 will be integrated into our leadership development programs, used to update how we run retrospectives, and shared with incoming leaders as part of onboarding. We will not let this year's learning sit on a shelf — we will put it to work. | **The Questions We Will Keep Asking**<br><br>We commit to continuing three questions in 2035: What is working and why? What fell short and what does that reveal? What did someone else do that we should learn from? These questions, asked regularly and answered honestly, are how leadership teams keep getting better. |
 
 **Visual Note:** Forward-looking split layout — bold headings, clear descriptive body text.
 

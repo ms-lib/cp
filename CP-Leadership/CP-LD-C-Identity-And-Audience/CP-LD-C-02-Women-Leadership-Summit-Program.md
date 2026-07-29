@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| Summit: Women Leadership Summit<br>Date: June 12, 2025<br>Venue: Studio Shodwe<br>Host Organization: Liceria & Co.<br>Program Lead: Adeline Palmerston<br><br>Our Vision: To bring together the women who lead Liceria & Co. — and the women who will lead it next — in a shared day of strategy, celebration, and honest conversation about the future we are building together. |
+| Summit: Women Leadership Summit<br>Date: June 12, 2035<br>Venue: Studio Shodwe<br>Host Organization: Liceria & Co.<br>Program Lead: Adeline Palmerston<br><br>Our Vision: To bring together the women who lead Liceria & Co. — and the women who will lead it next — in a shared day of strategy, celebration, and honest conversation about the future we are building together. |
 
 **Visual Note:** Clean structured opener in plum and gold with ivory background. Bold rule accent under the heading. 40% white space for editability.
 

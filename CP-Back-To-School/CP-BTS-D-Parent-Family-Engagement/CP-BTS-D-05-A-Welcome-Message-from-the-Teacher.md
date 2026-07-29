@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Lead Teacher:** Adeline Palmerston  <br>**Classroom:** Room 14  <br>**Date:** September 02, 2028  <br><br>Welcome parents and guardians! I am incredibly excited to introduce myself as your child's guide this year. This presentation shares my teaching philosophy, contact channels, and plans, ensuring we build a collaborative relationship to support your child's school journey. |
+| **Lead Teacher:** Adeline Palmerston  <br>**Classroom:** Room 14  <br>**Date:** September 02, 2035  <br><br>Welcome parents and guardians! I am incredibly excited to introduce myself as your child's guide this year. This presentation shares my teaching philosophy, contact channels, and plans, ensuring we build a collaborative relationship to support your child's school journey. |
 
 **Visual Note:** Warm, professional photo of a smiling teacher in an organized classroom. Maintain 40% margin spacing.  
 

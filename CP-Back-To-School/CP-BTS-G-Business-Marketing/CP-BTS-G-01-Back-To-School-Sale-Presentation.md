@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Store Manager:** Adeline Palmerston  <br><br>Hello retailers and store managers! Our back-to-school sale event is designed to help local families prepare for the new school year. By offering high-quality stationery and study tools at discounted rates, we support student success while boosting seasonal store sales. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Store Manager:** Adeline Palmerston  <br><br>Hello retailers and store managers! Our back-to-school sale event is designed to help local families prepare for the new school year. By offering high-quality stationery and study tools at discounted rates, we support student success while boosting seasonal store sales. |
 
 **Visual Note:** High-quality photo placeholder showing organized rows of colorful backpacks and stationery items in a modern retail store layout. Maintain 40% white space.  
 

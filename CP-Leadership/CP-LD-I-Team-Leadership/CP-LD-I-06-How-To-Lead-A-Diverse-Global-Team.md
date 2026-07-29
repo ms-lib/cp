@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Organization:** Liceria & Co.<br>**Presenter:** Adeline Palmerston, Head of Inclusive Leadership<br>**Venue:** Studio Shodwe<br>**Date:** November 12, 2025<br>**The Goal:** Diverse global teams perform at their best when their leaders actively create the conditions for inclusion, not just diversity. This presentation gives managers the tools and mindset to lead teams across countries, cultures, and backgrounds — in a way that is fair, practical, and genuinely human. |
+| **The Organization:** Liceria & Co.<br>**Presenter:** Adeline Palmerston, Head of Inclusive Leadership<br>**Venue:** Studio Shodwe<br>**Date:** November 12, 2035<br>**The Goal:** Diverse global teams perform at their best when their leaders actively create the conditions for inclusion, not just diversity. This presentation gives managers the tools and mindset to lead teams across countries, cultures, and backgrounds — in a way that is fair, practical, and genuinely human. |
 
 **Visual Note:** Clean opener layout in slate and teal. Label-value structure. Organized and accessible design. 40% white space.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - How To Lead A Diverse Global Team
-- Liceria & Co. • November 2025
+- Liceria & Co. • November 2035
 - www.reallygreatsite.com
 
 ---

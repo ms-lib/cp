@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Presenter:** Adeline Palmerston  <br><br>Welcome families! Your support at home is the foundation of your child's success. This presentation shares simple, practical ways you can encourage their learning daily, establish healthy home routines, and collaborate with us to make this year smooth and happy. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Presenter:** Adeline Palmerston  <br><br>Welcome families! Your support at home is the foundation of your child's success. This presentation shares simple, practical ways you can encourage their learning daily, establish healthy home routines, and collaborate with us to make this year smooth and happy. |
 
 **Visual Note:** Wholesome photo placeholder inside a doodle frame showing parents reading with a smiling child. Maintain 40% white space for easy editing.  
 

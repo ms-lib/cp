@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Activity Lead:** Adeline Palmerston  <br><br>Welcome to our classmate icebreaker! Getting to know the people you sit next to is the best way to start the school year. This presentation outlines a series of fun games, interviews, and sharing activities designed to help us make connections and build lasting friendships. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Activity Lead:** Adeline Palmerston  <br><br>Welcome to our classmate icebreaker! Getting to know the people you sit next to is the best way to start the school year. This presentation outlines a series of fun games, interviews, and sharing activities designed to help us make connections and build lasting friendships. |
 
 **Visual Note:** High-quality graphic layout showing colorful board game pieces and kids silhouettes playing. Maintain 40% white space for easy editing.  
 

@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Program:** Executive Development Program<br>**The Start Date:** August 11, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Director:** Adeline Palmerston<br><br>**Our Purpose:** To develop the senior leaders of Liceria & Co. into executives who think strategically, lead with influence, and build the organizational resilience needed to navigate complexity and drive long-term success. |
+| **The Program:** Executive Development Program<br>**The Start Date:** August 11, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Director:** Adeline Palmerston<br><br>**Our Purpose:** To develop the senior leaders of Liceria & Co. into executives who think strategically, lead with influence, and build the organizational resilience needed to navigate complexity and drive long-term success. |
 
 **Visual Note:** Elegant structured opener with gold rule and deep slate header. Rich typographic hierarchy. 40% white space for editability.
 

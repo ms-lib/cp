@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Organization:** Liceria & Co.<br>**The Guide Lead:** Adeline Palmerston, Head of Remote Leadership<br>**The Venue:** Studio Shodwe<br>**The Date:** May 15, 2025<br>**The Purpose:** To give remote team leaders a clear, practical framework for building connection, maintaining clarity, and earning trust — no matter where the team is located. This guide is built from real leadership practice, not theory. |
+| **The Organization:** Liceria & Co.<br>**The Guide Lead:** Adeline Palmerston, Head of Remote Leadership<br>**The Venue:** Studio Shodwe<br>**The Date:** May 15, 2035<br>**The Purpose:** To give remote team leaders a clear, practical framework for building connection, maintaining clarity, and earning trust — no matter where the team is located. This guide is built from real leadership practice, not theory. |
 
 **Visual Note:** Clean opener layout in slate and teal. Maintain structured label-value alignment. 40% white space.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Remote Team Leadership Guide
-- Liceria & Co. • May 2025
+- Liceria & Co. • May 2035
 - www.reallygreatsite.com
 
 ---

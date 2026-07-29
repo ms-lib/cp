@@ -19,7 +19,7 @@
 **Text:**
 - Title: Annual Leadership Review & Highlights
 - Subtitle: Celebrating the Year That Shaped Us
-- Supporting Text: Year 2024 — Liceria & Co.
+- Supporting Text: Year 2034 — Liceria & Co.
 
 ---
 
@@ -30,7 +30,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Review Year:**<br>2024<br>**Lead Author:**<br>Adeline Palmerston<br>**Contributing Author:**<br>Drew Feig<br>**Presented To:**<br>Leaders & Teams, Liceria & Co.<br>**Review Date:**<br>December 18, 2024<br><br><br>Every year teaches us something. Year 2024 taught us how far we can go when we lead with intention and work together with honesty. This review celebrates the milestones we reached, the people who made them possible, and the lessons we carry into the year ahead. |
+| **Review Year:**<br>2034<br>**Lead Author:**<br>Adeline Palmerston<br>**Contributing Author:**<br>Drew Feig<br>**Presented To:**<br>Leaders & Teams, Liceria & Co.<br>**Review Date:**<br>December 18, 2034<br><br><br>Every year teaches us something. Year 2034 taught us how far we can go when we lead with intention and work together with honesty. This review celebrates the milestones we reached, the people who made them possible, and the lessons we carry into the year ahead. |
 
 **Visual Note:** Structured label-field layout, clean report style with plenty of breathing room.
 
@@ -43,7 +43,7 @@
 **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **People**<br><br>Our greatest highlight of 2024 was the people who stepped forward. Leaders grew into new roles, teams built stronger relationships, and individuals took ownership in ways we had not seen before. The investments we made in people this year paid off in ways that go far beyond any number on a report. | **Milestones**<br><br>This year, we crossed thresholds that took years of work to reach. We launched initiatives we had long planned, exceeded targets we once considered a stretch, and delivered outcomes that our stakeholders noticed. Each milestone was a marker of how far we had come as an organization. | **Learnings**<br><br>Not everything went as planned — and that is part of the story too. We learned how to recover faster, communicate more clearly under pressure, and support each other through difficulty. The learnings of 2024 are as valuable as the wins because they are what will make 2025 stronger. |
+| **People**<br><br>Our greatest highlight of 2034 was the people who stepped forward. Leaders grew into new roles, teams built stronger relationships, and individuals took ownership in ways we had not seen before. The investments we made in people this year paid off in ways that go far beyond any number on a report. | **Milestones**<br><br>This year, we crossed thresholds that took years of work to reach. We launched initiatives we had long planned, exceeded targets we once considered a stretch, and delivered outcomes that our stakeholders noticed. Each milestone was a marker of how far we had come as an organization. | **Learnings**<br><br>Not everything went as planned — and that is part of the story too. We learned how to recover faster, communicate more clearly under pressure, and support each other through difficulty. The learnings of 2034 are as valuable as the wins because they are what will make 2035 stronger. |
 
 **Visual Note:** Equal-width columns, gold column headings, forest green divider lines between columns.
 
@@ -56,7 +56,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| When we review the year clearly, we see what worked, what we built, and what we are ready to do differently. Year 2024 gave us real things to be proud of and honest things to learn from. That is what makes a review worth doing. |
+| When we review the year clearly, we see what worked, what we built, and what we are ready to do differently. Year 2034 gave us real things to be proud of and honest things to learn from. That is what makes a review worth doing. |
 
 **Visual Note:** Large centered copy, generous white space, clean typographic treatment.
 
@@ -78,11 +78,11 @@
 ### PAGE 6 - CORE C
 **Fase:** Core Content  
 **Tipe Halaman:** Core C  
-**Judul Halaman:** Leaders Reflecting on 2024  
+**Judul Halaman:** Leaders Reflecting on 2034  
 **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Adeline Palmerston**<br>Chief Leadership Officer, Liceria & Co.<br><br>"The highlights in this report are not mine — they belong to every person who showed up, pushed through, and built something worth reviewing. I am proud of what we made together."<br><br>Adeline led the Year 2024 review process and championed a culture of honest reflection at every level. | **Drew Feig**<br>Head of Leadership Programs<br><br>"The milestones matter. But what I remember most about this year is watching people grow into leaders they didn't know they could be. That is the real highlight."<br><br>Drew led the leadership development initiatives that produced some of the year's most significant people outcomes. |
+| **Adeline Palmerston**<br>Chief Leadership Officer, Liceria & Co.<br><br>"The highlights in this report are not mine — they belong to every person who showed up, pushed through, and built something worth reviewing. I am proud of what we made together."<br><br>Adeline led the Year 2034 review process and championed a culture of honest reflection at every level. | **Drew Feig**<br>Head of Leadership Programs<br><br>"The milestones matter. But what I remember most about this year is watching people grow into leaders they didn't know they could be. That is the real highlight."<br><br>Drew led the leadership development initiatives that produced some of the year's most significant people outcomes. |
 
 **Visual Note:** Portrait photo placeholder per column, italic quote, name and role in small caps below.
 
@@ -108,7 +108,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| Behind every highlight in this review is a leader who made a choice — to stay engaged, to speak honestly, to invest in someone else's growth. Year 2024 is a record of people who showed up and made this organization worth leading. That is what we celebrate here. |
+| Behind every highlight in this review is a leader who made a choice — to stay engaged, to speak honestly, to invest in someone else's growth. Year 2034 is a record of people who showed up and made this organization worth leading. That is what we celebrate here. |
 
 **Visual Note:** Large centered copy, generous top and bottom padding, gold accent bar.
 
@@ -117,11 +117,11 @@
 ### PAGE 9 - CLOSING
 **Fase:** Closing  
 **Tipe Halaman:** Closing  
-**Judul Halaman:** Carrying 2024 Into the Year Ahead  
+**Judul Halaman:** Carrying 2034 Into the Year Ahead  
 **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **What We Carry Forward**<br><br>The people we developed, the trust we built, and the habits we formed in 2024 are assets we take into 2025. We will deepen our commitment to transparent leadership, continue investing in emerging leaders, and build on the collaboration foundations we laid this year. | **What We Leave Behind**<br><br>We will leave behind the assumptions that slowed us down — the belief that feedback has to wait, that learning can be deferred, or that hard conversations can be avoided. In 2025, we move forward with the clarity that only honest reflection can produce. |
+| **What We Carry Forward**<br><br>The people we developed, the trust we built, and the habits we formed in 2034 are assets we take into 2035. We will deepen our commitment to transparent leadership, continue investing in emerging leaders, and build on the collaboration foundations we laid this year. | **What We Leave Behind**<br><br>We will leave behind the assumptions that slowed us down — the belief that feedback has to wait, that learning can be deferred, or that hard conversations can be avoided. In 2035, we move forward with the clarity that only honest reflection can produce. |
 
 **Visual Note:** Clear heading per column, white background with forest green accent touches.
 
@@ -132,7 +132,7 @@
 **Visual Note:** Full-bleed forest green background, gold tagline, ivory supporting text. Mirrors cover palette and feel.
 
 **Text:**
-- Tagline: A Year Built by People Who Led Well. Thank You, 2024.
+- Tagline: A Year Built by People Who Led Well. Thank You, 2034.
 - Organization: Liceria & Co.
 - Contact Line: Annual Review prepared by Adeline Palmerston & Drew Feig
 - Closing Note: To every leader and team at Liceria & Co. — this review is yours. Thank you for the year you built.

@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome families and guardians! We are absolutely thrilled to welcome you to our family orientation. This guide outlines school logistics, safety policies, parent volunteer systems, and key milestones, helping you prepare your child for a smooth and happy school transition. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome families and guardians! We are absolutely thrilled to welcome you to our family orientation. This guide outlines school logistics, safety policies, parent volunteer systems, and key milestones, helping you prepare your child for a smooth and happy school transition. |
 
 **Visual Note:** High-quality photo placeholder showing a group of smiling elementary school kids in a colorful classroom. Maintain 40% white space for easy editing.  
 

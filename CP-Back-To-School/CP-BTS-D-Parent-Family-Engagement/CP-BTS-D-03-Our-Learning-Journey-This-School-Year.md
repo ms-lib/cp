@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Lead Teacher:** Adeline Palmerston  <br><br>Welcome to our learning guide! Families often wonder about the core activities their children explore. This presentation outlines the key subjects, reading milestones, and science projects we have designed, helping you support their learning journey from home. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Lead Teacher:** Adeline Palmerston  <br><br>Welcome to our learning guide! Families often wonder about the core activities their children explore. This presentation outlines the key subjects, reading milestones, and science projects we have designed, helping you support their learning journey from home. |
 
 **Visual Note:** High-quality photo placeholder showing a child writing in a colorful journal near a window. Maintain 40% white space for easy editing.  
 

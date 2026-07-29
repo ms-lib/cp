@@ -15,7 +15,7 @@
 **Title:** Leadership Succession Planning Guide
 **Subtitle:** How Liceria & Co. Prepares the Leaders of Tomorrow
 **Organization:** Liceria & Co.
-**Date:** January 13, 2026
+**Date:** January 13, 2036
 
 ---
 
@@ -24,7 +24,7 @@
 **Headline:** About This Guide
 
 **The Topic:** Leadership Succession Planning
-**The Date:** January 13, 2026
+**The Date:** January 13, 2036
 **The Venue:** Studio Shodwe
 **The Organization:** Liceria & Co.
 **The Planning Lead:** Adeline Palmerston

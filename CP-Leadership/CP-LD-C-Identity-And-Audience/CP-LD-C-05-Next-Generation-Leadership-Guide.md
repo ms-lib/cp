@@ -30,9 +30,9 @@ Developed by Liceria & Co.
 **Label Fields:**
 Organization: Liceria & Co.
 Program Lead: Adeline Palmerston
-Guide Edition: 2025
+Guide Edition: 2035
 Target Audience: Young Professionals and Emerging Leaders
-Release Date: April 10, 2025
+Release Date: April 10, 2035
 
 **Body (30–49 words, label fields excluded):**
 This guide is built for leaders who are early in the journey — curious, driven, and ready to grow. It covers what you need to lead well now, and the foundations that will serve you for decades ahead.
@@ -182,7 +182,7 @@ Lead forward. Lead with purpose.
 **Your Next Step**
 Download your copy, read it cover to cover, and share it with someone you believe in. This guide is designed to be read, used, and revisited as you grow. Start with the principle that challenges you most.
 
-**Available From:** April 10, 2025
+**Available From:** April 10, 2035
 **Published By:** Liceria & Co.
 
 **Col 2:**
@@ -202,7 +202,7 @@ Download your copy, read it cover to cover, and share it with someone you believ
 Lead With Purpose. Grow With Intention.
 
 **Organization:** Liceria & Co.
-**Guide Edition:** 2025
+**Guide Edition:** 2035
 **Website:** [Type your website here]
 **Email:** [Type your email here]
 

@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Guide:** Product Leadership<br>**The Date:** December 2, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To equip product leaders — heads of product, senior product managers, and team leads — with the clarity, tools, and strategic mindset to build great products, lead strong teams, and make decisions that deliver real value to users and the business. |
+| **The Guide:** Product Leadership<br>**The Date:** December 2, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To equip product leaders — heads of product, senior product managers, and team leads — with the clarity, tools, and strategic mindset to build great products, lead strong teams, and make decisions that deliver real value to users and the business. |
 
 **Visual Note:** Structured opener on warm ivory. Navy header, teal rule accents. 40% white space for editability.
 

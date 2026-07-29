@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Guide Title:** How To Build An Inclusive Team<br>**Session Date:** August 12, 2025<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Session Lead:** Adeline Palmerston<br><br>**What This Covers:** Inclusion does not happen on its own. It is built — through deliberate choices, consistent habits, and the daily effort of a leader who genuinely believes that every person on the team deserves to feel seen, heard, and valued. This guide gives you the building blocks to start that work today. |
+| **Guide Title:** How To Build An Inclusive Team<br>**Session Date:** August 12, 2035<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Session Lead:** Adeline Palmerston<br><br>**What This Covers:** Inclusion does not happen on its own. It is built — through deliberate choices, consistent habits, and the daily effort of a leader who genuinely believes that every person on the team deserves to feel seen, heard, and valued. This guide gives you the building blocks to start that work today. |
 
 **Visual Note:** Slate header with rose accent rule and ivory body text. Clean, human layout. Maintain 40% white space.
 

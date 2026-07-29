@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Organization:** Liceria & Co.<br>**Date:** May 20, 2025<br>**Venue:** Studio Shodwe<br>**Presenter:** Adeline Palmerston<br>**Focus:** [Type your session theme here]<br><br>**Purpose:** To introduce servant leadership in a way that is clear, practical, and immediately useful — giving every new and developing leader at Liceria & Co. a solid foundation for building a leadership style centered on people. |
+| **Organization:** Liceria & Co.<br>**Date:** May 20, 2035<br>**Venue:** Studio Shodwe<br>**Presenter:** Adeline Palmerston<br>**Focus:** [Type your session theme here]<br><br>**Purpose:** To introduce servant leadership in a way that is clear, practical, and immediately useful — giving every new and developing leader at Liceria & Co. a solid foundation for building a leadership style centered on people. |
 
 **Visual Note:** Clean layout with sage header, terracotta accent rule, and ivory body. 40% white space maintained throughout.
 

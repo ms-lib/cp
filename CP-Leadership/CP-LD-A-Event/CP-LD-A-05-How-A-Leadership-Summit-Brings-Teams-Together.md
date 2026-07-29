@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Event:** Leadership Summit — Liceria & Co.<br>**The Date:** July 8, 2025<br>**The Venue:** Studio Shodwe Conference Center<br>**The Summit Lead:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** Teams that lead well together do not happen by accident. They are built through shared experiences, honest conversations, and the kind of alignment that only comes from being in the same room at the same time with the same purpose. This summit at Studio Shodwe is designed to be that experience — a day that strengthens the connections between Liceria & Co. leaders and sends every team member back to their work with a clearer sense of who they are leading with. |
+| **The Event:** Leadership Summit — Liceria & Co.<br>**The Date:** July 8, 2035<br>**The Venue:** Studio Shodwe Conference Center<br>**The Summit Lead:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** Teams that lead well together do not happen by accident. They are built through shared experiences, honest conversations, and the kind of alignment that only comes from being in the same room at the same time with the same purpose. This summit at Studio Shodwe is designed to be that experience — a day that strengthens the connections between Liceria & Co. leaders and sends every team member back to their work with a clearer sense of who they are leading with. |
 
 **Visual Note:** Bold collaborative summit header with teal and gold accents. Maintain 40% white space for editability.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - How A Leadership Summit Brings Teams Together
-- Liceria & Co. • Studio Shodwe • July 8, 2025
+- Liceria & Co. • Studio Shodwe • July 8, 2035
 - www.reallygreatsite.com
 
 ---

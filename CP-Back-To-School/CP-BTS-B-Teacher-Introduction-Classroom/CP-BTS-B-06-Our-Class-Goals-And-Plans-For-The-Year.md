@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our class plans! Setting collaborative goals helps us focus our efforts, measure our progress, and work as a team. This presentation outlines what we want to achieve academically, socially, and creatively during our exciting year-long journey together. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our class plans! Setting collaborative goals helps us focus our efforts, measure our progress, and work as a team. This presentation outlines what we want to achieve academically, socially, and creatively during our exciting year-long journey together. |
 
 **Visual Note:** Bright, happy illustration showing students working together to plant a tree in a school yard. Maintain 40% white space for easy editing.  
 

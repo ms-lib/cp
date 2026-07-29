@@ -35,7 +35,7 @@ Organization: Liceria & Co.
 Framework: One-On-One Coaching Series
 Lead Coach: Adeline Palmerston
 Supporting Lead: Estelle Darcy
-Session Start: June 3, 2025
+Session Start: June 3, 2035
 
 **Body Paragraph (30–49 words):**
 One-on-one coaching is the most focused form of leadership development. When two people commit to honest, regular conversation — one guiding, one growing — the results go beyond skills. This framework gives both the coach and the leader a clear structure to work within.
@@ -197,7 +197,7 @@ Title: After Each Session
 - Reflect on what the leader is moving toward
 
 **Footer Line:**
-Framework Start: June 3, 2025 | Facilitated by Liceria & Co.
+Framework Start: June 3, 2035 | Facilitated by Liceria & Co.
 
 **Visual Note:**
 2-column layout. Clean white background. Column titles in teal bold. Bullet items in slate dark body text. Footer in small caps warm gray. Teal rule separator above footer.
@@ -237,5 +237,5 @@ This file should feel precise and intentional — slate and teal convey professi
 - "Adeline Palmerston" (Standardized Name) — replace with your lead coach name
 - "Estelle Darcy" (Standardized Name) — replace with your framework lead or supporting voice
 - "Adeline P.", "Estelle D.", "Shawn G.", "Kimberly N." (Standardized Names) — replace with real coach names
-- Date fields: replace "June 3, 2025" with your actual session start date
+- Date fields: replace "June 3, 2035" with your actual session start date
 - Back Cover tagline: replace with your program website or contact line

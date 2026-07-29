@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston, Director of People Experience<br>**The Date:** July 22, 2025<br>**The Venue:** Studio Shodwe<br>**The Purpose:** Hybrid work is here to stay — and it demands a new kind of leadership. This presentation equips managers with the mindset, practices, and structure needed to lead teams that span office and home environments without losing cohesion, fairness, or performance. |
+| **The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston, Director of People Experience<br>**The Date:** July 22, 2035<br>**The Venue:** Studio Shodwe<br>**The Purpose:** Hybrid work is here to stay — and it demands a new kind of leadership. This presentation equips managers with the mindset, practices, and structure needed to lead teams that span office and home environments without losing cohesion, fairness, or performance. |
 
 **Visual Note:** Structured opener in deep slate and amber. Clean label-value alignment. Strong typographic hierarchy. 40% white space maintained.
 
@@ -42,7 +42,7 @@
 **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Fairness:**<br>In-office employees often get more visibility and informal access to the leader. Remote members can feel overlooked. Hybrid leaders must work hard to ensure every team member gets equal opportunity and recognition. | **Consistency:**<br>Different work environments create different experiences. Leaders must set consistent standards — for expectations, communication, and support — so every team member gets the same quality of leadership regardless of where they work. | **Inclusion:**<br>Hybrid meetings often favor the room over the screen. Leaders must actively bring remote voices into every conversation and make sure decisions are never made only by those who happen to be in the office that day. |
+| **Fairness:**<br>In-office employees often get more visibility and informal access to the leader. Remote members can feel less connected. Hybrid leaders must work hard to ensure every team member gets equal opportunity and recognition. | **Consistency:**<br>Different work environments create different experiences. Leaders must set consistent standards — for expectations, communication, and support — so every team member gets the same quality of leadership regardless of where they work. | **Inclusion:**<br>Hybrid meetings often favor the room over the screen. Leaders must actively bring remote voices into every conversation and make sure decisions are never made only by those who happen to be in the office that day. |
 
 **Visual Note:** Three-column card layout in slate and amber. Bold challenge titles. Short, direct body text. Use subtle dividers between columns.
 
@@ -55,7 +55,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| At Liceria & Co., Adeline Palmerston saw teams thrive and teams fall apart in the same hybrid environment. The difference was never the policy — it was the leader. Hybrid leadership is a daily choice to treat every team member as equally present, equally valued, and equally heard. |
+| At Liceria & Co., Adeline Palmerston saw teams thrive and teams face alignment challenges in the same hybrid environment. The difference was never the policy — it was the leader. Hybrid leadership is a daily choice to treat every team member as equally present, equally valued, and equally heard. |
 
 **Visual Note:** Single-column reflective layout. Deep slate on ivory. Clean, open typography with ample margin. Let the words carry the weight.
 
@@ -68,7 +68,7 @@
 **Jumlah Kolom:** 4  
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Digital First:**<br>Default to digital communication so remote and in-office members access the same information at the same time. | **Equal Access:**<br>Rotate in-person privileges fairly. Make sure remote team members are not at a structural disadvantage in meetings or decisions. | **Presence Over Location:**<br>Judge contributions by quality and outcomes, not by who is visible in the office most often. | **Regular Pulse Checks:**<br>Ask each team member how the hybrid arrangement is working for them — and act on what they tell you. |
+| **Digital First:**<br>Default to digital communication so remote and in-office members access the same information at the same time. | **Equal Access:**<br>Rotate in-person privileges fairly. Make sure remote team members have an equal voice in meetings or decisions. | **Presence Over Location:**<br>Judge contributions by quality and outcomes, not by who is visible in the office most often. | **Regular Pulse Checks:**<br>Ask each team member how the hybrid arrangement is working for them — and act on what they tell you. |
 
 **Visual Note:** Four-card grid in amber and slate. Bold principle titles. One to two lines of body text per card. Clear and scannable layout.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Leadership In A Hybrid Workplace
-- Liceria & Co. • July 2025
+- Liceria & Co. • July 2035
 - www.reallygreatsite.com
 
 ---

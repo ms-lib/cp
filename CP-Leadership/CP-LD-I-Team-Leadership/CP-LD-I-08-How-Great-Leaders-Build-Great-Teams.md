@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Organization:** Liceria & Co.<br>**Lead Voice:** Adeline Palmerston, Senior Leadership Advisor<br>**Venue:** Studio Shodwe<br>**Date:** July 22, 2025<br>**Purpose:** The best teams in the world were not assembled — they were built. This presentation shares the three things great leaders do differently when building teams, the principles that guide them, and the stories that show what is truly possible when leadership and talent come together. |
+| **Organization:** Liceria & Co.<br>**Lead Voice:** Adeline Palmerston, Senior Leadership Advisor<br>**Venue:** Studio Shodwe<br>**Date:** July 22, 2035<br>**Purpose:** The best teams in the world were not assembled — they were built. This presentation shares the three things great leaders do differently when building teams, the principles that guide them, and the stories that show what is truly possible when leadership and talent come together. |
 
 **Visual Note:** Clean forest green and gold opener. Elegant label structure with wide margins. Inspiring but grounded in tone. 40% white space.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - How Great Leaders Build Great Teams
-- Liceria & Co. • July 2025
+- Liceria & Co. • July 2035
 - www.reallygreatsite.com
 
 ---

@@ -31,7 +31,7 @@ Presented by Liceria & Co. | Studio Shodwe
 The Program: Young Leaders Development Series
 The Lead: Adeline Palmerston
 The Venue: Studio Shodwe
-The Date: May 15, 2025
+The Date: May 15, 2035
 The Time: 09:00 AM – 05:00 PM
 
 **Body (30–49 words, label fields excluded):**
@@ -182,8 +182,8 @@ Start now. Lead loud.
 **What's Next**
 Register for the upcoming session at Studio Shodwe. Spots are limited — secure your place and begin your leadership journey with a community that believes in your potential.
 
-**Register By:** May 8, 2025
-**Session Date:** May 15, 2025
+**Register By:** May 8, 2035
+**Session Date:** May 15, 2035
 **Location:** Studio Shodwe
 
 **Col 2:**

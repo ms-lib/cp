@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Guide Title:** Leadership Empathy & Listening<br>**Session Date:** December 1, 2025<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**Our Focus:** Empathy and listening are not nice-to-haves — they are the foundation of every productive leadership relationship. This guide gives leaders and managers at Liceria & Co. practical, honest tools to listen more deeply, understand more fully, and lead in a way that makes every person on the team feel genuinely seen and heard. |
+| **Guide Title:** Leadership Empathy & Listening<br>**Session Date:** December 1, 2035<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**Our Focus:** Empathy and listening are not nice-to-haves — they are the foundation of every productive leadership relationship. This guide gives leaders and managers at Liceria & Co. practical, honest tools to listen more deeply, understand more fully, and lead in a way that makes every person on the team feel genuinely seen and heard. |
 
 **Visual Note:** Clean structured opener with rose accent rule and slate header. 40% white space for editability.
 

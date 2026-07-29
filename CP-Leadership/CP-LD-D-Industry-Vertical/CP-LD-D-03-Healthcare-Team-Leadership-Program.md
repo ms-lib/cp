@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Program:** Healthcare Team Leadership<br>**The Date:** July 8, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To strengthen the leadership of healthcare team leaders — the charge nurses, department heads, and unit leads who hold teams together every day — by building the skills, structure, and confidence they need to lead with consistency and care. |
+| **The Program:** Healthcare Team Leadership<br>**The Date:** July 8, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To strengthen the leadership of healthcare team leaders — the charge nurses, department heads, and unit leads who hold teams together every day — by building the skills, structure, and confidence they need to lead with consistency and care. |
 
 **Visual Note:** Clean structured opener on warm ivory. Forest green rule accents, gold header treatment. 40% white space for editability.
 

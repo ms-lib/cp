@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Operations Lead:** Adeline Palmerston  <br><br>Hello store managers! Preparing your retail location for the busy seasonal rush requires a structured, step-by-step approach. This retail strategy presentation details layout planning, visual merchandising setups, and inventory systems to ensure smooth and successful daily sales operations. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Operations Lead:** Adeline Palmerston  <br><br>Hello store managers! Preparing your retail location for the busy seasonal rush requires a structured, step-by-step approach. This retail strategy presentation details layout planning, visual merchandising setups, and inventory systems to ensure smooth and successful daily sales operations. |
 
 **Visual Note:** High-quality photo placeholder showing a clean, well-lit modern stationery store layout with clear signage boards. Maintain 40% margin spacing.  
 

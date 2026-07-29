@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Event:** Leadership Alignment Summit — Liceria & Co.<br>**The Date:** September 18, 2025<br>**The Venue:** Studio Shodwe Conference Center<br>**The Summit Chair:** Adeline Palmerston, Global Head of Leadership & Strategy<br><br>**Our Purpose:** Misalignment at the leadership level is one of the most expensive problems an organization can have. Conflicting priorities, inconsistent messaging, and teams pulling in different directions — all of it traces back to leaders who were never fully aligned to begin with. This summit at Studio Shodwe exists to change that: to get every Liceria & Co. leader in the same room, on the same page, pointed in the same direction. |
+| **The Event:** Leadership Alignment Summit — Liceria & Co.<br>**The Date:** September 18, 2035<br>**The Venue:** Studio Shodwe Conference Center<br>**The Summit Chair:** Adeline Palmerston, Global Head of Leadership & Strategy<br><br>**Our Purpose:** Misalignment at the leadership level is one of the most expensive problems an organization can have. Conflicting priorities, inconsistent messaging, and teams pulling in different directions — all of it traces back to leaders who were never fully aligned to begin with. This summit at Studio Shodwe exists to change that: to get every Liceria & Co. leader in the same room, on the same page, pointed in the same direction. |
 
 **Visual Note:** Bold corporate alignment header with navy and gold accents. Maintain 40% white space for editability.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Leadership Summit For Organizational Alignment
-- Liceria & Co. • Studio Shodwe • September 18, 2025
+- Liceria & Co. • Studio Shodwe • September 18, 2035
 - www.reallygreatsite.com
 
 ---

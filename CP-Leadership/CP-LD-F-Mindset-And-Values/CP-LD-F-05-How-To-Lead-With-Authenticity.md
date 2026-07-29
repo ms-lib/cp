@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Host:** Liceria & Co.<br>**Date:** June 17, 2025<br>**Venue:** Studio Shodwe<br>**Presenter:** Adeline Palmerston<br>**Session Focus:** [Type your leadership theme here]<br><br>**Why This Matters:** Authentic leadership sounds simple until you try to practice it under pressure. This session gives every leader at Liceria & Co. the language and tools to navigate the real challenges of authentic leadership — not just the inspiring idea of it. |
+| **Host:** Liceria & Co.<br>**Date:** June 17, 2035<br>**Venue:** Studio Shodwe<br>**Presenter:** Adeline Palmerston<br>**Session Focus:** [Type your leadership theme here]<br><br>**Why This Matters:** Authentic leadership sounds simple until you try to practice it under pressure. This session gives every leader at Liceria & Co. the language and tools to navigate the real challenges of authentic leadership — not just the inspiring idea of it. |
 
 **Visual Note:** Bold slate header with gold rule and ivory body. Elegant and refined. 40% white space throughout.
 

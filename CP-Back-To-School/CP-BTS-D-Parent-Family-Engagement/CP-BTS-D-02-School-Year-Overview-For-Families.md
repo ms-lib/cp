@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Principal:** Adeline Palmerston  <br><br>Welcome to our family handbook! Keeping parents informed is key to a smooth academic year. This guide provides a comprehensive overview of our upcoming activities, schedule structures, and communication channels, ensuring families stay connected with student progress. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Principal:** Adeline Palmerston  <br><br>Welcome to our family handbook! Keeping parents informed is key to a smooth academic year. This guide provides a comprehensive overview of our upcoming activities, schedule structures, and communication channels, ensuring families stay connected with student progress. |
 
 **Visual Note:** Clean professional photo of a modern organized school lobby or library study desks. Maintain 40% margin spacing.  
 

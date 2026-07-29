@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Guide:** Clinical Leadership Development<br>**The Date:** June 10, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To support clinicians stepping into leadership roles — giving them the language, tools, and confidence to manage people and drive change without losing the clinical mindset that makes them effective. |
+| **The Guide:** Clinical Leadership Development<br>**The Date:** June 10, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To support clinicians stepping into leadership roles — giving them the language, tools, and confidence to manage people and drive change without losing the clinical mindset that makes them effective. |
 
 **Visual Note:** Clean structured opener on warm ivory. Teal rule accents, slate header. 40% white space for editability.
 

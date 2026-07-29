@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Organization:** Liceria & Co.<br>**Presenter:** Adeline Palmerston, Director of Leadership Development<br>**Location:** Studio Shodwe<br>**Session Date:** June 10, 2025<br>**Focus:** This presentation gives remote managers the foundations, habits, and mindset needed to lead distributed teams with confidence. It is built on what actually works — not assumptions about how remote work should look. |
+| **Organization:** Liceria & Co.<br>**Presenter:** Adeline Palmerston, Director of Leadership Development<br>**Location:** Studio Shodwe<br>**Session Date:** June 10, 2035<br>**Focus:** This presentation gives remote managers the foundations, habits, and mindset needed to lead distributed teams with confidence. It is built on what actually works — not assumptions about how remote work should look. |
 
 **Visual Note:** Clean navy and gold opener. Strong label-value structure. Bold headings with ample white space between sections.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Leading A Remote Team Effectively
-- Liceria & Co. • June 2025
+- Liceria & Co. • June 2035
 - www.reallygreatsite.com
 
 ---

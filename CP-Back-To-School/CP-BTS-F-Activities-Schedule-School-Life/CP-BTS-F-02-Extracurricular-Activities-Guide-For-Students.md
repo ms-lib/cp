@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Director:** Adeline Palmerston  <br><br>Hello everyone! Exploring after-school programs is a wonderful way to enrich your school journey. This guide details our diverse extracurricular options, helping you select activities that spark your curiosity and support your growth this year. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Director:** Adeline Palmerston  <br><br>Hello everyone! Exploring after-school programs is a wonderful way to enrich your school journey. This guide details our diverse extracurricular options, helping you select activities that spark your curiosity and support your growth this year. |
 
 **Visual Note:** Wholesome illustration in a hand-drawn frame showing students engaged in music, painting, and sports. Maintain 40% empty space.  
 

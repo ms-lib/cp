@@ -15,7 +15,7 @@
 **Title:** Leadership Pipeline & Succession Program
 **Subtitle:** How Liceria & Co. Builds a Steady Stream of Ready Leaders
 **Organization:** Liceria & Co.
-**Date:** March 3, 2026
+**Date:** March 3, 2036
 
 ---
 
@@ -24,7 +24,7 @@
 **Headline:** About This Program
 
 **Program Topic:** Leadership Pipeline & Succession Planning
-**Program Date:** March 3, 2026
+**Program Date:** March 3, 2036
 **Program Venue:** Studio Shodwe
 **Organization:** Liceria & Co.
 **Program Director:** Adeline Palmerston

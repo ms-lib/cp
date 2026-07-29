@@ -15,7 +15,7 @@
 **Title:** How To Build A Leadership Vision
 **Subtitle:** A Practical Guide for Leaders at Liceria & Co.
 **Organization:** Liceria & Co.
-**Date:** July 8, 2025
+**Date:** July 8, 2035
 
 ---
 
@@ -24,7 +24,7 @@
 **Headline:** About This Guide
 
 **Topic:** How To Build A Leadership Vision
-**Date:** July 8, 2025
+**Date:** July 8, 2035
 **Venue:** Studio Shodwe
 **Organization:** Liceria & Co.
 **Guide Lead:** Adeline Palmerston

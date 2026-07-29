@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Event:** Leadership Team Workshop — Liceria & Co.<br>**The Date:** October 9, 2025<br>**The Venue:** Studio Shodwe Collaboration Suite<br>**The Lead Facilitator:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** Great leadership teams are not made of perfect leaders — they are made of leaders who have learned how to work well together. At Liceria & Co., we know that the quality of our leadership team's collaboration determines the quality of every decision we make. Today at Studio Shodwe, we look honestly at how we work together: what is working, what is not, and what we will commit to doing differently from tomorrow. |
+| **The Event:** Leadership Team Workshop — Liceria & Co.<br>**The Date:** October 9, 2035<br>**The Venue:** Studio Shodwe Collaboration Suite<br>**The Lead Facilitator:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** Great leadership teams are not made of perfect leaders — they are made of leaders who have learned how to work well together. At Liceria & Co., we know that the quality of our leadership team's collaboration determines the quality of every decision we make. Today at Studio Shodwe, we look honestly at how we work together: what is working, what is not, and what we will commit to doing differently from tomorrow. |
 
 **Visual Note:** Bold collaborative workshop header with teal and gold accents. Maintain 40% white space for editability.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - How Great Leadership Teams Work Together
-- Liceria & Co. • Studio Shodwe • October 9, 2025
+- Liceria & Co. • Studio Shodwe • October 9, 2035
 - www.reallygreatsite.com
 
 ---

@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Organization:** Liceria & Co.<br>**The Date:** September 9, 2025<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Focus:** [Type your D&I initiative or theme here]<br><br>**Our Purpose:** Diversity and inclusion are not programs that run alongside good leadership — they are what good leadership looks like. This guide gives every leader and champion at Liceria & Co. the foundations, practices, and commitments needed to build genuinely inclusive cultures that bring out the best in every person. |
+| **The Organization:** Liceria & Co.<br>**The Date:** September 9, 2035<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Focus:** [Type your D&I initiative or theme here]<br><br>**Our Purpose:** Diversity and inclusion are not programs that run alongside good leadership — they are what good leadership looks like. This guide gives every leader and champion at Liceria & Co. the foundations, practices, and commitments needed to build genuinely inclusive cultures that bring out the best in every person. |
 
 **Visual Note:** Deep navy header with teal accent rule and clean ivory body text. Structured, authoritative opener. Maintain 40% white space.
 

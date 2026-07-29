@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to your goal planner! Setting targets is the first step in turning your dreams into reality. This guide helps you define what you hope to achieve, construct simple step-by-step action plans, and track your growth throughout the school year. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to your goal planner! Setting targets is the first step in turning your dreams into reality. This guide helps you define what you hope to achieve, construct simple step-by-step action plans, and track your growth throughout the school year. |
 
 **Visual Note:** High-quality photo placeholder showing a child writing in a colorful journal near a window. Maintain 40% white space for easy editing.  
 

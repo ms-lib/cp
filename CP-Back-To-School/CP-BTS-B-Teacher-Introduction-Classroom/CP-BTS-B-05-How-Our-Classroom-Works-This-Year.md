@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Lead Teacher:** Adeline Palmerston  <br><br>Welcome to our operational guide! To make this year run smoothly, we have designed simple daily routines and procedures. This presentation explains how our class operates day-to-day, helping students manage their time and resources effectively for a successful academic year. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Lead Teacher:** Adeline Palmerston  <br><br>Welcome to our operational guide! To make this year run smoothly, we have designed simple daily routines and procedures. This presentation explains how our class operates day-to-day, helping students manage their time and resources effectively for a successful academic year. |
 
 **Visual Note:** Clean professional photo of a modern organized school hallway or classroom supply cabinet. Maintain 40% margin spacing.  
 

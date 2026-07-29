@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Student Name:** Lorna Alvarado  <br>**Grade:** Fourth Grade  <br>**Date:** September 02, 2028  <br><br>Hello everyone! I am super excited to share a little bit about myself, my family, my favorite things, and what I hope to learn this school year. I look forward to making new friends and having lots of fun together. |
+| **Student Name:** Lorna Alvarado  <br>**Grade:** Fourth Grade  <br>**Date:** September 02, 2035  <br><br>Hello everyone! I am super excited to share a little bit about myself, my family, my favorite things, and what I hope to learn this school year. I look forward to making new friends and having lots of fun together. |
 
 **Visual Note:** Wholesome photo placeholder inside a hand-drawn star frame. Maintain 40% white space for easy editing.  
 

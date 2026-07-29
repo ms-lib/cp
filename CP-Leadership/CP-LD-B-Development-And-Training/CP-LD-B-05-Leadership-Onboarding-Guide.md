@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Program:** Leadership Onboarding — Liceria & Co.<br>**Start Date:** July 1, 2025<br>**Your Onboarding Lead:** Adeline Palmerston<br>**Your Location:** Studio Shodwe<br>**Your Cohort:** [Type your cohort name or intake group here]<br><br>**Our Welcome:** We are glad you are here. This guide is your companion for the first six months of your leadership journey at Liceria & Co. — designed to help you learn, connect, and grow with confidence from day one. |
+| **Program:** Leadership Onboarding — Liceria & Co.<br>**Start Date:** July 1, 2035<br>**Your Onboarding Lead:** Adeline Palmerston<br>**Your Location:** Studio Shodwe<br>**Your Cohort:** [Type your cohort name or intake group here]<br><br>**Our Welcome:** We are glad you are here. This guide is your companion for the first six months of your leadership journey at Liceria & Co. — designed to help you learn, connect, and grow with confidence from day one. |
 
 **Visual Note:** Welcoming forest green header with gold accent lines and structured field layout. Warm and polished. Maintain 40% white space.
 

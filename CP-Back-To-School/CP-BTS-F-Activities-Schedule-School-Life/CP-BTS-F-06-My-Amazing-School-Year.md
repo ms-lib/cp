@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our school life guide! Making the most of this year is about more than completing homework—it is about exploring hobbies, trying new arts, and building positive habits. This guide outlines simple ideas to help you succeed daily. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our school life guide! Making the most of this year is about more than completing homework—it is about exploring hobbies, trying new arts, and building positive habits. This guide outlines simple ideas to help you succeed daily. |
 
 **Visual Note:** High-quality graphic layout showing colorful school bags and pencil holders on a bright desk. Maintain 40% white space for easy editing.  
 

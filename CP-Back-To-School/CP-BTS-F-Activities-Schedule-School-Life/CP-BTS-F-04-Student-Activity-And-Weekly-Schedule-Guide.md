@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Lead Advisor:** Adeline Palmerston  <br><br>Welcome to your weekly schedule guide! Having a clear plan for your classes, homework, and playtime helps you manage your time effectively, feel confident, and enjoy a successful and happy learning journey throughout the school year. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Lead Advisor:** Adeline Palmerston  <br><br>Welcome to your weekly schedule guide! Having a clear plan for your classes, homework, and playtime helps you manage your time effectively, feel confident, and enjoy a successful and happy learning journey throughout the school year. |
 
 **Visual Note:** High-quality photo placeholder showing a child writing in a colorful planner page near a window. Maintain 40% white space for easy editing.  
 

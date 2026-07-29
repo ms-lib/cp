@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Lead Organizer:** Adeline Palmerston  <br><br>Welcome to our school supply checklist! Preparing your drawing tools, notebooks, and folders early helps you start the year smoothly, stay organized throughout daily lessons, and feel fully prepared for exciting learning activities. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Lead Organizer:** Adeline Palmerston  <br><br>Welcome to our school supply checklist! Preparing your drawing tools, notebooks, and folders early helps you start the year smoothly, stay organized throughout daily lessons, and feel fully prepared for exciting learning activities. |
 
 **Visual Note:** Clean professional photo of a modern organized school supply shelf with pencils and notebooks. Maintain 40% margin spacing.  
 

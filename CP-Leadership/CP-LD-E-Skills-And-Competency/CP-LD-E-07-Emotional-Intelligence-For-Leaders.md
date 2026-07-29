@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Guide Title:** Emotional Intelligence For Leaders<br>**Session Date:** November 3, 2025<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**What This Explores:** The most effective leaders are not only skilled at strategy and execution — they understand people. Emotional intelligence is the ability to recognize, understand, and manage emotions — in yourself and in others. This guide helps leaders and managers at Liceria & Co. grow that capacity and apply it every day. |
+| **Guide Title:** Emotional Intelligence For Leaders<br>**Session Date:** November 3, 2035<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**What This Explores:** The most effective leaders are not only skilled at strategy and execution — they understand people. Emotional intelligence is the ability to recognize, understand, and manage emotions — in yourself and in others. This guide helps leaders and managers at Liceria & Co. grow that capacity and apply it every day. |
 
 **Visual Note:** Clean structured opener with terracotta accent rule and sage header. 40% white space for editability.
 

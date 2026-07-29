@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Guide Title:** Leading With Emotional Intelligence<br>**Session Date:** March 10, 2026<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**Our Purpose:** Technical skill gets leaders the role. Emotional intelligence is what makes them great at it. This guide helps leaders and managers at Liceria & Co. develop a deeper understanding of themselves and the people they lead — so they can build stronger relationships, make better decisions, and create the kind of team culture where people do their best work. |
+| **Guide Title:** Leading With Emotional Intelligence<br>**Session Date:** March 10, 2036<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**Our Purpose:** Technical skill gets leaders the role. Emotional intelligence is what makes them great at it. This guide helps leaders and managers at Liceria & Co. develop a deeper understanding of themselves and the people they lead — so they can build stronger relationships, make better decisions, and create the kind of team culture where people do their best work. |
 
 **Visual Note:** Clean structured opener with gold accent rule and deep teal header. 40% white space for editability.
 

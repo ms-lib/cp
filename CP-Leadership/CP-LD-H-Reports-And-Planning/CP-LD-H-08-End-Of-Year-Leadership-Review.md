@@ -19,7 +19,7 @@
 **Text:**
 - Title: End Of Year Leadership Review
 - Subtitle: Closing the Year with Clarity and Gratitude
-- Supporting Text: Year 2024 — Liceria & Co.
+- Supporting Text: Year 2034 — Liceria & Co.
 
 ---
 
@@ -30,7 +30,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Review Year:**<br>2024<br><br>**Presented By:**<br>Adeline Palmerston<br><br>**Contributing Author:**<br>Estelle Darcy<br><br>**Audience:**<br>Leadership Team, Liceria & Co.<br><br>**Presentation Date:**<br>December 19, 2024<br><br><br>Before we move into the new year, we stop to mark this one. Year 2024 was full of effort, growth, and achievement. This review brings it together — what we accomplished, what challenged us, and how we grew as leaders and as an organization. |
+| **Review Year:**<br>2034<br><br>**Presented By:**<br>Adeline Palmerston<br><br>**Contributing Author:**<br>Estelle Darcy<br><br>**Audience:**<br>Leadership Team, Liceria & Co.<br><br>**Presentation Date:**<br>December 19, 2034<br><br><br>Before we move into the new year, we stop to mark this one. Year 2034 was full of effort, growth, and achievement. This review brings it together — what we accomplished, what challenged us, and how we grew as leaders and as an organization. |
 
 **Visual Note:** Clean year-end review style — label fields structured, body paragraph warm and direct.
 
@@ -43,7 +43,7 @@
 **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Achievements**<br><br>This year, we reached goals that took real effort to reach. Our leaders delivered results, our teams executed with focus, and the organization moved forward in ways that mattered. Achievements are worth naming clearly — not just to celebrate, but to acknowledge the discipline and determination that made them possible. | **Challenges**<br><br>We also faced real difficulty. There were moments of uncertainty, decisions that didn't land the way we hoped, and stretches where the path forward was not clear. Naming the challenges is not an admission of failure — it is proof that we were engaged, that we pushed ourselves, and that we kept going. | **Growth**<br><br>Growth is what connects achievements and challenges. Because of what we built, and because of what we worked through, our leaders and our organization are more capable today than they were a year ago. That growth is the most meaningful outcome of 2024 — and the best asset we take into 2025. |
+| **Achievements**<br><br>This year, we reached goals that took real effort to reach. Our leaders delivered results, our teams executed with focus, and the organization moved forward in ways that mattered. Achievements are worth naming clearly — not just to celebrate, but to acknowledge the discipline and determination that made them possible. | **Challenges**<br><br>We also faced real difficulty. There were moments of uncertainty, decisions that didn't land the way we hoped, and stretches where the path forward was not clear. Naming the challenges is not an admission of failure — it is proof that we were engaged, that we pushed ourselves, and that we kept going. | **Growth**<br><br>Growth is what connects achievements and challenges. Because of what we built, and because of what we worked through, our leaders and our organization are more capable today than they were a year ago. That growth is the most meaningful outcome of 2034 — and the best asset we take into 2035. |
 
 **Visual Note:** Equal-width columns, gold column headings, light navy dividers.
 
@@ -69,7 +69,7 @@
 **Jumlah Kolom:** 3  
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **What We Built Together**<br><br>The outcomes of 2024 were not individual achievements — they were collective ones. The programs launched, the goals surpassed, and the milestones reached all required people to work across teams, trust each other, and commit to something larger than their own immediate role. What we built, we built together. | **What Tested Our Leadership**<br><br>Not everything went smoothly. Some decisions took longer than expected. Some plans required mid-course corrections. Some conversations were hard. But each of those moments was also a moment where leadership showed up — and the way we responded to difficulty this year is something to be proud of. | **What We Carry Forward**<br><br>Year 2024 leaves us with more than results. It leaves us with practices that worked, lessons we earned, and a team that is stronger for what it went through. We carry those forward — not as history but as foundation for what we will build in 2025 and beyond. |
+| **What We Built Together**<br><br>The outcomes of 2034 were not individual achievements — they were collective ones. The programs launched, the goals surpassed, and the milestones reached all required people to work across teams, trust each other, and commit to something larger than their own immediate role. What we built, we built together. | **What Tested Our Leadership**<br><br>Not everything went smoothly. Some decisions took longer than expected. Some plans required mid-course corrections. Some conversations were hard. But each of those moments was also a moment where leadership showed up — and the way we responded to difficulty this year is something to be proud of. | **What We Carry Forward**<br><br>Year 2034 leaves us with more than results. It leaves us with practices that worked, lessons we earned, and a team that is stronger for what it went through. We carry those forward — not as history but as foundation for what we will build in 2035 and beyond. |
 
 **Visual Note:** Theme columns — heading bold in gold, body descriptive; consider slightly warmer ivory background.
 
@@ -82,7 +82,7 @@
 **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Adeline Palmerston**<br>Chief Leadership Officer, Liceria & Co.<br><br>*"Closing a year well is just as important as starting one with ambition. How we mark this year — how honestly and generously — shapes how the next year begins."*<br><br>Adeline has led the year-end review tradition at Liceria & Co. for four consecutive years, each time emphasizing both celebration and honest reflection. | **Estelle Darcy**<br>Head of Organizational Effectiveness<br><br>*"The growth I'm most proud of in 2024 is not the numbers — it is the conversations. Leaders had harder and better conversations this year than in any previous year I can remember."*<br><br>Estelle contributed the organizational effectiveness analysis featured throughout this year-end review. |
+| **Adeline Palmerston**<br>Chief Leadership Officer, Liceria & Co.<br><br>*"Closing a year well is just as important as starting one with ambition. How we mark this year — how honestly and generously — shapes how the next year begins."*<br><br>Adeline has led the year-end review tradition at Liceria & Co. for four consecutive years, each time emphasizing both celebration and honest reflection. | **Estelle Darcy**<br>Head of Organizational Effectiveness<br><br>*"The growth I'm most proud of in 2034 is not the numbers — it is the conversations. Leaders had harder and better conversations this year than in any previous year I can remember."*<br><br>Estelle contributed the organizational effectiveness analysis featured throughout this year-end review. |
 
 **Visual Note:** Portrait placeholder per column, italic quote, name + role in small caps.
 
@@ -108,7 +108,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| Year 2024 asked our leaders to be present when things were uncertain, honest when honesty was uncomfortable, and steady when the team needed something to hold onto. Most of them rose to that — not perfectly, but genuinely. The people who do that work deserve to close the year knowing it was seen and it mattered. |
+| Year 2034 asked our leaders to be present when things were uncertain, honest when honesty was uncomfortable, and steady when the team needed something to hold onto. Most of them rose to that — not perfectly, but genuinely. The people who do that work deserve to close the year knowing it was seen and it mattered. |
 
 **Visual Note:** Large centered type, generous padding, gold accent underline on heading.
 
@@ -117,11 +117,11 @@
 ### PAGE 9 - CLOSING
 **Fase:** Closing  
 **Tipe Halaman:** Closing — 2-Column Forward Look  
-**Judul Halaman:** From Here to 2025  
+**Judul Halaman:** From Here to 2035  
 **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **What 2024 Made Possible**<br><br>The groundwork of 2024 sets us up well for the year ahead. Stronger teams, clearer systems, and more capable leaders mean that 2025 starts from a higher baseline than any previous year. We do not begin from scratch — we build from something real. | **What 2025 Will Ask of Us**<br><br>The next year will ask new things of our leaders: faster learning, deeper collaboration, and even greater transparency. We will face it the same way we faced 2024 — together, honestly, and with genuine commitment to the people who make this work possible. |
+| **What 2034 Made Possible**<br><br>The groundwork of 2034 sets us up well for the year ahead. Stronger teams, clearer systems, and more capable leaders mean that 2035 starts from a higher baseline than any previous year. We do not begin from scratch — we build from something real. | **What 2035 Will Ask of Us**<br><br>The next year will ask new things of our leaders: faster learning, deeper collaboration, and even greater transparency. We will face it the same way we faced 2034 — together, honestly, and with genuine commitment to the people who make this work possible. |
 
 **Visual Note:** Forward-looking layout, navy/gold headings, clear warm body text.
 
@@ -132,10 +132,10 @@
 **Visual Note:** Full-bleed deep navy background matching Page 1, gold tagline, ivory contact line. Warm and celebratory close.
 
 **Text:**
-- Tagline: 2024 — A Year Built By People Who Showed Up.
+- Tagline: 2034 — A Year Built By People Who Showed Up.
 - Organization: Liceria & Co.
 - Contact Line: Presented by Adeline Palmerston & Estelle Darcy — Leadership Team, Liceria & Co.
-- Closing Note: Thank you for everything you brought to this year. See you in 2025.
+- Closing Note: Thank you for everything you brought to this year. See you in 2035.
 
 ---
 

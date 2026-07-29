@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Organization:** Liceria & Co.<br>**The Date:** June 24, 2025<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Focus:** [Type your session theme here]<br><br>**The Goal:** To explore the direct connection between authentic leadership and trust — and to give every leader at Liceria & Co. a clear, practical understanding of how the way they show up every day either builds or erodes the confidence their team places in them. |
+| **The Organization:** Liceria & Co.<br>**The Date:** June 24, 2035<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Focus:** [Type your session theme here]<br><br>**The Goal:** To explore the direct connection between authentic leadership and trust — and to give every leader at Liceria & Co. a clear, practical understanding of how the way they show up every day either builds or erodes the confidence their team places in them. |
 
 **Visual Note:** Navy header with gold rule and clean ivory body text. Structured and professional. 40% white space throughout.
 

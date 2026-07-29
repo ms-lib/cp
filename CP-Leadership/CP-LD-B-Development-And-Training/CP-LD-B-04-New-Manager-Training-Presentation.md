@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Program:** New Manager Training — Liceria & Co.<br>**Session Date:** June 10, 2025<br>**Location:** Studio Shodwe, Training Room A<br>**Lead Trainer:** Adeline Palmerston<br>**Cohort:** [Type your cohort name or batch number here]<br><br>**Our Goal:** To give every new manager at Liceria & Co. a clear and strong foundation — the practical tools, the right mindset, and the confidence to lead their team from day one. |
+| **Program:** New Manager Training — Liceria & Co.<br>**Session Date:** June 10, 2035<br>**Location:** Studio Shodwe, Training Room A<br>**Lead Trainer:** Adeline Palmerston<br>**Cohort:** [Type your cohort name or batch number here]<br><br>**Our Goal:** To give every new manager at Liceria & Co. a clear and strong foundation — the practical tools, the right mindset, and the confidence to lead their team from day one. |
 
 **Visual Note:** Clean slate and amber header with structured field layout. Maintain 40% white space for editability.
 

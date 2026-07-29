@@ -32,7 +32,7 @@ The Program: Student Leadership Development Program
 The Host: Liceria & Co.
 The Venue: Studio Shodwe
 The Lead: Adeline Palmerston
-The Date: June 7, 2025
+The Date: June 7, 2035
 
 **Body (30–49 words, label fields excluded):**
 This program was built for students who want to lead — not someday, but now. Whether you're new to leadership or ready to level up, you'll find structure, support, and space to grow into the leader you're becoming.
@@ -182,8 +182,8 @@ Take the step. The path opens as you walk.
 **How to Join**
 Applications for the next cohort are open now. The program runs over four structured sessions at Studio Shodwe. Cohort size is limited to keep the experience personal and impactful.
 
-**Apply By:** May 28, 2025
-**Program Starts:** June 7, 2025
+**Apply By:** May 28, 2035
+**Program Starts:** June 7, 2035
 **Location:** Studio Shodwe
 **Host:** Liceria & Co.
 

@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Program:** Leadership Training Program — Liceria & Co.<br>**Program Date:** August 19, 2025<br>**Venue:** Studio Shodwe, Main Training Hall<br>**Program Lead:** Adeline Palmerston<br>**Group:** [Type your team or participant group here]<br><br>**Our Focus:** To bring together leaders from across Liceria & Co. for a full day of hands-on learning, honest conversation, and skill-building — designed to make every participant a stronger, more effective leader starting today. |
+| **Program:** Leadership Training Program — Liceria & Co.<br>**Program Date:** August 19, 2035<br>**Venue:** Studio Shodwe, Main Training Hall<br>**Program Lead:** Adeline Palmerston<br>**Group:** [Type your team or participant group here]<br><br>**Our Focus:** To bring together leaders from across Liceria & Co. for a full day of hands-on learning, honest conversation, and skill-building — designed to make every participant a stronger, more effective leader starting today. |
 
 **Visual Note:** Strong navy and teal header with bold structured field layout. Keep 40% white space for editability.
 

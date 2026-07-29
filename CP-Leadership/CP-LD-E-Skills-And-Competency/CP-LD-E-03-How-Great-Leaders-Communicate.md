@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Program Title:** How Great Leaders Communicate<br>**Session Date:** July 7, 2025<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**Focus:** Communication separates good leaders from great ones. This program explores the habits, choices, and defining moments that make leadership communication clear, honest, and deeply effective — drawing on real examples from leaders at Liceria & Co. |
+| **Program Title:** How Great Leaders Communicate<br>**Session Date:** July 7, 2035<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**Focus:** Communication separates good leaders from great ones. This program explores the habits, choices, and defining moments that make leadership communication clear, honest, and deeply effective — drawing on real examples from leaders at Liceria & Co. |
 
 **Visual Note:** Clean structured opener with gold rule accents and forest green header. 40% white space for editability.
 

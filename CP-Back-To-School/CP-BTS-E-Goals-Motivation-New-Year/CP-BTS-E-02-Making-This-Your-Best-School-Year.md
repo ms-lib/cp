@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Teacher:** Adeline Palmerston  <br><br>Hello everyone! A new school year is a wonderful fresh start. This presentation shares small, practical tips to help you build positive habits, make new friends, and enjoy every single step of your learning adventure this year. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Teacher:** Adeline Palmerston  <br><br>Hello everyone! A new school year is a wonderful fresh start. This presentation shares small, practical tips to help you build positive habits, make new friends, and enjoy every single step of your learning adventure this year. |
 
 **Visual Note:** Wholesome photo placeholder in a doodle frame showing a smiling teacher with a book. Maintain 40% white space for high readability.  
 

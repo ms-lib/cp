@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our preparation guide! Getting ready for a new school year is about more than just buying pens—it is about preparing your mindset. This presentation outlines simple habits and checkups to help you start the year with positive energy and confidence. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our preparation guide! Getting ready for a new school year is about more than just buying pens—it is about preparing your mindset. This presentation outlines simple habits and checkups to help you start the year with positive energy and confidence. |
 
 **Visual Note:** High-quality graphic layout showing colorful school bags and pencil holders on a bright desk. Maintain 40% white space for easy editing.  
 

@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our classroom community guide! We believe that a strong, respectful class is the foundation of deep learning. This presentation outlines how we build mutual trust, practice daily kindness, celebrate our diverse backgrounds, and support one another in achieving our personal best. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our classroom community guide! We believe that a strong, respectful class is the foundation of deep learning. This presentation outlines how we build mutual trust, practice daily kindness, celebrate our diverse backgrounds, and support one another in achieving our personal best. |
 
 **Visual Note:** High-quality warm illustration showing a group of students sitting in a circle chatting and laughing. Maintain 40% white space for easy editing.  
 

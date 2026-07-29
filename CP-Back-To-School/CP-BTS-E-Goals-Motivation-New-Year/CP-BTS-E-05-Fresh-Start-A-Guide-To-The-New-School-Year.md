@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Guide Lead:** Adeline Palmerston  <br><br>Hello everyone! A new school year is a wonderful fresh start. This guide is designed to help you welcome new beginnings, build positive friendships, and prepare your mind and heart for an exciting and successful learning journey ahead. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Guide Lead:** Adeline Palmerston  <br><br>Hello everyone! A new school year is a wonderful fresh start. This guide is designed to help you welcome new beginnings, build positive friendships, and prepare your mind and heart for an exciting and successful learning journey ahead. |
 
 **Visual Note:** High-quality photo placeholder showing a child writing in a colorful journal near a window. Maintain 40% white space for easy editing.  
 

@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Teacher:** Adeline Palmerston  <br><br>Welcome to our new learning environment! This presentation guides you through our classroom design, functional zones, and daily resources. We have carefully prepared this space to ensure every student feels safe, inspired, and fully equipped to learn and thrive daily. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Teacher:** Adeline Palmerston  <br><br>Welcome to our new learning environment! This presentation guides you through our classroom design, functional zones, and daily resources. We have carefully prepared this space to ensure every student feels safe, inspired, and fully equipped to learn and thrive daily. |
 
 **Visual Note:** High-quality image showing a clean, modern, and brightly lit classroom. Maintain 40% white space for easy editing.  
 

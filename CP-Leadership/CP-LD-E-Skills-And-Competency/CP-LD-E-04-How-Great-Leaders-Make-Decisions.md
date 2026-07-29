@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Guide Title:** How Great Leaders Make Decisions<br>**Session Date:** August 4, 2025<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**Our Purpose:** Every leader makes dozens of decisions each day — some small, some defining. This guide gives leaders and managers at Liceria & Co. a clear, honest approach to decision making: how to think clearly, move with confidence, and make choices that the team can trust and follow. |
+| **Guide Title:** How Great Leaders Make Decisions<br>**Session Date:** August 4, 2035<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Program Lead:** Adeline Palmerston<br><br>**Our Purpose:** Every leader makes dozens of decisions each day — some small, some defining. This guide gives leaders and managers at Liceria & Co. a clear, honest approach to decision making: how to think clearly, move with confidence, and make choices that the team can trust and follow. |
 
 **Visual Note:** Clean structured opener with teal accent rule and deep slate header. 40% white space for editability.
 

@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Framework:** Leadership Decision Making<br>**Session Date:** September 1, 2025<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Lead:** Adeline Palmerston<br><br>**What This Is:** Leaders face decisions every day — from quick calls to high-stakes choices that shape the organization's future. This framework gives leaders and strategy teams at Liceria & Co. a consistent, repeatable way to approach any decision with clarity, confidence, and the right inputs at every stage. |
+| **Framework:** Leadership Decision Making<br>**Session Date:** September 1, 2035<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Lead:** Adeline Palmerston<br><br>**What This Is:** Leaders face decisions every day — from quick calls to high-stakes choices that shape the organization's future. This framework gives leaders and strategy teams at Liceria & Co. a consistent, repeatable way to approach any decision with clarity, confidence, and the right inputs at every stage. |
 
 **Visual Note:** Clean structured opener with gold rule accents and navy header. 40% white space for editability.
 

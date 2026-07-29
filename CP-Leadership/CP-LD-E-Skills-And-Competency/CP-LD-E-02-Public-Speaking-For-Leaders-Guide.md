@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Topic:** Public Speaking For Leaders<br>**The Session Date:** June 9, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston<br><br>**Our Goal:** Public speaking is one of the most powerful tools a leader has — and one of the most avoided. This guide gives leaders and managers at Liceria & Co. the practical skills to speak with confidence, connect with any room, and deliver messages that people remember. |
+| **The Topic:** Public Speaking For Leaders<br>**The Session Date:** June 9, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston<br><br>**Our Goal:** Public speaking is one of the most powerful tools a leader has — and one of the most avoided. This guide gives leaders and managers at Liceria & Co. the practical skills to speak with confidence, connect with any room, and deliver messages that people remember. |
 
 **Visual Note:** Clean structured opener with amber accent rule and slate header. 40% white space for editability.
 

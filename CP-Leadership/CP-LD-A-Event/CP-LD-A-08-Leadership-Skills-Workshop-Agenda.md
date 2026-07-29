@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Event:** Leadership Skills Workshop — Liceria & Co.<br>**The Date:** August 5, 2025<br>**The Venue:** Studio Shodwe Training Room<br>**The Lead Facilitator:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** This agenda is the complete guide to today's Leadership Skills Workshop at Studio Shodwe — outlining each session, its objectives, its format, and the specific skills every Liceria & Co. participant will practice and take home. Every session in this agenda exists for one reason: to make you a more effective leader by the end of today. |
+| **The Event:** Leadership Skills Workshop — Liceria & Co.<br>**The Date:** August 5, 2035<br>**The Venue:** Studio Shodwe Training Room<br>**The Lead Facilitator:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** This agenda is the complete guide to today's Leadership Skills Workshop at Studio Shodwe — outlining each session, its objectives, its format, and the specific skills every Liceria & Co. participant will practice and take home. Every session in this agenda exists for one reason: to make you a more effective leader by the end of today. |
 
 **Visual Note:** Clean structured workshop header with blue and gold accents. Maintain 40% white space for editability.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Leadership Skills Workshop Agenda
-- Liceria & Co. • Studio Shodwe • August 5, 2025
+- Liceria & Co. • Studio Shodwe • August 5, 2035
 - www.reallygreatsite.com
 
 ---

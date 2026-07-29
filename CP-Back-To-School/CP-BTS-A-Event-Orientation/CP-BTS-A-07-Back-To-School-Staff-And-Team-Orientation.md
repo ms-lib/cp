@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Institution:** Studio Shodwe School  <br>**Date:** August 25, 2028  <br>**Orientation Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our Back to School Staff and Team Orientation! This presentation outlines our school goals, safety protocols, and student support resources for the upcoming year. Let's work together to build a safe, inspiring environment where everyone can grow. |
+| **Institution:** Studio Shodwe School  <br>**Date:** August 25, 2035  <br>**Orientation Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our Back to School Staff and Team Orientation! This presentation outlines our school goals, safety protocols, and student support resources for the upcoming year. Let's work together to build a safe, inspiring environment where everyone can grow. |
 
 **Visual Note:** Professional photo of school teachers participating in a collaborative workshop. Clean layouts with 40% margin spacing.  
 

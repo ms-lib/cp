@@ -35,7 +35,7 @@ Program: Leadership Mentoring Program
 Host Organization: Liceria & Co.
 Program Lead: Adeline Palmerston
 Venue: Studio Shodwe, Level 2
-Launch Date: September 8, 2025
+Launch Date: September 8, 2035
 
 **Body Paragraph (30–49 words):**
 Mentoring is one of the most powerful ways to develop leaders — not through courses or curricula, but through real conversations between people who care. This program brings experienced leaders and rising talents together to grow through genuine connection and shared experience.
@@ -197,7 +197,7 @@ Title: For Mentees
 - Carry what you learn back to your team
 
 **Footer Line:**
-Program Start: September 8, 2025 | Hosted by Liceria & Co. at Studio Shodwe
+Program Start: September 8, 2035 | Hosted by Liceria & Co. at Studio Shodwe
 
 **Visual Note:**
 2-column layout. Ivory background. Column titles in gold bold. Bullet items in dark navy body text. Footer in small caps. Elegant rule separator above footer.
@@ -238,5 +238,5 @@ This file carries a refined, aspirational feel — deep navy and gold create a s
 - "Adeline Palmerston" (Standardized Name) — replace with your program lead name
 - "Drew Feig" (Standardized Name) — replace with your development advisor or supporting voice
 - "Lorna A.", "Alfredo T.", "Hae-won J.", "Jamie C." (Standardized Names) — replace with real participant names
-- Date fields: replace "September 8, 2025" with actual program dates
+- Date fields: replace "September 8, 2035" with actual program dates
 - Back Cover tagline: replace with your program website or contact line

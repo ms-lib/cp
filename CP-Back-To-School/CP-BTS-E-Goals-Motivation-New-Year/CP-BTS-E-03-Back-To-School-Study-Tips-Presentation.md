@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Teacher:** Adeline Palmerston  <br><br>Welcome to our study tips guide! Developing simple, effective study habits early in the school year helps you manage your homework, read books efficiently, and enjoy your school journey without feeling overwhelmed or rushed. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Teacher:** Adeline Palmerston  <br><br>Welcome to our study tips guide! Developing simple, effective study habits early in the school year helps you manage your homework, read books efficiently, and enjoy your school journey without feeling overwhelmed or rushed. |
 
 **Visual Note:** Clean professional photo of a modern organized school library study desk. Maintain 40% margin spacing.  
 

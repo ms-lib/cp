@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Organization:** Liceria & Co.<br>**The Date:** July 8, 2025<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Theme:** [Type your inclusion focus here]<br><br>**Our Purpose:** To equip every leader and manager at Liceria & Co. with the principles and practices of inclusive leadership — so that every person on every team feels seen, heard, and genuinely valued in the work they do every day. |
+| **The Organization:** Liceria & Co.<br>**The Date:** July 8, 2035<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Theme:** [Type your inclusion focus here]<br><br>**Our Purpose:** To equip every leader and manager at Liceria & Co. with the principles and practices of inclusive leadership — so that every person on every team feels seen, heard, and genuinely valued in the work they do every day. |
 
 **Visual Note:** Deep teal header with gold rule and ivory body text. Bold and welcoming layout. Maintain 40% white space.
 

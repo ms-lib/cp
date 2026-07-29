@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Event:** Annual Leadership Conference — Liceria & Co.<br>**The Date:** May 15, 2025<br>**The Venue:** Studio Shodwe Grand Hall<br>**The Conference Director:** Adeline Palmerston, Head of Leadership Development<br><br>**Your Guide:** This is your complete participant guide for today's conference at Studio Shodwe — covering the full agenda, session descriptions, speaker information, and everything you need to navigate the day with confidence. Keep it with you. Use it to plan, to engage, and to take full advantage of everything Liceria & Co. has prepared for you today. |
+| **The Event:** Annual Leadership Conference — Liceria & Co.<br>**The Date:** May 15, 2035<br>**The Venue:** Studio Shodwe Grand Hall<br>**The Conference Director:** Adeline Palmerston, Head of Leadership Development<br><br>**Your Guide:** This is your complete participant guide for today's conference at Studio Shodwe — covering the full agenda, session descriptions, speaker information, and everything you need to navigate the day with confidence. Keep it with you. Use it to plan, to engage, and to take full advantage of everything Liceria & Co. has prepared for you today. |
 
 **Visual Note:** Clean structured welcome header with navy and gold accents. Maintain 40% white space for editability.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Leadership Conference Participant Guide
-- Liceria & Co. • Studio Shodwe • May 15, 2025
+- Liceria & Co. • Studio Shodwe • May 15, 2035
 - www.reallygreatsite.com
 
 ---

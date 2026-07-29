@@ -34,7 +34,7 @@ Full-bleed background in sage green with terracotta accent block. Headline in bo
 The Organization: Liceria & Co.
 The Program: Leadership Coaching Series
 The Lead Coach: Adeline Palmerston
-The Date: May 12, 2025
+The Date: May 12, 2035
 The Location: Studio Shodwe, Floor 3
 
 **Body Paragraph (30–49 words):**
@@ -238,6 +238,6 @@ This guide uses a warm, grounded palette — sage, terracotta, ivory, warm white
 - "Adeline Palmerston" (Standardized Name) — replace with your lead coach name
 - "Estelle Darcy" (Standardized Name) — replace with your research lead or supporting voice
 - "Lorna A.", "Drew F.", "Chiaki S.", "Matt Z." (Standardized Names) — replace with real participant names
-- Date field on Opener (Page 2): replace "May 12, 2025" with your actual session date
+- Date field on Opener (Page 2): replace "May 12, 2035" with your actual session date
 - Footer on Page 9: replace placeholder with actual next session date
 - Back Cover tagline: replace with your program website or contact line

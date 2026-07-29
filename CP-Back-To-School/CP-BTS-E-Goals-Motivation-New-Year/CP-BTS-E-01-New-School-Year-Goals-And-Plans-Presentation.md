@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Teacher:** Adeline Palmerston  <br><br>Welcome to your goal sheet! Setting targets at the start of the school year is a wonderful way to challenge yourself, explore new interests, and track your improvement. This presentation helps you outline your plans and make this year incredibly successful. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Teacher:** Adeline Palmerston  <br><br>Welcome to your goal sheet! Setting targets at the start of the school year is a wonderful way to challenge yourself, explore new interests, and track your improvement. This presentation helps you outline your plans and make this year incredibly successful. |
 
 **Visual Note:** Bright, happy illustration showing students working together to plant a tree in a school yard. Maintain 40% white space for easy editing.  
 

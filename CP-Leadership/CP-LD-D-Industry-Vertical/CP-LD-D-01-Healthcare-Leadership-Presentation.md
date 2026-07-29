@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Presentation:** Healthcare Leadership<br>**The Date:** May 15, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To equip healthcare leaders with the clarity, confidence, and practical tools to lead their teams with both compassion and conviction — because strong leadership is the foundation of strong patient care. |
+| **The Presentation:** Healthcare Leadership<br>**The Date:** May 15, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To equip healthcare leaders with the clarity, confidence, and practical tools to lead their teams with both compassion and conviction — because strong leadership is the foundation of strong patient care. |
 
 **Visual Note:** Structured opener on warm ivory with teal rule accents. Navy header. 40% white space for editability.
 

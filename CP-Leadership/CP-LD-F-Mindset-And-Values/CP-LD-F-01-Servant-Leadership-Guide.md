@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Organization:** Liceria & Co.<br>**The Date:** May 15, 2025<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Focus:** [Type your leadership theme here]<br><br>**Our Purpose:** To explore what it truly means to lead by serving — and to give every leader at Liceria & Co. the language, principles, and practices they need to build teams that thrive from the inside out. |
+| **The Organization:** Liceria & Co.<br>**The Date:** May 15, 2035<br>**The Venue:** Studio Shodwe<br>**The Presenter:** Adeline Palmerston<br>**The Focus:** [Type your leadership theme here]<br><br>**Our Purpose:** To explore what it truly means to lead by serving — and to give every leader at Liceria & Co. the language, principles, and practices they need to build teams that thrive from the inside out. |
 
 **Visual Note:** Clean forest green header with gold rule and ivory body text. Maintain 40% white space for editability.
 

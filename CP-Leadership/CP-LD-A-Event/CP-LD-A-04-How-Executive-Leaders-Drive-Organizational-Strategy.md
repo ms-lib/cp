@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Event:** Executive Leadership Summit — Liceria & Co.<br>**The Date:** June 10, 2025<br>**The Venue:** Studio Shodwe Executive Floor<br>**The Chair:** Adeline Palmerston, Chief Strategy Officer, Liceria & Co.<br><br>**Our Purpose:** Strategy does not write itself. It is shaped, tested, and driven by the executive leaders willing to make hard choices, communicate clearly, and hold the organization accountable to a shared direction. At Studio Shodwe today, we examine what it means to drive strategy at the executive level — not just plan it, but lead it from the front, every day, at every level of Liceria & Co. |
+| **The Event:** Executive Leadership Summit — Liceria & Co.<br>**The Date:** June 10, 2035<br>**The Venue:** Studio Shodwe Executive Floor<br>**The Chair:** Adeline Palmerston, Chief Strategy Officer, Liceria & Co.<br><br>**Our Purpose:** Strategy does not write itself. It is shaped, tested, and driven by the executive leaders willing to make hard choices, communicate clearly, and hold the organization accountable to a shared direction. At Studio Shodwe today, we examine what it means to drive strategy at the executive level — not just plan it, but lead it from the front, every day, at every level of Liceria & Co. |
 
 **Visual Note:** Premium executive header with gold rule lines and bold structured layout. Maintain 40% white space for editability.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - How Executive Leaders Drive Organizational Strategy
-- Liceria & Co. • Studio Shodwe • June 10, 2025
+- Liceria & Co. • Studio Shodwe • June 10, 2035
 - www.reallygreatsite.com
 
 ---

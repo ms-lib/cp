@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Institution:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Guide Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our school community! We are absolutely thrilled to have you here. This guide is designed to help new students and families navigate classroom buildings, find helpful daily resources, and settle into our warm and encouraging school environment smoothly. |
+| **Institution:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Guide Lead:** Adeline Palmerston, Principal  <br><br>Welcome to our school community! We are absolutely thrilled to have you here. This guide is designed to help new students and families navigate classroom buildings, find helpful daily resources, and settle into our warm and encouraging school environment smoothly. |
 
 **Visual Note:** Crisp professional photo of a modern school entrance or welcoming reception desk. Maintain 40% margin spacing.  
 

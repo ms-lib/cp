@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Presentation:** Women In Leadership<br>**The Date:** May 15, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To celebrate the progress women have made in leadership, to name what still needs to change, and to give every woman in this room the language, the confidence, and the community to lead boldly — right now, at every level. |
+| **The Presentation:** Women In Leadership<br>**The Date:** May 15, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To celebrate the progress women have made in leadership, to name what still needs to change, and to give every woman in this room the language, the confidence, and the community to lead boldly — right now, at every level. |
 
 **Visual Note:** Clean structured opener with gold rule accents on a warm ivory background. Deep rose header. 40% white space for editability.
 

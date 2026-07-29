@@ -15,7 +15,7 @@
 **Title:** Strategic Leadership Roadmap
 **Subtitle:** How Liceria & Co. Plans, Moves, and Leads With Confidence
 **Organization:** Liceria & Co.
-**Date:** August 5, 2025
+**Date:** August 5, 2035
 
 ---
 
@@ -24,7 +24,7 @@
 **Headline:** About This Roadmap
 
 **Roadmap Topic:** Strategic Leadership Planning
-**Session Date:** August 5, 2025
+**Session Date:** August 5, 2035
 **Session Venue:** Studio Shodwe
 **Organization:** Liceria & Co.
 **Roadmap Lead:** Adeline Palmerston

@@ -15,7 +15,7 @@
 **Title:** Building The Next Generation Of Leaders
 **Subtitle:** How Liceria & Co. Invests in the Leaders Who Will Lead Tomorrow
 **Organization:** Liceria & Co.
-**Date:** February 10, 2026
+**Date:** February 10, 2036
 
 ---
 
@@ -24,7 +24,7 @@
 **Headline:** About This Program
 
 **Program Topic:** Building the Next Generation of Leaders
-**Program Date:** February 10, 2026
+**Program Date:** February 10, 2036
 **Program Venue:** Studio Shodwe
 **Organization:** Liceria & Co.
 **Program Sponsor:** Adeline Palmerston

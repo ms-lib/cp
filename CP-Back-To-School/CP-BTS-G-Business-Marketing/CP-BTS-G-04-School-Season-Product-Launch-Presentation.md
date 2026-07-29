@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Product Director:** Adeline Palmerston  <br><br>Hello business partners! Introducing our new seasonal product line for the upcoming school year. This product launch presentation showcases premium stationery and ergonomic study gear designed to meet modern student needs and drive retail sales growth. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Product Director:** Adeline Palmerston  <br><br>Hello business partners! Introducing our new seasonal product line for the upcoming school year. This product launch presentation showcases premium stationery and ergonomic study gear designed to meet modern student needs and drive retail sales growth. |
 
 **Visual Note:** Premium photo showcase showing macro closeups of sleek minimalist notebooks and copper metallic pen kits. Maintain 40% empty space.  
 

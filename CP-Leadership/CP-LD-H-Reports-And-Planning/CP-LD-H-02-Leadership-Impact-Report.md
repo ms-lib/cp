@@ -19,7 +19,7 @@
 **Text:**
 - Title: Leadership Impact Report
 - Subtitle: Measuring What Our Leadership Has Built
-- Supporting Text: Fiscal Year 2024 — Liceria & Co.
+- Supporting Text: Fiscal Year 2034 — Liceria & Co.
 
 ---
 
@@ -30,7 +30,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Report Period:**<br>Fiscal Year 2024<br>**Prepared By:**<br>Adeline Palmerston<br>**Contributing Author:**<br>Estelle Darcy<br>**Submitted To:**<br>Board of Directors, Liceria & Co.<br>**Issue Date:**<br>February 3, 2025<br><br><br>This report measures the real impact of our leadership across Fiscal Year 2024. It looks at how leadership decisions shaped culture, performance, and growth. We present these findings with transparency and confidence — committed to what the evidence shows and what it asks of us next. |
+| **Report Period:**<br>Fiscal Year 2034<br>**Prepared By:**<br>Adeline Palmerston<br>**Contributing Author:**<br>Estelle Darcy<br>**Submitted To:**<br>Board of Directors, Liceria & Co.<br>**Issue Date:**<br>February 3, 2035<br><br><br>This report measures the real impact of our leadership across Fiscal Year 2034. It looks at how leadership decisions shaped culture, performance, and growth. We present these findings with transparency and confidence — committed to what the evidence shows and what it asks of us next. |
 
 **Visual Note:** Clean, structured report style — label fields stacked left, body paragraph below with generous white space.
 
@@ -108,7 +108,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| Every metric in this report started with a choice — a leader who decided to act with purpose, invest in a person, or build something lasting. Impact does not happen to organizations. Leaders create it through consistent, deliberate action. That is what Fiscal Year 2024 shows. |
+| Every metric in this report started with a choice — a leader who decided to act with purpose, invest in a person, or build something lasting. Impact does not happen to organizations. Leaders create it through consistent, deliberate action. That is what Fiscal Year 2034 shows. |
 
 **Visual Note:** Large centered layout; consider teal accent line under section title.
 
@@ -121,7 +121,7 @@
 **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Building On What Worked**<br><br>The culture gains, the performance achievements, and the growth milestones of 2024 are foundations we intend to deepen. In 2025, we will invest further in leadership development, data-informed decision-making, and creating clearer pathways for emerging leaders. | **Addressing What Needs Work**<br><br>This report also reveals gaps. Communication between senior and mid-level leadership needs more consistency. Measurement of long-term leadership impact needs refinement. We enter 2025 with honest awareness of where to improve and the commitment to do so. |
+| **Building On What Worked**<br><br>The culture gains, the performance achievements, and the growth milestones of 2034 are foundations we intend to deepen. In 2035, we will invest further in leadership development, data-informed decision-making, and creating clearer pathways for emerging leaders. | **Addressing What Needs Work**<br><br>This report also reveals gaps. Communication between senior and mid-level leadership needs more consistency. Measurement of long-term leadership impact needs refinement. We enter 2035 with honest awareness of where to improve and the commitment to do so. |
 
 **Visual Note:** Two-column layout with distinct headings; clean split with white space between columns.
 
@@ -132,7 +132,7 @@
 **Visual Note:** Full-bleed deep slate background with teal accent and ivory text, matching Page 1.
 
 **Text:**
-- Tagline: Transparent Leadership. Measurable Impact. Fiscal Year 2024.
+- Tagline: Transparent Leadership. Measurable Impact. Fiscal Year 2034.
 - Organization: Liceria & Co.
 - Contact Line: Prepared by Adeline Palmerston & Estelle Darcy — Office of Leadership Effectiveness
 - Closing Note: We thank every leader, team member, and stakeholder who contributed to this report and to the year it reflects.

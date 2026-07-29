@@ -15,7 +15,7 @@
 **Title:** Leadership Vision & Strategy
 **Subtitle:** How Liceria & Co. Leads With Direction, Purpose, and Momentum
 **Organization:** Liceria & Co.
-**Date:** June 10, 2025
+**Date:** June 10, 2035
 
 ---
 
@@ -24,7 +24,7 @@
 **Headline:** About This Presentation
 
 **The Topic:** Leadership Vision & Strategy
-**The Date:** June 10, 2025
+**The Date:** June 10, 2035
 **The Venue:** Studio Shodwe
 **The Organization:** Liceria & Co.
 **The Presenter:** Adeline Palmerston

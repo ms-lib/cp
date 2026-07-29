@@ -19,7 +19,7 @@
 **Text:**
 - Title: Leadership Performance Assessment
 - Subtitle: A Clear Look at How Our Leaders Are Doing
-- Supporting text: Fiscal Year 2024 — Liceria & Co.
+- Supporting text: Fiscal Year 2034 — Liceria & Co.
 
 ---
 
@@ -30,7 +30,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Assessment Period:**<br>Fiscal Year 2024<br>**Assessed Leader:**<br>Adeline Palmerston<br>**Assessment Lead:**<br>HR & Leadership Team, Liceria & Co.<br>**Review Cycle:**<br>Annual<br>**Submission Date:**<br>January 20, 2025<br><br>This assessment examines leadership performance across Fiscal Year 2024. It goes beyond numbers to look at how leaders showed up, how they made decisions, and how they supported their teams. The goal is clarity — not judgment — and a shared commitment to growing from what we find. |
+| **Assessment Period:**<br>Fiscal Year 2034<br>**Assessed Leader:**<br>Adeline Palmerston<br>**Assessment Lead:**<br>HR & Leadership Team, Liceria & Co.<br>**Review Cycle:**<br>Annual<br>**Submission Date:**<br>January 20, 2035<br><br>This assessment examines leadership performance across Fiscal Year 2034. It goes beyond numbers to look at how leaders showed up, how they made decisions, and how they supported their teams. The goal is clarity — not judgment — and a shared commitment to growing from what we find. |
 
 **Visual Note:** Assessment report style — label fields clearly stacked, generous spacing for legibility.
 

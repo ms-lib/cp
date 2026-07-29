@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2030  <br>**Campaign Director:** Lorna Alvarado  <br><br>Hello marketing partners! Navigating the seasonal back-to-school rush requires clear, strategic planning. This campaign guide provides brand managers and retail leads with practical tools to launch high-impact promotions and engage families effectively this school season. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Campaign Director:** Lorna Alvarado  <br><br>Hello marketing partners! Navigating the seasonal back-to-school rush requires clear, strategic planning. This campaign guide provides brand managers and retail leads with practical tools to launch high-impact promotions and engage families effectively this school season. |
 
 **Visual Note:** High-end professional photo of a team of designers collaborating around a table in a modern corporate meeting room. Maintain 40% margin space.  
 

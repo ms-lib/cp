@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Brand Director:** Adeline Palmerston  <br><br>Hello business leaders! Seasonal school campaigns offer a massive opportunity to showcase your brand. This guide provides brands and local businesses with creative marketing tips to engage target audiences, launch product bundles, and grow sales successfully. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Brand Director:** Adeline Palmerston  <br><br>Hello business leaders! Seasonal school campaigns offer a massive opportunity to showcase your brand. This guide provides brands and local businesses with creative marketing tips to engage target audiences, launch product bundles, and grow sales successfully. |
 
 **Visual Note:** Vibrant graphic illustration of a modern creative studio workspace with screens showing target marketing analytics. Maintain 40% empty space.  
 

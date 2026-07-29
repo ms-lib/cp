@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Program:** School Leadership Development<br>**The Date:** September 9, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To develop the next generation of school leaders — from aspiring principals to current heads of school — with a structured, practical program that builds the skills, clarity, and confidence to lead learning communities with purpose and impact. |
+| **The Program:** School Leadership Development<br>**The Date:** September 9, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To develop the next generation of school leaders — from aspiring principals to current heads of school — with a structured, practical program that builds the skills, clarity, and confidence to lead learning communities with purpose and impact. |
 
 **Visual Note:** Structured opener on warm ivory. Amber accent rules, slate header. 40% white space for editability.
 

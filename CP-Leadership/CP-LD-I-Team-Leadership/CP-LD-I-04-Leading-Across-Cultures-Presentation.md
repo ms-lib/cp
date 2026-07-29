@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Organization:** Liceria & Co.<br>**Lead Presenter:** Adeline Palmerston, Global Leadership Director<br>**Venue:** Studio Shodwe<br>**Date:** September 03, 2025<br>**Purpose:** Leading across cultures is one of the most important skills a modern leader can develop. This presentation explores what it truly takes to lead teams where backgrounds, values, and ways of working differ — and how that difference becomes a strength when leaders learn to navigate it with respect and intention. |
+| **Organization:** Liceria & Co.<br>**Lead Presenter:** Adeline Palmerston, Global Leadership Director<br>**Venue:** Studio Shodwe<br>**Date:** September 03, 2035<br>**Purpose:** Leading across cultures is one of the most important skills a modern leader can develop. This presentation explores what it truly takes to lead teams where backgrounds, values, and ways of working differ — and how that difference becomes a strength when leaders learn to navigate it with respect and intention. |
 
 **Visual Note:** Clean teal and gold opener layout. Bold label-value structure. Warm and professional tone in the visual design. 40% white space.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Leading Across Cultures
-- Liceria & Co. • September 2025
+- Liceria & Co. • September 2035
 - www.reallygreatsite.com
 
 ---

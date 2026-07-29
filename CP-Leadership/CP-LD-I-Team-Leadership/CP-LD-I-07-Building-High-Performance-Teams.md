@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Organization:** Liceria & Co.<br>**The Session Lead:** Adeline Palmerston, Head of Team Performance<br>**The Venue:** Studio Shodwe<br>**The Date:** June 10, 2025<br>**The Goal:** To give leaders a clear, actionable framework for building teams that perform at their best — not occasionally, but consistently. This presentation covers the foundations, the build process, and the leadership behaviors that make high performance possible. |
+| **The Organization:** Liceria & Co.<br>**The Session Lead:** Adeline Palmerston, Head of Team Performance<br>**The Venue:** Studio Shodwe<br>**The Date:** June 10, 2035<br>**The Goal:** To give leaders a clear, actionable framework for building teams that perform at their best — not occasionally, but consistently. This presentation covers the foundations, the build process, and the leadership behaviors that make high performance possible. |
 
 **Visual Note:** Clean navy and gold opener. Bold label structure with generous white space. Professional, structured, and energizing.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Building High-Performance Teams
-- Liceria & Co. • June 2025
+- Liceria & Co. • June 2035
 - www.reallygreatsite.com
 
 ---

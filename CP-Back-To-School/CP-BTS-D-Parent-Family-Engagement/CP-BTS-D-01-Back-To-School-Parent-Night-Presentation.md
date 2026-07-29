@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Presenter:** Adeline Palmerston  <br><br>Welcome to our annual parent night! I am absolutely delighted to partner with you this year. This presentation outlines how we will support your child's creative growth, build a safe learning space, and collaborate closely to ensure a successful year. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Presenter:** Adeline Palmerston  <br><br>Welcome to our annual parent night! I am absolutely delighted to partner with you this year. This presentation outlines how we will support your child's creative growth, build a safe learning space, and collaborate closely to ensure a successful year. |
 
 **Visual Note:** High-quality photo placeholder showing a welcoming, organized classroom setup with clean desks and colorful boards. Maintain 40% margin spacing.  
 

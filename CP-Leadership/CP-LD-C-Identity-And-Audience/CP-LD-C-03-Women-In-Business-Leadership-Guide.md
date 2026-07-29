@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| Guide: Women In Business Leadership<br>Published: April 24, 2025<br>Organization: Liceria & Co.<br>Guide Lead: Adeline Palmerston<br><br>What This Guide Is For: This guide gives women in business a clear, honest framework for growing as leaders — covering the three areas where leadership is built, the four principles that sustain it, and the community that makes it possible. It is designed to be used, not just read. |
+| Guide: Women In Business Leadership<br>Published: April 24, 2035<br>Organization: Liceria & Co.<br>Guide Lead: Adeline Palmerston<br><br>What This Guide Is For: This guide gives women in business a clear, honest framework for growing as leaders — covering the three areas where leadership is built, the four principles that sustain it, and the community that makes it possible. It is designed to be used, not just read. |
 
 **Visual Note:** Clean structured opener with sage and terracotta accent lines on a warm ivory background. 40% white space for editability.
 

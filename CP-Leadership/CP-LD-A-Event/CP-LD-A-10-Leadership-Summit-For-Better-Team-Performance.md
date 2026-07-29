@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Event:** Leadership Performance Summit — Liceria & Co.<br>**The Date:** August 14, 2025<br>**The Venue:** Studio Shodwe Conference Center<br>**The Summit Lead:** Adeline Palmerston, Head of Leadership & Performance<br><br>**Our Purpose:** Team performance does not improve on its own. It improves when the leaders responsible for those teams get honest about what is working, what is not, and what needs to change. This summit at Studio Shodwe is designed for exactly that: a focused, honest conversation among Liceria & Co. leaders about what we can do differently to help our teams perform at a higher level — starting with what happens in this room today. |
+| **The Event:** Leadership Performance Summit — Liceria & Co.<br>**The Date:** August 14, 2035<br>**The Venue:** Studio Shodwe Conference Center<br>**The Summit Lead:** Adeline Palmerston, Head of Leadership & Performance<br><br>**Our Purpose:** Team performance does not improve on its own. It improves when the leaders responsible for those teams get honest about what is working, what is not, and what needs to change. This summit at Studio Shodwe is designed for exactly that: a focused, honest conversation among Liceria & Co. leaders about what we can do differently to help our teams perform at a higher level — starting with what happens in this room today. |
 
 **Visual Note:** Bold corporate performance header with navy and gold accents. Maintain 40% white space for editability.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Leadership Summit For Better Team Performance
-- Liceria & Co. • Studio Shodwe • August 14, 2025
+- Liceria & Co. • Studio Shodwe • August 14, 2035
 - www.reallygreatsite.com
 
 ---

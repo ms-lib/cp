@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston, Director of Leadership Development<br>**The Venue:** Studio Shodwe<br>**The Launch Date:** August 04, 2025<br>**The Objective:** To equip leaders across Liceria & Co. with the skills, frameworks, and mindset to build teams that perform at their highest level — and to sustain that performance as the organization grows and evolves. |
+| **The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston, Director of Leadership Development<br>**The Venue:** Studio Shodwe<br>**The Launch Date:** August 04, 2035<br>**The Objective:** To equip leaders across Liceria & Co. with the skills, frameworks, and mindset to build teams that perform at their highest level — and to sustain that performance as the organization grows and evolves. |
 
 **Visual Note:** Clean program-style opener in slate and teal. Bold field labels, clean value alignment. Professional and results-oriented. 40% white space.
 
@@ -120,7 +120,7 @@
 **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| High-performance teams do not happen by chance. They are built by leaders who invest in the right skills, the right systems, and the right support. This program gives you all three. The next cohort at Liceria & Co. is ready when you are. | **Program Details:**<br>The next intake opens September 01, 2025 at Studio Shodwe. Places are limited. Contact Adeline Palmerston at Liceria & Co. to register your interest or find out how to bring this program to your team. |
+| High-performance teams do not happen by chance. They are built by leaders who invest in the right skills, the right systems, and the right support. This program gives you all three. The next cohort at Liceria & Co. is ready when you are. | **Program Details:**<br>The next intake opens September 01, 2035 at Studio Shodwe. Places are limited. Contact Adeline Palmerston at Liceria & Co. to register your interest or find out how to bring this program to your team. |
 
 **Visual Note:** Split closing in slate and teal. Left: motivational close. Right: clear action details. Bold, structured, results-ready finish.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - High-Performance Team Leadership Program
-- Liceria & Co. • August 2025
+- Liceria & Co. • August 2035
 - www.reallygreatsite.com
 
 ---

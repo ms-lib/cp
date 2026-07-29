@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Program:** Leadership Development Program<br>**The Start Date:** June 2, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston<br><br>**Our Goal:** To build the next generation of leaders at Liceria & Co. — equipping people with the mindset, skills, and practical experience needed to lead teams, drive results, and shape our organization's future. |
+| **The Program:** Leadership Development Program<br>**The Start Date:** June 2, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston<br><br>**Our Goal:** To build the next generation of leaders at Liceria & Co. — equipping people with the mindset, skills, and practical experience needed to lead teams, drive results, and shape our organization's future. |
 
 **Visual Note:** Clean structured opener with gold rule accents and navy header. 40% white space for editability.
 

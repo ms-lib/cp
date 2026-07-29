@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2028  <br>**Coordinator:** Adeline Palmerston  <br><br>Welcome to our school club directory! Joining a student activity is a wonderful way to discover exciting hobbies, develop new skills, and make friendly connections. This guide helps you explore our options and find the perfect team for you. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Coordinator:** Adeline Palmerston  <br><br>Welcome to our school club directory! Joining a student activity is a wonderful way to discover exciting hobbies, develop new skills, and make friendly connections. This guide helps you explore our options and find the perfect team for you. |
 
 **Visual Note:** Wholesome photo placeholder showing smiling students holding posters of school clubs. Maintain 40% empty space for readability.  
 

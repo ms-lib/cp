@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Topic:** Leadership Communication Skills<br>**The Date:** May 12, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston<br><br>**Our Purpose:** Communication is the most visible skill a leader has. This guide gives leaders at Liceria & Co. a clear, practical approach to speaking with confidence, listening with care, and connecting with every audience they lead. |
+| **The Topic:** Leadership Communication Skills<br>**The Date:** May 12, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Program Lead:** Adeline Palmerston<br><br>**Our Purpose:** Communication is the most visible skill a leader has. This guide gives leaders at Liceria & Co. a clear, practical approach to speaking with confidence, listening with care, and connecting with every audience they lead. |
 
 **Visual Note:** Clean structured opener with gold rule accents and navy header. 40% white space for editability.
 

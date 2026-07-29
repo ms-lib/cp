@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Program:** Startup Leadership & Growth<br>**The Date:** February 10, 2026<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To give startup founders and early-stage leaders the tools, mindset, and community to lead their teams through the chaos of growth — building organizations that move fast, stay grounded, and keep people at the center of everything they build. |
+| **The Program:** Startup Leadership & Growth<br>**The Date:** February 10, 2036<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To give startup founders and early-stage leaders the tools, mindset, and community to lead their teams through the chaos of growth — building organizations that move fast, stay grounded, and keep people at the center of everything they build. |
 
 **Visual Note:** Structured opener on warm ivory. Deep teal header, gold rule accent. 40% white space for editability.
 

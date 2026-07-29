@@ -25,7 +25,7 @@ Liceria & Co.
 The people behind the strategy — leading with clarity, commitment, and purpose.
 
 **Footer:**
-Leadership Introduction | April 24, 2026
+Leadership Introduction | April 24, 2036
 
 ---
 
@@ -36,7 +36,7 @@ Leadership Introduction | April 24, 2026
 Team Lead: Adeline Palmerston
 Position: Chief Executive Officer
 Company: Liceria & Co.
-Introduction Date: April 24, 2026
+Introduction Date: April 24, 2036
 
 **Body (30–49 words, label fields excluded):**
 We are proud to introduce the senior leadership team at Liceria & Co. These are the people who set direction, build culture, and take responsibility for the organization's progress. Getting to know them is the first step toward understanding how we lead and why.

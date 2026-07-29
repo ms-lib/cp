@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Program:** Strategic Thinking For Leaders<br>**Session Date:** October 6, 2025<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Lead:** Adeline Palmerston<br><br>**Our Focus:** Strategic thinking is the ability to see past the immediate problem, understand the bigger picture, and make decisions that create long-term value. This program equips leaders and senior managers at Liceria & Co. with the habits and tools to think at a higher level — no matter what role they are in today. |
+| **Program:** Strategic Thinking For Leaders<br>**Session Date:** October 6, 2035<br>**Venue:** Studio Shodwe<br>**Organization:** Liceria & Co.<br>**Lead:** Adeline Palmerston<br><br>**Our Focus:** Strategic thinking is the ability to see past the immediate problem, understand the bigger picture, and make decisions that create long-term value. This program equips leaders and senior managers at Liceria & Co. with the habits and tools to think at a higher level — no matter what role they are in today. |
 
 **Visual Note:** Clean structured opener with gold rule accents and deep navy header. 40% white space for editability.
 

@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Event:** Annual Leadership Conference<br>**The Date:** May 15, 2025<br>**The Venue:** Studio Shodwe Grand Hall<br>**The Host:** Liceria & Co. Leadership Committee<br>**The Theme:** [Type your conference theme here]<br><br>**Our Purpose:** To bring together the leaders of Liceria & Co. for a day of bold conversations, strategic alignment, and shared vision — creating the clarity and energy needed to lead our organization into its next chapter. |
+| **The Event:** Annual Leadership Conference<br>**The Date:** May 15, 2035<br>**The Venue:** Studio Shodwe Grand Hall<br>**The Host:** Liceria & Co. Leadership Committee<br>**The Theme:** [Type your conference theme here]<br><br>**Our Purpose:** To bring together the leaders of Liceria & Co. for a day of bold conversations, strategic alignment, and shared vision — creating the clarity and energy needed to lead our organization into its next chapter. |
 
 **Visual Note:** Clean corporate header with gold accents and structured layout. Maintain 40% white space for editability.
 

@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Student Name:** Estelle Darcy  <br>**Grade:** Fourth Grade  <br>**Date:** September 02, 2028  <br><br>Welcome to my goal sheet! At the beginning of the school year, setting personal targets helps me focus my attention, learn new skills, and track my improvement. This presentation outlines my hopes, academic goals, and creative plans for the exciting months ahead. |
+| **Student Name:** Estelle Darcy  <br>**Grade:** Fourth Grade  <br>**Date:** September 02, 2035  <br><br>Welcome to my goal sheet! At the beginning of the school year, setting personal targets helps me focus my attention, learn new skills, and track my improvement. This presentation outlines my hopes, academic goals, and creative plans for the exciting months ahead. |
 
 **Visual Note:** High-quality photo placeholder showing a child writing in a colorful journal near a window. Maintain 40% white space for easy editing.  
 

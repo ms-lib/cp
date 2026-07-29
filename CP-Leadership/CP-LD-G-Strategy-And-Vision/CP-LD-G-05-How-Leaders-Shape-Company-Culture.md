@@ -15,7 +15,7 @@
 **Title:** How Leaders Shape Company Culture
 **Subtitle:** What Liceria & Co. Leaders Say and Do — and Why It Matters
 **Organization:** Liceria & Co.
-**Date:** October 14, 2025
+**Date:** October 14, 2035
 
 ---
 
@@ -24,7 +24,7 @@
 **Headline:** About This Guide
 
 **Topic:** How Leaders Shape Company Culture
-**Date:** October 14, 2025
+**Date:** October 14, 2035
 **Venue:** Studio Shodwe
 **Organization:** Liceria & Co.
 **Lead Facilitator:** Adeline Palmerston

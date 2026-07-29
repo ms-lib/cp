@@ -19,7 +19,7 @@
 **Text:**
 - Title: Leadership Skills Assessment Guide
 - Subtitle: Know Your Strengths. Grow Your Leadership.
-- Supporting Text: Fiscal Year 2024 — Liceria & Co.
+- Supporting Text: Fiscal Year 2034 — Liceria & Co.
 
 ---
 
@@ -30,7 +30,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Assessment Year:**<br>2024<br>**Assessment Lead:**<br>Adeline Palmerston<br>**Program Owner:**<br>HR & L&D Team, Liceria & Co.<br>**Cycle:**<br>Annual Skills Review<br>**Kickoff Date:**<br>March 3, 2025<br><br><br>This guide walks leaders through a structured skills assessment — designed to be honest, practical, and useful. It covers the skills that matter most for leadership effectiveness and gives every participant a clear picture of where they are strong and where they can grow. |
+| **Assessment Year:**<br>2034<br>**Assessment Lead:**<br>Adeline Palmerston<br>**Program Owner:**<br>HR & L&D Team, Liceria & Co.<br>**Cycle:**<br>Annual Skills Review<br>**Kickoff Date:**<br>March 3, 2035<br><br><br>This guide walks leaders through a structured skills assessment — designed to be honest, practical, and useful. It covers the skills that matter most for leadership effectiveness and gives every participant a clear picture of where they are strong and where they can grow. |
 
 **Visual Note:** Clean guide/report format — label fields left-aligned, body paragraph below; structured and readable.
 

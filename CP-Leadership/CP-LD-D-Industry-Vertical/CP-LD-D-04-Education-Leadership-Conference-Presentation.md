@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Conference:** Education Leadership<br>**The Date:** August 12, 2025<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To bring education leaders together — principals, administrators, and district leaders — to share what is working, name what needs to change, and leave with the clarity and conviction to lead their schools and systems with greater impact. |
+| **The Conference:** Education Leadership<br>**The Date:** August 12, 2035<br>**The Venue:** Studio Shodwe<br>**The Organization:** Liceria & Co.<br>**The Lead:** Adeline Palmerston<br><br>**Our Purpose:** To bring education leaders together — principals, administrators, and district leaders — to share what is working, name what needs to change, and leave with the clarity and conviction to lead their schools and systems with greater impact. |
 
 **Visual Note:** Structured opener on warm ivory. Bold navy header, gold rule accent. 40% white space for editability.
 

@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Organization:** Liceria & Co.<br>**Date:** June 10, 2025<br>**Venue:** Studio Shodwe<br>**Presenter:** Adeline Palmerston<br>**Topic:** [Type your leadership theme here]<br><br>**Purpose:** To explore what authentic leadership means in practice — and to give every leader at Liceria & Co. the tools to lead from their genuine values, build real trust with their teams, and show up with consistency and confidence every day. |
+| **Organization:** Liceria & Co.<br>**Date:** June 10, 2035<br>**Venue:** Studio Shodwe<br>**Presenter:** Adeline Palmerston<br>**Topic:** [Type your leadership theme here]<br><br>**Purpose:** To explore what authentic leadership means in practice — and to give every leader at Liceria & Co. the tools to lead from their genuine values, build real trust with their teams, and show up with consistency and confidence every day. |
 
 **Visual Note:** Clean slate header with teal rule and ivory body text. Structured two-section layout. 40% white space maintained.
 

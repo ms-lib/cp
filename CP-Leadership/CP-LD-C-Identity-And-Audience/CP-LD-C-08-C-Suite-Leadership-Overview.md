@@ -25,7 +25,7 @@ Liceria & Co.
 A clear view of the leaders, priorities, and direction shaping the future of the organization.
 
 **Footer:**
-Board Briefing Document | April 24, 2026
+Board Briefing Document | April 24, 2036
 
 ---
 
@@ -36,7 +36,7 @@ Board Briefing Document | April 24, 2026
 Lead Executive: Adeline Palmerston
 Role: Chief Executive Officer
 Organization: Liceria & Co.
-Briefing Date: April 24, 2026
+Briefing Date: April 24, 2036
 
 **Body (30–49 words, label fields excluded):**
 This overview presents Liceria & Co.'s C-suite leadership structure — who leads, what they own, and how they work together to move the organization forward. It is designed to give board members and senior stakeholders a clear and current picture of executive leadership.

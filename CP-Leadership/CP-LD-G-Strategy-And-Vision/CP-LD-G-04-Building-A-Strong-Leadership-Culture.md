@@ -15,7 +15,7 @@
 **Title:** Building A Strong Leadership Culture
 **Subtitle:** How Liceria & Co. Shapes the Way Leaders Behave, Decide, and Lead
 **Organization:** Liceria & Co.
-**Date:** September 9, 2025
+**Date:** September 9, 2035
 
 ---
 
@@ -24,7 +24,7 @@
 **Headline:** About This Guide
 
 **The Topic:** Building A Strong Leadership Culture
-**The Date:** September 9, 2025
+**The Date:** September 9, 2035
 **The Venue:** Studio Shodwe
 **The Organization:** Liceria & Co.
 **The Culture Lead:** Adeline Palmerston

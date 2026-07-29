@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **This Guide:** New Manager Development Guide<br>**Launch Date:** July 7, 2025<br>**Your Organization:** Liceria & Co.<br>**Your Program Lead:** Adeline Palmerston<br>**Designed For:** First-time and recently promoted managers<br><br>**Why It Exists:** Managing people is one of the most rewarding and most challenging roles in any organization. This guide gives new managers at Liceria & Co. a clear, practical path — so they can start strong, build confidence, and lead their teams with clarity and care. |
+| **This Guide:** New Manager Development Guide<br>**Launch Date:** July 7, 2035<br>**Your Organization:** Liceria & Co.<br>**Your Program Lead:** Adeline Palmerston<br>**Designed For:** First-time and recently promoted managers<br><br>**Why It Exists:** Managing people is one of the most rewarding and most challenging roles in any organization. This guide gives new managers at Liceria & Co. a clear, practical path — so they can start strong, build confidence, and lead their teams with clarity and care. |
 
 **Visual Note:** Clean structured opener in slate and teal with clear typographic layout. 40% white space for editability.
 

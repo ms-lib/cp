@@ -25,7 +25,7 @@ Liceria & Co.
 A presentation of leadership identity, vision, and impact at the highest level.
 
 **Footer:**
-Prepared for Board & Senior Leadership | April 24, 2026
+Prepared for Board & Senior Leadership | April 24, 2036
 
 ---
 
@@ -36,7 +36,7 @@ Prepared for Board & Senior Leadership | April 24, 2026
 The Executive: Adeline Palmerston
 The Title: Chief Executive Officer
 The Organization: Liceria & Co.
-The Date: April 24, 2026
+The Date: April 24, 2036
 
 **Body (30–49 words, label fields excluded):**
 Adeline Palmerston leads Liceria & Co. with clarity, conviction, and purpose. Her leadership is defined by bold decisions, a long-term view, and a commitment to the people and values that drive the organization forward every day.

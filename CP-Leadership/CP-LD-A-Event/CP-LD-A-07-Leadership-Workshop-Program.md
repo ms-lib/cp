@@ -29,7 +29,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **The Event:** Leadership Workshop — Liceria & Co.<br>**The Date:** July 22, 2025<br>**The Venue:** Studio Shodwe Learning Center<br>**The Lead Facilitator:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** This workshop is not a lecture. It is a learning experience — built on real conversations, honest reflection, and hands-on practice. At Liceria & Co., we believe that leadership skills are not taught from a slide. They are built in rooms like this one at Studio Shodwe, where leaders challenge each other, practice together, and leave with tools they can use from tomorrow. |
+| **The Event:** Leadership Workshop — Liceria & Co.<br>**The Date:** July 22, 2035<br>**The Venue:** Studio Shodwe Learning Center<br>**The Lead Facilitator:** Adeline Palmerston, Head of Leadership Development<br><br>**Our Purpose:** This workshop is not a lecture. It is a learning experience — built on real conversations, honest reflection, and hands-on practice. At Liceria & Co., we believe that leadership skills are not taught from a slide. They are built in rooms like this one at Studio Shodwe, where leaders challenge each other, practice together, and leave with tools they can use from tomorrow. |
 
 **Visual Note:** Warm, engaging workshop header with orange and slate accents. Maintain 40% white space for editability.
 
@@ -132,7 +132,7 @@
 
 **Text:**
 - Leadership Workshop Program
-- Liceria & Co. • Studio Shodwe • July 22, 2025
+- Liceria & Co. • Studio Shodwe • July 22, 2035
 - www.reallygreatsite.com
 
 ---

@@ -19,7 +19,7 @@
 **Text:**
 - Title: Leadership Annual Report
 - Subtitle: A Year of Progress, People, and Purpose
-- Supporting Text: Fiscal Year 2024 — Liceria & Co.
+- Supporting Text: Fiscal Year 2034 — Liceria & Co.
 
 ---
 
@@ -30,7 +30,7 @@
 **Jumlah Kolom:** 1  
 | Kolom 1 |
 |---------|
-| **Reporting Period:**<br>Fiscal Year 2024<br>**Prepared By:**<br>Adeline Palmerston<br>**Co-Author:**<br>Drew Feig<br>**Submitted To:**<br>Board of Directors, Liceria & Co.<br>**Date Submitted:**<br>January 15, 2025<br><br>This report captures our leadership journey through Fiscal Year 2024. It reflects what our teams built, how our leaders showed up, and the progress we made toward the goals we set. We share this openly — with honesty, clarity, and a clear view forward. |
+| **Reporting Period:**<br>Fiscal Year 2034<br>**Prepared By:**<br>Adeline Palmerston<br>**Co-Author:**<br>Drew Feig<br>**Submitted To:**<br>Board of Directors, Liceria & Co.<br>**Date Submitted:**<br>January 15, 2035<br><br>This report captures our leadership journey through Fiscal Year 2034. It reflects what our teams built, how our leaders showed up, and the progress we made toward the goals we set. We share this openly — with honesty, clarity, and a clear view forward. |
 
 **Visual Note:** Clean report-style layout. Label fields left-aligned in small caps or subdued color. Body paragraph centered or left block below a thin divider.
 
@@ -117,11 +117,11 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Looking Ahead to Fiscal Year 2025  
+**Judul Halaman:** Looking Ahead to Fiscal Year 2035  
 **Jumlah Kolom:** 2  
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **What We Will Build On**<br><br>This year showed us what strong leadership makes possible. In 2025, we will deepen those foundations — investing in people, maintaining strategic focus, and continuing to hold ourselves accountable to the goals we set. | **What We Will Change**<br><br>We learned where we can do better. In 2025, we will move faster in developing early-career leaders, improve how we track learning outcomes, and create more spaces for honest feedback to shape how we lead. |
+| **What We Will Build On**<br><br>This year showed us what strong leadership makes possible. In 2035, we will deepen those foundations — investing in people, maintaining strategic focus, and continuing to hold ourselves accountable to the goals we set. | **What We Will Change**<br><br>We learned where we can do better. In 2035, we will move faster in developing early-career leaders, improve how we track learning outcomes, and create more spaces for honest feedback to shape how we lead. |
 
 **Visual Note:** Split layout with a clear heading per column. Clean and easy to scan. Light divider or subtle background contrast between columns.
 
@@ -132,7 +132,7 @@
 **Visual Note:** Full-bleed deep navy background matching Page 1. Tagline in gold, organization name centered, contact line and closing note in ivory below.
 
 **Text:**
-- Tagline: Clear Leadership. Real Results. Fiscal Year 2024.
+- Tagline: Clear Leadership. Real Results. Fiscal Year 2034.
 - Organization: Liceria & Co.
 - Contact Line: Prepared by the Office of Adeline Palmerston, Chief Leadership Officer
 - Closing Note: Thank you to every leader, team, and stakeholder who made this year's work possible.
