@@ -1,19 +1,23 @@
-# JUDUL 30 OF 30
-## ___ ___ Group Project Retrospective Presentation
+# JUDUL 89 OF 100
+## Group Project Retrospective Presentation
 
 **Sub-Topic:** F - Corporate & Cross-Functional Teams  
+**Main Keywords:** retrospective, agile retro, corporate postmortem, process optimization  
+**Audience:** Corporate Teams, Cross-Functional Groups, Project Managers  
+**Style:** Modern, Professional, Clean  
+**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→4→1→2→4→3→1→2→1  
+**Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  
 
 ---
 
-### PAGE 1 - TEAM PROJECT PRESENTATION
+### PAGE 1 - PROJECT PRESENTATION
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Presentation
-- Subtitle: Analyzing What Went Well, What to Improve, and Action Items for Future Projects
+- Title: Group Project Retrospective Presentation
+- Subtitle: Reviewing Corporate Agile Projects for Continuous Improvement
 
 ---
 
@@ -25,7 +29,7 @@
 
 | Kolom 1 |
 |---------|
-| **Team Leader:** Drew Feig  <br>**Project Advisor:** Adeline Palmerston  <br>**Organization:** Studio Shodwe  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Team Leader:** Drew Feig  <br>**Project Advisor:** Adeline Palmerston  <br>**Organization:** Studio Shodwe  <br><br>Our group is dedicated to exploring key research objectives for group project retrospective presentation and executing collaborative tasks effectively. This presentation outlines our methodology, milestone achievements, and final outcomes. |
 
 ---
 
@@ -33,11 +37,11 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Introduction  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **What Went Well:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **What Needs Improvement:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Action Steps for Next Time:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Team Morale:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Project Research Scope:**<br>We established a clear set of research parameters to ensure high academic standards and complete coverage of essential project themes. | **Team Task Allocation:**<br>Every team member was assigned specific roles and responsibilities to streamline output, maintain accountability, and meet all project deadlines. |
 
 ---
 
@@ -49,7 +53,7 @@
 
 | Kolom 1 |
 |---------|
-| **Project Background:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Main Problem & Vision:**<br>Understanding core challenges in group project retrospective presentation requires thorough investigation and active teamwork. By addressing key problem areas early, our team developed actionable solutions that drive measurable project success across all phases. |
 
 ---
 
@@ -57,11 +61,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Project Goals  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Collecting Notes:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Gathering Insights:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Research & Literature:**<br>Reviewing background sources to ground our team project in verified facts. | **Data Collection Goals:**<br>Gathering primary findings and organizing data systematically for clear evaluation. | **Drafting & Synthesis:**<br>Combining team contributions into a structured final presentation deliverable. |
 
 ---
 
@@ -73,7 +77,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Start Stop Continue Rules:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Team Feedback Notes:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Fixing Work Bottlenecks:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Root Cause Review:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Main Method:**<br>Establishing structured research frameworks and group protocols. | **Execution Strategy:**<br>Implementing daily progress checks and shared workspace tools. | **Quality Control:**<br>Reviewing initial outputs as a team to verify accuracy and standards. | **Final Review:**<br>Consolidating feedback into polished, ready-to-present project slides. |
 
 ---
 
@@ -81,11 +85,11 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Analysis  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Team Satisfaction Review:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Work Efficiency Audit:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Action Tracker Check:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Evaluating Key Factors:**<br>Analyzing collected data points to extract meaningful patterns and critical insights relevant to our project focus. | **Core Findings:**<br>Synthesizing group observations into structured conclusions that highlight effective solutions and teamwork achievements. |
 
 ---
 
@@ -97,7 +101,7 @@
 
 | Kolom 1 |
 |---------|
-| **Team Action Agreement:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Primary Outcome:**<br>Through sustained collaboration and structured execution, our team successfully delivered comprehensive findings on group project retrospective presentation that meet high standards of quality, clarity, and practical value for our audience. |
 
 ---
 
@@ -105,11 +109,11 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
 **Judul Halaman:** Conclusion  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Retrospective Summary:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Improvement Plan:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Key Takeaways:**<br>Summarizing main team achievements and overall project insights. | **Future Opportunities:**<br>Identifying potential areas for extended study or follow-up projects. | **Final Recommendations:**<br>Providing practical guidance based on team findings and analysis. |
 
 ---
 
@@ -118,5 +122,5 @@
 
 **Text:**
 - Thank You
-- Team Project Presentation
+- Group Project Retrospective Presentation
 - www.reallygreatsite.com

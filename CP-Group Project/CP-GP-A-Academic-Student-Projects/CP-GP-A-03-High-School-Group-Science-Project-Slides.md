@@ -1,19 +1,23 @@
-# JUDUL 3 OF 30
-## ___ ___ High School Group Science Project Slides
+# JUDUL 3 OF 100
+## High School Group Science Project Slides
 
 **Sub-Topic:** A - Academic & Student Group Projects  
+**Main Keywords:** science project, high school science, experiment slides, stem group  
+**Audience:** Students, University Groups, Academic Teams  
+**Style:** Modern, Professional, Clean  
+**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→4→1→3→2→2→1→3→1  
+**Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  
 
 ---
 
-### PAGE 1 - GROUP PROJECT
+### PAGE 1 - PROJECT PRESENTATION
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project
-- Subtitle: Exploring Scientific Discovery Through Teamwork and Experimental Investigation
+- Title: High School Group Science Project Slides
+- Subtitle: Exploring Scientific Hypotheses and Experimental Results
 
 ---
 
@@ -25,7 +29,7 @@
 
 | Kolom 1 |
 |---------|
-| **Team Leader:** Drew Feig  <br>**Project Advisor:** Adeline Palmerston  <br>**Organization:** Studio Shodwe  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Team Leader:** Drew Feig  <br>**Project Advisor:** Adeline Palmerston  <br>**Organization:** Studio Shodwe  <br><br>Our group is dedicated to exploring key research objectives for high school group science project slides and executing collaborative tasks effectively. This presentation outlines our methodology, milestone achievements, and final outcomes. |
 
 ---
 
@@ -33,11 +37,11 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Introduction  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Main Science Question:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Experimental Setup:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Safety Rules & Steps:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Identifying Variables:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Project Research Scope:**<br>We established a clear set of research parameters to ensure high academic standards and complete coverage of essential project themes. | **Team Task Allocation:**<br>Every team member was assigned specific roles and responsibilities to streamline output, maintain accountability, and meet all project deadlines. |
 
 ---
 
@@ -49,7 +53,7 @@
 
 | Kolom 1 |
 |---------|
-| **Background & Science History:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Main Problem & Vision:**<br>Understanding core challenges in high school group science project slides requires thorough investigation and active teamwork. By addressing key problem areas early, our team developed actionable solutions that drive measurable project success across all phases. |
 
 ---
 
@@ -61,7 +65,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Testing Our Hypothesis:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Controlled Experiment:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Data Charts & Graphs:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| **Research & Literature:**<br>Reviewing background sources to ground our team project in verified facts. | **Data Collection Goals:**<br>Gathering primary findings and organizing data systematically for clear evaluation. | **Drafting & Synthesis:**<br>Combining team contributions into a structured final presentation deliverable. |
 
 ---
 
@@ -69,11 +73,11 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Profile/Spotlight  
 **Judul Halaman:** Process  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 4  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Laboratory Testing:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Tracking Observations:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Main Method:**<br>Establishing structured research frameworks and group protocols. | **Execution Strategy:**<br>Implementing daily progress checks and shared workspace tools. | **Quality Control:**<br>Reviewing initial outputs as a team to verify accuracy and standards. | **Final Review:**<br>Consolidating feedback into polished, ready-to-present project slides. |
 
 ---
 
@@ -85,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Comparing Test Results:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Analyzing Experiment Outcomes:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Evaluating Key Factors:**<br>Analyzing collected data points to extract meaningful patterns and critical insights relevant to our project focus. | **Core Findings:**<br>Synthesizing group observations into structured conclusions that highlight effective solutions and teamwork achievements. |
 
 ---
 
@@ -97,7 +101,7 @@
 
 | Kolom 1 |
 |---------|
-| **Scientific Experiment Outcome:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Primary Outcome:**<br>Through sustained collaboration and structured execution, our team successfully delivered comprehensive findings on high school group science project slides that meet high standards of quality, clarity, and practical value for our audience. |
 
 ---
 
@@ -109,7 +113,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Main Project Conclusion:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Ideas for Future Tests:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Team Acknowledgments:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| **Key Takeaways:**<br>Summarizing main team achievements and overall project insights. | **Future Opportunities:**<br>Identifying potential areas for extended study or follow-up projects. | **Final Recommendations:**<br>Providing practical guidance based on team findings and analysis. |
 
 ---
 
@@ -118,5 +122,5 @@
 
 **Text:**
 - Thank You
-- Group Project
+- High School Group Science Project Slides
 - www.reallygreatsite.com

@@ -1,19 +1,23 @@
-# JUDUL 25 OF 30
-## ___ ___ Hackathon Team Group Project Pitch Presentation
+# JUDUL 73 OF 100
+## Hackathon Team Group Project Pitch Presentation
 
 **Sub-Topic:** E - Case Study, Pitch & Innovation  
+**Main Keywords:** hackathon pitch, rapid prototype, sprint pitch, hackathon slides  
+**Audience:** Competition Teams, Business Students, Hackathon Participants  
+**Style:** Modern, Professional, Clean  
+**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  
 
 ---
 
-### PAGE 1 - TEAM PROJECT PRESENTATION
+### PAGE 1 - PROJECT PRESENTATION
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Presentation
-- Subtitle: Showcasing Rapidly Built Prototypes and Tech Innovation Under Tight Constraints
+- Title: Hackathon Team Group Project Pitch Presentation
+- Subtitle: Rapid Prototype Pitching for High-Speed Competition
 
 ---
 
@@ -25,7 +29,7 @@
 
 | Kolom 1 |
 |---------|
-| **Team Leader:** Drew Feig  <br>**Project Advisor:** Adeline Palmerston  <br>**Organization:** Studio Shodwe  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Team Leader:** Drew Feig  <br>**Project Advisor:** Adeline Palmerston  <br>**Organization:** Studio Shodwe  <br><br>Our group is dedicated to exploring key research objectives for hackathon team group project pitch presentation and executing collaborative tasks effectively. This presentation outlines our methodology, milestone achievements, and final outcomes. |
 
 ---
 
@@ -37,7 +41,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Short Sprint Focus:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Tools & Technology:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Project Research Scope:**<br>We established a clear set of research parameters to ensure high academic standards and complete coverage of essential project themes. | **Team Task Allocation:**<br>Every team member was assigned specific roles and responsibilities to streamline output, maintain accountability, and meet all project deadlines. |
 
 ---
 
@@ -49,7 +53,7 @@
 
 | Kolom 1 |
 |---------|
-| **Hackathon Challenge:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Main Problem & Vision:**<br>Understanding core challenges in hackathon team group project pitch presentation requires thorough investigation and active teamwork. By addressing key problem areas early, our team developed actionable solutions that drive measurable project success across all phases. |
 
 ---
 
@@ -61,7 +65,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Brainstorming Ideas:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Fast Prototyping:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Connecting Tools:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| **Research & Literature:**<br>Reviewing background sources to ground our team project in verified facts. | **Data Collection Goals:**<br>Gathering primary findings and organizing data systematically for clear evaluation. | **Drafting & Synthesis:**<br>Combining team contributions into a structured final presentation deliverable. |
 
 ---
 
@@ -73,7 +77,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Code Overview:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Live Feature Demo:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Database Plan:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Design Wireframe:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Main Method:**<br>Establishing structured research frameworks and group protocols. | **Execution Strategy:**<br>Implementing daily progress checks and shared workspace tools. | **Quality Control:**<br>Reviewing initial outputs as a team to verify accuracy and standards. | **Final Review:**<br>Consolidating feedback into polished, ready-to-present project slides. |
 
 ---
 
@@ -85,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **System Speed & Capacity:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **User Interface Review:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Evaluating Key Factors:**<br>Analyzing collected data points to extract meaningful patterns and critical insights relevant to our project focus. | **Core Findings:**<br>Synthesizing group observations into structured conclusions that highlight effective solutions and teamwork achievements. |
 
 ---
 
@@ -97,7 +101,7 @@
 
 | Kolom 1 |
 |---------|
-| **Working Prototype Demo:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Primary Outcome:**<br>Through sustained collaboration and structured execution, our team successfully delivered comprehensive findings on hackathon team group project pitch presentation that meet high standards of quality, clarity, and practical value for our audience. |
 
 ---
 
@@ -109,7 +113,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Hackathon Pitch Summary:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Future Product Plan:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Open Source Code Link:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| **Key Takeaways:**<br>Summarizing main team achievements and overall project insights. | **Future Opportunities:**<br>Identifying potential areas for extended study or follow-up projects. | **Final Recommendations:**<br>Providing practical guidance based on team findings and analysis. |
 
 ---
 
@@ -118,5 +122,5 @@
 
 **Text:**
 - Thank You
-- Team Project Presentation
+- Hackathon Team Group Project Pitch Presentation
 - www.reallygreatsite.com

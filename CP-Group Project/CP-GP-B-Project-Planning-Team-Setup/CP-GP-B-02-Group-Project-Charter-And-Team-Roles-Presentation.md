@@ -1,19 +1,23 @@
-# JUDUL 7 OF 30
-## ___ ___ Group Project Charter And Team Roles Presentation
+# JUDUL 19 OF 100
+## Group Project Charter And Team Roles Presentation
 
 **Sub-Topic:** B - Project Planning & Team Setup  
+**Main Keywords:** project charter, role allocation, team responsibilities, governance slides  
+**Audience:** Team Leaders, Project Managers, Student Groups  
+**Style:** Modern, Professional, Clean  
+**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  
 
 ---
 
-### PAGE 1 - GROUP PROJECT
+### PAGE 1 - PROJECT PRESENTATION
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project
-- Subtitle: Establishing Team Governance, Individual Responsibilities, and Operating Rules
+- Title: Group Project Charter And Team Roles Presentation
+- Subtitle: Establishing Team Responsibilities and Operating Guidelines
 
 ---
 
@@ -25,7 +29,7 @@
 
 | Kolom 1 |
 |---------|
-| **Team Leader:** Drew Feig  <br>**Project Advisor:** Adeline Palmerston  <br>**Organization:** Studio Shodwe  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Team Leader:** Drew Feig  <br>**Project Advisor:** Adeline Palmerston  <br>**Organization:** Studio Shodwe  <br><br>Our group is dedicated to exploring key research objectives for group project charter and team roles presentation and executing collaborative tasks effectively. This presentation outlines our methodology, milestone achievements, and final outcomes. |
 
 ---
 
@@ -37,7 +41,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Team Purpose Statement:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Team Responsibilities:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Project Research Scope:**<br>We established a clear set of research parameters to ensure high academic standards and complete coverage of essential project themes. | **Team Task Allocation:**<br>Every team member was assigned specific roles and responsibilities to streamline output, maintain accountability, and meet all project deadlines. |
 
 ---
 
@@ -49,7 +53,7 @@
 
 | Kolom 1 |
 |---------|
-| **Organization Background & Vision:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Main Problem & Vision:**<br>Understanding core challenges in group project charter and team roles presentation requires thorough investigation and active teamwork. By addressing key problem areas early, our team developed actionable solutions that drive measurable project success across all phases. |
 
 ---
 
@@ -61,7 +65,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Confirming Team Roles:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Handling Team Conflicts:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Meeting Schedule:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| **Research & Literature:**<br>Reviewing background sources to ground our team project in verified facts. | **Data Collection Goals:**<br>Gathering primary findings and organizing data systematically for clear evaluation. | **Drafting & Synthesis:**<br>Combining team contributions into a structured final presentation deliverable. |
 
 ---
 
@@ -73,7 +77,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Role Assignment Plan:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Decision-Making Steps:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Team Rules Agreement:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Getting Help & Guidance:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Main Method:**<br>Establishing structured research frameworks and group protocols. | **Execution Strategy:**<br>Implementing daily progress checks and shared workspace tools. | **Quality Control:**<br>Reviewing initial outputs as a team to verify accuracy and standards. | **Final Review:**<br>Consolidating feedback into polished, ready-to-present project slides. |
 
 ---
 
@@ -85,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Team Skills Check:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Workload Balance Audit:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Evaluating Key Factors:**<br>Analyzing collected data points to extract meaningful patterns and critical insights relevant to our project focus. | **Core Findings:**<br>Synthesizing group observations into structured conclusions that highlight effective solutions and teamwork achievements. |
 
 ---
 
@@ -97,7 +101,7 @@
 
 | Kolom 1 |
 |---------|
-| **Signed Team Charter:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Primary Outcome:**<br>Through sustained collaboration and structured execution, our team successfully delivered comprehensive findings on group project charter and team roles presentation that meet high standards of quality, clarity, and practical value for our audience. |
 
 ---
 
@@ -109,7 +113,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Governance Summary:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Onboarding Action Plan:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. | **Team Agreement Sign-Off:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. |
+| **Key Takeaways:**<br>Summarizing main team achievements and overall project insights. | **Future Opportunities:**<br>Identifying potential areas for extended study or follow-up projects. | **Final Recommendations:**<br>Providing practical guidance based on team findings and analysis. |
 
 ---
 
@@ -118,5 +122,5 @@
 
 **Text:**
 - Thank You
-- Group Project
+- Group Project Charter And Team Roles Presentation
 - www.reallygreatsite.com
