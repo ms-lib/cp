@@ -1,5 +1,5 @@
 # JUDUL 20 OF 30
-## ___ ___ How To Succeed In Your Group Project Guide
+## ___ ___ Student Group Project Collaboration Report Presentation
 
 **Sub-Topic:** D - Teacher & Educator Guides  
 
@@ -13,7 +13,7 @@
 
 **Text:**
 - Title: Team Project Presentation
-- Subtitle: Essential Habits, Soft Skills, and Best Practices for Effective Student Collaboration
+- Subtitle: Documenting Collaboration Habits, Team Dynamics, and Best Practices
 
 ---
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Success Checklist:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Personal Commitment:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Collaboration Summary:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Personal Commitment:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
 
 ---
 

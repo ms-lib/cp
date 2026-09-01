@@ -1,5 +1,5 @@
 # JUDUL 10 OF 30
-## ___ ___ How Our Group Project Works Team Guide
+## ___ ___ Group Project Workflow And Operating Presentation
 
 **Sub-Topic:** B - Project Planning & Team Setup  
 
@@ -13,7 +13,7 @@
 
 **Text:**
 - Title: Project Presentation
-- Subtitle: A Practical Guide to Team Tools, Workflows, and Expectations
+- Subtitle: A Practical Overview of Team Tools, Workflows, and Expectations
 
 ---
 

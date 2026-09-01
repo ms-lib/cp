@@ -1,5 +1,5 @@
 # JUDUL 7 OF 30
-## ___ ___ Group Project Charter And Team Roles Guide
+## ___ ___ Group Project Charter And Team Roles Presentation
 
 **Sub-Topic:** B - Project Planning & Team Setup  
 

@@ -1,5 +1,5 @@
 # JUDUL 17 OF 30
-## ___ ___ Student Group Project Rubric And Assessment Guide
+## ___ ___ Student Group Project Assessment Presentation
 
 **Sub-Topic:** D - Teacher & Educator Guides  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Understanding the Rubric:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Mid-Point Checkup:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Peer Review Submission:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Final Grade Review:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Understanding Rubrics:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Mid-Point Checkup:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Peer Review Submission:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Final Grade Review:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Rubric Summary:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Final Grade Guidelines:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
+| **Assessment Summary:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. | **Final Grade Guidelines:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate. |
 
 ---
 
