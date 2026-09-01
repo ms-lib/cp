@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **The Principal Lead:**<br>Principal Adeline Palmerston opens the ceremony with a welcoming address, setting academic goals and outlining our vision. | **The Counselor Voice:**<br>Estelle Darcy shares inspiring words on mental wellbeing, student support programs, and community safety guidelines. | **The Operations Voice:**<br>Assistant Drew Feig coordinates the event logistics, assembly setup, and facility guides to ensure a smooth kickoff. |
+| **The Principal Lead:**<br>Principal Adeline Palmerston opens the ceremony with a welcoming address, setting academic goals and outlining our vision. | **The Support Voice:**<br>Estelle Darcy shares inspiring words on student growth, support programs, and community safety guidelines. | **The Operations Voice:**<br>Assistant Drew Feig coordinates the event logistics, assembly setup, and facility guides to ensure a smooth kickoff. |
 
 **Visual Note:** Classy duo-profile spotlight displaying the portraits of Adeline Palmerston and Estelle Darcy with elegant gold highlights.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| Let's carry the spirit of this ceremony into our daily activities, working together to achieve great things. Welcome back to school, and let's make this year extraordinary. | **Get Involved:**<br>Assembly programs, school year resource guides, and schedules are available at the lobby. Contact Adeline Palmerston to access them. |
+| Let's carry the spirit of this ceremony into our daily activities, working together to achieve great things. Welcome back to school, and let's make this year extraordinary. | **Get Involved:**<br>Assembly programs, school year resource guides, and schedules are available at the lobby. Reaching out to Adeline Palmerston provides full access. |
 
 **Visual Note:** Split closing layout in burgundy and cream. Informative call to action on the right, inspiring message on the left.  
 

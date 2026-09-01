@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **The Lead Guide:**<br>Teacher Adeline Palmerston coordinates our class schedule, guides daily lessons, and helps you explore new topics. | **The Operations Lead:**<br>Assistant Drew Feig manages classroom supplies, setup, and helps coordinate science lab activities. | **The Support Voice:**<br>Counselor Estelle Darcy is always available to guide student social development and support emotional wellbeing. |
+| **The Lead Guide:**<br>Teacher Adeline Palmerston coordinates our class schedule, guides daily lessons, and helps you explore new topics. | **The Operations Lead:**<br>Assistant Drew Feig manages classroom supplies, setup, and helps coordinate science lab activities. | **The Support Voice:**<br>Student Care Lead Estelle Darcy is always available to guide student social development and support personal growth. |
 
 **Visual Note:** Trio-profile layout featuring circular frames for portraits of Adeline, Drew, and Estelle with simple text below.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Find Your Desk:**<br>Locate your name tag and organize your personal cubby box. | **Check the Board:**<br>See our daily calendar, job chart, and weekly announcements. |
+| **Find Your Desk:**<br>Locating your name tag and organizing your personal cubby box. | **Check the Board:**<br>Checking the daily calendar, job chart, and weekly announcements. |
 
 **Visual Note:** Two friendly activity columns styled as clipboards with green checklist checkmarks.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We are excited to fill this classroom with your creative drawings, hard work, and happy laughter. Welcome to a brand-new year of discovery and growth. | **Next Steps:**<br>Classroom maps, supply checklists, and orientation materials are available at the front door. Contact Adeline Palmerston to get involved. |
+| We are excited to fill this classroom with your creative drawings, hard work, and happy laughter. Welcome to a brand-new year of discovery and growth. | **Next Steps:**<br>Classroom maps, supply checklists, and orientation materials are available at the front door. Reaching out to Adeline Palmerston is a great way to get involved. |
 
 **Visual Note:** Split closing layout. Soft cream left panel, navy blue right panel with white text.  
 

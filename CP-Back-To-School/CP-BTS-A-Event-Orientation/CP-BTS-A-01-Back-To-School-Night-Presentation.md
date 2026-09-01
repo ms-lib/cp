@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Our Partnership:**<br>Learn how teachers and parents work together to build a strong foundation. | **Classroom Goals:**<br>Discover what students will explore, practice, and achieve this year. | **School Community:**<br>Connect with other families, teachers, and school activity leaders. |
+| **Our Partnership:**<br>Understanding how teachers and parents work together to build a strong foundation. | **Classroom Goals:**<br>Exploring what students will practice and achieve throughout this year. | **School Community:**<br>Connecting with other families, teachers, and school activity leaders. |
 
 **Visual Note:** Three clean columns with graphic icons representing a handshake, a lightbulb, and a school building.  
 
@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Daily Activity:**<br>Explore our regular schedule and classroom routines. | **Home Support:**<br>Finding practical ways to encourage reading at home. | **School Events:**<br>Join us for monthly parent meetings and events. | **Digital Updates:**<br>Receive weekly news through our school app. |
+| **Daily Activity:**<br>Exploring our regular schedule and classroom routines. | **Home Support:**<br>Finding practical ways to encourage reading at home. | **School Events:**<br>Participating in monthly parent meetings and events. | **Digital Updates:**<br>Accessing weekly news through our school app. |
 
 **Visual Note:** Four horizontal card elements in alternating navy and cream colors for clear data scanning.  
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Leadership Team:**<br>Led by Principal Adeline Palmerston, our school administration is dedicated to creating a safe, inclusive, and supportive environment where every student can thrive. | **The Guidance Voice:**<br>Counselor Estelle Darcy works closely with teachers and parents to support student emotional wellbeing and guide social development throughout the year. |
+| **The Leadership Team:**<br>Led by Principal Adeline Palmerston, our school administration is dedicated to creating a safe, inclusive, and supportive environment where every student can thrive. | **The Guidance Voice:**<br>Student Care Lead Estelle Darcy works closely with teachers and parents to support student growth and guide social development throughout the year. |
 
 **Visual Note:** Duo-profile layout featuring portraits of Adeline Palmerston and Estelle Darcy with clean text blocks.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Volunteer:**<br>Join our parent association and help organize classroom events. | **Share Ideas:**<br>Attend monthly roundtable meetings to discuss school initiatives. | **Support Art:**<br>Help design backdrops for our school theater productions. |
+| **Volunteer:**<br>Participating in the parent association and organizing classroom events. | **Share Ideas:**<br>Joining monthly roundtable meetings to discuss school initiatives. | **Support Art:**<br>Assisting with backdrop designs for school theater productions. |
 
 **Visual Note:** Three clean volunteer activity card columns with custom checkmark icons.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| Our shared commitment to student growth begins tonight. Let's work together to make this school year a wonderful journey of discovery and learning for every child in our classroom. | **Get in Touch:**<br>Parent resource guides, school calendars, and teacher contact lists are available on request. Contact Adeline Palmerston to get involved. |
+| Our shared commitment to student growth begins tonight. Let's work together to make this school year a wonderful journey of discovery and learning for every child in our classroom. | **Get in Touch:**<br>Parent resource guides, school calendars, and teacher contact lists are available on request. Reaching out to Adeline Palmerston is a great way to get involved. |
 
 **Visual Note:** Split closing layout. Left column for motivational team text, right column with contact info.  
 

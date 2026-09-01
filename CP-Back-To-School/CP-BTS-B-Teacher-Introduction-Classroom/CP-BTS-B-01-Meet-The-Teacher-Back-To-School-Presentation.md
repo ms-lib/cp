@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Math Magic:**<br>Solve fun number puzzles. | **Book Club:**<br>Read exciting adventure stories. | **Lab Science:**<br>Trying hands-on weekly experiments. | **Creative Art:**<br>Paint colorful classroom projects. |
+| **Math Magic:**<br>Solving fun number puzzles. | **Book Club:**<br>Reading exciting adventure stories. | **Lab Science:**<br>Trying hands-on weekly experiments. | **Creative Art:**<br>Painting colorful classroom projects. |
 
 **Visual Note:** Four horizontal card elements in bright, friendly primary colors for clear data scanning.  
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Helper Voice:**<br>Assistant Drew Feig is excited to help with classroom activities, guide science labs, and make sure everyone has what they need to succeed throughout the year. | **The Guidance Voice:**<br>Counselor Estelle Darcy is always here to support student emotional wellbeing and help us build a warm, positive classroom community daily. |
+| **The Helper Voice:**<br>Assistant Drew Feig is excited to help with classroom activities, guide science labs, and make sure everyone has what they need to succeed throughout the year. | **The Guidance Voice:**<br>Student Care Lead Estelle Darcy is always here to support student growth and help us build a warm, positive classroom community daily. |
 
 **Visual Note:** Duo-profile layout featuring portraits of Drew Feig and Estelle Darcy with playful circular frames.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We are ready to embark on an amazing learning journey together. I look forward to working with you and your families to make this school year outstanding. | **Get in Touch:**<br>Classroom schedules, supply lists, and parent contact details are available on request. Contact Adeline Palmerston to stay updated. |
+| We are ready to embark on an amazing learning journey together. I look forward to working with you and your families to make this school year outstanding. | **Get in Touch:**<br>Classroom schedules, supply lists, and parent contact details are available on request. Reaching out to Adeline Palmerston is a great way to stay updated. |
 
 **Visual Note:** Split closing layout. Left column for motivational team text, right column with contact info.  
 
