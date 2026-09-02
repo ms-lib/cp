@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Project Assignment Presentation
 - Subtitle: A Collaborative Guide to Academic Assignment Success
 
 ---

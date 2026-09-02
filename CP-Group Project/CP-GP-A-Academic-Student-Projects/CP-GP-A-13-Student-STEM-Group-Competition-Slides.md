@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student STEM Group Competition Slides
 - Subtitle: Engineering Design, Innovation, and Technical Solutions
 
 ---

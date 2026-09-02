@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Conflict Resolution Guide Presentation
 - Subtitle: Empowering Teachers and Students to Manage Group Friction
 
 ---

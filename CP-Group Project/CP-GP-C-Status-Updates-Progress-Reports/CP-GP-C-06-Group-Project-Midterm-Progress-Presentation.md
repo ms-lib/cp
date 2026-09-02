@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Midterm Progress Presentation
 - Subtitle: Comprehensive Mid-Point Evaluation and Adjustments
 
 ---

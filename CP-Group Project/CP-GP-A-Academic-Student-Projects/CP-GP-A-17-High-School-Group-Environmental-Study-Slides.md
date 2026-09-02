@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: High School Group Environmental Study Slides
 - Subtitle: Investigating Ecosystems, Sustainability, and Conservation
 
 ---

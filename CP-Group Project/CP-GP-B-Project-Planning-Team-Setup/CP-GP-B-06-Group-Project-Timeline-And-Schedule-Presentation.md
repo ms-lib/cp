@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Timeline And Schedule Presentation
 - Subtitle: Structuring Deadlines, Phases, and Milestone Tracking
 
 ---

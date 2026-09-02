@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Cross-Departmental Team Project Alignment Presentation
 - Subtitle: Harmonizing Goals, Workflows, and Resources Across Teams
 
 ---

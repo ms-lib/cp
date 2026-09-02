@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Task Allocation Presentation
 - Subtitle: Assigning Roles, RACI Matrix, and Task Accountability
 
 ---

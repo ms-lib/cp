@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Project Collaboration Report Presentation
 - Subtitle: Monitoring Group Dynamics, Cohesion, and Individual Input
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Stakeholder Update Slides
 - Subtitle: Communicating Status, Risks, and Value to Leadership
 
 ---

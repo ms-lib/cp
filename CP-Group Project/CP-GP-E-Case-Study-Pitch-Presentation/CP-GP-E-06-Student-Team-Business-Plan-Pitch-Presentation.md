@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Business Plan Pitch Presentation
 - Subtitle: Structuring Market Strategy, Financials, and Business Model
 
 ---

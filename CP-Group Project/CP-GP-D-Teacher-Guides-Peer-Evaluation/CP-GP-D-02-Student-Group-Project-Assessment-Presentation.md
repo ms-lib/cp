@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Project Assessment Presentation
 - Subtitle: Rubrics, Criteria, and Grading Models for Team Assignments
 
 ---

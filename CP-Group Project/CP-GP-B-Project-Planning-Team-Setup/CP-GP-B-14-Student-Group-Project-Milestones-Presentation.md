@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Project Milestones Presentation
 - Subtitle: Setting Critical Stage Gates and Milestone Deliverables
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Structuring Academic Team Projects Presentation
 - Subtitle: Scaffolding Group Work Across the Term for Maximum Learning
 
 ---

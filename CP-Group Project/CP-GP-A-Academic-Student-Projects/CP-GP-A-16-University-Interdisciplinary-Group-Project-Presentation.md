@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: University Interdisciplinary Group Project Presentation
 - Subtitle: Bridging Disciplines for Comprehensive Academic Solutions
 
 ---

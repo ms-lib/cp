@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Weekly Progress Review Slides
 - Subtitle: Highlights, Ongoing Tasks, and Immediate Weekly Focus
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Final Progress Check Presentation
 - Subtitle: Pre-Submission Verification and Readiness Assessment
 
 ---

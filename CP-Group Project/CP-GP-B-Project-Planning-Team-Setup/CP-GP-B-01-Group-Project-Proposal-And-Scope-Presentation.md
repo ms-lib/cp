@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Proposal And Scope Presentation
 - Subtitle: Defining Project Scope, Objectives, and Team Agreements
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Work Breakdown Structure Slides
 - Subtitle: Deconstructing Complex Projects Into Actionable Tasks
 
 ---

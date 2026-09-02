@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Educator Guide To Managing Student Group Projects
 - Subtitle: Best Practices for Structuring and Supervising Team Assignments
 
 ---

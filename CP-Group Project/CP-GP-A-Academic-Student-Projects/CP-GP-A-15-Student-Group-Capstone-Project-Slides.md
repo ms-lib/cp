@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Capstone Project Slides
 - Subtitle: Demonstrating Mastery Through Senior Capstone Research
 
 ---

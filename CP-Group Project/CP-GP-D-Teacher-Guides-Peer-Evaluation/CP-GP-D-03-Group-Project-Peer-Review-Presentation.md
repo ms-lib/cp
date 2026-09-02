@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Peer Review Presentation
 - Subtitle: Structuring Peer Evaluation and Team Dynamics Assessment
 
 ---

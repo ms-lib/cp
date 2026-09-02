@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Success Metrics Presentation For Teachers
 - Subtitle: Measuring Learning Outcomes, Teamwork, and Course Success
 
 ---

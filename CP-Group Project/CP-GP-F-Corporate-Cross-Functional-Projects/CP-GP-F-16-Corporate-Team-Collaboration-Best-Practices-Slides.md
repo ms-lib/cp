@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Corporate Team Collaboration Best Practices Slides
 - Subtitle: Guidelines for Hybrid Work, Communication, and Performance
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Grading Rubric Overview Slides
 - Subtitle: Transparent Breakdown of Individual and Group Grade Components
 
 ---

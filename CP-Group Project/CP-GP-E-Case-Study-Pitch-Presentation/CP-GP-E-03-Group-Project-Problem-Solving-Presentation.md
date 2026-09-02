@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Problem Solving Presentation
 - Subtitle: Identifying Root Causes and Delivering Practical Solutions
 
 ---

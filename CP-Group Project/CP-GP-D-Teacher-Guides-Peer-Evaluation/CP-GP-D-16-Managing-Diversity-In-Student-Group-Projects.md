@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Managing Diversity In Student Group Projects
 - Subtitle: Building Inclusive, Diverse, and Collaborative Student Teams
 
 ---

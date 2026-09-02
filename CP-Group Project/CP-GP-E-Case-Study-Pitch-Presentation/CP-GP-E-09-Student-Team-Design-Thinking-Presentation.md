@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Design Thinking Presentation
 - Subtitle: Empathize, Define, Ideate, Prototype, and Test Framework
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Internal Team Project Showcase Presentation
 - Subtitle: Displaying Project Milestones to Company Stakeholders
 
 ---

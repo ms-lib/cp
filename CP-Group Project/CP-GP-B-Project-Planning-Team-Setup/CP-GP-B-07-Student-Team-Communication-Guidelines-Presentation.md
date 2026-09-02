@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Communication Guidelines Presentation
 - Subtitle: Establishing Clear Communication Channels and Expectations
 
 ---

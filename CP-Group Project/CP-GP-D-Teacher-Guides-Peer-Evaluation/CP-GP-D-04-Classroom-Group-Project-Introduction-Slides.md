@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Classroom Group Project Introduction Slides
 - Subtitle: Setting Student Expectations and Scope for Class Assignments
 
 ---

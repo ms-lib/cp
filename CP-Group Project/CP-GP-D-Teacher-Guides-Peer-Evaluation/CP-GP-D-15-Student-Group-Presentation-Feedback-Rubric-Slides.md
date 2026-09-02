@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Presentation Feedback Rubric Slides
 - Subtitle: Evaluating Oral Delivery, Visual Slides, and Subject Mastery
 
 ---

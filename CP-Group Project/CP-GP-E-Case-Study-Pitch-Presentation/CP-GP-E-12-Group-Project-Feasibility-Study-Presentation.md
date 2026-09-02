@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Feasibility Study Presentation
 - Subtitle: Assessing Technical, Financial, and Operational Viability
 
 ---

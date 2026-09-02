@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Charter And Team Roles Presentation
 - Subtitle: Establishing Team Responsibilities and Operating Guidelines
 
 ---

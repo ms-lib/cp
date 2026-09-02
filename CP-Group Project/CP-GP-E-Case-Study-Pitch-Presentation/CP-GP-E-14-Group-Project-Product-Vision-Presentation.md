@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Product Vision Presentation
 - Subtitle: Mapping Core Value Propositions and Long-Term Product Goals
 
 ---

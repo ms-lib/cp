@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: University Team Research Group Presentation
 - Subtitle: Rigorous Academic Methodologies and Research Findings
 
 ---

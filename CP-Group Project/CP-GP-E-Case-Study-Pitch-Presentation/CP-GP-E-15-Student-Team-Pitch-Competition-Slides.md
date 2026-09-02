@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Pitch Competition Slides
 - Subtitle: High-Impact Slides Built for Short Time Limit Competitions
 
 ---

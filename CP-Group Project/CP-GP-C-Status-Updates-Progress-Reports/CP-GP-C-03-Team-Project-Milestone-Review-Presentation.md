@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Milestone Review Presentation
 - Subtitle: Evaluating Milestone Achievements and Upcoming Targets
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Phase Completion Review Slides
 - Subtitle: Summarizing Phase Outcomes Before Moving to Next Stage
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Sprint Retrospective Presentation
 - Subtitle: Evaluating Process Strengths, Weaknesses, and Action Items
 
 ---

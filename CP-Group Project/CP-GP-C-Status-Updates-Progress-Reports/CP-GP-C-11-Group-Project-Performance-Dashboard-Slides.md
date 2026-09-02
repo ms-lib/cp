@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Performance Dashboard Slides
 - Subtitle: Visualizing Key Performance Indicators and Completion Metrics
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Collaboration Tools And Workflow Slides
 - Subtitle: Integrating Digital Tools for Seamless Group Productivity
 
 ---

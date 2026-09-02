@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Creative Concept Pitch Presentation
 - Subtitle: Unveiling Visual Concepts, Branding, and Creative Campaigns
 
 ---

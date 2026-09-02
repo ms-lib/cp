@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: High School Group History Project Slides
 - Subtitle: Analyzing Historical Events, Primary Sources, and Context
 
 ---

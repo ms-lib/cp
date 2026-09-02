@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Executive Summary Group Project Presentation
 - Subtitle: High-Level Briefing for C-Suite and Board Directors
 
 ---

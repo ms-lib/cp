@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Feedback And Revision Review Slides
 - Subtitle: Incorporating Advisor Feedback and Refinement Steps
 
 ---

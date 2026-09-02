@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Case Analysis Presentation
 - Subtitle: Evaluating Academic Case Studies and Problem Solvers
 
 ---

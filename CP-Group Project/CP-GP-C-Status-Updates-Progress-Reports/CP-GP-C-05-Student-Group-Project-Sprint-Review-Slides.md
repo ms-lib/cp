@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Project Sprint Review Slides
 - Subtitle: Showcasing Iterative Sprint Results and Completed User Stories
 
 ---

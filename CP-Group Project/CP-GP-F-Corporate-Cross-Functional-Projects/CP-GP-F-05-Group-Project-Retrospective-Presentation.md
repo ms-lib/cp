@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Retrospective Presentation
 - Subtitle: Reviewing Corporate Agile Projects for Continuous Improvement
 
 ---

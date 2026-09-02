@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Cross-Functional Project Milestones Presentation
 - Subtitle: Tracking Inter-Divisional Milestone Completion
 
 ---

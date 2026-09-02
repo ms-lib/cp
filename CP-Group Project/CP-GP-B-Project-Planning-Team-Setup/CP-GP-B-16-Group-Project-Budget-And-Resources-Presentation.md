@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Budget And Resources Presentation
 - Subtitle: Managing Financial Estimates and Resource Schedules
 
 ---

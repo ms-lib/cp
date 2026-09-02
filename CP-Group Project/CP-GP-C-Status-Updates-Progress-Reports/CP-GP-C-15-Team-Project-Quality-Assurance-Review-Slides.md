@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Quality Assurance Review Slides
 - Subtitle: Verifying Compliance With Academic and Technical Standards
 
 ---

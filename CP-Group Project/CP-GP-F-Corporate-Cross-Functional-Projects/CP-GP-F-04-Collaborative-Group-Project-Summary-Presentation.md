@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Collaborative Group Project Summary Presentation
 - Subtitle: Executive Overview of Inter-Team Success and Metrics
 
 ---

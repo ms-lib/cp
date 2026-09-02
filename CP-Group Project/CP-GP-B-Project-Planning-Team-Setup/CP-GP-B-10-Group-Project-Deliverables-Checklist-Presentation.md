@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Deliverables Checklist Presentation
 - Subtitle: Defining Output Quality Standards and Completion Criteria
 
 ---

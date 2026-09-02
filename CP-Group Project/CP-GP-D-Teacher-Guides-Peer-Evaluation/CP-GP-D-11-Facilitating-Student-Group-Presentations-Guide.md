@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Facilitating Student Group Presentations Guide
 - Subtitle: Guiding Students Through Effective Q&A and Presentation Skills
 
 ---

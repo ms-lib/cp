@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Competitive Analysis Pitch Slides
 - Subtitle: Benchmarking Solutions Against Market Competitors
 
 ---

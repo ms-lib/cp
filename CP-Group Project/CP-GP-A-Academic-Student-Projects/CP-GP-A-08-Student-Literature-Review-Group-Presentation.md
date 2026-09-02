@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Literature Review Group Presentation
 - Subtitle: Synthesizing Scholarly Sources and Critical Insights
 
 ---

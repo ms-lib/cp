@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Corporate Team Project Evaluation Slides
 - Subtitle: Measuring ROI, Process Efficiency, and Strategic Alignment
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Classroom Guidelines Presentation
 - Subtitle: Framework for Assigning and Managing Student Team Projects
 
 ---

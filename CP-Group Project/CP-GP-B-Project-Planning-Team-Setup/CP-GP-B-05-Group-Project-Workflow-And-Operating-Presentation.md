@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Workflow And Operating Presentation
 - Subtitle: Optimizing Team Collaboration Systems and Protocols
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Corporate Project Resource Allocation Slides
 - Subtitle: Optimizing Personnel, Time, and Capital Investments
 
 ---

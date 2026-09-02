@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Final Project Presentation Slides
 - Subtitle: Culminating Presentation of Completed Team Objectives
 
 ---

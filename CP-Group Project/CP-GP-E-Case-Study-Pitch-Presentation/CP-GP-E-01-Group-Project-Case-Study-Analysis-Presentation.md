@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Case Study Analysis Presentation
 - Subtitle: Analyzing Real-World Scenarios and Formulating Solutions
 
 ---

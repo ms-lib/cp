@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Innovation Challenge Pitch Presentation
 - Subtitle: Pitching Original Ideas to Competition Judges and Panels
 
 ---

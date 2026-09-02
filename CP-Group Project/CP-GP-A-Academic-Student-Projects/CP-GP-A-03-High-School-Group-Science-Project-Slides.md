@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: High School Group Science Project Slides
 - Subtitle: Exploring Scientific Hypotheses and Experimental Results
 
 ---

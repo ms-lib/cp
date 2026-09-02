@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Classroom Teamwork Rules And Code Of Conduct
 - Subtitle: Promoting Professional Ethics and Accountability Among Students
 
 ---

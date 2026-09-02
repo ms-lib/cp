@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Corporate Agile Team Project Presentation
 - Subtitle: Demonstrating Velocity, Backlog Management, and Sprint Delivery
 
 ---

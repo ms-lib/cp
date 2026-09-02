@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Market Opportunity Analysis Slides
 - Subtitle: Evaluating Industry Size, Target Audiences, and Growth Drivers
 
 ---

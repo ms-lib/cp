@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Project Report Presentation
 - Subtitle: Structured Overview of Academic Group Outcomes
 
 ---

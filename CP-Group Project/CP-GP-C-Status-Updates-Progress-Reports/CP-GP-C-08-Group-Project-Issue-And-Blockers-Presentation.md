@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Issue And Blockers Presentation
 - Subtitle: Addressing Project Hurdles, Risk Factors, and Solvers
 
 ---

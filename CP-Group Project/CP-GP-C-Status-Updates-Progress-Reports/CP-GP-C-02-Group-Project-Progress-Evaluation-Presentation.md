@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Progress Evaluation Presentation
 - Subtitle: Assessing Completed Phase Deliverables and Team Speed
 
 ---

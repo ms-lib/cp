@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Cross-Functional Group Project Presentation
 - Subtitle: Aligning Departmental Priorities for Organizational Alignment
 
 ---

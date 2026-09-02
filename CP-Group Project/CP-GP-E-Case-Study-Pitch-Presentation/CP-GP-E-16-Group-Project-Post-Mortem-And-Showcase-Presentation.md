@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Post-Mortem And Showcase Presentation
 - Subtitle: Reflecting on Wins, Lessons Learned, and Final Results
 
 ---

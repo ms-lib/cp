@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Project Kickoff Presentation
 - Subtitle: Initiating Team Alignment, Timelines, and Initial Goals
 
 ---

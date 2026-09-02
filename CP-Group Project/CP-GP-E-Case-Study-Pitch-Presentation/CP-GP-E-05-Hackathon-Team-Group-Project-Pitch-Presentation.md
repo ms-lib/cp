@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Hackathon Team Group Project Pitch Presentation
 - Subtitle: Rapid Prototype Pitching for High-Speed Competition
 
 ---

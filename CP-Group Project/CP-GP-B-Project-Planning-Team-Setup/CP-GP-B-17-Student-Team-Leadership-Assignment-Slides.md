@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Leadership Assignment Slides
 - Subtitle: Structuring Leadership Roles and Sub-Team Lead Guidelines
 
 ---

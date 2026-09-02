@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Prototype Demonstration Slides
 - Subtitle: Showcasing Product Features, User Flows, and Technical Builds
 
 ---

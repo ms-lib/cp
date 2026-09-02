@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Peer Evaluation System Presentation For Teachers
 - Subtitle: Implementing Fair, Confidential, and Actionable Peer Ratings
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Task Completion Update Presentation
 - Subtitle: Granular Review of Finished, Active, and Pending Tasks
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Check-In And Updates Presentation
 - Subtitle: Routine Team Standup and Obstacle Review Slides
 
 ---

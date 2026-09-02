@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Project Work In Progress Presentation
 - Subtitle: Draft Artifacts, Initial Output, and Ongoing Testing
 
 ---

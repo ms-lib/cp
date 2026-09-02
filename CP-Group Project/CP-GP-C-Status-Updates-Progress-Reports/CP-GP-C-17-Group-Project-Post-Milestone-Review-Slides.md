@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Post-Milestone Review Slides
 - Subtitle: Reflecting on Achieved Goals and Optimizing Next Phase
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Risk Management Presentation
 - Subtitle: Identifying Potential Hazards, Bottlenecks, and Mitigation Plans
 
 ---

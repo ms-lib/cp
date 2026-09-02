@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Roadmap And Goals Presentation
 - Subtitle: Mapping Strategic Milestones and Long-Term Deliverables
 
 ---

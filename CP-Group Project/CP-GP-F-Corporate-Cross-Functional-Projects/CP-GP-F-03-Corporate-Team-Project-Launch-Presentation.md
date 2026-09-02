@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Corporate Team Project Launch Presentation
 - Subtitle: Announcing New Initiatives and Departmental Workstreams
 
 ---

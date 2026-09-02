@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Cross-Departmental Innovation Pitch Presentation
 - Subtitle: Proposing Inter-Agency Solutions to Senior Management
 
 ---

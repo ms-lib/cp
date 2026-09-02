@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: College Group Seminar Presentation
 - Subtitle: Interactive Discussion and Research Panel Slides
 
 ---

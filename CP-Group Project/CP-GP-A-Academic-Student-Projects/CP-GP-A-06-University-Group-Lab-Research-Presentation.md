@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: University Group Lab Research Presentation
 - Subtitle: Laboratory Methodology, Data Gathering, and Results
 
 ---

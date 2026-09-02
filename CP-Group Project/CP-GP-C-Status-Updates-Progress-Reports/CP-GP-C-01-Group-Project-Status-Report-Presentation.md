@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Group Project Status Report Presentation
 - Subtitle: Tracking Current Progress, Accomplishments, and Next Steps
 
 ---

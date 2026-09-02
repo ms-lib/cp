@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Group Formation And Dynamics Presentation
 - Subtitle: Strategies for Balanced Group Composition and Team Bonding
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Student Team Expectations And Norms Slides
 - Subtitle: Fostering Mutual Respect, Accountability, and Shared Values
 
 ---

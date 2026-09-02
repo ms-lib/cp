@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Classroom Project Mentorship And Feedback Slides
 - Subtitle: Constructive Feedback Strategies for Project Milestones
 
 ---

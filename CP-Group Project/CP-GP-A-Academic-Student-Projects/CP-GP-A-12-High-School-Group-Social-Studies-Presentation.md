@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: High School Group Social Studies Presentation
 - Subtitle: Exploring Civic Issues, Community Impact, and Social Inquiry
 
 ---

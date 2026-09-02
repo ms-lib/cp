@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: University Group Fieldwork Study Slides
 - Subtitle: Field Data Collection, Environmental Analysis, and Observations
 
 ---

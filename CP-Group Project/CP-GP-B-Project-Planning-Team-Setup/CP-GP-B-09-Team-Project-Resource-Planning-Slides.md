@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Project Resource Planning Slides
 - Subtitle: Budgeting Tools, Equipment, and Information Resources
 
 ---

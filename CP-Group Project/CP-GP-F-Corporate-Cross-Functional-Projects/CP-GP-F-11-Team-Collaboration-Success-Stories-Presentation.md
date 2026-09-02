@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Team Collaboration Success Stories Presentation
 - Subtitle: Celebrating High-Impact Team Achievements Across the Business
 
 ---

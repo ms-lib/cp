@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Social Innovation Group Project Pitch Presentation
 - Subtitle: Designing Impactful Solutions for Community and Global Issues
 
 ---

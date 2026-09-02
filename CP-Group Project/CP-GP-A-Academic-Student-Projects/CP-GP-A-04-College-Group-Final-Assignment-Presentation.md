@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: College Group Final Assignment Presentation
 - Subtitle: Comprehensive Final Project Report and Findings
 
 ---

@@ -12,7 +12,6 @@
 **Layout:** Cover page  
 
 **Text:**
-- Title: Corporate Innovation Group Project Presentation
 - Subtitle: Showcasing Internal R&D and Intrapreneurship Initiatives
 
 ---
