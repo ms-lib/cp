@@ -1,8 +1,8 @@
 # CP-Resume — Master Title List
 
-**Theme:** Professional Resumes across 18 Professions  
-**Total Cluster:** 18 cluster (A–R), 2 file per cluster  
-**Total Files:** 36 judul resume (2 resume per profesi)  
+**Theme:** Professional Resumes across 23 Professions (inc. 5 AI/Tech Roles)  
+**Total Cluster:** 23 cluster (A–W), 2 file per cluster  
+**Total Files:** 46 judul resume (2 resume per profesi)  
 **Target Audience:** Pencari Kerja, Recruiter, HR Manager, Desainer Canva  
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-## CP-RES-C — UI/UX Designer
+## CP-RES-C — UI UX Designer
 | # | Kode | Nama Kandidat | Profesi | Style Layout |
 |---|---|---|---|---|
 | 05 | C-01 | Taylor Brooks | UI/UX Designer | SaaS & Interface Layout |
@@ -39,7 +39,7 @@
 
 ---
 
-## CP-RES-E — Social Media Manager / Specialist
+## CP-RES-E — Social Media Manager
 | # | Kode | Nama Kandidat | Profesi | Style Layout |
 |---|---|---|---|---|
 | 09 | E-01 | Samira Hadid | Social Media Manager | Y2K Retro Pop Aesthetic Layout |
@@ -63,7 +63,7 @@
 
 ---
 
-## CP-RES-H — HR / Talent Acquisition Specialist
+## CP-RES-H — HR Specialist
 | # | Kode | Nama Kandidat | Profesi | Style Layout |
 |---|---|---|---|---|
 | 15 | H-01 | Hayden Stone | HR Specialist | People & Culture Layout |
@@ -71,7 +71,7 @@
 
 ---
 
-## CP-RES-I — Content Writer / Copywriter
+## CP-RES-I — Content Writer Copywriter
 | # | Kode | Nama Kandidat | Profesi | Style Layout |
 |---|---|---|---|---|
 | 17 | I-01 | Rowan Davis | Content Writer | Editorial & Clean Typography Layout |
@@ -111,7 +111,7 @@
 
 ---
 
-## CP-RES-N — Waiters / Waitress
+## CP-RES-N — Waiters
 | # | Kode | Nama Kandidat | Profesi | Style Layout |
 |---|---|---|---|---|
 | 27 | N-01 | Donna Stroupe | Waiters | Structured Grey Diamond Layout |
@@ -135,7 +135,7 @@
 
 ---
 
-## CP-RES-Q — Photographer / Videographer
+## CP-RES-Q — Photographer Videographer
 | # | Kode | Nama Kandidat | Profesi | Style Layout |
 |---|---|---|---|---|
 | 33 | Q-01 | Casey Jordan | Photographer | Visual Studio & Gallery Layout |
@@ -143,11 +143,51 @@
 
 ---
 
-## CP-RES-R — Host Live
+## CP-RES-R — Live Host
 | # | Kode | Nama Kandidat | Profesi | Style Layout |
 |---|---|---|---|---|
 | 35 | R-01 | Valerie Dupont | Live Host | E-Commerce & Broadcast Layout |
 | 36 | R-02 | Adeline Palmerston | Live Stream Host | Creative Director & Live Speaker Layout |
+
+---
+
+## CP-RES-S — AI Product Manager
+| # | Kode | Nama Kandidat | Profesi | Style Layout |
+|---|---|---|---|---|
+| 37 | S-01 | Estelle Darcy | AI Product Manager | Modern SaaS & AI Product Layout |
+| 38 | S-02 | Katie Lawson | AI Product Manager | High-Growth Product Roadmap Layout |
+
+---
+
+## CP-RES-T — Cybersecurity Analyst
+| # | Kode | Nama Kandidat | Profesi | Style Layout |
+|---|---|---|---|---|
+| 39 | T-01 | Ndemi Otieno | Cybersecurity Analyst | 2-Column Security & Ops Layout |
+| 40 | T-02 | Chris Lee | Cybersecurity Analyst | Clean Technical SOC Layout |
+
+---
+
+## CP-RES-U — AI Solutions Architect
+| # | Kode | Nama Kandidat | Profesi | Style Layout |
+|---|---|---|---|---|
+| 41 | U-01 | Adeline Palmerston | AI Solutions Architect | Enterprise Architecture & Cloud Layout |
+| 42 | U-02 | Morgan Maxwell | Agentic Systems Architect | Modern Agent Architecture Layout |
+
+---
+
+## CP-RES-V — Machine Learning MLOps Engineer
+| # | Kode | Nama Kandidat | Profesi | Style Layout |
+|---|---|---|---|---|
+| 43 | V-01 | Avery Davis | Machine Learning MLOps Engineer | Clean ML Pipeline Layout |
+| 44 | V-02 | Dakota Quinn | Machine Learning Engineer | Tech Data & Pipeline Layout |
+
+---
+
+## CP-RES-W — Prompt Interaction Designer
+| # | Kode | Nama Kandidat | Profesi | Style Layout |
+|---|---|---|---|---|
+| 45 | W-01 | Olivia Wilson | Prompt Interaction Designer | Creative Tech & Interface Layout |
+| 46 | W-02 | Samira Hadid | AI Prompt & Content Specialist | Modern Conversational Aesthetic Layout |
 
 ---
 
