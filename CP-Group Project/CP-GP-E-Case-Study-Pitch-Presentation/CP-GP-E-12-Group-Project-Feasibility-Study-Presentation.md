@@ -12,7 +12,7 @@
 
 ---
 
-### PAGE 1 - PROJECT PRESENTATION
+### PAGE 1 - GROUP PROJECT
 **Layout:** Cover page  
 
 **Text:**
