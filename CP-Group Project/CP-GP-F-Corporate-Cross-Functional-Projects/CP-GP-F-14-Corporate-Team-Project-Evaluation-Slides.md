@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Drew Feig** – Team Lead  <br>**Adeline Palmerston** – Project Advisor  <br>**Samira Hadid**  <br>**Estelle Darcy**  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Drew Feig** – Project Director  <br>**Adeline Palmerston** – Cross-Functional Lead  <br>**Olivia Wilson** – Product Owner  <br>**Samira Hadid** – Business Analyst  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 

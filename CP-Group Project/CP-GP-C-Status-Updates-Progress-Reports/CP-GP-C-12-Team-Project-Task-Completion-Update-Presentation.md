@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Drew Feig** – Team Lead  <br>**Adeline Palmerston** – Project Advisor  <br>**Samira Hadid**  <br>**Estelle Darcy**  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Morgan Maxwell** – Team Leader  <br>**Estelle Darcy** – Milestone Tracker  <br>**Rowan Davis** – Evaluation Lead  <br>**Taylor Brooks** – Reporter  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 

@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Drew Feig** – Lead Coordinator  <br>**Adeline Palmerston** – Project Advisor  <br>**Rowan Davis**  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Morgan Maxwell**  <br>**Estelle Darcy**  <br>**Rowan Davis**  <br>**Taylor Brooks**  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 

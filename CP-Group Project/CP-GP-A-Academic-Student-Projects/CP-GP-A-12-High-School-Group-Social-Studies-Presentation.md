@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Drew Feig** – Lead Coordinator  <br>**Adeline Palmerston** – Project Advisor  <br>**Rowan Davis**  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Drew Feig**  <br>**Adeline Palmerston**  <br>**Olivia Wilson**  <br>**Samira Hadid**  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 

@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Team Leader:** Drew Feig  <br>**Project Advisor:** Adeline Palmerston  <br>**Team Member:** Claudia Alves  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Drew Feig**  <br>**Adeline Palmerston**  <br>**Olivia Wilson**  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 

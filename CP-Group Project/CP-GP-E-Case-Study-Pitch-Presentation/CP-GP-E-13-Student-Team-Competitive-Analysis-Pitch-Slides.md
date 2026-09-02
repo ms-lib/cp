@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Drew Feig** – Team Leader  <br>**Adeline Palmerston** – Project Advisor  <br>**Olivia Wilson** – Research Specialist  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Drew Feig** – Pitch Lead  <br>**Adeline Palmerston** – Strategy Consultant  <br>**Olivia Wilson** – Financial Analyst  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 

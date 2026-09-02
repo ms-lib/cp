@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Drew Feig** – Team Lead  <br>**Adeline Palmerston** – Project Advisor  <br>**Samira Hadid**  <br>**Estelle Darcy**  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Morgan Maxwell** – Student Lead  <br>**Estelle Darcy** – Researcher  <br>**Rowan Davis** – Editor  <br>**Taylor Brooks** – Speaker  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 

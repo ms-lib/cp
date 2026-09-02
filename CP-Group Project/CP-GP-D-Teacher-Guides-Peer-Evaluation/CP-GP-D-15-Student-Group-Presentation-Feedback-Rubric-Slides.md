@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Drew Feig** – Team Lead  <br>**Adeline Palmerston** – Project Advisor  <br>**Samira Hadid**  <br>**Estelle Darcy**  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Drew Feig** – Head Educator  <br>**Adeline Palmerston** – Project Advisor  <br>**Olivia Wilson** – Rubric Specialist  <br>**Samira Hadid** – Peer Reviewer  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 

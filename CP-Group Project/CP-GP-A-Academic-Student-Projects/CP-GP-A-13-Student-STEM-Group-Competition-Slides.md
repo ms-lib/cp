@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Drew Feig** – Team Leader  <br>**Adeline Palmerston** – Project Advisor  <br>**Olivia Wilson** – Research Specialist  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Aaron Loeb** – Academic Researcher  <br>**Claudia Alves** – Data Analyst  <br>**Samira Hadid** – Writer  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 
