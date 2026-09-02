@@ -2,8 +2,10 @@
 ## Valerie Dupont – Live Host Resume
 
 **Sub-Topic:** Host Live  
+**Main Keywords:** live host, live stream broadcasting, shopee live, tiktok live, product demonstration, sales pitching, on-camera speaking  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** E-Commerce & Broadcast Layout  
+**Tone:** Charismatic, Lively, Convincing  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Live Host with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Charismatic Live Stream Host specializing in e-commerce sales broadcasts on TikTok Live and Shopee Live. Skilled in live product demonstrations, real-time viewer interaction, and driving live sales conversions.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Communication & Media** | Salford University (2018 - 2022)
+- **High School Diploma** | Salford High School (2016 - 2019)
 
 ---
 
@@ -38,16 +40,17 @@ Experienced Live Host with a proven track record in driving results, delivering 
   - Host daily live broadcast sales events on Shopee/TikTok Live
   - Demonstrate product features and engage viewers to boost sales conversions
 
-- **Event Host / Moderator** | Stage Craft Events (2020 - 2022)
+- **Event Host / Moderator** | Stage Craft Events (2019 - 2022)
   - Hosted promotional brand launches and moderated interactive Q&A sessions
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Live Stream Hosting
+- Live Host
+- Live Stream Broadcasting
+- Shopee Live
+- Tiktok Live
 - Product Demonstration
-- Audience Interaction
 - Sales Pitching
 - On-Camera Speaking
-- Event Moderation

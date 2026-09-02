@@ -2,8 +2,10 @@
 ## Daniel Gallego – Head Chef Resume
 
 **Sub-Topic:** Chef  
+**Main Keywords:** head chef, culinary management, main course cuisine, recipe creation, kitchen safety, staff leadership, menu design  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Dark Brown Culinary Executive Layout  
+**Tone:** Passionate, Culinary Master, Dedicated  
 
 **Total Pages:** 1 halaman  
 
@@ -21,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Head Chef with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Creative Head Chef with over 10 years of experience managing kitchen operations, developing signature main course recipes, and maintaining rigorous food health standards. Dedicated to mentoring culinary staff and creating memorable dining experiences.
 
 ---
 
@@ -34,12 +36,12 @@ Experienced Head Chef with a proven track record in driving results, delivering 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Head Chef** | Rimberio Restaurant (2014 – Present)
+- **Head Chef** | Rimberio Restaurant (2015 – Present)
   - Developed and cooked exciting, memorable dishes for restaurant menu
   - Mentored more than 10 kitchen staff at all levels to fulfill demand
   - Spearheaded menu planning, recipe development, and kitchen safety
 
-- **Chef De Partie** | Wardiere Inc. Restaurant (2011 - 2014)
+- **Chef De Partie** | Wardiere Inc. Restaurant (2011 - 2015)
   - Collaborated with head chef to recruit and train kitchen staff
   - Evaluated food production and labor costs to reduce fees
 
@@ -47,9 +49,10 @@ Experienced Head Chef with a proven track record in driving results, delivering 
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Main Course Culinary Expertise
-- Kitchen Operations
-- Recipe Development
-- Menu Planning
-- Health & Safety Compliance
-- Staff Mentorship
+- Head Chef
+- Culinary Management
+- Main Course Cuisine
+- Recipe Creation
+- Kitchen Safety
+- Staff Leadership
+- Menu Design

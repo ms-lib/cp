@@ -2,8 +2,10 @@
 ## Estelle Darcy – Digital Marketing Specialist Resume
 
 **Sub-Topic:** Digital Marketing Specialist  
+**Main Keywords:** digital marketing, campaign strategy, content optimization, social media marketing, performance analytics, audience targeting  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Modern Minimalist Blue Layout  
+**Tone:** Professional, Analytical, Strategic  
 
 **Total Pages:** 1 halaman  
 
@@ -21,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Digital Marketing Specialist with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Results-driven Digital Marketing Specialist with 5+ years of experience crafting multi-channel campaigns. Skilled in audience targeting, content optimization, and data-backed marketing strategies that boost brand engagement and online presence.
 
 ---
 
@@ -34,12 +36,12 @@ Experienced Digital Marketing Specialist with a proven track record in driving r
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Digital Marketing Specialist** | Larana Inc. (2021 – Present)
+- **Digital Marketing Specialist** | Larana Inc. (2022 – Present)
   - Plan and execute digital marketing campaigns across online platforms
   - Optimize content and campaigns based on performance insights
   - Manage brand presence and messaging across digital channels
 
-- **Digital Marketing Specialist** | Freelance / Project-Based (2018 - 2021)
+- **Digital Marketing Specialist** | Freelance / Project-Based (2019 - 2022)
   - Develop marketing strategies aligned with business goals
   - Monitor campaign performance and recommend improvements
   - Collaborate with creative and content teams
@@ -48,9 +50,9 @@ Experienced Digital Marketing Specialist with a proven track record in driving r
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Digital Marketing Strategy
-- Social Media Marketing
+- Digital Marketing
+- Campaign Strategy
 - Content Optimization
-- Campaign Planning & Execution
-- Performance Analysis
+- Social Media Marketing
+- Performance Analytics
 - Audience Targeting

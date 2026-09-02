@@ -2,8 +2,10 @@
 ## Riley Harper – Product Manager Resume
 
 **Sub-Topic:** Product Manager  
+**Main Keywords:** product management, roadmap strategy, agile scrum, user stories, feature prioritization, customer research  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Agile Roadmap Layout  
+**Tone:** Strategic, Empathetic, Visionary  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Product Manager with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Strategic Product Manager passionate about defining clear product roadmaps and delivering user-centric digital products. Skilled in agile prioritization, conducting user research, and aligning cross-functional engineering teams.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Business & Technology** | Brocelle University (2017 - 2021)
+- **Bachelor of Business & Technology** | Brocelle University (2016 - 2020)
 
 ---
 
@@ -38,16 +40,16 @@ Experienced Product Manager with a proven track record in driving results, deliv
   - Define product vision and feature roadmaps for web platforms
   - Prioritize backlog items based on user research and business value
 
-- **Associate Product Manager** | Digital Venture Co. (2019 - 2021)
+- **Associate Product Manager** | Digital Venture Co. (2018 - 2021)
   - Gathered customer feedback and wrote clear user stories for developers
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Product Strategy
-- Roadmap Planning
-- Agile & Scrum
+- Product Management
+- Roadmap Strategy
+- Agile Scrum
 - User Stories
-- Market Research
-- Cross-Functional Leadership
+- Feature Prioritization
+- Customer Research

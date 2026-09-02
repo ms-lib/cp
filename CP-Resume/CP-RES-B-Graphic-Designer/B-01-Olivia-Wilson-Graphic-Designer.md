@@ -2,8 +2,10 @@
 ## Olivia Wilson – Graphic Designer Resume
 
 **Sub-Topic:** Graphic Designer  
+**Main Keywords:** graphic design, visual identity, branding, typography, color theory, vector illustration, print production  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Creative Pastel Grid Cards Layout  
+**Tone:** Creative, Imaginative, Detail-Oriented  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Graphic Designer with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Creative Graphic Designer passionate about visual storytelling, branding, and typography. Adept at translating client concepts into vibrant, cohesive brand identities across print and digital media.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor Degree in Graphic Design** | Brocelle University (2014 - 2018)
+- **Associate Degree in Graphic Design** | Metropolitan Arts College (2015 - 2017)
 
 ---
 
@@ -38,11 +40,11 @@ Experienced Graphic Designer with a proven track record in driving results, deli
   - Developed consistent branding for client marketing materials
   - Presented visual proposals to internal and external teams
 
-- **Junior Graphic Designer** | Rimberio Company (2017 - 2020)
+- **Junior Graphic Designer** | Rimberio Company (2018 - 2021)
   - Collaborated with copywriters and project leads to align messages
   - Revised designs based on stakeholder feedback
 
-- **Graphic Design Intern** | Rimberio Company (2015 - 2016)
+- **Graphic Design Intern** | Studio Shodwe (2017 - 2018)
   - Edited digital assets for marketing and social campaigns
   - Assisted in preparing print-ready materials
 
@@ -50,9 +52,10 @@ Experienced Graphic Designer with a proven track record in driving results, deli
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Layout & Typography Design
-- Branding & Visual Identity
+- Graphic Design
+- Visual Identity
+- Branding
+- Typography
 - Color Theory
 - Vector Illustration
-- Adobe Creative Suite
-- Print Prep
+- Print Production

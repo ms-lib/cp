@@ -26,8 +26,8 @@
 ## CP-RES-C — UI/UX Designer
 | # | Kode | Nama Kandidat | Profesi | Style Layout |
 |---|---|---|---|---|
-| 05 | C-01 | Taylor Brooks | UI UX Designer | SaaS & Interface Layout |
-| 06 | C-02 | Jordan Lee | UI UX Designer | Clean Dark Accent Layout |
+| 05 | C-01 | Taylor Brooks | UI/UX Designer | SaaS & Interface Layout |
+| 06 | C-02 | Jordan Lee | UI/UX Designer | Clean Dark Accent Layout |
 
 ---
 

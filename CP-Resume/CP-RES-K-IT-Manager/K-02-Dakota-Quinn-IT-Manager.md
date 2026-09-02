@@ -2,8 +2,10 @@
 ## Dakota Quinn – IT Manager Resume
 
 **Sub-Topic:** IT Manager  
+**Main Keywords:** it operations, cybersecurity, network infrastructure, server maintenance, vendor management, system admin  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Enterprise Security & Infrastructure Layout  
+**Tone:** Rigorous, Security-Minded, Reliable  
 
 **Total Pages:** 1 halaman  
 
@@ -21,33 +23,33 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced IT Manager with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Pragmatic IT Manager specializing in enterprise network security, server maintenance, and vendor contract management. Focused on maintaining 99.9% system uptime and safeguarding digital asset infrastructure.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Science in Information Technology** | Rimberio University (2016 - 2020)
+- **Associate Degree in Network Administration** | Rimberio Technical College (2016 - 2018)
 
 ---
 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **IT Manager** | Global Enterprise Systems (2020 – Present)
+- **IT Manager** | Global Enterprise Systems (2021 – Present)
   - Oversee company-wide network security, server uptime, and hardware infrastructure
   - Manage IT support team and external vendor service agreements
 
-- **Systems Administrator** | Data Shield Corp (2018 - 2020)
+- **Systems Administrator** | Data Shield Corp (2018 - 2021)
   - Configured local network firewalls and user access permissions
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- IT Operations
+- It Operations
+- Cybersecurity
 - Network Infrastructure
-- Cybersecurity Standards
-- Server Management
+- Server Maintenance
 - Vendor Management
-- Team Leadership
+- System Admin

@@ -2,8 +2,10 @@
 ## Katie Lawson – Digital Marketing Specialist Resume
 
 **Sub-Topic:** Digital Marketing Specialist  
+**Main Keywords:** paid acquisition, seo, sem optimization, email marketing, funnel building, google analytics, lead generation  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Vibrant Campaign & Growth Layout  
+**Tone:** Dynamic, High-Energy, Results-Oriented  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Digital Marketing Specialist with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Performance-oriented Digital Marketer specializing in paid acquisition, SEO, and sales funnels. Proven ability to scale conversion rates, build high-converting email sequences, and optimize ad spend across competitive markets.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Business Marketing** | Brooklands College (2019 - 2023)
+- **Diploma in Digital Media & Marketing** | Brooklands Vocational Institute (2017 - 2019)
 
 ---
 
@@ -37,9 +39,9 @@ Experienced Digital Marketing Specialist with a proven track record in driving r
 - **Senior Digital Marketer** | Growth Media Lab (2023 – Present)
   - Scale paid acquisition channels resulting in a 40% growth in leads
   - Design data-driven A/B testing frameworks for landing pages
-  - Oversaw quarterly marketing budget allocation
+  - Oversee quarterly marketing budget allocation
 
-- **Marketing Associate** | Vanguard Digital (2021 - 2023)
+- **Marketing Associate** | Vanguard Digital (2020 - 2023)
   - Managed email marketing automation sequences for subscriber lists
   - Tracked conversion rates and generated weekly performance reports
 
@@ -47,9 +49,10 @@ Experienced Digital Marketing Specialist with a proven track record in driving r
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- SEO & SEM Optimization
+- Paid Acquisition
+- Seo
+- Sem Optimization
 - Email Marketing
 - Funnel Building
 - Google Analytics
-- Paid Ad Management
 - Lead Generation

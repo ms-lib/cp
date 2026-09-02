@@ -2,8 +2,10 @@
 ## Rowan Davis – Content Writer Resume
 
 **Sub-Topic:** Content Writer / Copywriter  
+**Main Keywords:** content writing, article creation, seo research, copy editing, proofreading, editorial strategy, blogging  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Editorial & Clean Typography Layout  
+**Tone:** Articulate, Thoughtful, Eloquent  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Content Writer with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Versatile Content Writer skilled in producing clear, engaging articles, blog posts, and long-form thought leadership content. Passionate about conducting thorough research and crafting SEO-optimized narratives.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of English Literature** | Salford University (2017 - 2021)
+- **Bachelor of English Literature** | Salford University (2016 - 2020)
 
 ---
 
@@ -38,7 +40,7 @@ Experienced Content Writer with a proven track record in driving results, delive
   - Write high-ranking blog posts and long-form articles for tech clients
   - Edit and proofread content submitted by freelance contributors
 
-- **Junior Writer** | Media Horizon (2019 - 2021)
+- **Junior Writer** | Media Horizon (2018 - 2021)
   - Researched industry topics and drafted weekly newsletter content
   - Optimized web articles for SEO keyword targets
 
@@ -46,9 +48,10 @@ Experienced Content Writer with a proven track record in driving results, delive
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Article Writing
-- Blog Post Creation
-- SEO Research
+- Content Writing
+- Article Creation
+- Seo Research
 - Copy Editing
 - Proofreading
-- Content Strategy
+- Editorial Strategy
+- Blogging

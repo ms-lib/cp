@@ -1,9 +1,11 @@
 # JUDUL 5 OF 36
-## Taylor Brooks – UI UX Designer Resume
+## Taylor Brooks – UI/UX Designer Resume
 
 **Sub-Topic:** UI/UX Designer  
+**Main Keywords:** ui ux design, figma prototyping, wireframing, user flows, mobile interface, web app design, design systems  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** SaaS & Interface Layout  
+**Tone:** User-Centric, Innovative, Collaborative  
 
 **Total Pages:** 1 halaman  
 
@@ -15,30 +17,30 @@
 
 **Header Information:**
 - Name: Taylor Brooks
-- Job Title: UI UX Designer
+- Job Title: UI/UX Designer
 - Phone: +123-456-7890
 - Email: hello@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced UI UX Designer with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+User-centric UI/UX Designer dedicated to creating clean, intuitive web and mobile interfaces. Experienced in Figma wireframing, interactive prototyping, and conducting usability testing to streamline user journeys.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Science in Interactive Design** | Tech University (2018 - 2022)
+- **Bachelor of Science in Interactive Design** | Tech University (2017 - 2021)
 
 ---
 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **UI/UX Designer** | Nexus Software Studio (2022 – Present)
+- **UI/UX Designer** | Nexus Software Studio (2021 – Present)
   - Design intuitive web and mobile interfaces using Figma
   - Conduct user testing sessions to iterate on interface prototypes
 
-- **UI Designer** | AppWorks Inc. (2020 - 2022)
+- **UI Designer** | AppWorks Inc. (2019 - 2021)
   - Created design systems and UI component libraries for web apps
   - Collaborated with front-end developers on design handoff
 
@@ -46,9 +48,10 @@ Experienced UI UX Designer with a proven track record in driving results, delive
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- User Interface Design
+- Ui Ux Design
+- Figma Prototyping
 - Wireframing
-- Prototyping
-- Figma
-- User Flow Mapping
-- Mobile App Design
+- User Flows
+- Mobile Interface
+- Web App Design
+- Design Systems

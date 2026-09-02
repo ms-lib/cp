@@ -2,8 +2,10 @@
 ## Casey Jordan – Photographer Resume
 
 **Sub-Topic:** Photographer / Videographer  
+**Main Keywords:** photographer, commercial photography, portrait lighting, photo retouching, adobe lightroom, studio editing  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Visual Studio & Gallery Layout  
+**Tone:** Artistic, Precise, Visual  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Photographer with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Passionate Commercial Photographer with expertise in studio lighting setups, portraiture, and post-processing retouching. Committed to capturing crisp visual imagery for brand catalogs and editorial features.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Fine Arts in Photography** | Visual Arts College (2016 - 2020)
+- **Associate Degree in Photography** | Visual Arts Academy (2016 - 2018)
 
 ---
 
@@ -46,9 +48,9 @@ Experienced Photographer with a proven track record in driving results, deliveri
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
+- Photographer
 - Commercial Photography
 - Portrait Lighting
-- Image Retouching
+- Photo Retouching
 - Adobe Lightroom
-- Photo Editing
-- Studio Setup
+- Studio Editing

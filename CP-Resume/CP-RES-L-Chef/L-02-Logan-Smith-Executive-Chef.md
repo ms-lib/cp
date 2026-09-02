@@ -2,8 +2,10 @@
 ## Logan Smith – Executive Chef Resume
 
 **Sub-Topic:** Chef  
+**Main Keywords:** executive chef, fine dining cuisine, food costing, banquet management, quality control, kitchen supervision  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Fine Dining Operations Layout  
+**Tone:** Professional, Precision-Minded, Inspiring  
 
 **Total Pages:** 1 halaman  
 
@@ -21,33 +23,33 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Executive Chef with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Passionate Executive Chef specializing in fine dining menu creation, banquet service, and food cost control. Skilled in directing line cooks, maintaining culinary quality, and crafting seasonal specialty menus.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Associate Degree in Culinary Arts** | Gourmet Culinary Institute (2012 - 2015)
+- **High School Diploma & Culinary Certificate** | Gourmet Culinary Academy (2012 - 2015)
 
 ---
 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Executive Chef** | Brocelle Fine Dining (2018 – Present)
+- **Executive Chef** | Brocelle Fine Dining (2019 – Present)
   - Oversee kitchen staff, daily food preparation, and menu execution
   - Control food inventory costs while maintaining premium culinary standards
 
-- **Sous Chef** | Savory Bistro (2015 - 2018)
+- **Sous Chef** | Savory Bistro (2015 - 2019)
   - Supervised line cooks and assisted head chef in dish creation
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
+- Executive Chef
 - Fine Dining Cuisine
-- Kitchen Leadership
 - Food Costing
 - Banquet Management
-- Inventory Management
 - Quality Control
+- Kitchen Supervision

@@ -2,8 +2,10 @@
 ## Kendall Wright – Talent Acquisition Specialist Resume
 
 **Sub-Topic:** HR / Talent Acquisition Specialist  
+**Main Keywords:** technical recruiting, talent sourcing, candidate interviewing, employer branding, ats management, offer negotiation  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Recruitment & Sourcing Layout  
+**Tone:** Persuasive, Strategic, Communicative  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Talent Acquisition Specialist with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Dynamic Talent Acquisition Specialist with a strong track record in sourcing and recruiting skilled tech and corporate talent. Passionate about building positive candidate experiences and streamlining recruitment pipelines.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Arts in Psychology** | Salford University (2019 - 2023)
+- **High School Diploma** | Salford Preparatory Academy (2016 - 2019)
 
 ---
 
@@ -38,15 +40,16 @@ Experienced Talent Acquisition Specialist with a proven track record in driving 
   - Source and recruit candidate talent for engineering and product roles
   - Manage end-to-end recruitment lifecycle from interview to offer stage
 
-- **Recruitment Coordinator** | Hire Right Inc. (2021 - 2023)
+- **Recruitment Coordinator** | Hire Right Inc. (2020 - 2023)
   - Scheduled candidate interviews and updated applicant tracking database
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Technical Sourcing
+- Technical Recruiting
+- Talent Sourcing
 - Candidate Interviewing
 - Employer Branding
-- Applicant Tracking Systems (ATS)
+- Ats Management
 - Offer Negotiation

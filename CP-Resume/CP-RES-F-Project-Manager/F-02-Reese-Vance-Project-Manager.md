@@ -2,8 +2,10 @@
 ## Reese Vance – Project Manager Resume
 
 **Sub-Topic:** Project Manager  
+**Main Keywords:** workflow optimization, sprint planning, team coordination, change management, process improvement, cost control  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Operations & Workflow Layout  
+**Tone:** Pragmatic, Collaborative, Resourceful  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Project Manager with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Operations Project Manager focused on streamlining team workflows and optimizing operational efficiency. Experienced in conducting daily stand-ups, managing task backlogs, and improving project turnaround times.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Business Administration** | Rimberio University (2018 - 2022)
+- **Diploma in Business Administration** | Rimberio College (2017 - 2019)
 
 ---
 
@@ -38,16 +40,16 @@ Experienced Project Manager with a proven track record in driving results, deliv
   - Streamlined team workflow processes, reducing project cycle time by 20%
   - Facilitated daily stand-ups and project planning sessions
 
-- **Project Coordinator** | LogiTech Solutions (2020 - 2022)
+- **Project Coordinator** | LogiTech Solutions (2019 - 2022)
   - Tracked project deliverables and organized project documentation
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Process Optimization
-- Workflow Design
+- Workflow Optimization
+- Sprint Planning
 - Team Coordination
-- Milestone Tracking
-- Cost Control
 - Change Management
+- Process Improvement
+- Cost Control

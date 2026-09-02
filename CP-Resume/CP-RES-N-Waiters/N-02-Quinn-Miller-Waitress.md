@@ -2,8 +2,10 @@
 ## Quinn Miller – Waitress Resume
 
 **Sub-Topic:** Waiters / Waitress  
+**Main Keywords:** waitress, guest greeting, table order taking, menu upselling, food delivery, team collaboration  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Warm Hospitality Layout  
+**Tone:** Warm, Hospitable, Attentive  
 
 **Total Pages:** 1 halaman  
 
@@ -21,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Waitress with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Attentive Waitress experienced in high-volume restaurant environments. Known for delivering friendly customer service, offering knowledgeable menu recommendations, and maintaining a welcoming dining ambiance.
 
 ---
 
@@ -34,20 +36,20 @@ Experienced Waitress with a proven track record in driving results, delivering h
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Lead Server / Waitress** | Bistro Bella (2022 – Present)
+- **Lead Server / Waitress** | Bistro Bella (2023 – Present)
   - Provided attentive table service to dining guests in a high-volume setting
   - Recommended specials and pairing drinks to enhance dining experience
 
-- **Server Assistant** | Golden Dish Restaurant (2021 - 2022)
+- **Server Assistant** | Golden Dish Restaurant (2021 - 2023)
   - Greeted arriving guests, set up dining tables, and served beverages
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
+- Waitress
 - Guest Greeting
-- Order Taking
+- Table Order Taking
+- Menu Upselling
 - Food Delivery
-- Menu Knowledge
-- Upselling
-- Teamwork
+- Team Collaboration

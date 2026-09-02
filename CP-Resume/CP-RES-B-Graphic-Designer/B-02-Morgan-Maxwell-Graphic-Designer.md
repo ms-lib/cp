@@ -2,8 +2,10 @@
 ## Morgan Maxwell – Graphic Designer Resume
 
 **Sub-Topic:** Graphic Designer  
+**Main Keywords:** logo design, packaging design, editorial typography, brand style guide, adobe illustrator, motion graphics  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Minimalist Modern Black & White Layout  
+**Tone:** Sleek, Modern, Professional  
 
 **Total Pages:** 1 halaman  
 
@@ -21,24 +23,24 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Graphic Designer with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Self-taught Graphic Designer specializing in brand identity and minimalist editorial layouts. Known for crafting sleek visual systems, crisp logos, and high-impact marketing collateral.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Fine Arts in Design** | Studio Art Institute (2017 - 2021)
+- **High School Diploma** | SMA Borcelle Visual Arts Track (2015 - 2018)
 
 ---
 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Senior Designer** | Vivid Brand Agency (2021 – Present)
+- **Senior Designer** | Vivid Brand Agency (2022 – Present)
   - Lead visual identity projects for corporate and retail clients
   - Create comprehensive brand style guides and logo assets
 
-- **Graphic Designer** | Pixel Crafters (2019 - 2021)
+- **Graphic Designer** | Pixel Crafters (2018 - 2022)
   - Designed promotional collateral, banners, and digital graphics
   - Prepared high-resolution print production files
 
@@ -47,8 +49,8 @@ Experienced Graphic Designer with a proven track record in driving results, deli
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
 - Logo Design
-- Packaging Visuals
-- Editorial Design
-- Typography
-- Brand Guidelines
+- Packaging Design
+- Editorial Typography
+- Brand Style Guide
+- Adobe Illustrator
 - Motion Graphics

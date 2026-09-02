@@ -2,8 +2,10 @@
 ## River Blake – Front Desk Receptionist Resume
 
 **Sub-Topic:** Receptionist  
+**Main Keywords:** front desk receptionist, guest check in, call switchboard, mail sorting, appointment booking, corporate etiquette  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Clean Corporate Desk Layout  
+**Tone:** Courteous, Professional, Efficient  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Front Desk Receptionist with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Courteous Front Desk Receptionist skilled in managing corporate lobby check-ins, handling multi-line phone switchboards, and directing guest inquiries. Committed to creating a positive first impression for visitors.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Associate Degree in Hospitality** | Rimberio College (2018 - 2021)
+- **High School Diploma** | Rimberio High School (2016 - 2019)
 
 ---
 
@@ -45,9 +47,9 @@ Experienced Front Desk Receptionist with a proven track record in driving result
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Front Desk Operations
-- Guest Check-In
-- Call Routing
-- Mail Distribution
-- Multi-Tasking
-- Professional Etiquette
+- Front Desk Receptionist
+- Guest Check In
+- Call Switchboard
+- Mail Sorting
+- Appointment Booking
+- Corporate Etiquette

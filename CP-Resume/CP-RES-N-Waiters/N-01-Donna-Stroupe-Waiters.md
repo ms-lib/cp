@@ -2,8 +2,10 @@
 ## Donna Stroupe – Waiters Resume
 
 **Sub-Topic:** Waiters / Waitress  
+**Main Keywords:** waiter, dining table service, customer order taking, pos transactions, restaurant cleanliness, guest satisfaction  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Structured Grey Diamond Layout  
+**Tone:** Reliable, Energetic, Attentive  
 
 **Total Pages:** 1 halaman  
 
@@ -21,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Waiters with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Energetic and reliable Waiter with hands-on experience in providing fast, friendly dining service. Skilled in managing multiple tables, handling customer requests efficiently, and maintaining dining room cleanliness.
 
 ---
 
@@ -45,9 +47,9 @@ Experienced Waiters with a proven track record in driving results, delivering hi
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Table Service
-- Customer Orders
-- Dining Area Cleanliness
-- POS Operations
-- Communication
-- Multitasking
+- Waiter
+- Dining Table Service
+- Customer Order Taking
+- Pos Transactions
+- Restaurant Cleanliness
+- Guest Satisfaction

@@ -2,8 +2,10 @@
 ## Aaron Loeb – Copywriter Resume
 
 **Sub-Topic:** Content Writer / Copywriter  
+**Main Keywords:** ad copywriting, brand messaging, landing page copy, email marketing, taglines, campaign headlines  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Bold Brand Storytelling Layout  
+**Tone:** Persuasive, Witty, High-Impact  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Copywriter with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Creative Copywriter specializing in punchy ad copy, memorable brand taglines, and high-converting landing page messaging. Experienced in collaborating with art directors to bring campaign concepts to life.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Arts in Creative Writing** | Rimberio University (2018 - 2022)
+- **Diploma in Advertising & Journalism** | Rimberio Media Institute (2017 - 2019)
 
 ---
 
@@ -38,7 +40,7 @@ Experienced Copywriter with a proven track record in driving results, delivering
   - Craft compelling ad copy for digital and print campaigns
   - Develop distinct brand tone-of-voice guidelines for new clients
 
-- **Junior Copywriter** | Spark Advertising (2020 - 2022)
+- **Junior Copywriter** | Spark Advertising (2019 - 2022)
   - Wrote catchy taglines and promotional copy for social ads
   - Collaborated with art directors on creative campaign concepts
 
@@ -47,8 +49,8 @@ Experienced Copywriter with a proven track record in driving results, delivering
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
 - Ad Copywriting
-- Brand Voice Guidelines
+- Brand Messaging
 - Landing Page Copy
-- Email Campaigns
-- Headline Crafting
-- Tagline Ideation
+- Email Marketing
+- Taglines
+- Campaign Headlines

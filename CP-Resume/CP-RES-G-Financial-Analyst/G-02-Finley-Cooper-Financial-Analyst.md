@@ -2,8 +2,10 @@
 ## Finley Cooper – Financial Analyst Resume
 
 **Sub-Topic:** Financial Analyst  
+**Main Keywords:** investment valuation, financial reporting, market research, cost benefit analysis, data visualization, asset allocation  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Investment & Data Layout  
+**Tone:** Objective, Data-Driven, Meticulous  
 
 **Total Pages:** 1 halaman  
 
@@ -21,33 +23,33 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Financial Analyst with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Analytical Investment Analyst specializing in asset valuation, market trend research, and quantitative risk evaluation. Dedicated to presenting clear financial data dashboards for strategic investment decisions.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Commerce in Finance** | Brocelle University (2019 - 2023)
+- **Diploma in Accounting & Finance** | Brocelle Vocational College (2018 - 2020)
 
 ---
 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Investment Analyst** | Pinnacle Capital (2023 – Present)
+- **Investment Analyst** | Pinnacle Capital (2022 – Present)
   - Evaluate investment opportunities and prepare valuation assessment reports
   - Monitor market trends and competitor financial performance
 
-- **Finance Intern** | Horizon Trust (2022 - 2023)
+- **Finance Intern** | Horizon Trust (2020 - 2022)
   - Gathered market data and created quarterly trend charts
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Investment Analysis
+- Investment Valuation
 - Financial Reporting
 - Market Research
-- Cost-Benefit Analysis
+- Cost Benefit Analysis
 - Data Visualization
-- Valuation
+- Asset Allocation

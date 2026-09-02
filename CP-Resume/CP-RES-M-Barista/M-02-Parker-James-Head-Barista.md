@@ -2,8 +2,10 @@
 ## Parker James – Head Barista Resume
 
 **Sub-Topic:** Barista  
+**Main Keywords:** head barista, specialty coffee brewing, coffee roasting, barista training, equipment maintenance, customer care  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Specialty Roastery & Cafe Layout  
+**Tone:** Enthusiastic, Detail-Oriented, Skilled  
 
 **Total Pages:** 1 halaman  
 
@@ -21,33 +23,33 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Head Barista with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Enthusiastic Head Barista with expertise in specialty coffee extraction, bean roasting basics, and staff training. Committed to delivering top-tier customer service and maintaining high beverage quality standards.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **High School Diploma** | Pinnacle Academy (2018 - 2021)
+- **Diploma in Hospitality & Cafe Operations** | Pinnacle Vocational College (2018 - 2020)
 
 ---
 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Head Barista** | Bean & Leaf Roasters (2022 – Present)
+- **Head Barista** | Bean & Leaf Roasters (2021 – Present)
   - Train new baristas on espresso extraction and latte art standards
   - Manage daily coffee bean inventory and brewing equipment calibration
 
-- **Senior Barista** | Urban Coffee House (2021 - 2022)
+- **Senior Barista** | Urban Coffee House (2019 - 2021)
   - Crafted artisanal coffee beverages and maintained clean counter workspace
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
+- Head Barista
 - Specialty Coffee Brewing
-- Espresso Calibration
-- Roasting Basics
-- Staff Training
-- Inventory Management
+- Coffee Roasting
+- Barista Training
+- Equipment Maintenance
 - Customer Care

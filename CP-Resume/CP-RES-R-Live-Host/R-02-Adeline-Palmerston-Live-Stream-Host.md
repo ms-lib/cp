@@ -2,8 +2,10 @@
 ## Adeline Palmerston – Live Stream Host Resume
 
 **Sub-Topic:** Host Live  
+**Main Keywords:** live stream host, broadcast presenter, real time q&a, audience engagement, public speaking, event host  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Creative Director & Live Speaker Layout  
+**Tone:** Confident, Engaging, Professional  
 
 **Total Pages:** 1 halaman  
 
@@ -21,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Live Stream Host with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Confident Live Stream Host and Creative Presenter with extensive experience hosting live digital shows and corporate Q&A sessions. Skilled in public speaking, script delivery, and fostering vibrant live audience participation.
 
 ---
 
@@ -45,9 +47,9 @@ Experienced Live Stream Host with a proven track record in driving results, deli
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Live Broadcasting
-- Brand Engagement
+- Live Stream Host
+- Broadcast Presenter
+- Real Time Q&A
+- Audience Engagement
 - Public Speaking
-- Script Reading
-- Real-Time Q&A
-- High Energy Presentation
+- Event Host

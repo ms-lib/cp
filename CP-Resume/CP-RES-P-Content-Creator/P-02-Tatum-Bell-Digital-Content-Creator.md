@@ -2,8 +2,10 @@
 ## Tatum Bell – Digital Content Creator Resume
 
 **Sub-Topic:** Content Creator  
+**Main Keywords:** digital content creator, capcut editing, viral video, influencer marketing, scriptwriting, viewer retention  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Vlog & Influencer Aesthetic Layout  
+**Tone:** Vibrant, Interactive, Modern  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Digital Content Creator with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Vibrant Digital Content Creator skilled in CapCut video editing, vlog storyboarding, and community interaction. Dedicated to analyzing video performance metrics to maximize viewer retention and social shares.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Mass Communication** | Brooklands College (2018 - 2022)
+- **Diploma in Mass Communication** | Brooklands Vocational College (2018 - 2020)
 
 ---
 
@@ -45,9 +47,9 @@ Experienced Digital Content Creator with a proven track record in driving result
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- TikTok & Reel Editing
+- Digital Content Creator
+- Capcut Editing
+- Viral Video
+- Influencer Marketing
 - Scriptwriting
-- Visual Storytelling
-- Community Engagement
-- CapCut & Premiere
-- Brand Collaboration
+- Viewer Retention

@@ -2,8 +2,10 @@
 ## Hayden Stone – HR Specialist Resume
 
 **Sub-Topic:** HR / Talent Acquisition Specialist  
+**Main Keywords:** human resources, employee relations, onboarding programs, hr policy, hris administration, talent engagement  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** People & Culture Layout  
+**Tone:** Empathetic, Professional, People-Focused  
 
 **Total Pages:** 1 halaman  
 
@@ -21,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced HR Specialist with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+People-focused HR Specialist experienced in managing employee relations, onboarding programs, and company culture initiatives. Skilled in HRIS system management and maintaining positive workplace policies.
 
 ---
 
@@ -45,9 +47,9 @@ Experienced HR Specialist with a proven track record in driving results, deliver
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
+- Human Resources
 - Employee Relations
-- Onboarding
-- HR Policy
-- Performance Review
-- HRIS Systems
+- Onboarding Programs
+- Hr Policy
+- Hris Administration
 - Talent Engagement

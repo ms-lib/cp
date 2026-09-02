@@ -2,8 +2,10 @@
 ## Peyton Reed – Product Manager Resume
 
 **Sub-Topic:** Product Manager  
+**Main Keywords:** product lifecycle, kpi metrics, a/b testing, feature scoping, stakeholder alignment, SaaS product development  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Executive Product Layout  
+**Tone:** Analytical, Executive, Decisive  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Product Manager with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Results-driven Senior Product Manager with an MBA and 6+ years of experience steering SaaS product lifecycles. Proven success in driving product retention, optimizing user funnels, and managing high-stakes stakeholder expectations.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Master of Business Administration** | Wardiere University (2018 - 2022)
+- **Master of Business Administration (MBA)** | Wardiere University (2018 - 2020)
 
 ---
 
@@ -38,16 +40,16 @@ Experienced Product Manager with a proven track record in driving results, deliv
   - Lead mobile product development from feature ideation to launch
   - Increased monthly active users by 35% through feature optimization
 
-- **Product Analyst** | Innovate Mobile (2020 - 2022)
+- **Product Analyst** | Innovate Mobile (2019 - 2022)
   - Analyzed funnel metrics and user retention data to guide feature priority
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
+- Product Lifecycle
+- Kpi Metrics
+- A/B Testing
 - Feature Scoping
 - Stakeholder Alignment
-- Metrics & KPIs
-- A/B Testing
-- Release Management
-- Product Analytics
+- Saas Product Development

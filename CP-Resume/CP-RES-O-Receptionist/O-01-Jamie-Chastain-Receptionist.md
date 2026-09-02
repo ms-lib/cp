@@ -2,8 +2,10 @@
 ## Jamie Chastain – Receptionist Resume
 
 **Sub-Topic:** Receptionist  
+**Main Keywords:** receptionist, front desk greeting, call handling, visitor management, mail distribution, office admin  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Soft Pink Wavy Layout  
+**Tone:** Polite, Hospitable, Organized  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Receptionist with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Professional Receptionist with 8+ years of experience greeting visitors and delivering exceptional customer service. Responsible for managing phone calls, coordinating meeting rooms, and supporting office administration.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Hotel Management** | Ingoude University (2009 - 2013 (GPA: 3.5))
+- **Bachelor of Hotel Management** | Ingoude University (2009 - 2013 (GPA: 3.5/4))
 
 ---
 
@@ -45,9 +47,9 @@ Experienced Receptionist with a proven track record in driving results, deliveri
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Visitor Greeting
-- Phone & Email Handling
-- Appointment Scheduling
-- Customer Service
-- Office Administration
-- Organization
+- Receptionist
+- Front Desk Greeting
+- Call Handling
+- Visitor Management
+- Mail Distribution
+- Office Admin

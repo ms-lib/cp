@@ -2,8 +2,10 @@
 ## Chris Lee – Software Developer Resume
 
 **Sub-Topic:** Software Developer  
+**Main Keywords:** software engineering, javascript, react js, node js, rest api, web development, git workflow  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Full-Stack Tech Layout  
+**Tone:** Technical, Logic-Driven, Efficient  
 
 **Total Pages:** 1 halaman  
 
@@ -21,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Software Developer with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Full-Stack Software Developer experienced in building scalable React and Node.js web applications. Focused on writing clean code architecture, optimizing API query performance, and delivering robust software features.
 
 ---
 
@@ -46,10 +48,10 @@ Experienced Software Developer with a proven track record in driving results, de
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- JavaScript
-- React
-- Node.js
-- REST APIs
+- Software Engineering
+- Javascript
+- React Js
+- Node Js
+- Rest Api
+- Web Development
 - Git Workflow
-- Database Management
-- Problem Solving

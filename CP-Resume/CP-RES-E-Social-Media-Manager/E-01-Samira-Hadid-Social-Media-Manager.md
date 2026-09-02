@@ -2,8 +2,10 @@
 ## Samira Hadid – Social Media Manager Resume
 
 **Sub-Topic:** Social Media Manager / Specialist  
+**Main Keywords:** social media strategy, content planning, community management, trend research, reel creation, brand voice  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Y2K Retro Pop Aesthetic Layout  
+**Tone:** Trendy, Engaging, Energetic  
 
 **Total Pages:** 1 halaman  
 
@@ -21,24 +23,24 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Social Media Manager with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Creative Social Media Manager specializing in brand building, audience engagement, and trend-driven campaigns. Skilled at executing viral content calendars that expand digital reach and foster loyal online communities.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Communication Design** | Brooklands College (2018 — 2022)
+- **Bachelor of Communication Design** | Brooklands College (2018 - 2022)
 
 ---
 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Social Media Manager** | Creative Studio + Lab (2024 — Present)
+- **Social Media Manager** | Creative Studio + Lab (2023 — Present)
   - Planned and managed social media content strategies across platforms
   - Increased audience engagement through creative campaigns and interactive posts
 
-- **Content Coordinator** | Visionary Studio (2022 — 2024)
+- **Content Coordinator** | Visionary Studio (2021 — 2023)
   - Assisted with content scheduling and campaign planning
   - Maintained active communication with online audiences
 
@@ -46,9 +48,9 @@ Experienced Social Media Manager with a proven track record in driving results, 
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Content Strategy
-- Copywriting
+- Social Media Strategy
+- Content Planning
 - Community Management
-- Social Media Analytics
 - Trend Research
-- Brand Communication
+- Reel Creation
+- Brand Voice

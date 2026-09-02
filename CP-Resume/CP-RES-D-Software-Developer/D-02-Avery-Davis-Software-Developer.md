@@ -2,8 +2,10 @@
 ## Avery Davis – Software Developer Resume
 
 **Sub-Topic:** Software Developer  
+**Main Keywords:** python, django, backend engineering, postgresql, cloud deployment, ci cd pipelines, clean code  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Clean Engineer Layout  
+**Tone:** Analytical, Structured, Problem-Solver  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Software Developer with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Backend Software Engineer with hands-on expertise in Python, Django, and cloud API services. Passionate about automating system workflows, maintaining high database uptime, and applying clean coding standards.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Software Engineering** | Pinnacle University (2019 - 2023)
+- **High School Diploma (STEM Focus)** | Pinnacle Academy (2016 - 2019)
 
 ---
 
@@ -38,7 +40,7 @@ Experienced Software Developer with a proven track record in driving results, de
   - Engineered secure RESTful APIs using Python and Django
   - Deployed cloud microservices and automated CI/CD pipelines
 
-- **Software Engineer Intern** | CodeCraft Inc. (2022 - 2023)
+- **Software Engineer Intern** | CodeCraft Inc. (2021 - 2023)
   - Wrote unit tests and technical documentation for core API endpoints
 
 ---
@@ -47,8 +49,8 @@ Experienced Software Developer with a proven track record in driving results, de
 **Core Skills:**
 - Python
 - Django
-- PostgreSQL
+- Backend Engineering
+- Postgresql
 - Cloud Deployment
-- Automated Testing
-- Clean Code Practices
-- System Architecture
+- Ci Cd Pipelines
+- Clean Code

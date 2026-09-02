@@ -2,8 +2,10 @@
 ## Emerson Taylor – Financial Analyst Resume
 
 **Sub-Topic:** Financial Analyst  
+**Main Keywords:** financial modeling, revenue forecasting, variance analysis, budget tracking, corporate finance, excel powerbi  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Corporate Finance Layout  
+**Tone:** Analytical, Precise, Methodical  
 
 **Total Pages:** 1 halaman  
 
@@ -21,24 +23,24 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Financial Analyst with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Detail-oriented Financial Analyst with expertise in financial forecasting, corporate budget modeling, and variance reporting. Skilled at leveraging data analytics to identify revenue opportunities and optimize cost structures.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Science in Finance** | Wardiere University (2018 - 2022)
+- **Bachelor of Science in Finance** | Wardiere University (2017 - 2021)
 
 ---
 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Financial Analyst** | Sterling Financial Group (2022 – Present)
+- **Financial Analyst** | Sterling Financial Group (2021 – Present)
   - Build financial forecast models and variance reports for executive review
   - Analyze quarterly revenue metrics and cost reduction opportunities
 
-- **Junior Financial Analyst** | Capital Advisory (2020 - 2022)
+- **Junior Financial Analyst** | Capital Advisory (2019 - 2021)
   - Assisted in preparing annual budget models and financial data decks
 
 ---
@@ -46,8 +48,8 @@ Experienced Financial Analyst with a proven track record in driving results, del
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
 - Financial Modeling
-- Forecasting
-- Budget Analysis
-- Revenue Tracking
+- Revenue Forecasting
 - Variance Analysis
-- Excel & PowerBI
+- Budget Tracking
+- Corporate Finance
+- Excel Powerbi

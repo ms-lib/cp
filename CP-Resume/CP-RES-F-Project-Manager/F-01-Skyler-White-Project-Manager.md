@@ -2,8 +2,10 @@
 ## Skyler White – Project Manager Resume
 
 **Sub-Topic:** Project Manager  
+**Main Keywords:** project management, agile methodology, risk mitigation, resource allocation, budget tracking, milestone delivery  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Structured Delivery Layout  
+**Tone:** Organized, Authoritative, Result-Oriented  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Project Manager with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Goal-oriented Project Manager skilled in leading cross-functional teams using Agile and Waterfall frameworks. Adept at mitigating project risks, controlling budgets, and ensuring on-time deliverable milestones.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Science in Project Management** | Hanover University (2017 - 2021)
+- **Bachelor of Science in Project Management** | Hanover University (2016 - 2020)
 
 ---
 
@@ -38,16 +40,16 @@ Experienced Project Manager with a proven track record in driving results, deliv
   - Deliver complex cross-departmental projects on schedule and within budget
   - Track milestone deliverables and prepare weekly executive status reports
 
-- **Assistant Project Manager** | Build Corp (2019 - 2021)
+- **Assistant Project Manager** | Build Corp (2018 - 2021)
   - Coordinated team task schedules and documented project scope changes
 
 ---
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Agile & Waterfall
-- Project Scheduling
+- Project Management
+- Agile Methodology
 - Risk Mitigation
 - Resource Allocation
 - Budget Tracking
-- Stakeholder Reporting
+- Milestone Delivery

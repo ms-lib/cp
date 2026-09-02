@@ -2,8 +2,10 @@
 ## Alex Morgan – Videographer Resume
 
 **Sub-Topic:** Photographer / Videographer  
+**Main Keywords:** videographer, video production, adobe premiere pro, after effects, color grading, storyboarding, camera operation  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Cinematic Motion Layout  
+**Tone:** Cinematic, Dynamic, Technical  
 
 **Total Pages:** 1 halaman  
 
@@ -21,13 +23,13 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Videographer with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Dynamic Videographer experienced in commercial camera operation, video editing, and motion graphics. Skilled in directing storyboards, applying color grading, and delivering cinematic brand video content.
 
 ---
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **Bachelor of Arts in Film & Media** | Cinema Arts Institute (2017 - 2021)
+- **High School Diploma** | Cinema Arts High School (2015 - 2018)
 
 ---
 
@@ -38,7 +40,7 @@ Experienced Videographer with a proven track record in driving results, deliveri
   - Shoot and edit promo videos, commercials, and brand documentaries
   - Apply motion graphics and audio mixing for final video deliverables
 
-- **Video Editor** | Creative Reel Studio (2019 - 2021)
+- **Video Editor** | Creative Reel Studio (2018 - 2021)
   - Edited short-form social video content and event recap videos
   - Maintained organized video asset libraries
 
@@ -46,9 +48,10 @@ Experienced Videographer with a proven track record in driving results, deliveri
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
+- Videographer
 - Video Production
-- Storyboarding
-- Color Grading
-- Premiere Pro
+- Adobe Premiere Pro
 - After Effects
+- Color Grading
+- Storyboarding
 - Camera Operation

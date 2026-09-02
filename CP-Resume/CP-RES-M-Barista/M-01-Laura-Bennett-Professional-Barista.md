@@ -2,8 +2,10 @@
 ## Laura Bennett – Professional Barista Resume
 
 **Sub-Topic:** Barista  
+**Main Keywords:** professional barista, espresso extraction, latte art, customer service, pos cash handling, food safety, beverage prep  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Monochrome Grid & Line Art Layout  
+**Tone:** Friendly, Welcoming, Efficient  
 
 **Total Pages:** 1 halaman  
 
@@ -21,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Experienced Professional Barista with a proven track record in driving results, delivering high-quality outcomes, and collaborating effectively with cross-functional teams. Skilled in strategic planning, problem-solving, and executing professional standards to support organizational goals.
+Friendly and customer-focused Barista with a passion for specialty coffee and hospitality. Skilled in preparing espresso beverages, crafting latte art, and maintaining a clean, welcoming café environment.
 
 ---
 
@@ -46,9 +48,10 @@ Experienced Professional Barista with a proven track record in driving results, 
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Espresso Preparation
+- Professional Barista
+- Espresso Extraction
 - Latte Art
 - Customer Service
-- Cash & POS Handling
-- Teamwork
+- Pos Cash Handling
 - Food Safety
+- Beverage Prep
