@@ -2,10 +2,6 @@
 ## Group Project Proposal And Scope Presentation
 
 **Sub-Topic:** B - Project Planning & Team Setup  
-**Main Keywords:** project proposal, project scope, charter slides, team proposal  
-**Audience:** Team Leaders, Project Managers, Student Groups  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

@@ -2,10 +2,6 @@
 ## Corporate Team Project Evaluation Slides
 
 **Sub-Topic:** F - Corporate & Cross-Functional Teams  
-**Main Keywords:** project evaluation, ROI analysis, process efficiency, strategic audit  
-**Audience:** Corporate Teams, Cross-Functional Groups, Project Managers  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

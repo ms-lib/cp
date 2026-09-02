@@ -2,10 +2,6 @@
 ## Executive Summary Group Project Presentation
 
 **Sub-Topic:** F - Corporate & Cross-Functional Teams  
-**Main Keywords:** executive summary, board deck, C-suite briefing, high level summary  
-**Audience:** Corporate Teams, Cross-Functional Groups, Project Managers  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

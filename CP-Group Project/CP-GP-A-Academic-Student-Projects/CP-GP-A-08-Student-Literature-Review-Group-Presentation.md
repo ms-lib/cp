@@ -2,10 +2,6 @@
 ## Student Literature Review Group Presentation
 
 **Sub-Topic:** A - Academic & Student Group Projects  
-**Main Keywords:** literature review, scholarly research, paper synthesis, academic review  
-**Audience:** Students, University Groups, Academic Teams  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

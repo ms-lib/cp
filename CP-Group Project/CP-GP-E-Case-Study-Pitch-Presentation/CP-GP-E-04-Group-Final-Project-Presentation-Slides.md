@@ -2,10 +2,6 @@
 ## Group Final Project Presentation Slides
 
 **Sub-Topic:** E - Case Study, Pitch & Innovation  
-**Main Keywords:** final project, capstone presentation, project showcase, final slides  
-**Audience:** Competition Teams, Business Students, Hackathon Participants  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

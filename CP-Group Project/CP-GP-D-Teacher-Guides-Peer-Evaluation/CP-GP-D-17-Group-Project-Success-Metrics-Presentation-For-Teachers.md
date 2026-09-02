@@ -2,10 +2,6 @@
 ## Group Project Success Metrics Presentation For Teachers
 
 **Sub-Topic:** D - Teacher & Educator Guides  
-**Main Keywords:** success metrics, learning outcomes, course evaluation, project effectiveness  
-**Audience:** Teachers, Educators, Project Coordinators  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

@@ -2,10 +2,6 @@
 ## Student Team Design Thinking Presentation
 
 **Sub-Topic:** E - Case Study, Pitch & Innovation  
-**Main Keywords:** design thinking, user research, ideation slides, UX design pitch  
-**Audience:** Competition Teams, Business Students, Hackathon Participants  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

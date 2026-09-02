@@ -2,10 +2,6 @@
 ## Group Project Peer Review Presentation
 
 **Sub-Topic:** D - Teacher & Educator Guides  
-**Main Keywords:** peer review, peer evaluation, student feedback, team review  
-**Audience:** Teachers, Educators, Project Coordinators  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

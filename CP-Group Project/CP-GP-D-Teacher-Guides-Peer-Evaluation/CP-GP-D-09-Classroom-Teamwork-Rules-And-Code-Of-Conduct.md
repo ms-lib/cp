@@ -2,10 +2,6 @@
 ## Classroom Teamwork Rules And Code Of Conduct
 
 **Sub-Topic:** D - Teacher & Educator Guides  
-**Main Keywords:** teamwork rules, code of conduct, academic integrity, classroom norms  
-**Audience:** Teachers, Educators, Project Coordinators  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

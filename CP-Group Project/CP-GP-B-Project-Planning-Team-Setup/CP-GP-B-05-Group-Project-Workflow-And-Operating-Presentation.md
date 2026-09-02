@@ -2,10 +2,6 @@
 ## Group Project Workflow And Operating Presentation
 
 **Sub-Topic:** B - Project Planning & Team Setup  
-**Main Keywords:** project workflow, operating model, collaboration guide, team execution  
-**Audience:** Team Leaders, Project Managers, Student Groups  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

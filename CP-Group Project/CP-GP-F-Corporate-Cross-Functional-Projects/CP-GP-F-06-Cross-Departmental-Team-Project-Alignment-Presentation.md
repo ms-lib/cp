@@ -2,10 +2,6 @@
 ## Cross-Departmental Team Project Alignment Presentation
 
 **Sub-Topic:** F - Corporate & Cross-Functional Teams  
-**Main Keywords:** cross departmental, organizational alignment, inter-team workflow, resource sync  
-**Audience:** Corporate Teams, Cross-Functional Groups, Project Managers  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

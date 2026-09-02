@@ -2,10 +2,6 @@
 ## Managing Diversity In Student Group Projects
 
 **Sub-Topic:** D - Teacher & Educator Guides  
-**Main Keywords:** diversity in teams, inclusive learning, cross cultural teamwork, equitable grouping  
-**Audience:** Teachers, Educators, Project Coordinators  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

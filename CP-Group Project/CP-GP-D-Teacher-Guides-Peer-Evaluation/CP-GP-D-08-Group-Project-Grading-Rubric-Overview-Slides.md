@@ -2,10 +2,6 @@
 ## Group Project Grading Rubric Overview Slides
 
 **Sub-Topic:** D - Teacher & Educator Guides  
-**Main Keywords:** grading rubric, grade distribution, evaluation rubric, marking scheme  
-**Audience:** Teachers, Educators, Project Coordinators  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  

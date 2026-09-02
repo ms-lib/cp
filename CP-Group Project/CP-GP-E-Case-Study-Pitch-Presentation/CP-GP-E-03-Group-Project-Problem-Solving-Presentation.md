@@ -2,10 +2,6 @@
 ## Group Project Problem Solving Presentation
 
 **Sub-Topic:** E - Case Study, Pitch & Innovation  
-**Main Keywords:** problem solving, root cause analysis, solution presentation, team proposal  
-**Audience:** Competition Teams, Business Students, Hackathon Participants  
-**Style:** Modern, Professional, Clean  
-**Tone:** Collaborative, Clear, Encouraging  
 
 **Total Pages:** 10 halaman  
 **Pattern Kolom:** 1→1→2→1→3→4→2→1→3→1  
