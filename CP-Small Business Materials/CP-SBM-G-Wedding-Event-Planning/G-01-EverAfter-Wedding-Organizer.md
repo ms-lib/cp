@@ -1,4 +1,4 @@
-# JUDUL 16 OF 19
+# JUDUL 17 OF 20
 ## EverAfter WO – Wedding Organizer & Consultant Promotional Suite
 
 **Sub-Topic:** CP-SBM-G-Wedding-Event-Planning  
