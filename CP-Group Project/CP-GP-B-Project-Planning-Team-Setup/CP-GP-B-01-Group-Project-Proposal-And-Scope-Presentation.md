@@ -24,7 +24,7 @@
 
 | Kolom 1 |
 |---------|
-| **Drew Feig** – Project Manager  <br>**Adeline Palmerston** – Scrum Master  <br>**Olivia Wilson** – Planning Lead  <br>**Samira Hadid** – Coordinator  <br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Drew Feig** – Project Manager  <br>**Adeline Palmerston** – Scrum Master  <br>**Olivia Wilson** – Planning Lead  <br>**Samira Hadid** – Coordinator |
 
 ---
 
@@ -36,7 +36,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Project Research Scope:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. | **Team Task Allocation:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 
@@ -48,7 +48,7 @@
 
 | Kolom 1 |
 |---------|
-| **Main Problem & Vision:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 
@@ -96,7 +96,7 @@
 
 | Kolom 1 |
 |---------|
-| **Primary Outcome:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 

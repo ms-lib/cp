@@ -48,7 +48,7 @@
 
 | Kolom 1 |
 |---------|
-| **Main Problem & Vision:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 
@@ -96,7 +96,7 @@
 
 | Kolom 1 |
 |---------|
-| **Primary Outcome:**<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
 ---
 
