@@ -42,14 +42,13 @@
 
 ---
 
-### ASSET 4 - IG STORY 3: CUSTOMER FAQ & INTERACTIVE Q&A
-**Format:** Vertical Story (1080x1920) | **Style:** Engaging, Trust-Building Chat Bubble Layout
+### ASSET 4 - IG STORY 3: "THANKS FOR USING OUR SERVICE" (CUSTOMER APPRECIATION)
+**Format:** Vertical Story (1080x1920) | **Style:** Soft Warm Aesthetic, Rounded Photo Frame & Heart Badge
 **Text Content:**
-- Header: FREQUENTLY ASKED QUESTIONS (FAQ)
-- Question: "What makes Liceria Express stand out?"
-- Answer: "We use top-grade materials, certified staff, and guarantee 100% satisfaction for every client!"
-- Question Box Sticker: "Ask us anything about our services below! 👇"
-- Contact: DM us directly or WhatsApp +123-456-7890.
+- Top Headline: THANKS FOR USING OUR SERVICE
+- Visual Element: Rounded photo frame of happy customer / staff with heart sticker badge
+- Brand Name: **Liceria Express**
+- Closing Message: "We can't wait to deliver your packages safely again. See you soon!"
 
 ---
 
