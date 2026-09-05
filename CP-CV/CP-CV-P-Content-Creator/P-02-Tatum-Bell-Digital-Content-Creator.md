@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/tatumbell | portfolio.com/tatumbell
 
 **Personal Profile:**
-Dedicated and results-driven Creative Content Specialist with over 3+ years of proven expertise in Digital Media Production & Content Creation. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Creative Content Specialist with over 3+ years of experience in Digital Media Production & Content Creation. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Creative Content Specialist with over 3+ years of p
   - Created daily viral TikTok videos for e-commerce client brands.
   - Wrote creative video scripts tailored for Gen Z audiences.
   - Monitored trending sound tracks to boost video algorithm reach.
-  - Collaborated with social media managers on monthly content plans.
 
 - **Junior Content Assistant** | Spark Creative House (2021 – 2023)
   - Assisted senior content creators during location video shoots.
@@ -56,12 +55,12 @@ Dedicated and results-driven Creative Content Specialist with over 3+ years of p
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

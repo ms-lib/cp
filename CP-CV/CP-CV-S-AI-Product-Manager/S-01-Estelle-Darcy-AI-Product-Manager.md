@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/estelledarcy | portfolio.com/estelledarcy
 
 **Personal Profile:**
-Dedicated and results-driven Lead AI Product Manager with over 7+ years of proven expertise in Artificial Intelligence & Product Management. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Lead AI Product Manager with over 7+ years of experience in Artificial Intelligence & Product Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Lead AI Product Manager with over 7+ years of prove
   - Spearheaded development of enterprise Generative AI software products.
   - Defined product roadmaps for LLM integration and model deployment.
   - Collaborated with machine learning research engineers on model tuning.
-  - Ensured compliance with ethical AI governance and data privacy.
 
 - **AI Product Specialist** | Data Mind Labs (2019 – 2021)
   - Launched computer vision search features for e-commerce client apps.
@@ -56,12 +55,12 @@ Dedicated and results-driven Lead AI Product Manager with over 7+ years of prove
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

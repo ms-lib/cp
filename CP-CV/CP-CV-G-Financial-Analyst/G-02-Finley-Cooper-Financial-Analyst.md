@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/finleycooper | portfolio.com/finleycooper
 
 **Personal Profile:**
-Dedicated and results-driven Corporate Financial Analyst with over 4+ years of proven expertise in Financial Analysis. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Corporate Financial Analyst with over 4+ years of experience in Financial Analysis. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Corporate Financial Analyst with over 4+ years of p
   - Analyzed corporate financial statements to identify cost savings.
   - Built dynamic revenue dashboards using Power BI analytics.
   - Supported annual budget planning sessions across operational units.
-  - Monitored market trends to forecast industry benchmark growth.
 
 - **Junior Financial Assistant** | Beacon Asset Management (2020 – 2022)
   - Reconciled daily banking transactions for corporate general ledgers.
@@ -56,12 +55,12 @@ Dedicated and results-driven Corporate Financial Analyst with over 4+ years of p
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

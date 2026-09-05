@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/kendallwright | portfolio.com/kendallwright
 
 **Personal Profile:**
-Dedicated and results-driven Talent Acquisition Specialist with over 4+ years of proven expertise in Human Resources. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Talent Acquisition Specialist with over 4+ years of experience in Human Resources. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Talent Acquisition Specialist with over 4+ years of
   - Sourced top engineering talent across LinkedIn and GitHub.
   - Conducted preliminary phone screening interviews for technical candidates.
   - Managed end-to-end recruitment pipeline using modern ATS platforms.
-  - Negotiated competitive job offer packages with final candidates.
 
 - **Recruiting Coordinator** | Career First Agency (2020 – 2022)
   - Scheduled interview calendars between candidates and hiring managers.
@@ -56,12 +55,12 @@ Dedicated and results-driven Talent Acquisition Specialist with over 4+ years of
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

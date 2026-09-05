@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/katielawson | portfolio.com/katielawson
 
 **Personal Profile:**
-Dedicated and results-driven Digital Marketing & Content Strategist with over 4+ years of proven expertise in Digital Marketing. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Digital Marketing & Content Strategist with over 4+ years of experience in Digital Marketing. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Digital Marketing & Content Strategist with over 4+
   - Executed targeted email marketing campaigns with high engagement.
   - Optimized search engine performance for key client websites.
   - Monitored daily social ad spend to ensure budget efficiency.
-  - Analyzed customer traffic data to refine sales funnel.
 
 - **Junior Marketing Specialist** | Apex Media Group (2020 – 2022)
   - Produced weekly promotional newsletters for active subscriber lists.
@@ -56,12 +55,12 @@ Dedicated and results-driven Digital Marketing & Content Strategist with over 4+
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

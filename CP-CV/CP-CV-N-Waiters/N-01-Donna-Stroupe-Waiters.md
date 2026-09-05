@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/donnastroupe | portfolio.com/donnastroupe
 
 **Personal Profile:**
-Dedicated and results-driven Senior Dining Room Captain with over 6+ years of proven expertise in Hospitality & Dining Service. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Senior Dining Room Captain with over 6+ years of experience in Hospitality & Dining Service. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Senior Dining Room Captain with over 6+ years of pr
   - Provided top-tier fine dining table service for VIP guests.
   - Recommended fine wine pairings matching customer dinner menu selections.
   - Trained junior waitstaff on formal dining etiquette protocols.
-  - Resolved customer dining complaints promptly to maintain customer satisfaction.
 
 - **Senior Waitress** | Seaside Grill & Bar (2017 – 2020)
   - Took accurate food orders for high-capacity dining rooms.
@@ -56,12 +55,12 @@ Dedicated and results-driven Senior Dining Room Captain with over 6+ years of pr
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

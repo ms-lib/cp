@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/claudiaalves | portfolio.com/claudiaalves
 
 **Personal Profile:**
-Dedicated and results-driven Social Media Specialist with over 4+ years of proven expertise in Social Media Management. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Social Media Specialist with over 4+ years of experience in Social Media Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Social Media Specialist with over 4+ years of prove
   - Created engaging video reels to boost social follower growth.
   - Wrote compelling social captions aligned with brand tone.
   - Monitored trending hashtags to capitalize on viral topics.
-  - Scheduled daily social posts using automated management platforms.
 
 - **Content & Community Coordinator** | Social Sphere Studio (2020 – 2022)
   - Responded to customer direct messages across social platforms.
@@ -56,12 +55,12 @@ Dedicated and results-driven Social Media Specialist with over 4+ years of prove
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

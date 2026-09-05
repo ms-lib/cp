@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/rileyharper | portfolio.com/rileyharper
 
 **Personal Profile:**
-Dedicated and results-driven Senior Product Manager with over 7+ years of proven expertise in Product Management. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Senior Product Manager with over 7+ years of experience in Product Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Senior Product Manager with over 7+ years of proven
   - Defined strategic product roadmaps for enterprise cloud software.
   - Prioritized feature backlogs based on customer feedback analytics.
   - Led cross-functional teams of engineers and product designers.
-  - Increased annual product recurring revenue by forty-five percent.
 
 - **Product Manager** | Digital Innovations Inc (2017 – 2020)
   - Launched new mobile application features for consumer user base.
@@ -56,12 +55,12 @@ Dedicated and results-driven Senior Product Manager with over 7+ years of proven
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

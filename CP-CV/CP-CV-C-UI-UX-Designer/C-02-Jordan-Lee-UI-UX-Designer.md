@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/jordanlee | portfolio.com/jordanlee
 
 **Personal Profile:**
-Dedicated and results-driven Product & UX Designer with over 4+ years of proven expertise in UI/UX Design. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Product & UX Designer with over 4+ years of experience in UI/UX Design. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Product & UX Designer with over 4+ years of proven 
   - Designed clean user interfaces for iOS and Android.
   - Executed usability testing to gather actionable customer feedback.
   - Wireframed new mobile features to boost overall engagement.
-  - Collaborated with frontend engineers during sprint component builds.
 
 - **Junior UX Designer** | Cloud Software Inc (2020 – 2022)
   - Constructed basic user personas based on survey analytics.
@@ -56,12 +55,12 @@ Dedicated and results-driven Product & UX Designer with over 4+ years of proven 
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

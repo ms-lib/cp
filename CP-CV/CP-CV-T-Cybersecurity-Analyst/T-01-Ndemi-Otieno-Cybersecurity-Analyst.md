@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/ndemiotieno | portfolio.com/ndemiotieno
 
 **Personal Profile:**
-Dedicated and results-driven Senior Cybersecurity Analyst with over 7+ years of proven expertise in Cybersecurity & Threat Intelligence. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Senior Cybersecurity Analyst with over 7+ years of experience in Cybersecurity & Threat Intelligence. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Senior Cybersecurity Analyst with over 7+ years of 
   - Monitored enterprise security operations center for active security threats.
   - Led incident response team during critical data breach investigations.
   - Configured SIEM platforms to detect anomalous network traffic patterns.
-  - Conducted vulnerability assessments and penetration testing across servers.
 
 - **Information Security Analyst** | SecureNet Systems (2019 – 2021)
   - Implemented multi-factor authentication policies across corporate user accounts.
@@ -56,12 +55,12 @@ Dedicated and results-driven Senior Cybersecurity Analyst with over 7+ years of 
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

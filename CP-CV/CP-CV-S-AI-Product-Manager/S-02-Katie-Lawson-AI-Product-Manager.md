@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/katielawson | portfolio.com/katielawson
 
 **Personal Profile:**
-Dedicated and results-driven AI & Data Product Manager with over 4+ years of proven expertise in Artificial Intelligence & Product Management. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven AI & Data Product Manager with over 4+ years of experience in Artificial Intelligence & Product Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven AI & Data Product Manager with over 4+ years of pro
   - Managed product lifecycle for predictive data analytics software platform.
   - Prioritized AI model feature backlogs in Agile development environment.
   - Executed user testing sprints to validate machine learning features.
-  - Partnered with sales teams to create AI product demos.
 
 - **Associate Product Manager** | Smart Data Systems (2020 – 2022)
   - Gathered customer requirements for automated reporting software tools.
@@ -56,12 +55,12 @@ Dedicated and results-driven AI & Data Product Manager with over 4+ years of pro
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

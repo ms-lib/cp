@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/logansmith | portfolio.com/logansmith
 
 **Personal Profile:**
-Dedicated and results-driven Sous & Banquet Chef with over 5+ years of proven expertise in Culinary Operations & Gastronomy. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Sous & Banquet Chef with over 5+ years of experience in Culinary Operations & Gastronomy. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Sous & Banquet Chef with over 5+ years of proven ex
   - Executed high-volume catering banquets for over five hundred guests.
   - Designed specialized event menus for corporate gala dinners.
   - Monitored kitchen equipment maintenance and sanitation protocol checks.
-  - Standardized recipe portions to reduce daily kitchen food waste.
 
 - **Line Chef** | Harvest Table Restaurant (2019 – 2021)
   - Prepared saute and grill menu items during peak hours.
@@ -56,12 +55,12 @@ Dedicated and results-driven Sous & Banquet Chef with over 5+ years of proven ex
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

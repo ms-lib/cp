@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/oliviawilson | portfolio.com/oliviawilson
 
 **Personal Profile:**
-Dedicated and results-driven Lead Prompt & Interaction Designer with over 6+ years of proven expertise in Prompt Engineering & AI Interaction Design. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Lead Prompt & Interaction Designer with over 6+ years of experience in Prompt Engineering & AI Interaction Design. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Lead Prompt & Interaction Designer with over 6+ yea
   - Designed system prompt architectures for enterprise conversational AI agents.
   - Optimized prompt templates to minimize hallucination and improve accuracy.
   - Created standardized prompt libraries for corporate marketing content generation.
-  - Evaluated user interaction flows to refine conversational AI persona.
 
 - **AI Interaction Designer** | Cognitive UX Studio (2018 – 2021)
   - Developed interactive chatbot conversation trees for customer service apps.
@@ -56,12 +55,12 @@ Dedicated and results-driven Lead Prompt & Interaction Designer with over 6+ yea
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

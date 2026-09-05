@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/adelinepalmerston | portfolio.com/adelinepalmerston
 
 **Personal Profile:**
-Dedicated and results-driven Principal AI Solutions Architect with over 8+ years of proven expertise in AI Architecture & Infrastructure. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Principal AI Solutions Architect with over 8+ years of experience in AI Architecture & Infrastructure. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Principal AI Solutions Architect with over 8+ years
   - Designed enterprise AI architecture connecting LLMs to corporate data.
   - Implemented vector databases for high-speed semantic retrieval systems.
   - Optimized model inference costs while maintaining ultra-low latency response.
-  - Guided executive leadership on enterprise AI technology adoption roadmaps.
 
 - **Senior AI Infrastructure Engineer** | Neural Tech Labs (2017 – 2020)
   - Built scalable data ingestion pipelines for large model training.
@@ -56,12 +55,12 @@ Dedicated and results-driven Principal AI Solutions Architect with over 8+ years
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

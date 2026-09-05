@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/chrislee | portfolio.com/chrislee
 
 **Personal Profile:**
-Dedicated and results-driven Senior Full-Stack Developer with over 6+ years of proven expertise in Software Engineering. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Senior Full-Stack Developer with over 6+ years of experience in Software Engineering. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Senior Full-Stack Developer with over 6+ years of p
   - Architected scalable microservices using Node.js and React framework.
   - Optimized SQL database queries to reduce server latency.
   - Automated deployment pipelines to accelerate software release cycles.
-  - Mentored junior developers through daily technical code reviews.
 
 - **Full-Stack Engineer** | ByteCode Lab (2018 – 2022)
   - Built RESTful API endpoints for web application integration.
@@ -56,12 +55,12 @@ Dedicated and results-driven Senior Full-Stack Developer with over 6+ years of p
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

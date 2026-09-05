@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/reesevance | portfolio.com/reesevance
 
 **Personal Profile:**
-Dedicated and results-driven Technical Project Manager with over 5+ years of proven expertise in Project Management. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Technical Project Manager with over 5+ years of experience in Project Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Technical Project Manager with over 5+ years of pro
   - Coordinated software development sprints for SaaS product teams.
   - Tracked project resource allocation to prevent team burnout.
   - Facilitated daily standup meetings to resolve technical blockers.
-  - Reported project health metrics directly to executive leadership.
 
 - **Associate Project Coordinator** | Digital Workflow Inc (2019 – 2021)
   - Created detailed task breakdown structures for new deliverables.
@@ -56,12 +55,12 @@ Dedicated and results-driven Technical Project Manager with over 5+ years of pro
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/averydavis | portfolio.com/averydavis
 
 **Personal Profile:**
-Dedicated and results-driven Senior MLOps Engineer with over 7+ years of proven expertise in Machine Learning & MLOps Infrastructure. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Senior MLOps Engineer with over 7+ years of experience in Machine Learning & MLOps Infrastructure. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Senior MLOps Engineer with over 7+ years of proven 
   - Built CI/CD pipelines for automated machine learning model deployment.
   - Managed MLflow tracking servers to monitor model experiment parameters.
   - Configured Kubernetes GPU clusters for distributed deep learning training.
-  - Implemented automated model retraining triggers based on data drift.
 
 - **Machine Learning Engineer** | Predictive Analytics Lab (2019 – 2021)
   - Developed predictive machine learning algorithms using PyTorch and Scikit-learn.
@@ -56,12 +55,12 @@ Dedicated and results-driven Senior MLOps Engineer with over 7+ years of proven 
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

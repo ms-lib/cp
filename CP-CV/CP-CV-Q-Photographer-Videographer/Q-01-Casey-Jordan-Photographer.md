@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/caseyjordan | portfolio.com/caseyjordan
 
 **Personal Profile:**
-Dedicated and results-driven Commercial Photographer with over 6+ years of proven expertise in Photography & Cinematography. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Commercial Photographer with over 6+ years of experience in Photography & Cinematography. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Commercial Photographer with over 6+ years of prove
   - Photographed commercial product catalogs for national retail clients.
   - Configured complex studio lighting setups for commercial portrait sessions.
   - Retouched high-resolution images using Adobe Photoshop and Lightroom.
-  - Managed client photo shoots to deliver final assets.
 
 - **Staff Photographer** | Metropolitan Fashion Magazine (2017 – 2020)
   - Captured editorial fashion photo shoots on location daily.
@@ -56,12 +55,12 @@ Dedicated and results-driven Commercial Photographer with over 6+ years of prove
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

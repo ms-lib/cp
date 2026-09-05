@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/dakotaquinn | portfolio.com/dakotaquinn
 
 **Personal Profile:**
-Dedicated and results-driven Machine Learning Engineer with over 4+ years of proven expertise in Machine Learning & MLOps Infrastructure. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Machine Learning Engineer with over 4+ years of experience in Machine Learning & MLOps Infrastructure. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Machine Learning Engineer with over 4+ years of pro
   - Trained natural language processing models for customer sentiment analysis.
   - Converted PyTorch models to TensorRT format for fast execution.
   - Engineered feature extraction pipelines from unstructured text data sources.
-  - Collaborated with backend engineers to integrate ML model APIs.
 
 - **Junior ML Engineer** | Smart Vision Tech (2020 – 2022)
   - Cleaned and annotated large image datasets for computer vision.
@@ -56,12 +55,12 @@ Dedicated and results-driven Machine Learning Engineer with over 4+ years of pro
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

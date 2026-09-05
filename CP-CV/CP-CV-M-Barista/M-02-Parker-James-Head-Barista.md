@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/parkerjames | portfolio.com/parkerjames
 
 **Personal Profile:**
-Dedicated and results-driven Head Barista & Roaster with over 4+ years of proven expertise in Specialty Coffee & Cafe Operations. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Head Barista & Roaster with over 4+ years of experience in Specialty Coffee & Cafe Operations. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Head Barista & Roaster with over 4+ years of proven
   - Operated specialty coffee roasting machinery to create custom blends.
   - Supervised daily cafe shift operations and barista staff schedules.
   - Maintained commercial espresso machines and water filtration systems.
-  - Increased cafe bean retail sales through engaging coffee tastings.
 
 - **Barista** | Cornerstone Espresso Bar (2019 – 2021)
   - Prepared handcrafted cold brews and pour-over coffee beverages.
@@ -56,12 +55,12 @@ Dedicated and results-driven Head Barista & Roaster with over 4+ years of proven
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 

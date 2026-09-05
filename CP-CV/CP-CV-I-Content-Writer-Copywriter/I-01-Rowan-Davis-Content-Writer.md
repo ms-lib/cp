@@ -24,7 +24,7 @@
 - LinkedIn / Portfolio: linkedin.com/in/rowandavis | portfolio.com/rowandavis
 
 **Personal Profile:**
-Dedicated and results-driven Senior Content Writer with over 6+ years of proven expertise in Copywriting & Content Strategy. Adept at leading cross-functional initiatives, optimizing operational workflows, and delivering high-impact solutions. Possesses strong analytical capabilities, excellent communication skills, and a commitment to continuous professional growth.
+Results-driven Senior Content Writer with over 6+ years of experience in Copywriting & Content Strategy. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
 
 ---
 
@@ -43,7 +43,6 @@ Dedicated and results-driven Senior Content Writer with over 6+ years of proven 
   - Authored high-ranking SEO blog posts for B2B SaaS.
   - Developed long-form whitepapers and technical industry case studies.
   - Edited articles written by staff writers for editorial quality.
-  - Formulated content strategy guidelines to maintain consistent brand voice.
 
 - **Editorial Staff Writer** | Publishing House Press (2018 – 2021)
   - Wrote weekly magazine feature articles on business technology trends.
@@ -56,12 +55,12 @@ Dedicated and results-driven Senior Content Writer with over 6+ years of proven 
 **Selected Projects:**
 
 - **Project Alpha – Enterprise Initiative**
-  - Designed and executed a large-scale framework tailored for organizational scaling and client satisfaction.
-  - Successfully delivered deliverables on schedule and 15% under the allocated budget.
+  - Designed scalable frameworks to boost team productivity and client satisfaction.
+  - Delivered key project deliverables on schedule and under budget.
 
 - **Project Beta – Innovation & Optimization Program**
-  - Conducted in-depth research and integration of modern tools to streamline existing operational pipelines.
-  - Enhanced system reliability and user satisfaction metrics across all target user groups.
+  - Integrated modern operational tools to streamline core team workflows.
+  - Enhanced overall system reliability and key user satisfaction metrics.
 
 ---
 
