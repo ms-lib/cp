@@ -52,14 +52,16 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: PRODUCT FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Product Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 15% OFF
-- Subtitle: Experience premium Salted Caramel Macchiato & Freshly Baked Cookies at special discounted rates.
-- Voucher Code: **WARNER15**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Warner & Spencer**
+- Big Headline: THE FINEST MATCHA IN TOWN
+- Subtitle: CALM IN EVERY SIP
+- Feature Badge: 100% CEREMONIAL GRADE MATCHA
+- Visual Element: Premium iced matcha latte glass with hand whisking illustration on warm cream background
+- Caption Copy: "Experience serene bliss with our premium 100% Ceremonial Grade Matcha. Freshly whisked daily for your calm moment."
+- CTA Button: Try It Today / Order Now
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
 
 ---
@@ -122,6 +124,7 @@
 **Header:** **Warner & Spencer – MENU & PRICELIST**
 **Products / Services & Specific Pricing:**
 - **Iced Salted Caramel Macchiato** – $4.75
+- **Signature Ceremonial Matcha Latte** – $4.85
 - **Artisan Triple Chocolate Cookie** – $3.25
 - **Signature Cold Brew Vanilla** – $4.25
 - **Fresh Butter Croissant** – $3.80
