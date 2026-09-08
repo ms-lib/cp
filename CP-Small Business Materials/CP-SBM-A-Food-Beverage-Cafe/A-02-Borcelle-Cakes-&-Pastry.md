@@ -24,7 +24,7 @@
 **Format:** Vertical Story (1080x1920) | **Style:** Fast, Fresh, Casual Tone
 **Text Content:**
 - Header Tag: WE'RE OPEN TODAY! 📍
-- Highlight: Ready to serve you the best Custom Birthday Cakes & French Pastries.
+- Highlight: Ready to serve you the best Custom Birthday Cakes, Cheesecakes & Cupcakes.
 - Operating Hours: 08.00 AM — 08.00 PM (Everyday)
 - Location Pin: 123 Anywhere St., Any City, ST 12345
 - Interactive Sticker: Tap link below to get instant directions / WhatsApp chat!
@@ -35,7 +35,7 @@
 **Format:** Vertical Story (1080x1920) | **Style:** High Urgency, Eye-Catching Deal
 **Text Content:**
 - Big Headline: SPECIAL PROMO — 20% OFF
-- Subtext: Exclusive offer for our signature Custom Birthday Cakes & French Pastries!
+- Subtext: Exclusive offer for our signature Custom Birthday Cakes, Cheesecakes & Cupcakes!
 - Coupon Code: Use code **BORCELLE20** at checkout.
 - Expiry Notice: ⏰ Valid until September 02, 2035 (Limited Slots)
 - Call to Action: Swipe Up / Tap link in bio to claim your promo code now!
@@ -46,7 +46,7 @@
 **Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
 **Text Content:**
 - Title Banner: EXCLUSIVE PROMOTION — 20% OFF
-- Subtitle: Experience premium Custom Birthday Cakes & French Pastries at special discounted rates.
+- Subtitle: Experience premium Custom Birthday Cakes, Cheesecakes & Cupcakes at special discounted rates.
 - Voucher Code: **BORCELLE20**
 - Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
 - CTA Button: Book Now / Order Today
@@ -59,9 +59,9 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Borcelle Bakery
 - Highlighted Menu/Service Showcase:
+  1. **Burnt Basque Cheesecake** ($6.50) – Creamy caramelized Basque cheesecake with a rich molten center.
   1. **Strawberry Shortcake Whole** ($28.50) – Fresh Japanese strawberries with light vanilla sponge.
-  1. **Belgian Chocolate Tartlet** ($5.20) – Rich 70% dark chocolate ganache in butter crust.
-  1. **Almond Butter Croissant** ($4.10) – Flaky French pastry filled with creamy almond paste.
+  1. **Red Velvet Cupcake** ($4.50) – Classic moist cocoa sponge topped with rich cream cheese frosting.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 
@@ -111,8 +111,9 @@
 **Layout:** A4 / Printable Price List Sheet
 **Header:** **Borcelle Bakery – MENU & PRICELIST**
 **Products / Services & Specific Pricing:**
+- **Burnt Basque Cheesecake (Slice)** – $6.50
+- **Lotus Biscoff Cheesecake (Slice)** – $6.25
 - **Strawberry Shortcake (Whole 18cm)** – $28.50
-- **Belgian Chocolate Tartlet** – $5.20
-- **Almond Butter Croissant** – $4.10
 - **Red Velvet Cupcake Box (4pcs)** – $14.00
+- **Nutella Chocolate Cupcake (Single)** – $4.50
 **Footer Note:** All prices include applicable taxes. Contact us for custom bookings!
