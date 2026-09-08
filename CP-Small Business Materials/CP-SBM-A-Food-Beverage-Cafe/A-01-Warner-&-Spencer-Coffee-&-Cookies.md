@@ -56,12 +56,12 @@
 **Format:** Square Feed (1080x1080) | **Style:** Aesthetic Product Showcase Feed Ad
 **Text Content:**
 - Logo Header: **Warner & Spencer**
-- Big Headline: THE ULTIMATE MATCHA BLISS
-- Subtitle: PURE SERENITY IN EVERY DROP
-- Feature Badge: PREMIUM JAPANESE CEREMONIAL MATCHA
-- Visual Element: Iced matcha latte glass with handcrafted bamboo whisking artwork on warm cream aesthetic layout
-- Caption Copy: "Elevate your routine with our authentic Ceremonial Grade Matcha. Velvety, rich, and freshly whisked for your daily moment of calm."
-- CTA Button: Taste The Perfection / Order Now
+- Big Headline: THE ULTIMATE CARAMEL MACCHIATO
+- Subtitle: RICHNESS IN EVERY SIP
+- Feature Badge: 100% ARABICA BEANS & HOUSE-MADE CARAMEL
+- Visual Element: Premium iced salted caramel macchiato glass with golden caramel drizzle artwork on warm bronze aesthetic layout
+- Caption Copy: "Elevate your coffee break with our signature Salted Caramel Macchiato. Rich espresso, velvety milk, and handcrafted caramel in perfect balance."
+- CTA Button: Sip The Distinction / Order Now
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
 
 ---
@@ -124,7 +124,6 @@
 **Header:** **Warner & Spencer – MENU & PRICELIST**
 **Products / Services & Specific Pricing:**
 - **Iced Salted Caramel Macchiato** – $4.75
-- **Signature Ceremonial Matcha Latte** – $4.85
 - **Artisan Triple Chocolate Cookie** – $3.25
 - **Signature Cold Brew Vanilla** – $4.25
 - **Fresh Butter Croissant** – $3.80
