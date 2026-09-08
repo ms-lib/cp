@@ -71,9 +71,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Warner & Spencer
 - Highlighted Menu/Service Showcase:
-  1. **Iced Salted Caramel Macchiato** ($4.75) – Rich espresso layered with house-made salted caramel and velvety milk.
-  1. **Artisan Triple Chocolate Cookie** ($3.25) – Freshly baked daily using 70% Belgian dark chocolate chunks.
-  1. **Signature Cold Brew Vanilla** ($4.25) – Slow-steeped for 18 hours infused with natural Madagascar vanilla.
+  - **Artisan Triple Chocolate Cookie** ($3.25) – Freshly baked daily using 70% Belgian dark chocolate chunks and real French butter. ($4.25) – Slow-steeped for 18 hours infused with natural Madagascar vanilla.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

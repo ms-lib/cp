@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: PRODUCT FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Product Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — FLAT $50 OFF
-- Subtitle: Experience premium Custom Engagement Rings & Diamond Jewelry at special discounted rates.
-- Voucher Code: **LUXURY50**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Custom Jewelry Service**
+- Big Headline: THE ELEGANT SOLITAIRE RING
+- Subtitle: CRAFTED TO SHINE FOREVER
+- Feature Badge: 18K SOLID GOLD & CERTIFIED GEMSTONES
+- Visual Element: Sparkling diamond solitaire ring artwork on luxurious dark gold aesthetic layout
+- Caption Copy: "Celebrate eternal love with a handcrafted custom solitaire ring. Designed to your exact specifications by master jewelers."
+- CTA Button: Design Your Ring / Book Consultation
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -59,9 +62,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Custom Jewelry Service
 - Highlighted Menu/Service Showcase:
-  1. **Custom Solitaire Diamond Ring** ($350.00) – Tailored 18k solid gold band with certified moissanite/diamond.
-  1. **Handcrafted Emerald Pendant Necklace** ($220.00) – Natural Colombian emerald handset in vintage silver/gold.
-  1. **Personalized Engraved Gold Bracelet** ($145.00) – Custom name or date engraving with adjustable chain.
+  - **Handcrafted Emerald Pendant Necklace** ($220.00) – Natural Colombian emerald handset in vintage silver/gold.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

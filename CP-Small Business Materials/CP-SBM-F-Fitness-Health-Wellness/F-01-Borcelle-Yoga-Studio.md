@@ -52,15 +52,18 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 50% OFF TRIAL PASS
-- Subtitle: Experience premium Vinyasa Flow & Sound Healing Meditation at special discounted rates.
-- Voucher Code: **YOGATRIAL**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Borcelle Yoga**
+- Big Headline: SERENE VINYASA YOGA FLOW
+- Subtitle: FIND YOUR INNER HARMONY
+- Feature Badge: CERTIFIED INSTRUCTORS & AMBIENT SOUND HEALING
+- Visual Element: Peaceful yoga posture illustration with sound bowl icon on calming pastel layout
+- Caption Copy: "Restore balance to your body and mind with our tranquil Vinyasa Flow session paired with soothing sound bowl meditation."
+- CTA Button: Join Yoga Class / Book Mat
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 

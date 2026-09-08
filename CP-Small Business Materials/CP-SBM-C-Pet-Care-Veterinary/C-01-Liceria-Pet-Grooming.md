@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 15% OFF
-- Subtitle: Experience premium Full Spa Cat & Dog Grooming at special discounted rates.
-- Voucher Code: **PAMPERPET**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Liceria Pet Grooming**
+- Big Headline: PAWFECT PET SPA & GROOMING
+- Subtitle: LOVE AND CARE FOR YOUR FURRY FRIEND
+- Feature Badge: ORGANIC SHAMPOO & GENTLE HAND TREATMENT
+- Visual Element: Happy groomed fluffy dog photo frame with organic paw badge artwork on warm aesthetic layout
+- Caption Copy: "Pamper your beloved pets with our full spa grooming package. Gentle coat trimming, ear cleaning, and relaxing organic bath."
+- CTA Button: Book Spa Session / Reserve Slot
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 

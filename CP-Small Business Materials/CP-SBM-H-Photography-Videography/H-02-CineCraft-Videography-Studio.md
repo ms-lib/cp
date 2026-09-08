@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 15% OFF
-- Subtitle: Experience premium Wedding Cinematic Film & Drone Videography at special discounted rates.
-- Voucher Code: **CINEMA15**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **CineCraft Studio**
+- Big Headline: CINEMATIC FILM STORYTELLING
+- Subtitle: EVERY EMOTION CAPTURED IN 4K
+- Feature Badge: 4K CINEMATIC FILMING & AERIAL DRONE FOOTAGE
+- Visual Element: Film reel artwork and cinema camera icon on sleek dark studio layout
+- Caption Copy: "Relive your special moments with a Hollywood-quality cinematic feature film, drone shots, and licensed audio soundscapes."
+- CTA Button: Book Video Production / Contact Us
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -59,9 +62,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – CineCraft Studio
 - Highlighted Menu/Service Showcase:
-  1. **Full Day Cinematic Wedding Feature Film** ($650.00) – Full day 4K filming, licensed music track, 3-5 min highlight film.
-  1. **Same-Day Edit (SDE) Wedding Video Highlight** ($350.00) – Filmed and edited on-site to screen during wedding reception.
-  1. **Corporate Brand Commercial (60 sec)** ($480.00) – High-end brand video with voiceover script and color grading.
+  - **Same-Day Edit (SDE) Wedding Video Highlight** ($350.00) – Filmed and edited on-site to screen during wedding reception.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

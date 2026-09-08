@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 25% OFF
-- Subtitle: Experience premium Eco-Friendly Deep Home & Sofa Cleaning at special discounted rates.
-- Voucher Code: **CLEAN25**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Wardiere Cleaning**
+- Big Headline: SPOTLESS HOME GUARANTEE
+- Subtitle: PURE COMFORT IN EVERY CORNER
+- Feature Badge: ECO-FRIENDLY & TOXIN-FREE PRODUCTS
+- Visual Element: Pristine clean modern living room layout with green eco-friendly badge icon
+- Caption Copy: "Transform your living space with our premium deep home cleaning. Professional technicians, hospital-grade sanitization, and eco-safe products."
+- CTA Button: Book Your Clean / Schedule Today
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 

@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 25% OFF
-- Subtitle: Experience premium Traditional Aromatherapy Massage & Facial Spa at special discounted rates.
-- Voucher Code: **SPARELAX25**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Borcelle Spa**
+- Big Headline: PURE AROMATHERAPY RELAXATION
+- Subtitle: REJUVENATE YOUR BODY AND MIND
+- Feature Badge: ORGANIC ESSENTIAL OILS & LICENSED THERAPISTS
+- Visual Element: Relaxing spa candle and essential oil bottle artwork on warm soothing green layout
+- Caption Copy: "Melt away stress and muscle tension with our 90-minute signature aromatherapy massage using organic botanical oils."
+- CTA Button: Reserve Spa Session / Book Today
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -59,9 +62,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Borcelle Spa
 - Highlighted Menu/Service Showcase:
-  1. **Signature Aromatherapy Massage** ($48.00/90min) – Full body deep tissue treatment with custom essential oils.
-  1. **Deep Hydrating Botanical Facial** ($38.00/60min) – Deep cleansing, steam extraction, and hydrating mask.
-  1. **Himalayan Salt Body Scrub & Bath** ($42.00) – Exfoliating mineral scrub followed by warm herbal bath.
+  - **Deep Hydrating Botanical Facial** ($38.00/60min) – Deep cleansing, steam extraction, and hydrating mask.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

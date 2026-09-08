@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: PRODUCT FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Product Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 20% OFF
-- Subtitle: Experience premium Custom Birthday Cakes, Cheesecakes & Cupcakes at special discounted rates.
-- Voucher Code: **BORCELLE20**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Borcelle Bakery**
+- Big Headline: THE ULTIMATE BURNT BASQUE CHEESECAKE
+- Subtitle: MELT IN YOUR MOUTH PERFECTION
+- Feature Badge: HANDCRAFTED & CARAMELIZED DAILY
+- Visual Element: Slice of creamy Burnt Basque Cheesecake with golden caramelized top on soft pastel pink aesthetic layout
+- Caption Copy: "Taste pure indulgence with our signature Burnt Basque Cheesecake. Creamy, rich, and baked to molten perfection."
+- CTA Button: Indulge Today / Order Now
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -59,9 +62,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Borcelle Bakery
 - Highlighted Menu/Service Showcase:
-  1. **Burnt Basque Cheesecake** ($6.50) – Creamy caramelized Basque cheesecake with a rich molten center.
-  1. **Strawberry Shortcake Whole** ($28.50) – Fresh Japanese strawberries with light vanilla sponge.
-  1. **Red Velvet Cupcake** ($4.50) – Classic moist cocoa sponge topped with rich cream cheese frosting.
+  - **Strawberry Shortcake Whole** ($28.50) – Fresh Japanese strawberries layered with light vanilla sponge and sweet whipped cream. ($4.50) – Classic moist cocoa sponge topped with rich cream cheese frosting.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

@@ -52,15 +52,18 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 15% OFF
-- Subtitle: Experience premium Classic Gentleman Haircut, Hot Towel Shave & Styling at special discounted rates.
-- Voucher Code: **AURA15**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Aura Barbershop**
+- Big Headline: THE PRECISION GENTLEMAN CUT
+- Subtitle: SHARP STYLING & ULTIMATE COMFORT
+- Feature Badge: MASTER BARBERS & HOT TOWEL TREATMENTS
+- Visual Element: Handsome gentleman haircut portrait frame with barber pole icon artwork on dark aesthetic layout
+- Caption Copy: "Upgrade your look with a precision haircut, hot towel shave, and scalp massage crafted by certified master barbers."
+- CTA Button: Book Haircut / Reserve Chair
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -69,9 +72,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Aura Barbershop
 - Highlighted Menu/Service Showcase:
-  1. **Gentleman Classic Haircut & Wash** ($25.00) – Precision scissor cut, hair wash, scalp massage, and styling.
-  1. **Beard Trim & Hot Towel Shave** ($15.00) – Traditional razor lining, hot towel wrap, and beard oil application.
-  1. **Full Head Hair Color & Styling** ($45.00) – Professional ammonia-free hair coloring and custom finish.
+  - **Beard Trim & Hot Towel Shave** ($15.00) – Traditional razor lining, hot towel wrap, and beard oil application.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

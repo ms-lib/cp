@@ -52,15 +52,18 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — FLAT $100 OFF
-- Subtitle: Experience premium Full Wedding Planning & Day-Of Coordination at special discounted rates.
-- Voucher Code: **EVERWED100**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **EverAfter Wedding Organizer**
+- Big Headline: THE DREAM WEDDING EXPERIENCE
+- Subtitle: UNFORGETTABLE MOMENTS CREATED WITH CARE
+- Feature Badge: ALL-INCLUSIVE VENDOR MANAGEMENT & DESIGN
+- Visual Element: Elegant bride and groom photo frame with gold wedding ring icon on floral aesthetic layout
+- Caption Copy: "Turn your dream wedding into reality. Complete planning, vendor coordination, and flawless execution for your big day."
+- CTA Button: Consult Wedding Planner / Book Date
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -69,9 +72,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – EverAfter WO
 - Highlighted Menu/Service Showcase:
-  1. **Full All-Inclusive Wedding Planning Package** ($1,250.00) – End-to-end vendor management, budget prep, and day-of crew.
-  1. **Day-Of Wedding Coordination (10 Crew)** ($480.00) – 10 professional crew members managing rundown and guests.
-  1. **Intimate Garden Wedding Package** ($750.00) – Specialized planning for outdoor micro-weddings up to 100 guests.
+  - **Day-Of Wedding Coordination (10 Crew)** ($480.00) – 10 professional crew members managing rundown and guests.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

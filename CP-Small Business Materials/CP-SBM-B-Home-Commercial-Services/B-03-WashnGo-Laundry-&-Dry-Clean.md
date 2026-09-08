@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 20% OFF
-- Subtitle: Experience premium Express Kiloan Wash, Dry Cleaning & Shoe Spa at special discounted rates.
-- Voucher Code: **FRESHWASH20**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **WashnGo Laundry**
+- Big Headline: PREMIUM LAUNDRY & DRY CLEANING
+- Subtitle: FRESHNESS & FABRIC CARE GUARANTEED
+- Feature Badge: HYPOALLERGENIC & FABRIC PROTECTION TECH
+- Visual Element: Neatly folded fresh linen and suit hanging artwork on clean pastel layout
+- Caption Copy: "Give your garments the royal treatment. Advanced eco-friendly dry cleaning with free pickup and delivery right to your door."
+- CTA Button: Schedule Pickup / Order Now
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -59,9 +62,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Wash&Go Laundry
 - Highlighted Menu/Service Showcase:
-  1. **Express Kiloan Wash & Fold** ($1.80/kg) – Complete washing, perfume conditioning, and neat ironing.
-  1. **Suit & Tuxedo Professional Dry Clean** ($8.50) – Gentle solvent cleaning maintaining fabric texture and shape.
-  1. **Deep Sneaker & Shoe Spa Wash** ($6.00) – Handcrafted deep cleaning removing stubborn dirt and odor.
+  - **Suit & Tuxedo Professional Dry Clean** ($8.50) – Gentle solvent cleaning maintaining fabric texture and shape.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

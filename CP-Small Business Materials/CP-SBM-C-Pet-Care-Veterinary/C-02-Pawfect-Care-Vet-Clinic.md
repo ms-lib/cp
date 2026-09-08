@@ -52,15 +52,18 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 10% OFF
-- Subtitle: Experience premium Vet Health Examination & Pet Hotel at special discounted rates.
-- Voucher Code: **VETCARE10**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Pawfect Care Vet**
+- Big Headline: TRUSTED VETERINARY HEALTHCARE
+- Subtitle: COMPASSIONATE MEDICAL EXCELLENCE
+- Feature Badge: LICENSED VETS & MODERN DIAGNOSTIC LAB
+- Visual Element: Vet doctor examining cute pet with medical stethoscope badge on clean medical layout
+- Caption Copy: "Ensure your pet lives a healthy, happy life with our complete wellness exams, vaccinations, and expert veterinary care."
+- CTA Button: Schedule Checkup / Call Vet
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -69,9 +72,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Pawfect Care
 - Highlighted Menu/Service Showcase:
-  1. **Comprehensive Vet Health Checkup** ($35.00) – Complete physical checkup, weight review, and vet report.
-  1. **Annual Core Vaccination Package** ($42.00) – Protection against Rabies, Parvo, and feline distemper.
-  1. **Deluxe Pet Hotel Boarding** ($18.00/night) – AC room, daily playtime updates, and premium meals included.
+  - **Annual Core Vaccination Package** ($42.00) – Protection against Rabies, Parvo, and feline distemper.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

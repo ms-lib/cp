@@ -52,15 +52,18 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: PRODUCT FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Product Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — BUY 1 GET 1 (B1G1)
-- Subtitle: Experience premium Crispy Chicken Ramen & Dumplings at special discounted rates.
-- Voucher Code: **B1G1RAMEN**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Fradel & Spies**
+- Big Headline: THE ULTIMATE TONKOTSU RAMEN
+- Subtitle: RICHNESS IN EVERY BOWL
+- Feature Badge: 18-HOUR SLOW-COOKED BROTH & FRESH NOODLES
+- Visual Element: Steaming bowl of signature Tonkotsu ramen with chashu pork, ajitama egg, and scallions on dark aesthetic background
+- Caption Copy: "Savor the depth of authentic flavor with our Signature Tonkotsu Ramen. Rich pork broth, tender chashu, and handcrafted noodles."
+- CTA Button: Savor The Flavor / Order Now
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -69,9 +72,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Fradel & Spies
 - Highlighted Menu/Service Showcase:
-  1. **Spicy Tonkotsu Chicken Ramen** ($8.90) – Slow-cooked collagen broth served with handmade noodles.
-  1. **Crispy Boneless Chicken Noodle** ($7.45) – Golden crispy chicken over savory chili garlic noodles.
-  1. **Steamed Shrimp Dumplings** ($5.50) – Fresh shrimp encased in translucent handmade wrappers.
+  - **Crispy Boneless Chicken Noodle** ($7.45) – Golden crispy chicken over savory chili garlic noodles.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

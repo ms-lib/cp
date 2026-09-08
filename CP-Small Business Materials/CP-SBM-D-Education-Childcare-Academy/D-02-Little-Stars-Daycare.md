@@ -52,15 +52,18 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — FREE 3-DAY TRIAL
-- Subtitle: Experience premium Full-Day Daycare & Early Learning PAUD at special discounted rates.
-- Voucher Code: **DAYCARETRIAL**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Little Stars Daycare**
+- Big Headline: SAFE & NURTURING DAYCARE HAVEN
+- Subtitle: GROWTH AND JOY IN EVERY DAY
+- Feature Badge: CERTIFIED EDUCATORS & 24/7 CCTV SAFETY
+- Visual Element: Cheerful early learning playroom frame with cute star badge icon on warm pastel layout
+- Caption Copy: "Give your child a safe, warm environment to learn, play, and grow with certified early childhood professionals."
+- CTA Button: Book Daycare Tour / Contact Us
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 

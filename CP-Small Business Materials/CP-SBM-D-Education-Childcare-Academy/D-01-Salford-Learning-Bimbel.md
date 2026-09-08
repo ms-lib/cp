@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 25% OFF
-- Subtitle: Experience premium English Speaking & Intensive Math Bimbel at special discounted rates.
-- Voucher Code: **STUDY25**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Salford Learning**
+- Big Headline: TOP ACADEMIC BIMBEL SUCCESS
+- Subtitle: UNLOCK YOUR FULL POTENTIAL
+- Feature Badge: EXPERT TUTORS & SMALL INTERACTIVE CLASSES
+- Visual Element: Confident student with high score badge icon on clean academic blue layout
+- Caption Copy: "Achieve top grades and enter your dream school with our tailored intensive tutoring and proven study methods."
+- CTA Button: Enroll Now / Join Trial Class
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -59,9 +62,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Salford Academy
 - Highlighted Menu/Service Showcase:
-  1. **Intensive English Speaking Class** ($45.00/mo) – Small interactive classes with native speaking practice.
-  1. **Math & Science Bimbel Package** ($55.00/mo) – Structured curriculum focused on exam prep and homework help.
-  1. **TOEFL / IELTS Preparation Course** ($85.00) – Full 8-week bootcamp with practice tests and scoring feedback.
+  - **Math & Science Bimbel Package** ($55.00/mo) – Structured curriculum focused on exam prep and homework help.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

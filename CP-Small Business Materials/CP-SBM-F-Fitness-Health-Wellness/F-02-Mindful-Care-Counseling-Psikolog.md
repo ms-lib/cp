@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 15% OFF FIRST SESSION
-- Subtitle: Experience premium Individual Therapy & Stress Counseling at special discounted rates.
-- Voucher Code: **MINDFUL15**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Mindful Care**
+- Big Headline: MINDFUL THERAPY & COUNSELING
+- Subtitle: COMPASSIONATE HEALING & GUIDANCE
+- Feature Badge: LICENSED CLINICAL PSYCHOLOGISTS & 100% CONFIDENTIAL
+- Visual Element: Soothing natural leaf and lotus icon artwork on warm comforting aesthetic layout
+- Caption Copy: "Take the first step toward mental wellness in a safe, confidential environment guided by experienced clinical psychologists."
+- CTA Button: Book Session / Speak With Psychologist
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -59,9 +62,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Mindful Care
 - Highlighted Menu/Service Showcase:
-  1. **Individual Adult Counseling Session** ($55.00/60min) – Confidential 1-on-1 therapy for anxiety, burnout, and stress.
-  1. **Couple & Relationship Therapy** ($85.00/90min) – Constructive mediation to improve trust and communication.
-  1. **Online Video Therapy Consultation** ($42.00/50min) – Convenient therapy sessions from the comfort of home.
+  - **Couple & Relationship Therapy** ($85.00/90min) – Constructive mediation to improve trust and communication.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

@@ -52,15 +52,18 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — FLAT $40 OFF
-- Subtitle: Experience premium Pre-Wedding Shoot & Wedding Day Photography at special discounted rates.
-- Voucher Code: **PHOTO40**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Studio Vision**
+- Big Headline: CAPTURING PRECIOUS MOMENTS
+- Subtitle: TIMELESS VISUAL STORYTELLING
+- Feature Badge: HIGH-DEFINITION 4K & PROFESSIONAL LIGHTING
+- Visual Element: Camera aperture lens artwork with elegant photo frame on dark studio aesthetic layout
+- Caption Copy: "Preserve your most cherished memories with breathtaking photography, artistic framing, and professional color grading."
+- CTA Button: Book Shoot / Reserve Studio
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -69,9 +72,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Studio Vision
 - Highlighted Menu/Service Showcase:
-  1. **Full Day Wedding Photography Package** ($450.00) – 10 hours coverage, 2 photographers, 300+ edited photos, flashdrive.
-  1. **Outdoor Pre-Wedding Concept Shoot** ($260.00) – 4 hours shoot, 2 locations, 20 color-graded retouched photos.
-  1. **Studio Personal / Graduation Portrait** ($65.00) – 1 hour indoor studio session, 5 retouched digital files, print.
+  - **Outdoor Pre-Wedding Concept Shoot** ($260.00) – 4 hours shoot, 2 locations, 20 color-graded retouched photos.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

@@ -52,15 +52,18 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — FLAT $3 OFF
-- Subtitle: Experience premium Same-Day Express Courier & COD Shipping at special discounted rates.
-- Voucher Code: **SHIPFREE3**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Liceria Express**
+- Big Headline: FAST & RELIABLE DOORSTEP EXPRESS
+- Subtitle: SPEED AND CARE IN EVERY DELIVERY
+- Feature Badge: SAME-DAY GUARANTEE & REAL-TIME GPS TRACKING
+- Visual Element: Courier package delivery box with express speed badge artwork on modern layout
+- Caption Copy: "Need urgent deliveries? Trust our express courier service for fast, safe, and trackable doorstep arrival within hours."
+- CTA Button: Send Parcel Now / Book Courier
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
@@ -69,9 +72,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Liceria Express
 - Highlighted Menu/Service Showcase:
-  1. **Same-Day City Express Delivery** ($4.50) – Guaranteed delivery within 4 hours inside city limits.
-  1. **Next-Day Standard Shipping** ($2.20) – Affordable doorstep delivery with live GPS tracking.
-  1. **Inter-City Cargo Freight** ($18.00) – Bulk package shipping with insurance coverage included.
+  - **Next-Day Standard Shipping** ($2.20) – Affordable doorstep delivery with live GPS tracking.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

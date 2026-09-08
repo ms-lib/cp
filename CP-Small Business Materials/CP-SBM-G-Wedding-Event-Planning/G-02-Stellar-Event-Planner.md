@@ -42,15 +42,18 @@
 
 ---
 
-### ASSET 4 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 4 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 10% OFF
-- Subtitle: Experience premium Corporate Galas, Anniversaries & Birthdays at special discounted rates.
-- Voucher Code: **STELLAR10**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Stellar Event Planner**
+- Big Headline: SPECTACULAR EVENT PLANNING
+- Subtitle: FLAWLESS CELEBRATIONS & EXECUTION
+- Feature Badge: CUSTOM CONCEPT DESIGN & ON-SITE COORDINATION
+- Visual Element: Festive celebration banquet hall frame with sparkling star icon artwork on luxurious layout
+- Caption Copy: "Make your corporate gala, birthday, or anniversary truly extraordinary with our end-to-end bespoke event planning."
+- CTA Button: Plan Your Event / Contact Us
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 

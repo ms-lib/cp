@@ -52,15 +52,18 @@
 
 ---
 
-### ASSET 5 - IG POST 1: MAIN PROMOTIONAL CAROUSEL BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Feed Ad with Value Proposition
+### ASSET 5 - IG POST 1: PRODUCT FEATURE SPOTLIGHT BANNER
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Product Showcase Feed Ad
 **Text Content:**
-- Title Banner: EXCLUSIVE PROMOTION — 15% OFF
-- Subtitle: Experience premium Silk Blouses, Summer Dresses & Blazers at special discounted rates.
-- Voucher Code: **ELORA15**
-- Caption Copy: "Upgrade your experience with our signature services! Tap the link in our bio to book your slot today."
-- CTA Button: Book Now / Order Today
+- Logo Header: **Elora Boutique**
+- Big Headline: THE ELEGANT SILK COLLECTION
+- Subtitle: UNMATCHED GRACE AND COMFORT
+- Feature Badge: 100% PURE SILK & BESPOKE TAILORING
+- Visual Element: Elegant silk blouse mannequin outfit frame with gold fashion hanger icon on minimalist layout
+- Caption Copy: "Step out in effortless style with our signature pure silk ensemble. Lightweight, breathable, and timeless elegance."
+- CTA Button: Shop Collection / Explore Lookbook
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
+
 
 ---
 
