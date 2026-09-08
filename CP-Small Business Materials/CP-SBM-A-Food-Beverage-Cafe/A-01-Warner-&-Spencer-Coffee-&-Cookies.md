@@ -56,12 +56,12 @@
 **Format:** Square Feed (1080x1080) | **Style:** Aesthetic Product Showcase Feed Ad
 **Text Content:**
 - Logo Header: **Warner & Spencer**
-- Big Headline: THE FINEST MATCHA IN TOWN
-- Subtitle: CALM IN EVERY SIP
-- Feature Badge: 100% CEREMONIAL GRADE MATCHA
-- Visual Element: Premium iced matcha latte glass with hand whisking illustration on warm cream background
-- Caption Copy: "Experience serene bliss with our premium 100% Ceremonial Grade Matcha. Freshly whisked daily for your calm moment."
-- CTA Button: Try It Today / Order Now
+- Big Headline: THE ULTIMATE MATCHA BLISS
+- Subtitle: PURE SERENITY IN EVERY DROP
+- Feature Badge: PREMIUM JAPANESE CEREMONIAL MATCHA
+- Visual Element: Iced matcha latte glass with handcrafted bamboo whisking artwork on warm cream aesthetic layout
+- Caption Copy: "Elevate your routine with our authentic Ceremonial Grade Matcha. Velvety, rich, and freshly whisked for your daily moment of calm."
+- CTA Button: Taste The Perfection / Order Now
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
 
 ---
