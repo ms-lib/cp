@@ -62,7 +62,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Borcelle Bakery
 - Highlighted Menu/Service Showcase:
-  - **Strawberry Shortcake Whole** ($28.50) – Fresh Japanese strawberries layered with light vanilla sponge and sweet whipped cream. ($4.50) – Classic moist cocoa sponge topped with rich cream cheese frosting.
+  - **Strawberry Shortcake Whole** ($28.50) – Fresh Japanese strawberries layered with light vanilla sponge and sweet whipped cream.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 

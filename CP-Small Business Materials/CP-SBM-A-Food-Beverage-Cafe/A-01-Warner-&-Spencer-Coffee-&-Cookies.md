@@ -71,7 +71,7 @@
 **Text Content:**
 - Title: OUR FEATURED SELECTIONS – Warner & Spencer
 - Highlighted Menu/Service Showcase:
-  - **Artisan Triple Chocolate Cookie** ($3.25) – Freshly baked daily using 70% Belgian dark chocolate chunks and real French butter. ($4.25) – Slow-steeped for 18 hours infused with natural Madagascar vanilla.
+  - **Artisan Triple Chocolate Cookie** ($3.25) – Freshly baked daily using 70% Belgian dark chocolate chunks and real French butter.
 - Subtext: Crafted with precision, passion, and premium quality.
 - CTA: Tap link in bio to view full menu and price list!
 
