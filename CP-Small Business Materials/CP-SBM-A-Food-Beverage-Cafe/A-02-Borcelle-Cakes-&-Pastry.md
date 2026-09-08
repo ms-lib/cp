@@ -1,8 +1,8 @@
 # JUDUL 2 OF 20
-## Borcelle Bakery – Cakes & Pastry Shop Promotional Suite
+## Borcelle Bakery – Cakes, Cheesecakes & Cupcakes Promotional Suite
 
 **Sub-Topic:** CP-SBM-A-Food-Beverage-Cafe  
-**Main Keywords:** borcelle bakery, cakes & pastry shop, borcelle20, promo banner, loyalty card  
+**Main Keywords:** borcelle bakery, cakes & cupcakes shop, cheesecake, cupcake, borcelle20, promo banner, loyalty card  
 **Target Audience:** Customers, Clients, Local Community, Social Media Followers  
 **Style:** Professional Canva Small Business Aesthetic Layout  
 **Tone:** Engaging, Friendly, Trustworthy  
