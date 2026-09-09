@@ -96,13 +96,35 @@
 ---
 
 ### ASSET 7 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **15% OFF**
-- Promo Code: **PAMPERPET**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Playful Warm Pet Grooming Theme with Warm Terracotta & Peach Background & Pet Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Warm Terracotta & Peach Gradient (`#D97706` -> `#92400E`)
+- **Top Left Header:** Brand Logo (**Liceria Pet**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : GROOM30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photography of a fluffy happy Golden Retriever getting a warm bubble bath with floating soap suds & water splash
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Rich Warm Orange Solid (`#EA580C`)
+- **Top Left Header:** Brand Logo (**Liceria Pet**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of professional pet grooming scissor, brush set & fur care accessories
+
+#### VOUCHER VARIATION 3: DELUXE PET PAMPER BUNDLE (`40% OFF`)
+- **Background & Palette:** Deep Caramel & Cocoa Gradient (`#78350F` -> `#451A03`)
+- **Top Left Header:** Brand Logo (**Liceria Pet**)
+- **Main Headline:** **DELUXE SPA PACKAGE** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : PAMPER40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of groomed fluffy pomeranian/cat wearing a cute bow tie surrounded by pet spa treats & paw print sparkles
 
 ---
 

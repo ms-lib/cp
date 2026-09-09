@@ -107,13 +107,35 @@
 ---
 
 ### ASSET 8 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **20% OFF**
-- Promo Code: **FRESHWASH20**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Refreshing Ocean Sky Blue Theme with Pure White Soap Bubbles & Laundry Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Bright Ocean Sky Blue Gradient (`#0096C7` -> `#03045E`)
+- **Top Left Header:** Brand Logo (**Wash&Go Laundry**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : WASH30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution product photography of a stack of fresh crisp white towels & folded laundry with floating suds bubbles & water droplets
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Vibrant Ice Blue Solid (`#0077B6`)
+- **Top Left Header:** Brand Logo (**Wash&Go Laundry**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of professional dry-cleaned suit & silk dress on polished wooden hangers
+
+#### VOUCHER VARIATION 3: BULK FAMILY LAUNDRY BUNDLE (`40% OFF`)
+- **Background & Palette:** Deep Cobalt Blue Gradient (`#023E8A` -> `#03045E`)
+- **Top Left Header:** Brand Logo (**Wash&Go Laundry**)
+- **Main Headline:** **10KG FAMILY WASH DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : BULK40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of front-load washing machine drum spinning with water suds splash & laundry basket filled with colorful clothes
 
 ---
 

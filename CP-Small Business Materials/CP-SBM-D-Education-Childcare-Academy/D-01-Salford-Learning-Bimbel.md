@@ -107,13 +107,35 @@
 ---
 
 ### ASSET 8 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **25% OFF**
-- Promo Code: **STUDY25**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Prestigious Academy Theme with Royal Navy Blue & Gold Gradient & Academic Graphics  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Deep Royal Navy & Gold Gradient (`#0B2545` -> `#134074`)
+- **Top Left Header:** Brand Logo (**Salford Academy**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : STUDY30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution 3D render/photo of graduation cap, open academic book with golden glowing stars & medal crest
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Rich Academic Navy Solid (`#1D4ED8`)
+- **Top Left Header:** Brand Logo (**Salford Academy**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of student study toolkit, tablet, notepad & fountain pen with glowing star light burst
+
+#### VOUCHER VARIATION 3: INTENSIVE EXAM PREP BUNDLE (`40% OFF`)
+- **Background & Palette:** Dark Midnight Navy Gradient (`#0F172A` -> `#020617`)
+- **Top Left Header:** Brand Logo (**Salford Academy**)
+- **Main Headline:** **EXAM PREP BUNDLE** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : ACADEMY40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of academy classroom, diploma scroll tied with red ribbon & shining trophy cup
 
 ---
 

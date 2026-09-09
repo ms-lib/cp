@@ -107,13 +107,35 @@
 ---
 
 ### ASSET 8 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **20% OFF**
-- Promo Code: **BORCELLE20**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Luxury Artisan Bakery Theme with Deep Berry & Rose Gold Background & Bakery Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Deep Velvet Berry & Rose Gold Gradient (`#6B1124` -> `#3B0511`)
+- **Top Left Header:** Brand Logo (**Borcelle Bakery**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : BORCELLE30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution product photography of Burnt Basque Cheesecake slice with fresh strawberry drizzle & flying berry sprinkles
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Rich Rose Burgundy Solid (`#8B1E3F`)
+- **Top Left Header:** Brand Logo (**Borcelle Bakery**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photography of Red Velvet & Nutella Cupcakes with flying powdered sugar dust
+
+#### VOUCHER VARIATION 3: CELEBRATION CAKE BUNDLE (`40% OFF`)
+- **Background & Palette:** Deep Chocolate & Berry Wine Gradient (`#4A0A19` -> `#20020A`)
+- **Top Left Header:** Brand Logo (**Borcelle Bakery**)
+- **Main Headline:** **FAMILY CELEBRATION DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : CAKE40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of whole Strawberry Shortcake celebration cake surrounded by artisan pastry platter & gold sparkle stars
 
 ---
 

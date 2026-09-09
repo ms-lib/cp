@@ -117,13 +117,35 @@
 ---
 
 ### ASSET 9 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **BUY 1 GET 1 (B1G1)**
-- Promo Code: **B1G1RAMEN**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** High-Impact Asian Diner & Fried Chicken Theme with Crimson Red Gradient & Food Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Rich Crimson Red Gradient (`#C91818` -> `#8B0000`)
+- **Top Left Header:** Brand Logo (**Fradel & Spies**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : SAVE30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution product photography of golden crispy fried chicken wings broken open with flying crumbs & green chili flakes
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Deep Crimson Red Solid (`#B30000`)
+- **Top Left Header:** Brand Logo (**Fradel & Spies**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution product photography of double juicy fried chicken drumsticks with flying seasoning dust
+
+#### VOUCHER VARIATION 3: FAMILY DEAL BUNDLE (`40% OFF`)
+- **Background & Palette:** Intense Dark Crimson Gradient (`#9E0000` -> `#5E0000`)
+- **Top Left Header:** Brand Logo (**Fradel & Spies**)
+- **Main Headline:** **FAMILY DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : FAM40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of a big red bucket filled with golden crispy fried chicken tenders & flying chili seasoning dust
 
 ---
 

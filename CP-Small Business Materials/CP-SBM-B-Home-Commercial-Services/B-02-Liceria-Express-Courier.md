@@ -117,13 +117,35 @@
 ---
 
 ### ASSET 9 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **FLAT $3 OFF**
-- Promo Code: **SHIPFREE3**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Dynamic Logistics & Courier Theme with Navy Blue & Electric Yellow Accents & Motion Graphics  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Deep Navy Blue & Electric Yellow Gradient (`#1B263B` -> `#0D1B2A`)
+- **Top Left Header:** Brand Logo (**Liceria Express**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : SHIP30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution 3D render/photo of winged delivery parcel box flying with electric yellow speed streaks & location pinpoint marker
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Electric Navy Blue Solid (`#415A77`)
+- **Top Left Header:** Brand Logo (**Liceria Express**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photography of express delivery van with open rear door showcasing stacked cardboard shipping boxes
+
+#### VOUCHER VARIATION 3: BUSINESS FLEET BUNDLE (`40% OFF`)
+- **Background & Palette:** Dark Midnight Blue & Yellow Gradient (`#0D1B2A` -> `#000814`)
+- **Top Left Header:** Brand Logo (**Liceria Express**)
+- **Main Headline:** **BUSINESS FLEET DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : FLEET40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of logistics warehouse, delivery truck fleet & cargo drone in motion
 
 ---
 

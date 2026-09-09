@@ -117,13 +117,35 @@
 ---
 
 ### ASSET 9 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **15% OFF**
-- Promo Code: **AURA15**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Vintage Gentlemen's Barber Theme with Matte Dark Slate & Amber Background & Grooming Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Matte Dark Slate & Amber Gradient (`#1F2421` -> `#090A0A`)
+- **Top Left Header:** Brand Logo (**Aura Barbershop**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : TRIM30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photography of crossed vintage barber straight razors & scissors with glowing amber light rays
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Deep Charcoal Slate Solid (`#2B2D42`)
+- **Top Left Header:** Brand Logo (**Aura Barbershop**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of professional hair styling pomade jar, beard oil bottle & wooden comb set
+
+#### VOUCHER VARIATION 3: FATHER & SON GROOMING BUNDLE (`40% OFF`)
+- **Background & Palette:** Dark Vintage Industrial Black Gradient (`#111111` -> `#000000`)
+- **Top Left Header:** Brand Logo (**Aura Barbershop**)
+- **Main Headline:** **FATHER & SON DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : GROOM40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of classic leather barber chair, vintage barber pole emblem & hot towel treatment set
 
 ---
 

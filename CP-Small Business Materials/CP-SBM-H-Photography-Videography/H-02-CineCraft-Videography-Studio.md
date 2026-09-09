@@ -107,13 +107,35 @@
 ---
 
 ### ASSET 8 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **15% OFF**
-- Promo Code: **CINEMA15**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Cinematic Film Studio Theme with Warm Dark Bronze & Film Reel Background & Cinema Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Cinematic Dark Bronze & Amber Gradient (`#2A1810` -> `#0E0704`)
+- **Top Left Header:** Brand Logo (**CineCraft Studio**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : CINE30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution product photography of a professional cinema video camera with lens flare & film reel strip with play icon
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Deep Cinema Bronze Solid (`#3D2318`)
+- **Top Left Header:** Brand Logo (**CineCraft Studio**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of professional 4K camera drone & aerial footage gimbal gear
+
+#### VOUCHER VARIATION 3: CINEMATIC WEDDING FILM BUNDLE (`40% OFF`)
+- **Background & Palette:** Dark Espresso Cinema Gradient (`#1F0F0A` -> `#050201`)
+- **Top Left Header:** Brand Logo (**CineCraft Studio**)
+- **Main Headline:** **CINEMATIC FILM BUNDLE** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : FILM40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of video editing suite monitor displaying a wedding movie timeline & film clapperboard
 
 ---
 

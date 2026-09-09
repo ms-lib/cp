@@ -106,13 +106,35 @@
 ---
 
 ### ASSET 8 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **FREE 3-DAY TRIAL**
-- Promo Code: **DAYCARETRIAL**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Cheerful Playful Childcare Theme with Sunshine Yellow & Warm Orange & Toy Graphics  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Bright Sunshine Yellow & Warm Orange (`#F59E0B` -> `#B45309`)
+- **Top Left Header:** Brand Logo (**Little Stars**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : STARS30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution 3D render/photo of smiling star icon holding colorful wooden building blocks with floating star sparkles
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Cheerful Warm Orange Solid (`#EA580C`)
+- **Top Left Header:** Brand Logo (**Little Stars**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of colorful ABC toy blocks, crayon set & party balloons
+
+#### VOUCHER VARIATION 3: FULL SEMESTER LEARNING BUNDLE (`40% OFF`)
+- **Background & Palette:** Deep Golden Amber Gradient (`#D97706` -> `#78350F`)
+- **Top Left Header:** Brand Logo (**Little Stars**)
+- **Main Headline:** **FULL SEMESTER DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : KIDS40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of bright playful daycare room with indoor slide, soft plush toys & floating confetti
 
 ---
 

@@ -117,13 +117,35 @@
 ---
 
 ### ASSET 9 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **FLAT $40 OFF**
-- Promo Code: **PHOTO40**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Sleek Minimalist Photography Theme with Matte Black & Fine Grid Background & Lens Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Matte Charcoal Black Gradient (`#181818` -> `#050505`)
+- **Top Left Header:** Brand Logo (**Studio Vision**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : PHOTO30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution product photography of a professional SLR camera lens aperture with golden flash flare rays & bokeh light reflection
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Deep Studio Gray Solid (`#2B2B2B`)
+- **Top Left Header:** Brand Logo (**Studio Vision**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of framed canvas prints pair & polaroid photo stack with camera tripod
+
+#### VOUCHER VARIATION 3: FULL-DAY WEDDING SHOOT BUNDLE (`40% OFF`)
+- **Background & Palette:** Obsidian Black & Silver Flare Gradient (`#0F0F10` -> `#000000`)
+- **Top Left Header:** Brand Logo (**Studio Vision**)
+- **Main Headline:** **WEDDING SHOOT BUNDLE** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : VISION40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of professional photography softbox lighting setup, camera body & photo studio backdrop
 
 ---
 

@@ -106,13 +106,35 @@
 ---
 
 ### ASSET 8 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **15% OFF**
-- Promo Code: **ELORA15**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** High-Fashion Boutique Theme with Deep Magenta & Dusty Rose Background & Apparel Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Deep Magenta Rose & Wine Gradient (`#800F2F` -> `#4A0E17`)
+- **Top Left Header:** Brand Logo (**Elora Boutique**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : STYLE30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution fashion photography of a model wearing an elegant floral summer dress with floating silk ribbon & botanical leaves
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Vibrant Dusty Rose Solid (`#C9184A`)
+- **Top Left Header:** Brand Logo (**Elora Boutique**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of designer handbag & matching printed silk scarf pair with golden sparkle accents
+
+#### VOUCHER VARIATION 3: TOTAL WARDROBE BUNDLE (`40% OFF`)
+- **Background & Palette:** Dark Burgundy Wine Gradient (`#590D22` -> `#2B0510`)
+- **Top Left Header:** Brand Logo (**Elora Boutique**)
+- **Main Headline:** **TOTAL WARDROBE HAUL** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : WARDROBE40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of stylish boutique rack filled with haute couture dresses & luxury shopping bags with confetti sparkles
 
 ---
 

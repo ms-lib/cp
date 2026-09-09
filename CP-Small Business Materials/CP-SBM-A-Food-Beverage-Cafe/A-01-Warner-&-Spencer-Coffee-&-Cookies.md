@@ -116,13 +116,35 @@
 ---
 
 ### ASSET 9 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **15% OFF**
-- Promo Code: **WARNER15**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Dynamic Coffeehouse Theme with Warm Earthy Bronze Background & High-Definition Food Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Warm Earthy Bronze & Caramel Gradient (`#4A2511` -> `#2C1408`)
+- **Top Left Header:** Brand Logo (**Warner & Spencer**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : WARNER30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution product photography of signature iced caramel macchiato glass with golden caramel drizzle & floating roasted coffee beans
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Rich Warm Caramel Solid (`#6A381F`)
+- **Top Left Header:** Brand Logo (**Warner & Spencer**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photography of freshly baked chocolate chip cookies stacked with melted chocolate chunks & flying cookie crumbs
+
+#### VOUCHER VARIATION 3: PARTY BUNDLE DEAL (`40% OFF`)
+- **Background & Palette:** Deep Espresso & Roasted Coffee Gradient (`#36190D` -> `#1A0B05`)
+- **Top Left Header:** Brand Logo (**Warner & Spencer**)
+- **Main Headline:** **COFFEE & COOKIE BUNDLE** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : BUNDLE40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of coffee party bucket & assorted cookie box with floating coffee powder dust
 
 ---
 

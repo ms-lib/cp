@@ -107,13 +107,35 @@
 ---
 
 ### ASSET 8 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **FLAT $50 OFF**
-- Promo Code: **LUXURY50**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Luxury Fine Jewelry Theme with Charcoal Black & Rose Gold Background & Gemstone Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Matte Charcoal & Rose Gold Metallic Gradient (`#1A1A1A` -> `#000000`)
+- **Top Left Header:** Brand Logo (**Custom Jewelry Service**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : SHINE30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution product photography of a custom brilliant-cut diamond solitaire ring on velvet cushion with rose gold shimmer sparkles
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Rich Metallic Rose Gold Solid (`#B76E79`)
+- **Top Left Header:** Brand Logo (**Custom Jewelry Service**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of matching rose gold pendant necklace pair with floating diamond light flares
+
+#### VOUCHER VARIATION 3: WEDDING BAND LUXURY BUNDLE (`40% OFF`)
+- **Background & Palette:** Deep Obsidian Black & Champagne Gold Gradient (`#2B2D42` -> `#0D1117`)
+- **Top Left Header:** Brand Logo (**Custom Jewelry Service**)
+- **Main Headline:** **BRIDAL JEWELRY DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : LUXURY40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of handcrafted diamond wedding band set inside luxury leather ring box with radiant lens flare
 
 ---
 

@@ -96,13 +96,35 @@
 ---
 
 ### ASSET 7 - DISCOUNT VOUCHER COUPON
-**Layout:** Cut-out Voucher Format
-**Text Content:**
-- Header: SPECIAL DISCOUNT VOUCHER
-- Offer Amount: **25% OFF**
-- Promo Code: **CLEAN25**
-- Expiry Date: Valid until September 02, 2035
-- Terms: Valid for single transaction per customer. Cannot be combined with other promos.
+**Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
+**Style & Aesthetics:** Refreshing Commercial Cleaning Theme with Teal Gradient Background & High-Impact Service Photography  
+
+#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+- **Background & Palette:** Vibrant Fresh Teal Gradient (`#0077B6` -> `#023E8A`)
+- **Top Left Header:** Brand Logo (**Wardiere Inc.**)
+- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : CLEAN30` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photography of a sparkling spotless modern living room with floating suds bubbles & sparkle star overlays
+
+#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+- **Background & Palette:** Deep Ocean Teal Solid (`#0096C7`)
+- **Top Left Header:** Brand Logo (**Wardiere Inc.**)
+- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of professional spray bottle & microfiber cloths with water droplet splash
+
+#### VOUCHER VARIATION 3: COMMERCIAL DEEP CLEAN BUNDLE (`40% OFF`)
+- **Background & Palette:** Dark Navy Teal Gradient (`#03045E` -> `#001233`)
+- **Top Left Header:** Brand Logo (**Wardiere Inc.**)
+- **Main Headline:** **OFFICE & HOME DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : HOME40` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of commercial floor polishing equipment & full cleaning crew equipment with bright sparkle flares
 
 ---
 
