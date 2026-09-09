@@ -82,18 +82,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Wash&Go Laundry**
-- Phone: +123-456-7890
-- Email: hello@washngolaundry.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @washngolaundry_official
-**Back Side:**
-- Logo: **Wash&Go Laundry**
-- Tagline: *"Fresh, Crisp & Clean Clothes Everyday"*
-- Website: www.washngolaundry.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Refreshing Sky Blue & Pure White Bubble Aesthetic  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Bright Sky Blue (`#0096C7`)
+- **Center Logo & Illustration:** White line art vector logo of a front-load washing machine drum & suds bubble splash
+- **Brand Name:** **WASH&GO LAUNDRY** (Bold friendly rounded sans typography, centered)
+- **Tagline:** *"Fresh, Crisp & Clean Clothes Everyday"* (Centered subtitle in white text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Soft Ice Blue Canvas (`#F0F8FF`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **CHLOE BENNETT** (Bold uppercase header typography)
+  - **Role / Job Title:** `Store & Dry Clean Service Manager` (Clean secondary subheader)
+  - **Contact Details (Sky Blue Pill Badges):**
+    - ✉️ Email Badge: `hello@washngolaundry.com` (Solid sky blue capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid sky blue capsule, white text)
+    - 🌐 Website Badge: `washngolaundry.com` (Solid sky blue capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed sky blue vector line art illustration of neatly folded laundry stacks, clothes hanger & floating suds bubbles with sparkle stars (`✦` / `✨`)
 
 ---
 

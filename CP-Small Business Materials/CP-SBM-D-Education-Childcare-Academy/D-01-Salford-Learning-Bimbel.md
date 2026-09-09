@@ -82,18 +82,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Salford Academy**
-- Phone: +123-456-7890
-- Email: hello@salfordacademy.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @salfordacademy_official
-**Back Side:**
-- Logo: **Salford Academy**
-- Tagline: *"Empowering Students for Academic Success"*
-- Website: www.salfordacademy.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Prestigious Academy Aesthetic with Royal Navy Blue Cover Front & Warm Ivory Paper Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Deep Royal Navy Blue (`#0B2545`)
+- **Center Logo & Illustration:** Warm metallic gold line art vector logo of an open academic book & graduation cap with star crest
+- **Brand Name:** **SALFORD ACADEMY** (Classic serif display typography, centered)
+- **Tagline:** *"Empowering Students for Academic Success"* (Centered subtitle in gold-hued cream text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Warm Ivory Linen Textured Canvas (`#FAF8F5`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **DR. ROBERT EVANS** (Bold academic title typography)
+  - **Role / Job Title:** `Academic Director & Lead Educator` (Clean secondary subheader)
+  - **Contact Details (Navy Pill Badges):**
+    - ✉️ Email Badge: `hello@salfordacademy.com` (Solid navy blue capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid navy blue capsule, white text)
+    - 🌐 Website Badge: `salfordacademy.com` (Solid navy blue capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed royal blue vector line art illustration of an open study book, shining pencil star & diploma scroll with sparkle stars (`✦` / `✨`)
 
 ---
 

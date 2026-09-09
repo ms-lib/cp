@@ -92,18 +92,27 @@
 ---
 
 ### ASSET 8 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Studio Vision**
-- Phone: +123-456-7890
-- Email: hello@studiovision.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @studiovision_official
-**Back Side:**
-- Logo: **Studio Vision**
-- Tagline: *"Capturing Timeless Moments Forever"*
-- Website: www.studiovision.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Sleek Minimalist Photography Theme with Matte Black Front & Fine Grid Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Matte Charcoal Black (`#121212`)
+- **Center Logo & Illustration:** White minimalist line art vector logo of a camera lens aperture iris with flash glare rays
+- **Brand Name:** **STUDIO VISION** (Bold high-contrast geometric sans typography, centered)
+- **Tagline:** *"Capturing Timeless Moments Forever"* (Centered subtitle in crisp white text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Soft Gray Canvas with Subtle Grid Lines (`#F4F4F6`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **JULIAN THORNE** (Bold uppercase header typography)
+  - **Role / Job Title:** `Principal Photographer & Creative Director` (Clean secondary subheader)
+  - **Contact Details (Charcoal Pill Badges):**
+    - ✉️ Email Badge: `hello@studiovision.com` (Solid charcoal capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid charcoal capsule, white text)
+    - 🌐 Website Badge: `studiovision.com` (Solid charcoal capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed charcoal vector line art illustration of a vintage SLR camera body, lens aperture & camera tripod with sparkle stars (`✦` / `✨`)
 
 ---
 

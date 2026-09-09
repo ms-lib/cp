@@ -81,18 +81,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Borcelle Yoga**
-- Phone: +123-456-7890
-- Email: hello@borcelleyoga.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @borcelleyoga_official
-**Back Side:**
-- Logo: **Borcelle Yoga**
-- Tagline: *"Balance, Breath & Harmony for Life"*
-- Website: www.borcelleyoga.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Earthy Zen Organic Aesthetic with Terracotta Front & Cream Sand Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Warm Terracotta Earth Tone (`#C06C84`)
+- **Center Logo & Illustration:** Off-white line art vector logo of a lotus pose figure framed by sun rays & botanical leaves
+- **Brand Name:** **BORCELLE YOGA** (Organic serene display sans typography, centered)
+- **Tagline:** *"Balance, Breath & Harmony for Life"* (Centered subtitle in soft cream text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Soft Cream Sand Canvas (`#FFF8F0`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **SOPHIA MARTINEZ** (Serene header typography)
+  - **Role / Job Title:** `Head Yoga Instructor & Studio Founder` (Clean secondary subheader)
+  - **Contact Details (Terracotta Pill Badges):**
+    - ✉️ Email Badge: `hello@borcelleyoga.com` (Solid terracotta capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid terracotta capsule, white text)
+    - 🌐 Website Badge: `borcelleyoga.com` (Solid terracotta capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed terracotta vector line art illustration of a meditating lotus posture, rising sun & botanical leaves with sparkle stars (`✦` / `✨`)
 
 ---
 

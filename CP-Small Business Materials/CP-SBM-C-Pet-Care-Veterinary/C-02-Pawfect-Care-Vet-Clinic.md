@@ -92,18 +92,27 @@
 ---
 
 ### ASSET 8 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Pawfect Care**
-- Phone: +123-456-7890
-- Email: hello@pawfectcare.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @pawfectcare_official
-**Back Side:**
-- Logo: **Pawfect Care**
-- Tagline: *"Expert Veterinary & Boarding Care"*
-- Website: www.pawfectcare.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Trustworthy Clinical Theme with Soft Teal Blue & Mint Outline Frame  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Deep Medical Teal (`#0D5C75`)
+- **Center Logo & Illustration:** White line art vector logo combining a veterinary stethoscope, heart emblem & pet paw silhouette
+- **Brand Name:** **PAWFECT CARE** (Clean medical geometric sans typography, centered)
+- **Tagline:** *"Expert Veterinary & Boarding Care"* (Centered subtitle in crisp white text, in quotes)
+
+**Back Side (Contact Details & Visual Frame Side):**
+- **Background:** Light Mint Canvas (`#F0FDFB`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **DR. DAVID MILLER, DVM** (Professional title typography)
+  - **Role / Job Title Badge:** `Lead Veterinarian & Clinic Director` (Medical teal Pill Badge, white text)
+  - **Contact Box (Rounded Rectangular Frame):**
+    - 📞 Phone: `+123-456-7890`
+    - 🌐 Website: `www.pawfectcare.com`
+    - ✉️ Email: `hello@pawfectcare.com`
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Photo / Illustration Frame):**
+  - **Visual Frame:** Rounded Rectangular Frame featuring vector line art of vet stethoscope, medical cross & pet silhouette outline with gentle glows
 
 ---
 

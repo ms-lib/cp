@@ -92,18 +92,27 @@
 ---
 
 ### ASSET 8 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Liceria Express**
-- Phone: +123-456-7890
-- Email: hello@liceriaexpress.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @liceriaexpress_official
-**Back Side:**
-- Logo: **Liceria Express**
-- Tagline: *"Fast, Reliable & Safe Deliveries"*
-- Website: www.liceriaexpress.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Dynamic Logistics Theme with Deep Navy Blue Cover Front & Cool Gray Grid Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Deep Navy Blue (`#1B263B`)
+- **Center Logo & Illustration:** Bright yellow line art vector logo of a winged delivery parcel box with motion speed lines
+- **Brand Name:** **LICERIA EXPRESS** (Bold athletic sans-serif typography, centered)
+- **Tagline:** *"Fast, Reliable & Safe Deliveries"* (Centered subtitle in white text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Cool Gray Fine Grid Canvas (`#F0F4F8`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **MARCUS VANCE** (Bold uppercase header typography)
+  - **Role / Job Title:** `Logistics & Fleet Operations Director` (Clean secondary subheader)
+  - **Contact Details (Navy Blue Pill Badges):**
+    - ✉️ Email Badge: `hello@liceriaexpress.com` (Solid navy blue capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid navy blue capsule, white text)
+    - 🌐 Website Badge: `liceriaexpress.com` (Solid navy blue capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed navy blue & yellow vector line art illustration of an express delivery van, parcel box & location pinpoint with speed streaks (`✦` / `⚡`)
 
 ---
 

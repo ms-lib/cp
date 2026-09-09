@@ -71,18 +71,27 @@
 ---
 
 ### ASSET 6 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Liceria Pet**
-- Phone: +123-456-7890
-- Email: hello@liceriapet.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @liceriapet_official
-**Back Side:**
-- Logo: **Liceria Pet**
-- Tagline: *"Loving Care for Your Furry Friends"*
-- Website: www.liceriapet.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Warm Playful Pet Aesthetic with Sage Green Cover Front & Soft Peach Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Solid Warm Sage Green (`#7A9A60`)
+- **Center Logo & Illustration:** Off-white line art vector logo of a pet paw print with grooming scissors & bubble outline
+- **Brand Name:** **LICERIA PET** (Friendly rounded display sans typography, centered)
+- **Tagline:** *"Loving Care for Your Furry Friends"* (Centered subtitle in cream text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Soft Pastel Peach / Warm Cream Canvas (`#FFF5ED`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **AMANDA ROSS** (Bold uppercase header typography)
+  - **Role / Job Title:** `Head Pet Groomer & Salon Manager` (Clean secondary subheader)
+  - **Contact Details (Sage Green Pill Badges):**
+    - ✉️ Email Badge: `hello@liceriapet.com` (Solid sage green capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid sage green capsule, white text)
+    - 🌐 Website Badge: `liceriapet.com` (Solid sage green capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed sage green vector line art illustration of a happy fluffy dog/cat head silhouette, grooming brush & paw prints with sparkle stars (`✦` / `✨`)
 
 ---
 

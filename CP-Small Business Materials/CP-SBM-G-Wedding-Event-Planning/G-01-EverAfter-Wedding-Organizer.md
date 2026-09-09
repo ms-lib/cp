@@ -92,18 +92,27 @@
 ---
 
 ### ASSET 8 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **EverAfter WO**
-- Phone: +123-456-7890
-- Email: hello@everafterwo.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @everafterwo_official
-**Back Side:**
-- Logo: **EverAfter WO**
-- Tagline: *"Crafting Your Perfect Dream Wedding"*
-- Website: www.everafterwo.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Romantic Luxury Wedding Theme with Champagne Gold Front & Ivory Linen Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Soft Champagne Gold (`#D4AF37`)
+- **Center Logo & Illustration:** White line art vector logo of interlocking wedding rings framed by a delicate floral arch
+- **Brand Name:** **EVERAFTER WO** (Elegant romantic calligraphy serif display typography, centered)
+- **Tagline:** *"Crafting Your Perfect Dream Wedding"* (Centered subtitle in ivory cream text, in quotes)
+
+**Back Side (Contact Details & Visual Frame Side):**
+- **Background:** Premium Ivory Linen Canvas (`#FAF8F5`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **CLAIRE DUPONT** (Stylish title typography)
+  - **Role / Job Title Badge:** `EverAfter WO Founder & Lead Consultant` (Champagne gold Pill Badge, white text)
+  - **Contact Box (Rounded Rectangular Frame):**
+    - 📞 Phone: `+123-456-7890`
+    - 🌐 Website: `www.everafterwo.com`
+    - ✉️ Email: `hello@everafterwo.com`
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Photo / Illustration Frame):**
+  - **Visual Frame:** Rounded Rectangular Frame featuring vector artwork of champagne glasses, floral wreath & wedding ribbon with sparkle stars (`✦` / `✨`)
 
 ---
 

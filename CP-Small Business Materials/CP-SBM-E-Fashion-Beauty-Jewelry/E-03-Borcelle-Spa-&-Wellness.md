@@ -82,18 +82,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Borcelle Spa**
-- Phone: +123-456-7890
-- Email: hello@borcellespa.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @borcellespa_official
-**Back Side:**
-- Logo: **Borcelle Spa**
-- Tagline: *"Revitalize Your Mind, Body & Soul"*
-- Website: www.borcellespa.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Serene Zen Spa Aesthetic with Soft Olive/Sage Front & Off-White Paper Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Soft Muted Sage Green (`#8A9A86`)
+- **Center Logo & Illustration:** Off-white line art vector logo of a blooming lotus flower & water droplet ripple
+- **Brand Name:** **BORCELLE SPA** (Calm organic serif display typography, centered)
+- **Tagline:** *"Revitalize Your Mind, Body & Soul"* (Centered subtitle in delicate cream text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Off-White Linen Canvas (`#F7F6F0`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **MAYA LIN** (Serenity title typography)
+  - **Role / Job Title:** `Spa Manager & Wellness Consultant` (Clean secondary subheader)
+  - **Contact Details (Sage Green Pill Badges):**
+    - ✉️ Email Badge: `hello@borcellespa.com` (Solid sage green capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid sage green capsule, white text)
+    - 🌐 Website Badge: `borcellespa.com` (Solid sage green capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed sage green vector line art illustration of a blooming lotus flower, essential oil bottle & bamboo water spout with sparkle stars (`✦` / `✨`)
 
 ---
 

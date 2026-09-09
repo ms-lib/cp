@@ -82,18 +82,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Custom Jewelry Service**
-- Phone: +123-456-7890
-- Email: hello@customjewelryservice.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @customjewelryservice_official
-**Back Side:**
-- Logo: **Custom Jewelry Service**
-- Tagline: *"Timeless Elegance & Custom Craftsmanship"*
-- Website: www.customjewelryservice.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Luxury High-End Aesthetic with Charcoal Black Cover Front & Rose Gold Frame Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Matte Charcoal Black (`#1C1C1C`)
+- **Center Logo & Illustration:** Metallic rose gold vector line art logo of a sparkling brilliant diamond ring outline
+- **Brand Name:** **CUSTOM JEWELRY SERVICE** (High-fashion serif display typography, centered)
+- **Tagline:** *"Timeless Elegance & Custom Craftsmanship"* (Centered subtitle in delicate champagne text, in quotes)
+
+**Back Side (Contact Details & Visual Frame Side):**
+- **Background:** Cream Textured Linen Canvas (`#FFFDF9`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **ISABELLA LAURENT** (Elegant serif title typography)
+  - **Role / Job Title Badge:** `Master Gemologist & Bespoke Jewelry Designer` (Rose gold Pill Badge, white text)
+  - **Contact Box (Rounded Rectangular Frame):**
+    - 📞 Phone: `+123-456-7890`
+    - 🌐 Website: `www.customjewelryservice.com`
+    - ✉️ Email: `hello@customjewelryservice.com`
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Photo / Visual Frame):**
+  - **Visual Frame:** Rounded Rectangular Frame featuring vector artwork of brilliant diamond facets with soft radiant glow (`✨` / `💎`)
 
 ---
 

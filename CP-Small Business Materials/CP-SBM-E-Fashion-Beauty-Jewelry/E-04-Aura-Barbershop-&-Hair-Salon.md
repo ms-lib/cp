@@ -92,18 +92,27 @@
 ---
 
 ### ASSET 8 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Aura Barbershop**
-- Phone: +123-456-7890
-- Email: hello@aurabarbershop.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @aurabarbershop_official
-**Back Side:**
-- Logo: **Aura Barbershop**
-- Tagline: *"Classic Cuts & Modern Grooming"*
-- Website: www.aurabarbershop.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Vintage Gentlemen's Barber Aesthetic with Dark Slate Cover & Light Gray Grid Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Matte Dark Slate (`#2B2D42`)
+- **Center Logo & Illustration:** Warm bronze line art vector logo of crossed vintage barber scissors, straight razor & comb
+- **Brand Name:** **AURA BARBERSHOP** (Bold vintage industrial slab typography, centered)
+- **Tagline:** *"Classic Cuts & Modern Grooming"* (Centered subtitle in warm bronze text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Light Industrial Gray Grid Canvas (`#F4F5F7`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **LUCAS VANCE** (Bold uppercase header typography)
+  - **Role / Job Title:** `Master Barber & Salon Director` (Clean secondary subheader)
+  - **Contact Details (Slate Pill Badges):**
+    - ✉️ Email Badge: `hello@aurabarbershop.com` (Solid dark slate capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid dark slate capsule, white text)
+    - 🌐 Website Badge: `aurabarbershop.com` (Solid dark slate capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed dark slate vector line art illustration of a vintage barber pole, barber chair silhouette & mustache emblem with sparkle stars (`✦` / `✨`)
 
 ---
 

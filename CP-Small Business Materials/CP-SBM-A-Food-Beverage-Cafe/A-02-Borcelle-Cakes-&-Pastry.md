@@ -82,18 +82,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Borcelle Bakery**
-- Phone: +123-456-7890
-- Email: hello@borcellebakery.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @borcellebakery_official
-**Back Side:**
-- Logo: **Borcelle Bakery**
-- Tagline: *"Sweet Moments in Every Slice"*
-- Website: www.borcellebakery.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Premium Textured Paper Canvas with Rose Gold & Warm Cream Accents  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Soft Textured Warm Cream Canvas (`#FFF8F0`)
+- **Center Logo & Illustration:** Minimalist line art artwork of an artisan tiered cake stand & wheat sprig in deep rose gold
+- **Brand Name:** **BORCELLE BAKERY** (Elegant high-contrast display typography, centered)
+- **Tagline:** *"Sweet Moments in Every Slice"* (Centered subtitle in rose gold text, in quotes)
+
+**Back Side (Contact Details & Visual Frame Side):**
+- **Background:** Premium Fine Linen Textured Paper (`#FAF6F0`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **JULIANA SILVA** (Stylish title typography)
+  - **Role / Job Title Badge:** `Borcelle Bakery Owner & Head Pastry Chef` (Deep rose gold Pill Badge, white text)
+  - **Contact Box (Rounded Rectangular Frame):**
+    - 📞 Phone: `+123-456-7890`
+    - 🌐 Website: `www.borcellebakery.com`
+    - ✉️ Email: `hello@borcellebakery.com`
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location icon + address line text)
+- **Right Column (Photo Frame / Visual Element):**
+  - **Media Frame:** Rounded Rectangular Photo Frame containing high-resolution portrait of Head Pastry Chef / Artisan Cake Display with soft outer stroke
 
 ---
 

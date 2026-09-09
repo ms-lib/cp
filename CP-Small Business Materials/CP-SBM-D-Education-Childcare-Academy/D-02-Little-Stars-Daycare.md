@@ -81,18 +81,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Little Stars**
-- Phone: +123-456-7890
-- Email: hello@littlestars.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @littlestars_official
-**Back Side:**
-- Logo: **Little Stars**
-- Tagline: *"Safe, Loving & Educational Childcare"*
-- Website: www.littlestars.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Playful Cheerful Childcare Aesthetic with Sunshine Yellow Front & Pastel Grid Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Bright Sunshine Yellow (`#FFD166`)
+- **Center Logo & Illustration:** White & soft orange line art vector logo of a smiling star holding colorful building blocks
+- **Brand Name:** **LITTLE STARS** (Playful rounded bubble display typography, centered)
+- **Tagline:** *"Safe, Loving & Educational Childcare"* (Centered subtitle in dark navy text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Soft Cream Canvas with Light Grid Texture (`#FFFDF7`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **EMILY WATSON** (Bold cheerful header typography)
+  - **Role / Job Title:** `Early Childcare Director` (Clean secondary subheader)
+  - **Contact Details (Yellow/Orange Pill Badges):**
+    - ✉️ Email Badge: `hello@littlestars.com` (Solid warm yellow capsule, dark text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid warm yellow capsule, dark text)
+    - 🌐 Website Badge: `littlestars.com` (Solid warm yellow capsule, dark text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed warm orange vector line art illustration of smiling star icon, ABC toy blocks & balloon artwork with playful sparkle stars (`✦` / `✨`)
 
 ---
 

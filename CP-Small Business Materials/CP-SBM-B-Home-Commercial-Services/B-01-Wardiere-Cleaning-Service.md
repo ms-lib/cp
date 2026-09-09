@@ -71,18 +71,27 @@
 ---
 
 ### ASSET 6 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Wardiere Inc.**
-- Phone: +123-456-7890
-- Email: hello@wardiereinc.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @wardiereinc_official
-**Back Side:**
-- Logo: **Wardiere Inc.**
-- Tagline: *"Pure Cleanliness for Healthy Living"*
-- Website: www.wardiereinc.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Clean Fresh Aesthetic with Teal Green Cover Front & Soft Off-White Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Solid Fresh Teal (`#008080`)
+- **Center Logo & Illustration:** White line art vector emblem of a sparkling spray bottle & house silhouette
+- **Brand Name:** **WARDIERE INC.** (Modern bold geometric sans typography, centered)
+- **Tagline:** *"Pure Cleanliness for Healthy Living"* (Centered subtitle in soft white text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Soft Mint Off-White Canvas (`#F2F9F9`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **SARAH JENKINS** (Bold uppercase header typography)
+  - **Role / Job Title:** `Operations & Quality Manager` (Clean secondary subheader)
+  - **Contact Details (Teal Pill Badges):**
+    - ✉️ Email Badge: `hello@wardiereinc.com` (Solid teal capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid teal capsule, white text)
+    - 🌐 Website Badge: `wardiereinc.com` (Solid teal capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed teal vector line art illustration of a sparkling clean house emblem, water drops & soap bubbles with sparkle stars (`✦` / `✨`)
 
 ---
 

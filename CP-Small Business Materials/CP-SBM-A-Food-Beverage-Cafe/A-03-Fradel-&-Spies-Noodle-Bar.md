@@ -92,18 +92,27 @@
 ---
 
 ### ASSET 8 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Fradel & Spies**
-- Phone: +123-456-7890
-- Email: hello@fradelnspies.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @fradelnspies_official
-**Back Side:**
-- Logo: **Fradel & Spies**
-- Tagline: *"Authentic Noodles & Savory Bowls"*
-- Website: www.fradelnspies.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Bold Asian Diner Aesthetic with Deep Crimson Red & Off-White Grid  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Deep Crimson Red (`#8B0000`)
+- **Center Logo & Illustration:** Off-white line art vector logo of a steaming ramen noodle bowl with chopsticks
+- **Brand Name:** **FRADEL & SPIES** (Bold Asian-inspired modern sans typography, centered)
+- **Tagline:** *"Authentic Noodles & Savory Bowls"* (Centered subtitle in warm cream text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Off-White Canvas with Subtle Grid Lines (`#F9F8F6`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **KENJI TAKAHASHI** (Bold uppercase header typography)
+  - **Role / Job Title:** `Head Chef & General Manager` (Clean secondary subheader)
+  - **Contact Details (Crimson Red Pill Badges):**
+    - ✉️ Email Badge: `hello@fradelnspies.com` (Solid crimson capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid crimson capsule, white text)
+    - 🌐 Website Badge: `fradelnspies.com` (Solid crimson capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed crimson red vector line art illustration of hand-pulled noodles, steaming broth bowl & bamboo chopsticks with sparkle accents (`✦` / `✨`)
 
 ---
 

@@ -82,18 +82,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **CineCraft Studio**
-- Phone: +123-456-7890
-- Email: hello@cinecraftstudio.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @cinecraftstudio_official
-**Back Side:**
-- Logo: **CineCraft Studio**
-- Tagline: *"Cinematic Storytelling at Its Finest"*
-- Website: www.cinecraftstudio.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Cinematic Film Studio Theme with Warm Dark Bronze Cover & Cream Canvas Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Warm Dark Bronze (`#2C221E`)
+- **Center Logo & Illustration:** Warm amber line art vector logo of a vintage cinema film reel & play button triangle
+- **Brand Name:** **CINECRAFT STUDIO** (Cinematic bold condensed sans typography, centered)
+- **Tagline:** *"Cinematic Storytelling at Its Finest"* (Centered subtitle in warm amber cream text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Warm Cream Canvas (`#FAF5EE`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **LEO STERLING** (Bold uppercase header typography)
+  - **Role / Job Title:** `Creative Film Director & Lead Videographer` (Clean secondary subheader)
+  - **Contact Details (Dark Bronze Pill Badges):**
+    - ✉️ Email Badge: `hello@cinecraftstudio.com` (Solid dark bronze capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid dark bronze capsule, white text)
+    - 🌐 Website Badge: `cinecraftstudio.com` (Solid dark bronze capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed dark bronze vector line art illustration of a cinema video camera, film strip reel & play button icon with sparkle stars (`✦` / `✨`)
 
 ---
 

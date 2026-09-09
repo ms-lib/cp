@@ -71,18 +71,27 @@
 ---
 
 ### ASSET 6 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Stellar Events**
-- Phone: +123-456-7890
-- Email: hello@stellarevents.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @stellarevents_official
-**Back Side:**
-- Logo: **Stellar Events**
-- Tagline: *"Unforgettable Events, Flawlessly Executed"*
-- Website: www.stellarevents.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Modern Corporate Event Aesthetic with Midnight Blue & Metallic Gold Accent  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Deep Midnight Blue (`#0B132B`)
+- **Center Logo & Illustration:** Metallic gold geometric line art vector logo of a starburst constellation & event spotlight beam
+- **Brand Name:** **STELLAR EVENTS** (Bold modern geometric sans typography, centered)
+- **Tagline:** *"Unforgettable Events, Flawlessly Executed"* (Centered subtitle in metallic gold text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Crisp White Grid Canvas (`#F8F9FA`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **RYAN REYNOLDS** (Bold uppercase header typography)
+  - **Role / Job Title:** `Senior Event Director & Production Lead` (Clean secondary subheader)
+  - **Contact Details (Midnight Blue Pill Badges):**
+    - ✉️ Email Badge: `hello@stellarevents.com` (Solid midnight blue capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid midnight blue capsule, white text)
+    - 🌐 Website Badge: `stellarevents.com` (Solid midnight blue capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed midnight blue & gold vector line art illustration of an event stage, spotlight beams & starburst constellation with sparkles (`✦` / `✨`)
 
 ---
 

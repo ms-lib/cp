@@ -82,18 +82,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Mindful Care**
-- Phone: +123-456-7890
-- Email: hello@mindfulcare.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @mindfulcare_official
-**Back Side:**
-- Logo: **Mindful Care**
-- Tagline: *"Compassionate Support for Peace of Mind"*
-- Website: www.mindfulcare.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Calm Reassuring Healthcare Aesthetic with Muted Blue-Teal & Almond Paper Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Deep Calm Teal (`#2A6F97`)
+- **Center Logo & Illustration:** Soft white line art vector logo of caring hands cradling a growing sprout leaf & heart silhouette
+- **Brand Name:** **MINDFUL CARE** (Humanistic geometric sans typography, centered)
+- **Tagline:** *"Compassionate Support for Peace of Mind"* (Centered subtitle in soft almond text, in quotes)
+
+**Back Side (Contact Details & Visual Frame Side):**
+- **Background:** Soft Almond Beige Linen Canvas (`#F7F4EF`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **DR. HANNAH CARTER, M.PSI** (Professional title typography)
+  - **Role / Job Title Badge:** `Clinical Psychologist & Mental Health Counselor` (Deep teal Pill Badge, white text)
+  - **Contact Box (Rounded Rectangular Frame):**
+    - 📞 Phone: `+123-456-7890`
+    - 🌐 Website: `www.mindfulcare.com`
+    - ✉️ Email: `hello@mindfulcare.com`
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Photo / Illustration Frame):**
+  - **Visual Frame:** Rounded Rectangular Frame featuring gentle line art of caring leaf emblem, peaceful heart & soft comforting aura glow
 
 ---
 

@@ -91,18 +91,27 @@
 ---
 
 ### ASSET 8 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Warner & Spencer**
-- Phone: +123-456-7890
-- Email: hello@warnernspencer.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @warnernspencer_official
-**Back Side:**
-- Logo: **Warner & Spencer**
-- Tagline: *"Exclusive Sips for Loyal Hearts"*
-- Website: www.warnernspencer.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Modern Aesthetic Layout with Dark/Solid Olive Green Cover Front & Light Cream Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Solid Olive Green (`#556B2F`)
+- **Center Logo & Illustration:** Off-white minimalist line art vector logo of a matcha/coffee cup bowl & straw whisk artwork
+- **Brand Name:** **WARNER & SPENCER** (Bold organic display typography, centered)
+- **Tagline:** *"Exclusive Sips for Loyal Hearts"* (Centered subtitle in cream text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Soft Cream / Light Grid Canvas (`#F5F5DC`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **CHIDI EZE** (Bold uppercase header typography)
+  - **Role / Job Title:** `Marketing Manager` (Clean secondary subheader)
+  - **Contact Details (Green Pill Badges):**
+    - ✉️ Email Badge: `hello@reallygreatsite.com` (Solid green capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid green capsule, white text)
+    - 🌐 Website Badge: `reallygreatsite.com` (Solid green capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location icon + address line text)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed olive green vector line art illustration of a matcha bowl and bamboo whisk (chasen) with decorative sparkle stars (`✦` / `✨`)
 
 ---
 

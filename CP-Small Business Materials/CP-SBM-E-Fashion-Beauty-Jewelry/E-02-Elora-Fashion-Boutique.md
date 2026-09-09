@@ -81,18 +81,27 @@
 ---
 
 ### ASSET 7 - BRAND BUSINESS CARD
-**Layout:** Standard Business Card Size (Front & Back)
-**Front Side:**
-- Name / Role: Manager & Customer Service
-- Brand Name: **Elora Boutique**
-- Phone: +123-456-7890
-- Email: hello@eloraboutique.com
-- Address: 123 Anywhere St., Any City, ST 12345
-- Social Media: @eloraboutique_official
-**Back Side:**
-- Logo: **Elora Boutique**
-- Tagline: *"Chic Fashion for Modern Elegance"*
-- Website: www.eloraboutique.com
+**Layout:** Standard Business Card Size (Front & Back - Canva Professional Layout)  
+**Style & Aesthetics:** Chic High-Fashion Aesthetic with Dusty Rose Front & Minimalist Grid Back  
+
+**Front Side (Brand Cover Side):**
+- **Background:** Elegant Dusty Rose (`#D4A373`)
+- **Center Logo & Illustration:** White line art vector logo of an aesthetic clothes hanger with botanical leaves sprig
+- **Brand Name:** **ELORA BOUTIQUE** (Modern high-contrast editorial sans typography, centered)
+- **Tagline:** *"Chic Fashion for Modern Elegance"* (Centered subtitle in warm cream text, in quotes)
+
+**Back Side (Contact Details & Visual Art Side):**
+- **Background:** Soft Cream Grid Paper Canvas (`#FAF6F0`)
+- **Left Column (Personal & Contact Details):**
+  - **Contact Person:** **ELORA VANCE** (Bold editorial header typography)
+  - **Role / Job Title:** `Creative Director & Head Stylist` (Clean secondary subheader)
+  - **Contact Details (Dusty Rose Pill Badges):**
+    - ✉️ Email Badge: `hello@eloraboutique.com` (Solid dusty rose capsule, white text)
+    - 📞 Phone Badge: `+123-456-7890` (Solid dusty rose capsule, white text)
+    - 🌐 Website Badge: `eloraboutique.com` (Solid dusty rose capsule, white text)
+  - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
+- **Right Column (Topic Visual Artwork):**
+  - **Visual Illustration:** Detailed dusty rose vector line art illustration of a fashion dress mannequin, silk ribbon & botanical leaves with sparkle stars (`✦` / `✨`)
 
 ---
 
