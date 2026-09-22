@@ -40,7 +40,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Primary Sources of Marine Waste  
+**Judul Halaman:** Primary Marine Waste Sources  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -54,7 +54,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Key Drivers of Marine Degradation  
+**Judul Halaman:** Key Marine Degradation Drivers  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -68,7 +68,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** The Microplastic Crisis  
+**Judul Halaman:** The Global Microplastic Crisis  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -82,7 +82,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Severe Threats to Marine Fauna  
+**Judul Halaman:** Threats to Marine Wildlife  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -96,7 +96,7 @@
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Risks to Human Health & Nutrition  
+**Judul Halaman:** Human Health Nutrition Risks  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -110,7 +110,7 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Empowering Public Awareness & Action  
+**Judul Halaman:** Empowering Public Marine Action  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -124,7 +124,7 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Actionable Pathways to Clean Oceans  
+**Judul Halaman:** Pathways to Clean Oceans  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |

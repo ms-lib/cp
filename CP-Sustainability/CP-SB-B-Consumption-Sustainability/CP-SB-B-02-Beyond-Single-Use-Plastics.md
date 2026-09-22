@@ -40,7 +40,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Primary Sources of Plastic Contamination  
+**Judul Halaman:** Primary Plastic Contamination Sources  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -54,7 +54,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Severe Threats to Fauna & Food Chains  
+**Judul Halaman:** Threats to Food Chains  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -68,7 +68,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Human Health & Chemical Exposure  
+**Judul Halaman:** Human Health Chemical Exposure  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -82,7 +82,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Environmental Consequences  
+**Judul Halaman:** Severe Global Environmental Consequences  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -110,7 +110,7 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Policy Action & Legislative Bans  
+**Judul Halaman:** Policy Action Legislative Bans  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -124,7 +124,7 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Practical Individual & Business Alternatives  
+**Judul Halaman:** Individual and Business Alternatives  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |

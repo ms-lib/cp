@@ -27,7 +27,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 3
-#### Electric & Hydrogen Bus Fleets
+#### Electric Hydrogen Bus Fleets
 - Battery electric buses offer zero tailpipe emissions and low operational noise.
 - Hydrogen fuel cell buses provide long operating ranges for suburban routes.
 - Fast-charging depot infrastructure recharges electric buses during off-peak hours.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 4
-#### High-Capacity Rail & Bus Rapid Transit
+#### High Capacity Rail Transit
 - Bus Rapid Transit (BRT) lanes deliver subway-like efficiency at a fraction of capital cost.
 - Modern light rail transit (LRT) systems powered by 100% renewable electricity.
 - Signal prioritization at intersections allows public buses to bypass traffic jams.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 5
-#### Case Study: Municipal Fleet Conversion
+#### Municipal Fleet Conversion Study
 - Transitioning 500 municipal diesel buses to zero-emission electric buses.
 - Project Lead: **Drew Feig**
 - Systems Integration Specialist: **Eleanor Fitzgerald**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 6
-#### Micro-Mobility & Last-Mile Integration
+#### Micro Mobility Integration Strategy
 - Shared electric bike and scooter docks placed seamlessly at transit hubs.
 - Protected cycling express lanes connect residential suburbs to train stations.
 - Unified mobility mobile app integrates ticketing across buses, trains, and bikes.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 7
-#### Equitable & Inclusive Transit Access
+#### Equitable Inclusive Transit Access
 - Low-income fare assistance programs ensure transit remains affordable for all.
 - Universal physical accessibility features on all electric buses and train stations.
 - Extending late-night transit service routes for shift workers and service employees.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 8
-#### Transit-Oriented Development (TOD)
+#### Transit Oriented Development TOD
 - High-density residential and commercial zoning built directly around rail hubs.
 - Decreasing mandatory parking minimums for buildings constructed adjacent to stations.
 - Creating vibrant pedestrian plazas and retail shops surrounding transit nodes.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 9
-#### Funding & Financial Sustainability
+#### Funding Financial Transit Sustainability
 - Congestion pricing charges for private cars entering downtown business districts.
 - Reinvesting toll revenue directly into expanding public transit operations.
 - Green municipal bonds finance large-scale transit infrastructure construction.

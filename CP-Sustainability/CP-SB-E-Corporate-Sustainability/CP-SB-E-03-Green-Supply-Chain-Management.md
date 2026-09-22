@@ -18,7 +18,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 2
-#### The Scope 3 Supply Chain Challenge
+#### Scope Three Supply Chain
 - Upstream supply chains account for over 80% of a typical corporation's carbon footprint.
 - Global vendor networks present complex visibility and ethical compliance challenges.
 - Single-source supply chains face high vulnerability to climate-driven weather disruptions.
@@ -38,7 +38,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 4
-#### Sustainable Freight & Logistics
+#### Sustainable Freight Logistics Solutions
 - Shifting long-haul freight transport from aviation to high-efficiency rail and maritime.
 - Transitioning short-haul delivery fleets to battery electric and hydrogen vehicles.
 - Optimizing route planning software to minimize vehicle mileage and fuel consumption.
@@ -48,7 +48,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 5
-#### Case Study: Global Electronics Supply Network
+#### Global Electronics Supply Network
 - Decarbonizing supply chain operations across 200 primary component suppliers.
 - Program Director: **Benjamin Shah**
 - Logistics Lead: **Brigitte Schwartz**
@@ -58,7 +58,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 6
-#### Sustainable Raw Material Traceability
+#### Sustainable Material Supply Traceability
 - Digital block-chain ledgers tracking raw material origin from mine to final product.
 - Guaranteeing conflict-free minerals and deforestation-free timber procurement.
 - Certified organic, fair-trade, and recycled material certification validation.
@@ -68,7 +68,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 7
-#### Supplier Capacity Building & Training
+#### Supplier Capacity Building Training
 - Hosting annual corporate supplier sustainability summits and training webinars.
 - Providing smaller vendors with free carbon accounting tools and software access.
 - Co-investing with key suppliers in factory energy-efficiency retrofits and solar panels.
@@ -78,7 +78,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 8
-#### Nearshoring & Supply Network Resiliency
+#### Nearshoring Supply Network Resiliency
 - Rebalancing global supply chains with regional nearshoring procurement hubs.
 - Reducing maritime transit distances lowers transport fuel emissions significantly.
 - Regional supplier diversification protects against geopolitical trade disruptions.
@@ -88,7 +88,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 9
-#### Circular Procurement & Waste Reduction
+#### Circular Procurement Waste Reduction
 - Specifying mandatory minimum post-consumer recycled content in corporate purchase orders.
 - Requiring suppliers to take back industrial packaging materials for reuse.
 - Implementing zero-landfill-waste requirements across all tier-one supplier factories.

@@ -27,7 +27,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 3
-#### Smart Urban Infrastructure
+#### Smart Urban Infrastructure Development
 - Connected IoT sensors monitor air quality, traffic flow, and noise levels.
 - Intelligent street lighting dims automatically when no pedestrians or cars are near.
 - Smart waste management bins notify collection crews when fill levels reach capacity.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 4
-#### Green Architecture & Vertical Forests
+#### Green Architecture Vertical Forests
 - Integrating living plants onto building facades reduces interior cooling requirements.
 - Vertical gardens absorb urban carbon dioxide and release fresh atmospheric oxygen.
 - High-performance building envelopes minimize thermal bridging and air leaks.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 5
-#### Case Study: Eco-District Redevelopment
+#### Eco District Redevelopment Study
 - Revitalizing former industrial zones into zero-emission mixed-use communities.
 - Planning Director: **Bartholomew Henderson**
 - Sustainable Design Specialist: **Adora Montminy**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 6
-#### Urban Water & Stormwater Smart Systems
+#### Urban Water Stormwater Systems
 - Permeable pavement surfaces allow rainwater to filter directly into aquifers.
 - Smart stormwater monitoring prevents storm drain overflows during heavy rains.
 - Rainwater collection cisterns supply greywater for city park irrigation systems.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 7
-#### Sustainable Transportation Corridors
+#### Sustainable Urban Transportation Corridors
 - Prioritizing pedestrian walkways and dedicated protected cycling pathways.
 - Integrating electric micro-mobility charging docks near transit terminals.
 - Low-emission zones restrict diesel delivery vehicles from city centers during peak hours.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 8
-#### Data Privacy & Ethical Governance
+#### Data Privacy Ethical Governance
 - Ensuring smart city sensor networks respect citizen privacy and data security.
 - Transparent open-data portals enable civic developers to build public apps.
 - Citizen feedback channels incorporate public preferences into urban design choices.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 9
-#### Economic & Social Vitality
+#### Economic and Social Vitality
 - Eco-districts attract green technology businesses and creative professionals.
 - Affordable sustainable housing options prevent gentrification displacement.
 - Vibrant public plazas foster community cohesion and outdoor cultural events.

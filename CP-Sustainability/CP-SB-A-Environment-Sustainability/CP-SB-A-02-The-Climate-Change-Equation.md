@@ -42,7 +42,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Key Drivers Behind Atmospheric Warming  
+**Judul Halaman:** Key Atmospheric Warming Drivers  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -70,7 +70,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Ecological Stress & Habitat Shift  
+**Judul Halaman:** Ecological Stress Habitat Shift  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -84,7 +84,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Societal Vulnerability & Public Health  
+**Judul Halaman:** Societal Vulnerability Public Health  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -126,7 +126,7 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Collaborative Climate Resilience  
+**Judul Halaman:** Collaborative Climate Resilience Strategy  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |

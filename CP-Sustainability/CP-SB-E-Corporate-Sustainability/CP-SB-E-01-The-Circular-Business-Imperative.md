@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 2
-#### The Limits of Linear Business Models
+#### Limits of Linear Business
 - Traditional "Take-Make-Waste" industrial models face escalating material costs.
 - Global regulatory pressure and carbon taxes penalize resource-inefficient companies.
 - Modern consumers demand ethically produced, recyclable products and services.
@@ -27,7 +27,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 3
-#### Principles of Circular Product Design
+#### Principles of Circular Design
 - Designing products for easy disassembly, modular repair, and component upgrade.
 - Utilizing non-toxic, bio-based, or 100% recycled input materials in manufacturing.
 - Standardizing component parts across product lines to simplify refurbishment.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 4
-#### Reverse Logistics & Take-Back Systems
+#### Reverse Logistics Takeback Systems
 - Establishing corporate trade-in programs for legacy electronic equipment.
 - Building reverse logistics networks to collect end-of-life products efficiently.
 - Refurbishing and reselling certified pre-owned products at attractive margin rates.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 5
-#### Case Study: Global Electronics Manufacturer
+#### Global Electronics Manufacturer Study
 - Implementing a circular hardware lease model across enterprise enterprise clients.
 - Executive Sponsor: **Aaron Loeb**
 - Strategy Lead: **Adora Montminy**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 6
-#### Circular Industrial Symbiosis
+#### Circular Industrial Symbiosis Strategy
 - Partnering across industry sectors to utilize one factory's waste as another's raw material.
 - Exchanging industrial waste heat, wastewater, and byproduct chemicals locally.
 - Eco-industrial parks optimized for shared utility infrastructure and material exchange.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 7
-#### Financial Valuation & Investor Metrics
+#### Financial Valuation Investor Metrics
 - ESG investors award higher valuation multiples to companies with circular resilience.
 - Lowering commodity price volatility risk reduces corporate cost of capital.
 - Extended product lifespans generate recurring subscription revenue models.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 8
-#### Employee Engagement & Culture
+#### Employee Engagement Culture Strategy
 - Training corporate engineering teams in circular design principles and software toolkits.
 - Internal innovation hackathons generating circular business ideas from staff.
 - Executive compensation tied directly to circular economy performance indicators.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 9
-#### Regulatory Policy & Global Standards
+#### Regulatory Policy Global Standards
 - Preparing for Extended Producer Responsibility (EPR) legislation across major markets.
 - Complying with digital product passport regulations tracking material provenance.
 - Corporate lobby advocacy for tax incentives supporting recycled content usage.

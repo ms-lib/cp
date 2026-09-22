@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 2
-#### Urban Energy Landscape
+#### Urban Clean Energy Landscape
 - Current municipal energy consumption relies heavily on legacy fossil fuel grids.
 - Decentralized renewable generation reduces transmission losses across high-density zones.
 - **Key Challenge**: Balancing peak electrical demand during extreme temperature fluctuations.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 4
-#### District Cooling & Heating Systems
+#### District Cooling Heating Systems
 - Traditional centralized HVAC units emit significant thermal waste into urban air.
 - Centralized district cooling plants leverage high-efficiency water chillers.
 - Geo-exchange heating taps into steady underground ground temperatures.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 5
-#### Case Study: Municipal Solar Deployment
+#### Municipal Solar Deployment Study
 - Metropolis Solar Initiative: Installing 100 MW solar capacity on civic buildings.
 - Project Director: **Alexander Aronowitz**
 - Chief Infrastructure Engineer: **Avery Davis**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 6
-#### Wind & Micro-Turbine Innovations
+#### Wind Micro Turbine Innovations
 - Building-integrated wind turbines capture high-altitude rooftop airflow patterns.
 - Micro-turbines installed on bridges and overpasses leverage highway traffic gusts.
 - **Design Focus**: Silent operation and bird-safe turbine vertical-axis blades.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 7
-#### Policy & Incentive Frameworks
+#### Policy and Incentive Frameworks
 - Renewable energy portfolio standards for commercial property developers.
 - Tax credits and expedited building permits for net-zero energy structures.
 - **Public-Private Partnerships**: Attracting private venture capital into municipal clean tech.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 8
-#### Smart Grid Operations & Security
+#### Smart Grid Operations Security
 - Real-time IoT sensors detect grid strain and automatically reroute electricity.
 - Advanced cyber-defense protocols protect critical municipal energy infrastructure.
 - Demand-response programs reward industrial facilities for shifting peak load hours.

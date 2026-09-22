@@ -28,7 +28,7 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Forces Accelerating Global Deforestation  
+**Judul Halaman:** Forces Accelerating Deforestation  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
@@ -42,7 +42,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Vital Ecological Contributions of Woodlands  
+**Judul Halaman:** Vital Ecological Woodland Contributions  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -56,7 +56,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Preserving Native Fauna & Flora  
+**Judul Halaman:** Preserving Native Wildlife Species  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -70,7 +70,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Reforestation as a Climate Buffer  
+**Judul Halaman:** Reforestation Climate Buffer Strategy  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -98,7 +98,7 @@
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Multi-Layered Benefits of Forest Cover  
+**Judul Halaman:** Benefits of Forest Cover  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -112,7 +112,7 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Social & Economic Prosperity in Forest Protection  
+**Judul Halaman:** Prosperity in Forest Protection  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -126,7 +126,7 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Roadmap to Global Forest Renewal  
+**Judul Halaman:** Global Forest Renewal Roadmap  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |

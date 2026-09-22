@@ -26,7 +26,7 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Re-Imagining Product Lifecycles  
+**Judul Halaman:** Reimagining Sustainable Product Lifecycles  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
@@ -40,7 +40,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Three Pillars of Cradle-to-Cradle Design  
+**Judul Halaman:** Cradle to Cradle Pillars  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -54,7 +54,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Biological vs Technical Cycles  
+**Judul Halaman:** Biological versus Technical Cycles  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 (Biological Nutrients) | Kolom 2 (Technical Nutrients) |
@@ -68,7 +68,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** The Power of Creative Upcycling  
+**Judul Halaman:** Power of Creative Upcycling  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -82,7 +82,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Steps to Implement Product Stewardship  
+**Judul Halaman:** Implementing Product Stewardship Steps  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -96,7 +96,7 @@
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Business Benefits of Closed-Loop Design  
+**Judul Halaman:** Closed Loop Design Benefits  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -110,7 +110,7 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Upcycling in Consumer Fashion & Home Goods  
+**Judul Halaman:** Upcycling Consumer Fashion Goods  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -124,7 +124,7 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** How Consumers Support Product Stewardship  
+**Judul Halaman:** Consumer Product Stewardship Support  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |

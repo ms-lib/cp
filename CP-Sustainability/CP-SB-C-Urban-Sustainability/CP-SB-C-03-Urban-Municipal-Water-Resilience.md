@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 4
-#### Rainwater Harvesting & Managed Recharge
+#### Rainwater Harvesting Managed Recharge
 - Large-scale urban cisterns collect stormwater runoff from industrial roof space.
 - Managed aquifer recharge injects treated water into underground aquifers for storage.
 - Rain gardens along roadways filter heavy road pollutants before runoff hits rivers.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 5
-#### Case Study: Zero-Water-Waste Municipality
+#### Zero Water Waste Municipality
 - Implementation of city-wide recycled water network for industrial cooling.
 - Project Director: **Cahaya Dewi**
 - Systems Analyst: **Daniel Gallego**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 6
-#### Smart Metering & Leak Detection
+#### Smart Metering Leak Detection
 - Acoustic IoT sensors detect subterranean pipe leaks before major bursts occur.
 - Smart digital meters provide real-time water consumption feedback to residents.
 - Dynamic pricing models encourage water conservation during extreme summer droughts.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 7
-#### Industrial & Commercial Recycling
+#### Industrial Commercial Water Recycling
 - Mandating closed-loop water treatment systems for high-water commercial users.
 - Greywater reuse systems flush commercial office building toilets and cool towers.
 - Financial incentives for factories adopting zero-liquid-discharge (ZLD) technologies.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 8
-#### Watershed Protection & Upstream Conservation
+#### Watershed Protection Upstream Conservation
 - Partnering with rural upstream communities to protect municipal river source zones.
 - Reforestation along riverbanks reduces soil erosion and sediment build-up in reservoirs.
 - Preserving natural wetlands provides low-cost organic filtering of incoming rivers.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 9
-#### Public Education & Behavior Shift
+#### Public Education Behavior Shift
 - School curriculum modules teaching urban children water conservation habits.
 - Public campaigns promoting drought-tolerant landscaping and xeriscaping practices.
 - Water efficiency rebates for replacing legacy toilets with low-flow models.

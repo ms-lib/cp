@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 2
-#### The Legacy of Industrial Urbanization
+#### Legacy of Industrial Urbanization
 - Decades of unmonitored manufacturing left behind toxic soil contaminants.
 - Vacant urban lots degrade local property values and harbor illegal dumping.
 - High urban concrete density eliminates natural soil filtration and biodiversity.
@@ -27,7 +27,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 3
-#### Phytoremediation Techniques
+#### Advanced Urban Phytoremediation Techniques
 - Utilizing specialized plants to extract and neutralize soil contaminants naturally.
 - Sunflowers and willows absorb heavy metals like lead and cadmium from contaminated soil.
 - Soil microbes break down complex organic pollutants into non-toxic compounds.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 4
-#### Converting Brownfields to Community Parks
+#### Converting Brownfields to Parks
 - Transforming disused railway lines and factory sites into linear greenways.
 - Designing multi-functional spaces that blend recreation with native plant reserves.
 - Soil capping techniques safely seal low-level contaminants beneath clean soil layers.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 5
-#### Case Study: Riverfront Industrial Revitalization
+#### Riverfront Industrial Revitalization Study
 - Transformation of a 50-acre abandoned shipyard into a public eco-park.
 - Eco-Project Manager: **Connor Hamilton**
 - Lead Designer: **Donna Stroupe**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 6
-#### Urban Forestry & Canopy Expansion
+#### Urban Forestry Canopy Expansion
 - Planting diverse native tree species across former industrial brownfield zones.
 - Establishing micro-forests using dense reforestation techniques in small spaces.
 - Tree canopy coverage reduces heat island temperatures by up to 5°C.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 7
-#### Soil Regeneration & Biochar Application
+#### Soil Regeneration Biochar Application
 - Enriching degraded urban soils with organic compost and biochar soil amendments.
 - Biochar enhances soil water retention and locks carbon into the earth permanently.
 - Aerating compacted soils enables deep root growth for urban shade trees.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 8
-#### Community Ownership & Urban Agriculture
+#### Community Ownership Urban Agriculture
 - Partnering with local neighborhood associations to steward restored land.
 - Converting clean brownfield spaces into community vegetable gardens.
 - Teaching urban residents sustainable gardening and soil care techniques.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-C Urban Sustainability
 ---
 
 ### Page 9
-#### Policies & Brownfield Redevelopment Grants
+#### Brownfield Redevelopment Policy Grants
 - Municipal tax credits for private developers remediating contaminated land.
 - Liability protection programs for non-profit groups taking over abandoned lots.
 - Federal grants supporting environmental assessment and cleanup of brownfields.

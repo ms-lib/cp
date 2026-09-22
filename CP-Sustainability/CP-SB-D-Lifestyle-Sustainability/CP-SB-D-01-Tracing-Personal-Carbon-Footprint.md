@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 2
-#### Understanding Personal Emissions
+#### Understanding Personal Carbon Emissions
 - Every daily choice—transportation, diet, heating, consumption—emits carbon.
 - The global average personal footprint exceeds sustainable planetary boundaries.
 - **Primary Emission Drivers**: Home energy use, personal vehicle travel, and food choice.
@@ -27,7 +27,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 3
-#### Carbon Accounting Methodology
+#### Carbon Emissions Accounting Methodology
 - Direct emissions (Scope 1): Fuel burned in personal cars and home natural gas heaters.
 - Indirect energy emissions (Scope 2): Electricity consumed from local utility grids.
 - Supply chain emissions (Scope 3): Embedded carbon in purchased goods and food.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 4
-#### High-Impact Household Reductions
+#### High Impact Household Reductions
 - Switching home electricity contracts to 100% renewable energy providers.
 - Retrofitting home insulation and upgrading to high-efficiency heat pumps.
 - Transitioning daily short commutes from driving to cycling or public transit.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 5
-#### Case Study: Household Footprint Reduction
+#### Household Footprint Reduction Study
 - A family of four tracking and reducing their annual carbon emissions over 12 months.
 - Lead Advisor: **Francisco Andrade**
 - Eco-Coach: **Greta Mae Evans**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 6
-#### Sustainable Travel & Aviation Choices
+#### Sustainable Travel Aviation Choices
 - Commercial aviation represents a high proportion of frequent traveler carbon output.
 - Choosing rail travel over short-haul domestic flights dramatically lowers travel impact.
 - Embracing eco-tourism destinations that invest in local ecosystem conservation.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 7
-#### Sustainable Fashion & Textiles
+#### Sustainable Fashion Textiles Guide
 - Fast fashion industry creates significant water pollution and textile landfill waste.
 - Building a capsule wardrobe of timeless, high-quality, sustainably sourced garments.
 - Buying secondhand, vintage clothing, and participating in garment swap events.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 8
-#### Mindful Digital Footprint
+#### Mindful Digital Footprint Strategy
 - Digital cloud storage and streaming video consume substantial data center power.
 - Unsubscribing from spam emails and cleaning up unnecessary cloud storage files.
 - Extending personal electronics usage lifespans from two years to five years.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 9
-#### Community Amplification & Advocacy
+#### Community Amplification and Advocacy
 - Sharing personal footprint reduction milestones inspires friends and neighbors.
 - Advocating for municipal bike lanes and public transit investment at city meetings.
 - Supporting local businesses that prioritize ethical sourcing and zero-waste packaging.

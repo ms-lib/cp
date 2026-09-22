@@ -27,7 +27,7 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Global Agricultural Imperatives  
+**Judul Halaman:** Global Sustainable Agricultural Imperatives  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
@@ -55,7 +55,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Innovations in Precision Smart Farming  
+**Judul Halaman:** Precision Smart Farming Innovations  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -69,7 +69,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Comparison  
-**Judul Halaman:** Side-by-Side Method Analysis  
+**Judul Halaman:** Agricultural Side Method Analysis  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 (Organic Soil Agronomy) | Kolom 2 (Precision Tech Systems) |
@@ -83,7 +83,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Environmental Footprint & Resource Use  
+**Judul Halaman:** Environmental Footprint Resource Use  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -97,7 +97,7 @@
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Economic Viability & Scalability  
+**Judul Halaman:** Economic Viability and Scalability  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 (Organic Farming Profile) | Kolom 2 (Precision Tech Profile) |
@@ -125,7 +125,7 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** The Integrated Smart Organic Future  
+**Judul Halaman:** Integrated Smart Organic Future  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |

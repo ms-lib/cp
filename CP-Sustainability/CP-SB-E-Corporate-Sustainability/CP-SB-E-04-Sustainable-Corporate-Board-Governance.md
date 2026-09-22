@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 2
-#### The Board's Fiduciary Duty Shift
+#### Board Fiduciary Duty Shift
 - Modern corporate fiduciary duty includes managing material climate risks and opportunities.
 - Boards face liability exposure for neglecting foreseeable environmental disruptions.
 - Activist investors demand climate expertise and independence on corporate boards.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 4
-#### Executive Compensation Alignment
+#### Executive Compensation Sustainability Alignment
 - Tying executive bonuses and long-term incentives (LTIP) to ESG goal achievement.
 - Mandating specific carbon reduction milestones for Chief Executive Officer payouts.
 - Metrics include employee safety rates, diversity targets, and circular material adoption.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 5
-#### Case Study: Board Governance Modernization
+#### Board Governance Modernization Study
 - Restructuring board oversight for a Fortune 500 industrial conglomerate.
 - Governance Lead: **Chad Gibbons**
 - Legal Compliance Counsel: **Chiaki Sato**
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 7
-#### Shareholder Engagement & Activism
+#### Shareholder Engagement and Activism
 - Proactive board dialogue with institutional investors regarding climate transition plans.
 - Constructive engagement on shareholder resolutions regarding environmental disclosure.
 - Transparent reporting on corporate lobbying activities to ensure alignment with Paris Agreement.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 8
-#### Ethics, Anti-Corruption & Compliance
+#### Ethics Anti Corruption Compliance
 - Enforcing strict corporate codes of business conduct across global operations.
 - Whistleblower protection mechanisms for reporting environmental and accounting violations.
 - Third-party anti-bribery and corruption auditing across all international business units.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 9
-#### Diversity, Equity & Board Inclusion
+#### Diversity Equity Board Inclusion
 - Increasing board gender, racial, and international diversity to enhance decision-making.
 - Diverse board perspectives prevent groupthink during strategic climate risk evaluations.
 - Refreshing board tenure policies to introduce innovative, modern governance perspectives.

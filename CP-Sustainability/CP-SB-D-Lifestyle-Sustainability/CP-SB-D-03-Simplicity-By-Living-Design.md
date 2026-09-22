@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 2
-#### The Philosophy of Living Design
+#### Philosophy of Living Design
 - Hyper-consumerism leads to physical clutter, mental stress, and environmental strain.
 - Conscious living focuses on quality, functional utility, and emotional clarity over volume.
 - Decoupling personal happiness from continuous material acquisition.
@@ -27,7 +27,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 3
-#### Sustainable Interior Spaces
+#### Sustainable Interior Living Spaces
 - Utilizing natural, non-toxic materials like reclaimed wood, bamboo, and linen.
 - Low-VOC paints improve indoor air quality and protect household health.
 - Maximizing natural daylight design reduces daytime electric lighting requirements.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 4
-#### Decluttering & Circular Home Ownership
+#### Decluttering Circular Home Ownership
 - Auditing personal possessions to eliminate redundant and non-essential items.
 - Donating, re-selling, or recycling excess items to keep products in active use.
 - The 24-hour rule before non-essential purchases prevents impulsive consumer spending.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 5
-#### Case Study: Residential Eco-Living Transformation
+#### Residential Eco Living Transformation
 - Transforming a traditional urban home into a low-impact minimalist living space.
 - Lead Design Consultant: **Chidi Eze**
 - Homeowner / Client: **Howard Ong**
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 7
-#### Energy & Water Mindful Habits
+#### Energy Water Mindful Habits
 - Developing simple daily routines like turning off lights when leaving rooms.
 - Taking shorter showers and utilizing water-saving showerhead attachments.
 - Unplugging phantom electronics load devices when not in active operation.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 8
-#### Mindful Work-Life Living Balance
+#### Mindful Work Life Balance
 - Integrating outdoor nature walks into daily work schedules to reduce stress.
 - Transitioning away from digital screens during evening relaxation hours.
 - Prioritizing experiences, relationships, and learning over material purchases.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 9
-#### Eco-Friendly Cleaning & Maintenance
+#### Eco Friendly Cleaning Maintenance
 - Making natural household cleaners using vinegar, baking soda, and essential oils.
 - Replacing single-use paper towels with washable organic cotton cloths.
 - Maintenance routines that preserve furniture, appliances, and footwear longer.

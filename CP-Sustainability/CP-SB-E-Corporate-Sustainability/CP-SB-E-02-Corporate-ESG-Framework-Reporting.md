@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 2
-#### The Evolution of Corporate Disclosures
+#### Evolution of Corporate Disclosures
 - Institutional investors require rigorous ESG data alongside traditional financial statements.
 - Global regulatory mandates enforce standardized climate risk reporting.
 - Consumers and talent evaluate corporate ethics based on verified ESG disclosures.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 4
-#### Environmental (E) Data Collection
+#### Environmental Data Collection Systems
 - Scope 1: Direct emissions from corporate facilities and vehicle fleets.
 - Scope 2: Indirect emissions from purchased electricity and steam generation.
 - Scope 3: Upstream supply chain emissions and downstream product usage.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 5
-#### Social (S) & Governance (G) Metrics
+#### Social Governance ESG Metrics
 - Human capital management: Diversity, equity, and inclusion (DEI) workforce metrics.
 - Occupational health and safety (OHS) incident rates across corporate facilities.
 - Board independence, executive pay alignment, and anti-corruption compliance policies.
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 6
-#### Case Study: ESG Reporting Overhaul
+#### Corporate ESG Reporting Overhaul
 - Standardizing global ESG reporting across 45 international business subsidiaries.
 - Project Leaders: **Adeline Palmerston** & **Drew Feig**
 - Data Analytics Team: **Jamie Chastain**, **Olivia Wilson**, **Alfredo Torres**
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 7
-#### Materiality Assessment & Double Materiality
+#### Materiality Assessment Double Materiality
 - Identifying financial materiality: How climate change impacts corporate asset value.
 - Identifying impact materiality: How business operations impact society and nature.
 - Stakeholder engagement: Consulting shareholders, employees, suppliers, and communities.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 8
-#### Auditing & Third-Party Assurance
+#### Auditing Third Party Assurance
 - Engaging independent accounting firms to perform limited and reasonable assurance.
 - Establishing internal controls for ESG data collection equivalent to financial auditing.
 - Utilizing blockchain ledgers for immutable audit trails of carbon footprint calculations.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 9
-#### Digital Transformation of ESG Data
+#### Digital Transformation ESG Data
 - Cloud-based ESG software platforms consolidating data from hundreds of global sites.
 - Artificial intelligence algorithms detecting anomalous energy readings across factories.
 - Automated API connections streaming utility billing data directly into dashboard.

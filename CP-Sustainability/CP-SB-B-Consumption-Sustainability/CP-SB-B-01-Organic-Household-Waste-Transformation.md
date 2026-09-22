@@ -26,7 +26,7 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** What is Composting?  
+**Judul Halaman:** Understanding Organic Waste Composting  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
@@ -40,7 +40,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Environmental & Gardening Advantages  
+**Judul Halaman:** Environmental Composting Benefits  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -54,7 +54,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** What Can Be Composted vs What to Exclude  
+**Judul Halaman:** Compostable Materials Audit Guide  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 (Compostable Organics) | Kolom 2 (Excluded Waste) |
@@ -82,7 +82,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Balancing Carbon (Browns) & Nitrogen (Greens)  
+**Judul Halaman:** Balancing Carbon and Nitrogen  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -96,7 +96,7 @@
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Maintaining Aeration & Odor Control  
+**Judul Halaman:** Maintaining Aeration Odor Control  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -124,7 +124,7 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Applying Finished Compost to Plants  
+**Judul Halaman:** Applying Compost to Soil  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |

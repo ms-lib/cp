@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 2
-#### The Environmental Cost of Bottled Water
+#### Bottled Water Environmental Cost
 - Global consumer reliance on single-use plastic water bottles creates massive landfill pollution.
 - Plastic bottles require fossil fuel extraction and emit carbon during manufacturing.
 - Millions of plastic bottles end up floating in ocean gyres every single year.
@@ -27,7 +27,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 3
-#### Physiological Importance of Hydration
+#### Physiological Hydration Importance Vitality
 - Adequate daily water intake is essential for cellular function and cognitive focus.
 - Proper hydration improves physical endurance, skin health, and digestive function.
 - Chronic mild dehydration leads to fatigue, headaches, and lower immunity.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 5
-#### Case Study: Zero-Single-Use Corporate Wellness
+#### Zero Single Use Wellness
 - Eliminating single-use plastic bottles across a 500-employee corporate office.
 - Program Director: **Helene Paquet**
 - Health Coordinator: **Francois Mercer**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 6
-#### Reusable Vessel Materials & Design
+#### Reusable Vessel Materials Design
 - Food-grade stainless steel bottles keep water cold for 24 hours without chemical leaching.
 - Borosilicate glass containers offer pure taste and easy dishwashing cleaning.
 - BPA-free lightweight durable silicone bottles ideal for outdoor athletic activities.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 7
-#### Public Hydration Infrastructure
+#### Public Clean Hydration Infrastructure
 - Municipal installation of modern refillable water stations in public parks and stations.
 - Touchless sensor refilling taps reduce germ transmission in public facilities.
 - Mobile phone apps mapping nearby free public drinking water stations.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 8
-#### Hydration, Plant-Based Diets & Vitality
+#### Hydration Plant Based Vitality
 - Hydrating through water-rich organic fruits and vegetables like cucumbers and melons.
 - Herbal teas and infused waters provide antioxidant benefits without synthetic flavorings.
 - Reducing high-sugar sodas and energy drinks lowers chronic health disease risks.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 9
-#### Educational Outreach & Youth Programs
+#### Educational Outreach Youth Programs
 - Teaching school children about the hydrologic cycle and body hydration needs.
 - Distributing stainless steel water bottles to elementary students in public schools.
 - School campaigns challenging students to eliminate single-use beverage containers.

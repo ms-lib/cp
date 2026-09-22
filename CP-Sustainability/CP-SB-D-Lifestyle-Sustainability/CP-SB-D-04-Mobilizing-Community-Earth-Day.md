@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 2
-#### The Power of Grassroots Mobilization
+#### Power of Grassroots Mobilization
 - Global environmental crises require strong, coordinated neighborhood civic action.
 - Earth Day serves as a powerful focal point to ignite local volunteer activity.
 - Community events bridge social divides and foster shared environmental responsibility.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 4
-#### Urban Reforestation & Planting Drives
+#### Urban Reforestation Planting Drives
 - Partnering with city arborists to plant native trees along neighborhood streets.
 - Establishing wildflower pollinator gardens in public parkways and school yards.
 - Teaching volunteers correct tree planting techniques and initial watering care.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 5
-#### Case Study: City-Wide Earth Day Mobilization
+#### Citywide Earth Day Mobilization
 - Coordinating a multi-site Earth Day event across 12 city districts.
 - Lead Campaign Director: **Cia Rodriguez**
 - Youth Volunteer Coordinator: **Harumi Kobayashi**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 6
-#### Eco-Workshops & Education Hubs
+#### Eco Workshops Education Hubs
 - Hosting interactive workshops on home composting, recycling, and solar energy.
 - Repair Cafes where skilled volunteers fix broken household appliances for free.
 - Sustainable cooking demonstrations promoting plant-based, zero-waste recipes.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 7
-#### Local Business & Merchant Engagement
+#### Local Business Merchant Engagement
 - Partnering with neighborhood shops to eliminate single-use plastic bags on Earth Day.
 - Local restaurants offering special planet-friendly vegan lunch menus.
 - Corporate sponsorship for volunteer T-shirts, tools, and refreshments.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 8
-#### Digital Mobilization & Social Media
+#### Digital Mobilization Social Media
 - Utilizing social media campaigns to recruit volunteers and raise environmental awareness.
 - Photo contests highlighting local natural beauty and volunteer cleanup efforts.
 - Digital pledge campaigns encouraging residents to commit to plastic-free months.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 9
-#### Policy Advocacy & Town Halls
+#### Policy Advocacy Town Halls
 - Organizing community town hall meetings with municipal elected officials on Earth Day.
 - Presenting citizen petitions for expanded municipal bike lanes and public parks.
 - Elevating environmental justice concerns from historically underserved neighborhoods.

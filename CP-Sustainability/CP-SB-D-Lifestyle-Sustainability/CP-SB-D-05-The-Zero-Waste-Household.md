@@ -27,7 +27,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 3
-#### Room-by-Room: Kitchen Transformation
+#### Kitchen Zero Waste Transformation
 - Replacing disposable paper towels with washable organic cloth rags.
 - Buying package-free grains, spices, and oils at local bulk zero-waste stores.
 - Storing leftover food in glass containers or reusable beeswax food wraps.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 4
-#### Room-by-Room: Bathroom Audit
+#### Bathroom Zero Waste Audit
 - Switching from liquid soap in plastic bottles to solid bar soaps and shampoos.
 - Replacing plastic toothbrushes with biodegradable natural bamboo alternatives.
 - Utilizing safety razors with replaceable steel blades instead of disposable plastic razors.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 5
-#### Case Study: Suburban Zero-Waste Family
+#### Suburban Zero Waste Family
 - A suburban family transitioning from 3 trash bags per week to 1 jar per year.
 - Lead Coach: **Claudia Alves**
 - Sustainability Analyst: **Dani Martinez**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 6
-#### Zero-Waste Grocery Shopping
+#### Zero Waste Grocery Shopping
 - Bringing reusable cotton mesh bags for fresh fruits, vegetables, and bakery items.
 - Tare-weighing glass jars at bulk stores before filling with pantry staples.
 - Choosing glass, aluminum, or cardboard packaging over non-recyclable multi-layer plastics.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 7
-#### Sustainable Laundry & Cleaning
+#### Sustainable Laundry Cleaning Practices
 - Using natural laundry detergent sheets or refillable liquid detergent stations.
 - Drying clothes naturally on outdoor clotheslines or indoor drying racks.
 - Wool dryer balls replace synthetic single-use dryer sheets and soften fabrics.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 8
-#### Managing E-Waste & Hazardous Household Waste
+#### Managing Electronic Household Waste
 - Safely recycling old electronics, batteries, and lightbulbs at municipal drop-offs.
 - Disposing of leftover household paints and chemicals through eco-hazard collection days.
 - Repairing damaged household electronics instead of discarding them prematurely.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-D Lifestyle Sustainability
 ---
 
 ### Page 9
-#### Overcoming Common Zero-Waste Challenges
+#### Overcoming Zero Waste Challenges
 - Navigating convenience culture when traveling or dining out at restaurants.
 - Managing packaging waste when receiving mandatory prescription medications.
 - Encouraging family members and children without creating friction or pressure.

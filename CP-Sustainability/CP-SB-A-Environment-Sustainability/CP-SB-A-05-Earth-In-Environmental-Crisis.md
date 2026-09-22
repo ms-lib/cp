@@ -40,7 +40,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Major Categories of Natural Hazards  
+**Judul Halaman:** Categories of Natural Hazards  
 **Jumlah Kolom:** 5  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 | Kolom 5 |
@@ -68,7 +68,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Human, Physical & Economic Impacts  
+**Judul Halaman:** Human Physical Economic Impacts  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -82,7 +82,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Household & Community Preparedness  
+**Judul Halaman:** Household Community Emergency Preparedness  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -110,7 +110,7 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Sustainable Rebuilding & Recovery  
+**Judul Halaman:** Sustainable Rebuilding and Recovery  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -124,7 +124,7 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Civic Action for Disaster Safety  
+**Judul Halaman:** Civic Action Disaster Safety  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |

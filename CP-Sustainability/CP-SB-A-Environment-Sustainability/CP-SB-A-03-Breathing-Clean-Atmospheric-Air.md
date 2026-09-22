@@ -28,7 +28,7 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Understanding Air Pollution  
+**Judul Halaman:** Understanding Urban Air Pollution  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
@@ -42,7 +42,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Major Industrial & Human Pollution Sources  
+**Judul Halaman:** Major Industrial Pollution Sources  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -70,7 +70,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Human Health Hazards  
+**Judul Halaman:** Human Atmospheric Health Hazards  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -84,7 +84,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Widespread Environmental Destruction  
+**Judul Halaman:** Widespread Environmental Ecosystem Destruction  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -98,7 +98,7 @@
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Socio-Economic Consequences of Polluted Air  
+**Judul Halaman:** Socioeconomic Impacts of Pollution  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -112,7 +112,7 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Systemic Solutions for Clean Skies  
+**Judul Halaman:** Systemic Clean Sky Solutions  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -126,7 +126,7 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Personal Commitments to Air Quality  
+**Judul Halaman:** Personal Air Quality Commitments  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |

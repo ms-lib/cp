@@ -17,7 +17,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 2
-#### The Science-Based Targets Initiative (SBTi)
+#### Science Based Targets Initiative
 - Setting carbon reduction targets consistent with limiting global warming to 1.5°C.
 - Arbitrary net-zero pledges without scientific backing face intense market skepticism.
 - SBTi validation requires near-term 50% carbon cuts within 10 years.
@@ -27,7 +27,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 3
-#### Operational Energy Decarbonization
+#### Operational Energy Decarbonization Strategy
 - Retrofitting commercial facilities with high-efficiency LED, HVAC, and smart controls.
 - Transitioning industrial thermal heating processes from fossil fuels to clean electricity.
 - Executing long-term Power Purchase Agreements (PPAs) with regional solar and wind farms.
@@ -37,7 +37,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 4
-#### Process & Fleet Electrification
+#### Process Fleet Electrification Pathways
 - Replacing internal combustion vehicle fleets with electric and fuel-cell utility vehicles.
 - Eliminating high-global-warming-potential industrial refrigerants from cooling systems.
 - Optimizing manufacturing processes to eliminate fugitive methane and chemical emissions.
@@ -47,7 +47,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 5
-#### Case Study: Corporate Net-Zero Execution
+#### Corporate Net Zero Execution
 - Executing net-zero transition strategy across 80 international manufacturing facilities.
 - Lead Science Advisor: **Estelle Darcy**
 - Operations Director: **Francisco Andrade**
@@ -57,7 +57,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 6
-#### Scope 3 Decarbonization Strategies
+#### Scope Three Decarbonization Strategies
 - Engaging top 100 suppliers to adopt 100% renewable energy for corporate orders.
 - Redesigning products to reduce energy consumption during consumer use phase.
 - Optimizing global shipping logistics to transition freight from air to ocean and rail.
@@ -67,7 +67,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 7
-#### High-Integrity Carbon Neutralization
+#### High Integrity Carbon Neutralization
 - Residual emissions (under 10%) neutralized exclusively through high-integrity carbon removal.
 - Direct Air Capture (DAC) and permanent geological carbon storage investments.
 - High-quality certified reforestation and coastal mangrove ecosystem restoration projects.
@@ -77,7 +77,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 8
-#### Financial Capital Allocation & Internal Carbon Pricing
+#### Internal Carbon Pricing Allocation
 - Establishing internal carbon fee ($75 per ton CO2) charged to operating divisions.
 - Internal carbon tax proceeds fund corporate clean tech innovation grant pool.
 - Green capital expenditure (CapEx) prioritized for projects with high carbon ROI.
@@ -87,7 +87,7 @@ Sub-Topic: CP-SB-E Corporate Sustainability
 ---
 
 ### Page 9
-#### Employee Culture & Climate Leadership
+#### Employee Culture Climate Leadership
 - Internal climate academy educating staff on corporate net-zero targets and actions.
 - Departmental carbon budgets tracking team emissions performance quarterly.
 - Employee green team networks spearheading localized facility efficiency projects.

@@ -26,7 +26,7 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Why Proper Recycling Protocols Matter  
+**Judul Halaman:** Why Recycling Protocols Matter  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
@@ -40,7 +40,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Core Environmental Benefits  
+**Judul Halaman:** Core Environmental Benefits Overview  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -54,7 +54,7 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Standard Recyclable Categories  
+**Judul Halaman:** Standard Recyclable Waste Categories  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -68,7 +68,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Preparation & Contamination Prevention  
+**Judul Halaman:** Preparation Contamination Prevention  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -82,7 +82,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Recycling Outlets & Collection Channels  
+**Judul Halaman:** Recycling Outlets Collection Channels  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
@@ -96,7 +96,7 @@
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** How Material Recovery Facilities Work  
+**Judul Halaman:** Material Recovery Facility Operations  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -110,7 +110,7 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Eliminating Sorting Errors  
+**Judul Halaman:** Eliminating Household Sorting Errors  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 (Tangler Hazard) | Kolom 2 (Mixed Materials) |
