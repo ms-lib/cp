@@ -110,30 +110,30 @@
 **Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
 **Style & Aesthetics:** Cinematic Film Studio Theme with Warm Dark Bronze & Film Reel Background & Cinema Photography  
 
-#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+#### VOUCHER VARIATION 1: COMMERCIAL VIDEO PROMO (`20% OFF`)
 - **Background & Palette:** Cinematic Dark Bronze & Amber Gradient (`#2A1810` -> `#0E0704`)
 - **Top Left Header:** Brand Logo (**CineCraft Studio**)
-- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
-- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
-- **Promo Code Pill Badge:** `CODE : CINE30` (White pill badge capsule with bold dark text)
+- **Main Headline:** **COMMERCIAL VIDEO PROMO** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **20% OFF BRAND COMMERCIAL** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : CINE20` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution product photography of a professional cinema video camera with lens flare & film reel strip with play icon
 
-#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+#### VOUCHER VARIATION 2: COMPLIMENTARY 4K DRONE COVERAGE (`FREE DRONE ADD-ON`)
 - **Background & Palette:** Deep Cinema Bronze Solid (`#3D2318`)
 - **Top Left Header:** Brand Logo (**CineCraft Studio**)
-- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
-- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
-- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Main Headline:** **AERIAL DRONE FOOTAGE BONUS** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **FREE 4K DRONE COVERAGE** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : FREEDRONE` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photo of professional 4K camera drone & aerial footage gimbal gear
 
-#### VOUCHER VARIATION 3: CINEMATIC WEDDING FILM BUNDLE (`40% OFF`)
+#### VOUCHER VARIATION 3: WEDDING HIGHLIGHT SPECIAL (`$150 OFF`)
 - **Background & Palette:** Dark Espresso Cinema Gradient (`#1F0F0A` -> `#050201`)
 - **Top Left Header:** Brand Logo (**CineCraft Studio**)
-- **Main Headline:** **CINEMATIC FILM BUNDLE** (Bold white header typography)
-- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
-- **Promo Code Pill Badge:** `CODE : FILM40` (White pill badge capsule with bold dark text)
+- **Main Headline:** **WEDDING HIGHLIGHT DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **$150 OFF SAME-DAY EDIT (SDE)** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : WEDDINGFILM150` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photo showcase of video editing suite monitor displaying a wedding movie timeline & film clapperboard
 

@@ -99,30 +99,30 @@
 **Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
 **Style & Aesthetics:** Modern Corporate & Private Event Theme with Midnight Blue & Metallic Gold Accents & Stage Lighting Photography  
 
-#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+#### VOUCHER VARIATION 1: EARLY BIRD EVENT PLANNING (`15% OFF`)
 - **Background & Palette:** Deep Midnight Blue & Gold Starburst Gradient (`#0A192F` -> `#020C1B`)
 - **Top Left Header:** Brand Logo (**Stellar Events**)
-- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
-- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
-- **Promo Code Pill Badge:** `CODE : EVENT30` (White pill badge capsule with bold dark text)
+- **Main Headline:** **EARLY BIRD EVENT SPECIAL** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **15% OFF FULL EVENT PLANNING** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : STELLAR15` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photography of event stage lighting with warm golden spotlight beams & starburst constellation flares
 
-#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+#### VOUCHER VARIATION 2: FREE PHOTO BOOTH RENTAL (`FREE ADD-ON`)
 - **Background & Palette:** Rich Midnight Blue Solid (`#1E3A8A`)
 - **Top Left Header:** Brand Logo (**Stellar Events**)
-- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
-- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
-- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Main Headline:** **EVENT ENTERTAINMENT BONUS** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **FREE 2-HR PHOTO BOOTH RENTAL** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : PHOTOBOOTH2025` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photo of interactive photo booth setup with funny props, polaroid prints & party confetti
 
-#### VOUCHER VARIATION 3: ANNUAL CORPORATE CONFERENCE BUNDLE (`40% OFF`)
+#### VOUCHER VARIATION 3: CORPORATE GALA SAVINGS (`$300 OFF`)
 - **Background & Palette:** Dark Obsidian Midnight Gradient (`#0B132B` -> `#000511`)
 - **Top Left Header:** Brand Logo (**Stellar Events**)
-- **Main Headline:** **CORPORATE GALA DEAL** (Bold white header typography)
-- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
-- **Promo Code Pill Badge:** `CODE : STELLAR40` (White pill badge capsule with bold dark text)
+- **Main Headline:** **CORPORATE GALA SAVINGS** (Bold white header typography)
+- **Giant Offer Highlight:** **$300 OFF CORPORATE BUNDLE** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : CORP300` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photo showcase of a grand champagne tower, gala banquet tables & glowing LED stage backdrop
 

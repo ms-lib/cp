@@ -120,30 +120,30 @@
 **Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
 **Style & Aesthetics:** Romantic Luxury Wedding Theme with Champagne Gold & Burgundy Background & Wedding Photography  
 
-#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+#### VOUCHER VARIATION 1: EARLY BIRD WEDDING DISCOUNT (`15% OFF`)
 - **Background & Palette:** Luxurious Champagne Burgundy & Gold (`#581845` -> `#1C0616`)
 - **Top Left Header:** Brand Logo (**EverAfter WO**)
-- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
-- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
-- **Promo Code Pill Badge:** `CODE : WEDDING30` (White pill badge capsule with bold dark text)
+- **Main Headline:** **EARLY BIRD WEDDING PROMO** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **15% OFF FULL PLANNING** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : EVERAFTER15` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photography of a pair of gold wedding rings resting on white rose petals with floating champagne light sparkles
 
-#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+#### VOUCHER VARIATION 2: COMPLIMENTARY BRIDAL SHOWER PLANNING (`FREE BONUS`)
 - **Background & Palette:** Elegant Burgundy Rose Solid (`#900C3F`)
 - **Top Left Header:** Brand Logo (**EverAfter WO**)
-- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
-- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
-- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Main Headline:** **BRIDAL SHOWER BONUS** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **FREE ENGAGEMENT PARTY PLANNING** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : BRIDALBONUS` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photo of toast champagne flute glasses with golden bubbles & bridal veil ribbon
 
-#### VOUCHER VARIATION 3: ALL-INCLUSIVE DREAM WEDDING BUNDLE (`40% OFF`)
+#### VOUCHER VARIATION 3: DAY-OF COORDINATION SPECIAL (`$250 OFF`)
 - **Background & Palette:** Deep Midnight Plum & Gold Gradient (`#370617` -> `#1A030A`)
 - **Top Left Header:** Brand Logo (**EverAfter WO**)
-- **Main Headline:** **DREAM WEDDING DEAL** (Bold white header typography)
-- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
-- **Promo Code Pill Badge:** `CODE : DREAM40` (White pill badge capsule with bold dark text)
+- **Main Headline:** **DAY-OF COORDINATION DEAL** (Bold white header typography)
+- **Giant Offer Highlight:** **$250 OFF DAY-OF COORDINATION** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : WEDDINGDAY250` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photo showcase of a breathtaking floral wedding aisle archway with warm fairy light bokeh
 
