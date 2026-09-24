@@ -2,12 +2,12 @@
 ## Little Stars – Daycare & Early Childcare Promotional Suite
 
 **Sub-Topic:** CP-SBM-D-Education-Childcare-Academy  
-**Main Keywords:** little stars, daycare & early childcare, daycaretrial, promo banner, loyalty card  
+**Main Keywords:** little stars, daycare & early childcare, daycaretrial, promo banner, daycare features  
 **Target Audience:** Customers, Clients, Local Community, Social Media Followers  
 **Style:** Professional Canva Small Business Aesthetic Layout  
 **Tone:** Engaging, Friendly, Trustworthy  
 
-**Total Assets:** 9 Aset Promosi Lengkap (IG Story x3, IG Post x1, Loyalty Card, Business Card, Discount Coupon, Menu/Pricelist, Logo)  
+**Total Assets:** 9 Aset Promosi Lengkap (IG Story x3, IG Post x2, Business Card, Discount Coupon, Menu/Pricelist, Logo)  
 
 ---
 
@@ -67,16 +67,20 @@
 
 ---
 
-### ASSET 6 - PROMOTION LOYALTY CARD
-**Layout:** Standard Wallet Stamp Card (Front & Back)
-**Front Side:**
-- Title: LOYALTY CARD – Little Stars
-- Reward Rule: Enroll 5 months to get 1 Free Weekend Activity Camp
-- Stamp Grid: 5 Stamp Slots (Slot 5 = FREE REWARD)
-**Back Side:**
-- Logo: **Little Stars**
-- Tagline: *"Safe, Loving & Educational Childcare"*
-- Terms: Non-transferable. Present card upon purchase to collect stamps.
+### ASSET 6 - IG POST 2: DAYCARE FEATURES & PARENT AMENITIES
+**Format:** Square Feed (1080x1080) | **Style:** Warm, Cheerful & Friendly Showcase Card
+**Text Content:**
+- Logo Header: **Little Stars Daycare**
+- Big Headline: EVERYDAY JOY & PEACE OF MIND
+- Subtitle: WHAT WE OFFER FOR YOUR LITTLE ONES
+- Feature Grid (4 Core Highlights):
+  - 🧸 **Safe & Hygienic Play Spaces:** Soft play areas, sanitized toys & childproofed rooms.
+  - 🍎 **Healthy Snacks & Balanced Meals:** Fresh, nutritious daily meals designed for growing kids.
+  - 🎨 **Creative Activity Sessions:** Fun arts, crafts, music circle time & story sessions.
+  - 🔒 **CCTV & Parent Peace of Mind:** Secure environment with regular daily updates for parents.
+- Visual Elements: Cheerful pastel yellow layout with toy block illustrations and smiling star badges.
+- Call to Action: "Schedule a daycare tour today and see your child thrive!"
+- Footer Contact: www.littlestars.com | +123-456-7890
 
 ---
 
@@ -109,32 +113,32 @@
 **Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
 **Style & Aesthetics:** Cheerful Playful Childcare Theme with Sunshine Yellow & Warm Orange & Toy Graphics  
 
-#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+#### VOUCHER VARIATION 1: NEW ENROLLMENT DISCOUNT (`20% OFF`)
 - **Background & Palette:** Bright Sunshine Yellow & Warm Orange (`#F59E0B` -> `#B45309`)
 - **Top Left Header:** Brand Logo (**Little Stars**)
-- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
-- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
-- **Promo Code Pill Badge:** `CODE : STARS30` (White pill badge capsule with bold dark text)
+- **Main Headline:** **NEW ENROLLMENT PROMO** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **20% OFF FIRST MONTH** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : STARS20` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution 3D render/photo of smiling star icon holding colorful wooden building blocks with floating star sparkles
+- **Right Visual Artwork:** High-resolution photo of smiling star icon holding colorful wooden building blocks with floating star sparkles
 
-#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+#### VOUCHER VARIATION 2: SIBLING DISCOUNT (`15% OFF`)
 - **Background & Palette:** Cheerful Warm Orange Solid (`#EA580C`)
 - **Top Left Header:** Brand Logo (**Little Stars**)
-- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
-- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
-- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Main Headline:** **SIBLING SAVINGS PROMO** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **15% OFF SECOND CHILD** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : SIBLINGS15` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo of colorful ABC toy blocks, crayon set & party balloons
+- **Right Visual Artwork:** High-resolution photo of happy toddlers playing with building blocks & plush toys
 
-#### VOUCHER VARIATION 3: FULL SEMESTER LEARNING BUNDLE (`40% OFF`)
+#### VOUCHER VARIATION 3: FREE TRIAL DAY & WAIVED REGISTRATION (`FREE TRIAL DAY`)
 - **Background & Palette:** Deep Golden Amber Gradient (`#D97706` -> `#78350F`)
 - **Top Left Header:** Brand Logo (**Little Stars**)
-- **Main Headline:** **FULL SEMESTER DEAL** (Bold white header typography)
-- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
-- **Promo Code Pill Badge:** `CODE : KIDS40` (White pill badge capsule with bold dark text)
+- **Main Headline:** **FREE TRIAL & TOUR PASS** (Bold white header typography)
+- **Giant Offer Highlight:** **1 FREE TRIAL DAY + $0 REGISTRATION** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : FREETRIAL2025` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo showcase of bright playful daycare room with indoor slide, soft plush toys & floating confetti
+- **Right Visual Artwork:** High-resolution photo showcase of bright playful daycare room with indoor slide, soft plush toys & daycare tour pass badge
 
 ---
 
