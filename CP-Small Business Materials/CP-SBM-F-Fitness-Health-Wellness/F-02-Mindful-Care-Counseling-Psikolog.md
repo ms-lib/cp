@@ -110,32 +110,32 @@
 **Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
 **Style & Aesthetics:** Calm Mental Health Theme with Deep Ocean Blue Teal & Healing Graphics  
 
-#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+#### VOUCHER VARIATION 1: FIRST SESSION CONSULTATION (`15% OFF`)
 - **Background & Palette:** Deep Ocean Blue Teal Gradient (`#005F73` -> `#0A9396`)
 - **Top Left Header:** Brand Logo (**Mindful Care**)
-- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
-- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
-- **Promo Code Pill Badge:** `CODE : MIND30` (White pill badge capsule with bold dark text)
+- **Main Headline:** **FIRST SESSION PROMO** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **15% OFF INITIAL SESSION** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : MINDFUL15` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution 3D render/photo of caring hands cradling a growing sprout leaf emblem with soft calming aura glow
+- **Right Visual Artwork:** High-resolution photo of caring hands cradling a growing sprout leaf emblem with soft calming aura glow
 
-#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+#### VOUCHER VARIATION 2: COUPLE & RELATIONSHIP THERAPY (`20% OFF`)
 - **Background & Palette:** Reassuring Muted Teal Solid (`#0A9396`)
 - **Top Left Header:** Brand Logo (**Mindful Care**)
-- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
-- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
-- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Main Headline:** **COUPLE WELLNESS PROMO** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **20% OFF COUPLE SESSION** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : TOGETHER20` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo of mindfulness journal, tea cup & glowing heart silhouette
+- **Right Visual Artwork:** High-resolution photo of comfortable counseling room, mindfulness journal & warm tea cup
 
-#### VOUCHER VARIATION 3: 5-SESSION HEALING COUNSELING BUNDLE (`40% OFF`)
+#### VOUCHER VARIATION 3: ONLINE VIDEO THERAPY SPECIAL (`10% OFF`)
 - **Background & Palette:** Deep Calm Navy Blue Teal Gradient (`#002830` -> `#001217`)
 - **Top Left Header:** Brand Logo (**Mindful Care**)
-- **Main Headline:** **HEALING JOURNEY DEAL** (Bold white header typography)
-- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
-- **Promo Code Pill Badge:** `CODE : HEAL40` (White pill badge capsule with bold dark text)
+- **Main Headline:** **ONLINE THERAPY SPECIAL** (Bold white header typography)
+- **Giant Offer Highlight:** **10% OFF ONLINE SESSION** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : ONLINECARE10` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo showcase of warm, comfortable psychologist counseling armchair studio with gentle warm sunlight rays
+- **Right Visual Artwork:** High-resolution photo showcase of cozy therapy lounge armchair with laptop and soft sunlight rays
 
 ---
 

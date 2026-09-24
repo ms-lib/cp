@@ -109,32 +109,32 @@
 **Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
 **Style & Aesthetics:** Organic Zen Yoga Theme with Warm Terracotta & Earth Rust Background & Wellness Photography  
 
-#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+#### VOUCHER VARIATION 1: NEW MEMBER FIRST MONTH PASS (`20% OFF`)
 - **Background & Palette:** Deep Terracotta & Earth Rust Gradient (`#9E2A2B` -> `#540B0E`)
 - **Top Left Header:** Brand Logo (**Borcelle Yoga**)
-- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
-- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
-- **Promo Code Pill Badge:** `CODE : YOGA30` (White pill badge capsule with bold dark text)
+- **Main Headline:** **NEW MEMBER SPECIAL** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **20% OFF FIRST MONTH PASS** (Giant centered white typography)
+- **Promo Code Pill Badge:** `CODE : NAMASTE20` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photography of a yogi practicing lotus pose figure framed by rising sun rays & botanical leaves
+- **Right Visual Artwork:** High-resolution photo of a yogi practicing lotus pose framed by rising sun rays & botanical leaves
 
-#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+#### VOUCHER VARIATION 2: BRING A FRIEND DUAL PASS (`15% OFF`)
 - **Background & Palette:** Rich Terracotta Earth Solid (`#C06C84`)
 - **Top Left Header:** Brand Logo (**Borcelle Yoga**)
-- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
-- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
-- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Main Headline:** **BRING A MAT FRIEND PROMO** (Bold white uppercase display typography)
+- **Giant Offer Highlight:** **15% OFF DUAL CLASS PACK** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : YOGATOGETHER` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo of eco-friendly cork yoga mat, singing bowl & incense smoke mist
+- **Right Visual Artwork:** High-resolution photo of friends unrolling cork yoga mats together, singing bowl & incense smoke mist
 
-#### VOUCHER VARIATION 3: MEDITATION RETREAT BUNDLE (`40% OFF`)
+#### VOUCHER VARIATION 3: PRIVATE SOUND HEALING BUNDLE (`25% OFF`)
 - **Background & Palette:** Dark Mahogany Rust Gradient (`#3D0C11` -> `#1A0306`)
 - **Top Left Header:** Brand Logo (**Borcelle Yoga**)
-- **Main Headline:** **ZEN RETREAT BUNDLE** (Bold white header typography)
-- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
-- **Promo Code Pill Badge:** `CODE : SHANTI40` (White pill badge capsule with bold dark text)
+- **Main Headline:** **SOUND HEALING & YOGA BUNDLE** (Bold white header typography)
+- **Giant Offer Highlight:** **25% OFF PRIVATE SESSION** (Giant bold white text highlight)
+- **Promo Code Pill Badge:** `CODE : HARMONY25` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo showcase of serene sunlit yoga studio space with wooden floor, bamboo plants & soft glowing rays
+- **Right Visual Artwork:** High-resolution photo showcase of Tibetan singing bowls, yoga mats, and ambient sunlit studio space
 
 ---
 
