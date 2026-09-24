@@ -1,8 +1,8 @@
 # JUDUL 16 OF 20
-## Mindful Care – Psikolog & Mental Health Counseling Promotional Suite
+## Mindful Care – Psychology & Mental Health Counseling Promotional Suite
 
 **Sub-Topic:** CP-SBM-F-Fitness-Health-Wellness  
-**Main Keywords:** mindful care, psikolog & mental health counseling, mindful15, promo banner, loyalty card  
+**Main Keywords:** mindful care, psychology & mental health counseling, mindful15, promo banner, loyalty card  
 **Target Audience:** Customers, Clients, Local Community, Social Media Followers  
 **Style:** Professional Canva Small Business Aesthetic Layout  
 **Tone:** Engaging, Friendly, Trustworthy  
@@ -94,7 +94,7 @@
 **Back Side (Contact Details & Visual Frame Side):**
 - **Background:** Soft Almond Beige Linen Canvas (`#F7F4EF`)
 - **Left Column (Personal & Contact Details):**
-  - **Contact Person:** **DR. HANNAH CARTER, M.PSI** (Professional title typography)
+  - **Contact Person:** **DR. HANNAH CARTER, M.PSY** (Professional title typography)
   - **Role / Job Title Badge:** `Clinical Psychologist & Mental Health Counselor` (Deep teal Pill Badge, white text)
   - **Contact Box (Rounded Rectangular Frame):**
     - 📞 Phone: `+123-456-7890`

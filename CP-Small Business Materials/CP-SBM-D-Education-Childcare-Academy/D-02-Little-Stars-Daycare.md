@@ -24,7 +24,7 @@
 **Format:** Vertical Story (1080x1920) | **Style:** Fast, Fresh, Casual Tone
 **Text Content:**
 - Header Tag: WE'RE OPEN TODAY! 📍
-- Highlight: Ready to serve you the best Full-Day Daycare & Early Learning PAUD.
+- Highlight: Ready to serve you the best Full-Day Daycare & Early Learning Preschool.
 - Operating Hours: 07.00 AM — 06.00 PM (Monday - Friday)
 - Location Pin: 123 Anywhere St., Any City, ST 12345
 - Interactive Sticker: Tap link below to get instant directions / WhatsApp chat!
@@ -35,7 +35,7 @@
 **Format:** Vertical Story (1080x1920) | **Style:** High Urgency, Eye-Catching Deal
 **Text Content:**
 - Big Headline: SPECIAL PROMO — FREE 3-DAY TRIAL
-- Subtext: Exclusive offer for our signature Full-Day Daycare & Early Learning PAUD!
+- Subtext: Exclusive offer for our signature Full-Day Daycare & Early Learning Preschool!
 - Coupon Code: Use code **DAYCARETRIAL** at checkout.
 - Expiry Notice: ⏰ Valid until September 02, 2035 (Limited Slots)
 - Call to Action: Swipe Up / Tap link in bio to claim your promo code now!
