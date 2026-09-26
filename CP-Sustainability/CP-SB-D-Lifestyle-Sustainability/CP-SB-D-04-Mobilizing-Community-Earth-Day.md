@@ -8,7 +8,7 @@
 **Tone:** Passionate, unifying, action-driven  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→3→2→3→4→2→1→3→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** Power of Grassroots Mobilization  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -44,6 +45,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Planning Effective Community Cleanups  
 **Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -59,6 +61,7 @@
 **Judul Halaman:** Urban Reforestation Planting Drives  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Operational Efficiency:**<br>Partnering with city arborists to plant native trees. | **Infrastructure Resilience:**<br>Establishing wildflower pollinator gardens in public parkways and. |
@@ -71,7 +74,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Citywide Earth Day Mobilization  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -85,7 +89,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Eco Workshops Education Hubs  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -99,7 +104,8 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Local Business Merchant Engagement  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -115,6 +121,7 @@
 **Judul Halaman:** Digital Mobilization Social Media  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -127,7 +134,8 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Policy Advocacy Town Halls  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

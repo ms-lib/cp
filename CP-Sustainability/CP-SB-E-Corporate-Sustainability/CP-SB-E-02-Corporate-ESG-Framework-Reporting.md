@@ -8,7 +8,7 @@
 **Tone:** Rigorous, transparent, compliance-focused  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→3→4→2→4→3→1→2→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** Evolution of Corporate Disclosures  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -45,6 +46,7 @@
 **Judul Halaman:** Key Reporting Frameworks Alignment  
 **Jumlah Kolom:** 3  
 
+
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **System Integration:**<br>CSRD Corporate Sustainability Reporting Directive Mandatory double materiality reporting. | **Resource Optimization:**<br>ISSB International Sustainability Standards Board Baseline global climate metrics. | **GRI (Global Reporting Initiative):**<br>Comprehensive impact disclosure across stakeholders for sustainable urban. |
@@ -57,7 +59,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Environmental Data Collection Systems  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -73,6 +76,7 @@
 **Judul Halaman:** Social Governance ESG Metrics  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Human capital management:**<br>Diversity equity and inclusion DEI workforce metrics. | **Environmental Impact:**<br>Occupational health and safety OHS incident rates across. |
@@ -85,7 +89,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Corporate ESG Reporting Overhaul  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -99,7 +104,8 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Materiality Assessment Double Materiality  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -115,6 +121,7 @@
 **Judul Halaman:** Auditing Third Party Assurance  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -128,6 +135,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Digital Transformation ESG Data  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

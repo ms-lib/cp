@@ -8,7 +8,7 @@
 **Tone:** Strategic, authoritative, financial  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→3→2→2→3→4→1→2→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** Limits of Linear Business  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -44,6 +45,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Principles of Circular Design  
 **Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -59,6 +61,7 @@
 **Judul Halaman:** Reverse Logistics Takeback Systems  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Establishing corporate trade:**<br>In programs for legacy electronic equipment for sustainable. | **Infrastructure Resilience:**<br>Building reverse logistics networks to collect end-of-life products efficiently. |
@@ -72,6 +75,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Global Electronics Manufacturer Study  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -87,6 +91,7 @@
 **Judul Halaman:** Circular Industrial Symbiosis Strategy  
 **Jumlah Kolom:** 3  
 
+
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Technical Innovation:**<br>Partnering across industry sectors to utilize one factory's. | **Process Optimization:**<br>Exchanging industrial waste heat wastewater and byproduct chemicals locally. | **Eco:**<br>Industrial parks optimized for shared utility infrastructure and. |
@@ -100,6 +105,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Financial Valuation Investor Metrics  
 **Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -115,6 +121,7 @@
 **Judul Halaman:** Employee Engagement Culture Strategy  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -128,6 +135,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Regulatory Policy Global Standards  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

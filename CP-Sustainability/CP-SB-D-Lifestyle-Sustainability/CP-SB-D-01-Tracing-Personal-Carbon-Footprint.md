@@ -8,7 +8,7 @@
 **Tone:** Empathetic, encouraging, practical  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→3→2→2→3→4→1→2→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** Understanding Personal Carbon Emissions  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -44,6 +45,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Carbon Emissions Accounting Methodology  
 **Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -59,6 +61,7 @@
 **Judul Halaman:** High Impact Household Reductions  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Operational Efficiency:**<br>Switching home electricity contracts to 100 renewable energy providers. | **Infrastructure Resilience:**<br>Retrofitting home insulation and upgrading to high-efficiency heat pumps. |
@@ -72,6 +75,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Household Footprint Reduction Study  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -87,6 +91,7 @@
 **Judul Halaman:** Sustainable Travel Aviation Choices  
 **Jumlah Kolom:** 3  
 
+
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Technical Innovation:**<br>Commercial aviation represents a high proportion of frequent. | **Choosing rail travel over short:**<br>Haul domestic flights dramatically lowers travel impact. | **Embracing eco:**<br>Tourism destinations that invest in local ecosystem conservation. |
@@ -100,6 +105,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Sustainable Fashion Textiles Guide  
 **Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -115,6 +121,7 @@
 **Judul Halaman:** Mindful Digital Footprint Strategy  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -128,6 +135,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Community Amplification and Advocacy  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

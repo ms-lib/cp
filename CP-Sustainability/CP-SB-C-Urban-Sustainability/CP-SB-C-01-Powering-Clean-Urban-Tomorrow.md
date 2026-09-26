@@ -8,7 +8,7 @@
 **Tone:** Innovative, authoritative, forward-looking  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→3→2→2→3→4→1→2→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** Urban Clean Energy Landscape  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -44,6 +45,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Renewable Energy Grid Integration  
 **Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -59,6 +61,7 @@
 **Judul Halaman:** District Cooling Heating Systems  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Operational Efficiency:**<br>Traditional centralized HVAC units emit significant thermal waste. | **Infrastructure Resilience:**<br>Centralized district cooling plants leverage high-efficiency water chillers. |
@@ -72,6 +75,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Municipal Solar Deployment Study  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -87,6 +91,7 @@
 **Judul Halaman:** Wind Micro Turbine Innovations  
 **Jumlah Kolom:** 3  
 
+
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Building:**<br>Integrated wind turbines capture high-altitude rooftop airflow patterns. | **Micro:**<br>Turbines installed on bridges and overpasses leverage highway. | **Design Focus:**<br>Silent operation and bird-safe turbine vertical-axis blades. |
@@ -100,6 +105,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Policy and Incentive Frameworks  
 **Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -115,6 +121,7 @@
 **Judul Halaman:** Smart Grid Operations Security  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -128,6 +135,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Community Clean Energy Access  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

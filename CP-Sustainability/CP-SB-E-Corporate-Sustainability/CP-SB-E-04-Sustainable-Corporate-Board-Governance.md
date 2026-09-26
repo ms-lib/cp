@@ -8,7 +8,7 @@
 **Tone:** Authoritative, prudent, governance-led  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→3→2→3→4→2→1→3→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** Board Fiduciary Duty Shift  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -44,6 +45,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Establishing Board Sustainability Committees  
 **Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -59,6 +61,7 @@
 **Judul Halaman:** Executive Compensation Sustainability Alignment  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Tying executive bonuses and long:**<br>Term incentives LTIP to ESG goal achievement. | **Infrastructure Resilience:**<br>Mandating specific carbon reduction milestones for Chief Executive. |
@@ -71,7 +74,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Board Governance Modernization Study  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -85,7 +89,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Climate Risk Scenario Analysis  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -99,7 +104,8 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Shareholder Engagement and Activism  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -115,6 +121,7 @@
 **Judul Halaman:** Ethics & Corporate Compliance  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -127,7 +134,8 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Diversity Equity Board Inclusion  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

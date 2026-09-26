@@ -8,7 +8,7 @@
 **Tone:** Restorative, hopeful, grounded  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→3→2→3→4→2→1→3→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** Legacy of Industrial Urbanization  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -44,6 +45,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Advanced Urban Phytoremediation Techniques  
 **Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -59,6 +61,7 @@
 **Judul Halaman:** Converting Brownfields to Parks  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Operational Efficiency:**<br>Transforming disused railway lines and factory sites into. | **Designing multi:**<br>Functional spaces that blend recreation with native plant reserves. |
@@ -71,7 +74,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Riverfront Industrial Revitalization Study  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -85,7 +89,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Urban Forestry Canopy Expansion  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -99,7 +104,8 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Soil Regeneration Biochar Application  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -115,6 +121,7 @@
 **Judul Halaman:** Community Ownership Urban Agriculture  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -127,7 +134,8 @@
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Brownfield Redevelopment Policy Grants  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

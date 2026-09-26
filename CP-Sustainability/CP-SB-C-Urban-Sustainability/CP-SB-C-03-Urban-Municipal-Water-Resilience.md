@@ -8,7 +8,7 @@
 **Tone:** Trustworthy, scientific, protective  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→3→4→2→4→3→1→2→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** The Urban Water Challenge  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -45,6 +46,7 @@
 **Judul Halaman:** Advanced Water Purification Tech  
 **Jumlah Kolom:** 3  
 
+
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **System Integration:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment. | **Resource Optimization:**<br>Reverse osmosis desalination supplies reliable drinking water to. | **Environmental Protection:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-pollutants. |
@@ -57,7 +59,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Rainwater Harvesting Managed Recharge  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -73,6 +76,7 @@
 **Judul Halaman:** Zero Water Waste Municipality  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Implementation of city:**<br>Wide recycled water network for industrial cooling. | **Project Director:**<br>Cahaya Dewi for sustainable urban community growth. |
@@ -85,7 +89,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Smart Metering Leak Detection  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -99,7 +104,8 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Industrial Commercial Water Recycling  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -115,6 +121,7 @@
 **Judul Halaman:** Watershed Protection Upstream Conservation  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -128,6 +135,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Public Education Behavior Shift  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

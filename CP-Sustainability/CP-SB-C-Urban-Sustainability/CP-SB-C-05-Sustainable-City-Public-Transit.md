@@ -8,7 +8,7 @@
 **Tone:** Energetic, practical, accessible  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→2→3→2→4→3→1→2→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** The Urban Mobility Challenge  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -43,7 +44,8 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Electric Hydrogen Bus Fleets  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -57,7 +59,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** High Capacity Rail Transit  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -73,6 +76,7 @@
 **Judul Halaman:** Municipal Fleet Conversion Study  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Execution Results:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses. | **Project Lead:**<br>Drew Feig for sustainable urban community growth. |
@@ -85,7 +89,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Micro Mobility Integration Strategy  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -99,7 +104,8 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Equitable Inclusive Transit Access  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
@@ -115,6 +121,7 @@
 **Judul Halaman:** Transit Oriented Development TOD  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -128,6 +135,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Funding Financial Transit Sustainability  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

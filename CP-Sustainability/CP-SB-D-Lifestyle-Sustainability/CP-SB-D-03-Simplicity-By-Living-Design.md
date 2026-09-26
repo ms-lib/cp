@@ -8,7 +8,7 @@
 **Tone:** Calm, thoughtful, harmonious  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→3→4→2→3→4→1→2→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** Philosophy of Living Design  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -45,6 +46,7 @@
 **Judul Halaman:** Sustainable Interior Living Spaces  
 **Jumlah Kolom:** 3  
 
+
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
 | **Utilizing natural, non:**<br>synthetic materials like reclaimed wood bamboo and linen. | **Low:**<br>VOC paints improve indoor air quality and protect. | **Environmental Protection:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements. |
@@ -57,7 +59,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Decluttering Circular Home Ownership  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -73,6 +76,7 @@
 **Judul Halaman:** Residential Eco Living Transformation  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Execution Results:**<br>Transforming a traditional urban home into a low-impact. | **Lead Design Consultant:**<br>Chidi Eze for sustainable urban community growth. |
@@ -86,6 +90,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Sustainable Food Living Habits  
 **Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -101,6 +106,7 @@
 **Judul Halaman:** Energy Water Mindful Habits  
 **Jumlah Kolom:** 4  
 
+
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Policy Standard:**<br>Developing simple daily routines like turning off lights. | **Financial Incentive:**<br>Taking shorter showers and utilizing water-saving showerhead attachments. | **Public Partnership:**<br>Unplugging phantom electronics load devices when not in. | **Smart Controls:**<br>Programmable thermostats adjust heating while residents sleep. |
@@ -115,6 +121,7 @@
 **Judul Halaman:** Mindful Work Life Balance  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -128,6 +135,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Eco Friendly Cleaning Maintenance  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|

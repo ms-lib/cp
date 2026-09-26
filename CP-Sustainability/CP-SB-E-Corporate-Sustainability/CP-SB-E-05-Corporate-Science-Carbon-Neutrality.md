@@ -8,7 +8,7 @@
 **Tone:** Scientifically rigorous, ambitious, structured  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
+**Pattern Kolom:** 1→1→2→4→2→3→4→1→2→1  
 
 ---
 
@@ -31,6 +31,7 @@
 **Judul Halaman:** Science Based Targets Initiative  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
@@ -43,7 +44,8 @@
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Operational Energy Decarbonization Strategy  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -57,7 +59,8 @@
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Process Fleet Electrification Pathways  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 4  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
@@ -73,6 +76,7 @@
 **Judul Halaman:** Corporate Net Zero Execution  
 **Jumlah Kolom:** 2  
 
+
 | Kolom 1 | Kolom 2 |
 |---------|---------|
 | **Executing net:**<br>Zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>Estelle Darcy for sustainable urban community growth. |
@@ -86,6 +90,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Scope Three Decarbonization Strategies  
 **Jumlah Kolom:** 3  
+
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
@@ -101,6 +106,7 @@
 **Judul Halaman:** High Integrity Carbon Neutralization  
 **Jumlah Kolom:** 4  
 
+
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
 | **Policy Standard:**<br>Residual emissions under 10 neutralized exclusively through high-integrity. | **Financial Incentive:**<br>Direct Air Capture DAC and permanent geological carbon. | **High:**<br>Quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Avoided Pitfalls:**<br>Rejecting unverified low-quality carbon offset credits for sustainable. |
@@ -115,6 +121,7 @@
 **Judul Halaman:** Internal Carbon Pricing Allocation  
 **Jumlah Kolom:** 1  
 
+
 | Kolom 1 |
 |---------|
 | Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
@@ -128,6 +135,7 @@
 **Tipe Halaman:** List/Value  
 **Judul Halaman:** Employee Culture Climate Leadership  
 **Jumlah Kolom:** 2  
+
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
