@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Designing products for easy disassembly modular repair and. | **Utilizing non:**<br>Toxic bio-based or 100 recycled input materials in manufacturing. | **Environmental Protection:**<br>Standardizing component parts across product lines to simplify refurbishment. |
+| **System Integration:**<br>Designing products for easy disassembly modular repair and. | **Utilizing non:**<br>synthetic bio-based or 100 recycled input materials in manufacturing. | **Environmental Protection:**<br>Standardizing component parts across product lines to simplify refurbishment. |
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 

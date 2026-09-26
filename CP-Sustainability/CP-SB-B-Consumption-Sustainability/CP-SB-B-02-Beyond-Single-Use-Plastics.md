@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: Beyond Single Use Plastics
-- Subtitle: Tackling the Global Plastic Crisis Through Alternative Materials & Circular Systems
+- Subtitle: Tackling the Global Plastic Solutions Through Alternative Materials & Circular Systems
 - Brand: Wardiere & Rimberio
 
 ---
@@ -31,7 +31,7 @@
 
 | Kolom 1 |
 |---------|
-| **Pervasive Synthetic Waste:**<br>Non-biodegradable plastics accumulate rapidly in oceans, soil systems, and urban environments. Overcoming this crisis requires replacing disposable single-use items with circular, durable, and bio-based alternatives.<br><br>**Objective:** Shifting global production and consumer habits away from throwaway plastics toward durable reusability. |
+| **Pervasive Synthetic Waste:**<br>Non-biodegradable plastics accumulate rapidly in oceans, soil systems, and urban environments. Overcoming this challenge requires replacing disposable single-use items with circular, durable, and bio-based alternatives.<br><br>**Objective:** Shifting global production and consumer habits away from throwaway plastics toward durable reusability. |
 
 **Visual Note:** Single prominent card with steel blue background and clean text layout.  
 
@@ -54,14 +54,14 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Threats to Food Chains  
+**Judul Halaman:** Food Chain Protection Priorities  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Ingestion & Trapping:**<br>Wildlife consume floating plastic debris or get trapped in discarded netting, leading to fatal injuries. | **Toxic Microplastic Accumulation:**<br>Degraded microparticles enter plankton and small fish, polluting global food networks. |
+| **Ingestion & Trapping:**<br>Wildlife consume floating plastic debris or get trapped in discarded netting, leading to wildlife disruptions. | **synthetic microplastic Accumulation:**<br>Degraded microparticles enter plankton and small fish, polluting global food networks. |
 
-**Visual Note:** Two wildlife risk cards with animal hazard vector icons.  
+**Visual Note:** Two wildlife risk cards with animal Environmental Factor vector icons.  
 
 ---
 
@@ -82,7 +82,7 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Severe Global Environmental Consequences  
+**Judul Halaman:** Global Environmental Protection Principles  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |

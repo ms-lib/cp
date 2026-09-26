@@ -2,7 +2,7 @@
 ## Guardians of Blue Planet
 
 **Sub-Topic:** CP-SB-A-Environment-Sustainability  
-**Main Keywords:** guardians of blue planet, marine plastic hazards, coastal preservation, ocean health, microplastics, aquatic life, Borcelle Oceans  
+**Main Keywords:** guardians of blue planet, marine plastic Environmental Factors, coastal preservation, ocean health, microplastics, aquatic life, Borcelle Oceans  
 **Audience:** Eco-Activists, Coastal Communities, Students, General Public  
 **Style:** Deep Ocean Blue & Cyan, Clean Aquatic Aesthetic  
 **Tone:** Urgent, educational, action-oriented  
@@ -26,12 +26,12 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** The Oceanic Environmental Crisis  
+**Judul Halaman:** The Oceanic Environmental Focus & Care  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Protecting Marine Waters:**<br>Marine ecosystems face unprecedented degradation from synthetic plastic waste, chemical runoff, raw sewage, and maritime vessel spills. Preserving ocean health is vital for global climate stability and marine life survival.<br><br>**Mission:** Educating coastal communities, organizing cleanups, and driving systemic plastic reduction. |
+| **Protecting Marine Waters:**<br>Marine ecosystems face unprecedented transformation from synthetic plastic waste, chemical runoff, raw sewage, and maritime vessel spills. Preserving ocean health is vital for global climate stability and marine life survival.<br><br>**Mission:** Educating coastal communities, organizing cleanups, and driving systemic plastic reduction. |
 
 **Visual Note:** Single prominent card with deep ocean blue background and clean white text layout.  
 
@@ -54,12 +54,12 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Key Marine Degradation Drivers  
+**Judul Halaman:** Key Marine transformation Drivers  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Plastic Accumulation:**<br>Millions of tons of non-biodegradable waste dumped into ocean gyres annually. | **Agricultural Chemical Runoff:**<br>Excess fertilizer causing severe hypoxia and dead zones in coastal waters. | **Petroleum & Chemical Spills:**<br>Toxins coating marine wildlife feathers, scales, and coastal mangroves. |
+| **Plastic Accumulation:**<br>Millions of tons of non-biodegradable waste dumped into ocean gyres annually. | **Agricultural Chemical Runoff:**<br>Excess fertilizer causing low oxygen levels and dead zones in coastal waters. | **Petroleum & Chemical Spills:**<br>unfiltered particles coating marine wildlife feathers, scales, and coastal mangroves. |
 
 **Visual Note:** Three clean columns in deep cyan, teal, and navy.  
 
@@ -68,7 +68,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** The Global Microplastic Crisis  
+**Judul Halaman:** The Global Microplastic Action Plan  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -82,12 +82,12 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Threats to Marine Wildlife  
+**Judul Halaman:** Marine Wildlife Protection Priorities  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Net Entanglement:**<br>Ghost nets trapping sea mammals. | **Internal Injury:**<br>Plastic ingestion causing blockage. | **Disrupted Breeding:**<br>Toxins altering animal migration. | **Reef Bleaching:**<br>Chemicals smothering coral reefs. |
+| **Net Entanglement:**<br>Ghost nets trapping sea mammals. | **Internal Injury:**<br>Plastic ingestion causing blockage. | **Disrupted Breeding:**<br>unfiltered particles altering animal migration. | **Reef Bleaching:**<br>Chemicals smothering coral reefs. |
 
 **Visual Note:** Four wildlife damage cards displaying marine species impact.  
 
@@ -101,7 +101,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Microplastics in Human Diet:**<br>Microscopic synthetic particles detected in commercial seafood, sea salt, and drinking water. | **Bioaccumulation of Toxins:**<br>Industrial chemicals absorbed by ocean plastics accumulate up the marine food chain to humans. |
+| **Microplastics in Human Diet:**<br>Microscopic synthetic particles detected in commercial seafood, sea salt, and drinking water. | **Bioaccumulation of unfiltered particles:**<br>Industrial chemicals absorbed by ocean plastics accumulate up the marine food chain to humans. |
 
 **Visual Note:** Two health risk cards styled with water purity and bioaccumulation diagrams.  
 

@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Extended Heatwaves:**<br>Rising global baseline surface temperatures. | **Ocean Inundation:**<br>Thermal expansion and ice melt flooding coasts. | **Glacial Depletion:**<br>Accelerated thawing of ice sheets and glaciers. | **Volatile Weather:**<br>Intensified storms, flash floods, and wildfires. |
+| **Extended Heatwaves:**<br>Rising global baseline surface temperatures. | **Ocean Inundation:**<br>Thermal expansion and ice melt flooding coasts. | **Glacial Dynamics:**<br>Accelerated thawing of ice sheets and glaciers. | **Volatile Weather:**<br>Intensified storms, flash floods, and wildfires. |
 
 **Visual Note:** Four feature cards in slate and muted orange with distinct climate impact badges.  
 
@@ -70,7 +70,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Ecological Stress Habitat Shift  
+**Judul Halaman:** Ecological focus Habitat Shift  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Health Risks & Disease Vectors:**<br>Extreme heat stress and shifting disease vectors challenge public healthcare systems. | **Food Security & Water Scarcity:**<br>Unpredictable rainfall patterns reduce agricultural yields and freshwater access. |
+| **Health Risks & health condition Vectors:**<br>Extreme thermal conditions and shifting health factors challenge public healthcare systems. | **Food Security & Water Scarcity:**<br>Unpredictable rainfall patterns reduce agricultural yields and freshwater access. |
 
 **Visual Note:** Two socio-economic impact cards styled with clean professional borders.  
 

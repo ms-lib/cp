@@ -1,8 +1,8 @@
 # JUDUL 5 OF 25
-## Earth in Environmental Crisis
+## Earth Environmental Protection & Care
 
 **Sub-Topic:** CP-SB-A-Environment-Sustainability  
-**Main Keywords:** earth in environmental crisis, disaster preparedness, emergency safety, hazard response, resilient communities, Nature Alert  
+**Main Keywords:** Earth Environmental Protection & Care, safety preparedness, emergency safety, Environmental Factor response, resilient communities, Nature Alert  
 **Audience:** Emergency Responders, Local Communities, Educators, Citizens  
 **Style:** Bold Alert Red & Navy, High-Readability Clean Layout  
 **Tone:** Urgent, informative, practical  
@@ -17,8 +17,8 @@
 **Visual Note:** High-visibility safety presentation cover. Deep navy blue background with crisp orange-red accents and clean emergency shield vector art.  
 
 **Text:**
-- Title: Earth in Environmental Crisis
-- Subtitle: Disaster Preparedness, Emergency Safety Protocols & Resilient Communities
+- Title: Earth Environmental Protection & Care
+- Subtitle: safety preparedness, Emergency Safety Protocols & Resilient Communities
 - Brand: Nature Alert
 
 ---
@@ -26,12 +26,12 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Understanding Severe Natural Hazards  
+**Judul Halaman:** Understanding Natural Environmental Events  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Catastrophic Environmental Events:**<br>Natural disasters are sudden geological or meteorological events—including earthquakes, severe floods, tsunamis, volcanic eruptions, and tropical cyclones—that cause severe human casualty, structural destruction, and social displacement.<br><br>**Core Mission:** Building community hazard awareness, early warning networks, and emergency resilience. |
+| **Major Environmental Events:**<br>Natural emergency events are sudden geological or meteorological events—including earthquakes, severe floods, tsunamis, volcanic eruptions, and tropical cyclones—that cause significant community impact, structural destruction, and social displacement.<br><br>**Core Mission:** Building community Environmental Factor awareness, early warning networks, and emergency resilience. |
 
 **Visual Note:** Single prominent card with deep navy background and clean white text layout.  
 
@@ -40,26 +40,26 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Categories of Natural Hazards  
+**Judul Halaman:** Categories of Natural Environmental Factors  
 **Jumlah Kolom:** 5  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 | Kolom 5 |
 |---------|---------|---------|---------|---------|
-| **Earthquakes:**<br>Sudden tectonic plate slips. | **Floods:**<br>River overflow and storm surges. | **Tsunamis:**<br>Subsea earthquake ocean waves. | **Volcanoes:**<br>Magma, ash, and pyroclastic flows. | **Hurricanes:**<br>Severe tropical storm winds. |
+| **Earthquakes:**<br>Sudden tectonic plate slips. | **Floods:**<br>River overflow and storm surges. | **Tsunamis:**<br>Subsea earthquake ocean waves. | **Volcanoes:**<br>Magma, ash, and pyroclastic flows. | **Hurricanes:**<br>Strong tropical storm winds. |
 
-**Visual Note:** Five compact disaster cards with clean vector icons for tectonic, flood, tsunami, volcano, and storm hazards.  
+**Visual Note:** Five compact emergency event cards with clean vector icons for tectonic, flood, tsunami, volcano, and storm Environmental Factors.  
 
 ---
 
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Factors Elevating Disaster Risk  
+**Judul Halaman:** Factors Elevating emergency event Risk  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Environmental Degradation:**<br>Deforestation removes natural tree root barriers against mudslides. | **Unplanned Urban Sprawl:**<br>High-density housing built without seismic or flood building codes. | **Climate Volatility:**<br>Rising temperatures drive intense rainfall events and hurricane severity. |
+| **Environmental transformation:**<br>Deforestation removes natural tree root barriers against mudslides. | **Unplanned Urban Sprawl:**<br>High-density housing built without seismic or flood building codes. | **Climate Volatility:**<br>Rising temperatures drive intense rainfall events and hurricane severity. |
 
 **Visual Note:** Three analytical risk cards in deep slate and muted red.  
 
@@ -115,7 +115,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Disaster-Resilient Housing:**<br>Rebuilding homes engineered to withstand earthquakes and flood surges. | **Restoring Essential Utilities:**<br>Rapidly repairing municipal power, water treatment, and cellular networks. | **Community Trauma Care:**<br>Providing psychological counseling and long-term economic recovery grants. |
+| **emergency event-Resilient Housing:**<br>Rebuilding homes engineered to withstand earthquakes and flood surges. | **Restoring Essential Utilities:**<br>Rapidly repairing municipal power, water treatment, and cellular networks. | **Community Trauma Care:**<br>Providing psychological counseling and long-term economic recovery grants. |
 
 **Visual Note:** Three reconstruction cards styled in navy and soft gold.  
 
@@ -124,12 +124,12 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Civic Action Disaster Safety  
+**Judul Halaman:** Civic Action emergency event Safety  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Know Evacuation Routes:**<br>Familiarize your household with local emergency shelter locations and escape paths. | **Volunteer with Relief Groups:**<br>Support certified first-responder organizations with emergency funds or time. | **Educate Neighborhoods:**<br>Host community disaster safety drills in schools, offices, and residential areas. |
+| **Know Evacuation Routes:**<br>Familiarize your household with local emergency shelter locations and escape paths. | **Volunteer with Relief Groups:**<br>Support certified first-responder organizations with emergency funds or time. | **Educate Neighborhoods:**<br>Host community emergency event safety drills in schools, offices, and residential areas. |
 
 **Visual Note:** Three community empowerment cards leading to a strong call to action.  
 
@@ -140,8 +140,8 @@
 **Visual Note:** Minimalist back cover in navy blue with safety pledge tagline.  
 
 **Text:**
-- Earth in Environmental Crisis
-- Preparedness turns crisis into safety; unity rebuilds hope.
+- Earth Environmental Protection & Care
+- Preparedness turns challenges into safety; unity rebuilds hope.
 - Nature Alert
 - www.reallygreatsite.com
 

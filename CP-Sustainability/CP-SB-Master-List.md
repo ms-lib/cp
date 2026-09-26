@@ -13,7 +13,7 @@
 | 02 | CP-SB-A-02 | The Climate Change Equation | [CP-SB-A-02-The-Climate-Change-Equation.md](CP-SB-A-Environment-Sustainability/CP-SB-A-02-The-Climate-Change-Equation.md) | 10 Pages |
 | 03 | CP-SB-A-03 | Breathing Clean Atmospheric Air | [CP-SB-A-03-Breathing-Clean-Atmospheric-Air.md](CP-SB-A-Environment-Sustainability/CP-SB-A-03-Breathing-Clean-Atmospheric-Air.md) | 10 Pages |
 | 04 | CP-SB-A-04 | Guardians of Blue Planet | [CP-SB-A-04-Guardians-Of-Blue-Planet.md](CP-SB-A-Environment-Sustainability/CP-SB-A-04-Guardians-Of-Blue-Planet.md) | 10 Pages |
-| 05 | CP-SB-A-05 | Earth in Environmental Crisis | [CP-SB-A-05-Earth-In-Environmental-Crisis.md](CP-SB-A-Environment-Sustainability/CP-SB-A-05-Earth-In-Environmental-Crisis.md) | 10 Pages |
+| 05 | CP-SB-A-05 | Earth Environmental Protection & Care | [CP-SB-A-05-Earth-In-Environmental-Crisis.md](CP-SB-A-Environment-Sustainability/CP-SB-A-05-Earth-In-Environmental-Crisis.md) | 10 Pages |
 
 ---
 

@@ -60,7 +60,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **IoT Sensors & Drones:**<br>Track real-time soil moisture, crop stress, and weather parameters. | **Vertical & Hydroponic Farms:**<br>Grow crops indoors without soil using nutrient-recirculating water. | **Automated Drip Systems:**<br>Deliver exact water and nutrient doses directly to plant roots. |
+| **IoT Sensors & Drones:**<br>Track real-time soil moisture, crop health parameters, and weather parameters. | **Vertical & Hydroponic Farms:**<br>Grow crops indoors without soil using nutrient-recirculating water. | **Automated Drip Systems:**<br>Deliver exact water and nutrient doses directly to plant roots. |
 
 **Visual Note:** Three smart tech cards in vibrant teal and steel green with drone/sensor icons.  
 

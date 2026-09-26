@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| **Understanding Forest Depletion:**<br>Worldwide forest coverage is shrinking due to intensive industrial timber harvesting, agricultural expansion, infrastructure encroachment, mining activities, and unsustainable land development.<br><br>**Our Mission:** Mobilizing local and international alliances to safeguard remaining primary forests and rejuvenate damaged woodlands. |
+| **Understanding Forest Renewal:**<br>Worldwide forest coverage is shrinking due to intensive industrial timber harvesting, agricultural expansion, infrastructure encroachment, mining activities, and unsustainable land development.<br><br>**Our Mission:** Mobilizing local and international alliances to safeguard remaining primary forests and rejuvenate damaged woodlands. |
 
 **Visual Note:** Single column card on a soft moss green background with clean typography and forest icon.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Atmosphere Purification:**<br>Canopies filter gaseous air toxins while generating oxygen for terrestrial life. | **2. Soil & Watershed Protection:**<br>Root networks anchor topsoil layers, mitigating severe erosion and slope failure. | **3. Food Web Foundations:**<br>Forests supply complex micro-habitats that sustain diverse animal and plant populations. |
+| **1. Atmosphere Purification:**<br>Canopies filter gaseous air impurities while generating oxygen for terrestrial life. | **2. Soil & Watershed Protection:**<br>Root networks anchor topsoil layers, mitigating soil erosion and slope failure. | **3. Food Web Foundations:**<br>Forests supply complex micro-habitats that sustain diverse animal and plant populations. |
 
 **Visual Note:** Three clean vertical columns in dark green, olive, and warm cream.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Enforce Sustainable Standards:**<br>Implement strict certification for commercial timber and penalize illegal logging trade. | **2. Partner with Indigenous Leaders:**<br>Empower indigenous communities as primary custodians of protected wilderness areas. |
+| **1. Enforce Sustainable Standards:**<br>Implement strict certification for commercial timber and support certified timber trade. | **2. Partner with Indigenous Leaders:**<br>Empower indigenous communities as primary custodians of protected wilderness areas. |
 
 **Visual Note:** Clean split closing slide focusing on policy enforcement and community leadership.  
 

@@ -113,7 +113,7 @@
 **Judul Halaman:** Eliminating Household Sorting Errors  
 **Jumlah Kolom:** 2  
 
-| Kolom 1 (Tangler Hazard) | Kolom 2 (Mixed Materials) |
+| Kolom 1 (Tangler Environmental Factor) | Kolom 2 (Mixed Materials) |
 |--------------------------|---------------------------|
 | **No Hoses, Cords, or Bags:**<br>Flexible items wrap around sorting gears, causing dangerous equipment shutdowns. | **Separate Bottle Caps:**<br>Remove metal caps from glass bottles so different materials process correctly. |
 

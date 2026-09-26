@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Utilizing natural, non:**<br>Toxic materials like reclaimed wood bamboo and linen. | **Low:**<br>VOC paints improve indoor air quality and protect. | **Environmental Protection:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements. |
+| **Utilizing natural, non:**<br>synthetic materials like reclaimed wood bamboo and linen. | **Low:**<br>VOC paints improve indoor air quality and protect. | **Environmental Protection:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements. |
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 

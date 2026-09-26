@@ -59,7 +59,7 @@
 
 | Kolom 1 (Biological Nutrients) | Kolom 2 (Technical Nutrients) |
 |---------------------------------|--------------------------------|
-| **Biodegradable Materials:**<br>Organic textiles, natural fibers, and bioplastics designed to safely decompose into soil nutrients. | **Synthetic & Metal Materials:**<br>Metals, polymers, and glass designed for continuous high-grade industrial recycling without degradation. |
+| **Biodegradable Materials:**<br>Organic textiles, natural fibers, and bioplastics designed to safely decompose into soil nutrients. | **Synthetic & Metal Materials:**<br>Metals, polymers, and glass designed for continuous high-grade industrial recycling without transformation. |
 
 **Visual Note:** Two contrasting material category cards with organic leaf vs gear icons.  
 
@@ -87,7 +87,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Non-Toxic Material Selection:**<br>Eliminate heavy metals, toxic Dyes, and volatile organic compounds in design. | **2. Design for Disassembly:**<br>Engineer products with modular snap joints for easy end-of-life component separation. | **3. Extended Take-Back Systems:**<br>Establish consumer take-back programs to retrieve post-use items. |
+| **1. Non-synthetic Material Selection:**<br>Eliminate heavy metals, synthetic dyes, and volatile organic compounds in design. | **2. Design for Disassembly:**<br>Engineer products with modular snap joints for easy end-of-life component separation. | **3. Extended Take-Back Systems:**<br>Establish consumer take-back programs to retrieve post-use items. |
 
 **Visual Note:** Three step cards styled with clear step numbers and teal accent borders.  
 

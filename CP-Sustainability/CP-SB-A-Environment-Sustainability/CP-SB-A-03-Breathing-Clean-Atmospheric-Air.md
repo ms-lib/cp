@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| **Atmospheric Degradation:**<br>Air pollution occurs when toxic gases, fine particulates, and chemical aerosols accumulate in the lower atmosphere, compromising human respiratory health and disturbing ecological stability.<br><br>**Core Objective:** Inspiring collective action to eliminate emission sources and guarantee clean air for all. |
+| **Atmospheric Air Quality:**<br>Air pollution occurs when industrial gases, fine particulates, and chemical aerosols accumulate in the lower atmosphere, compromising human respiratory health and disturbing ecological stability.<br><br>**Core Objective:** Inspiring collective action to eliminate emission sources and guarantee clean air for all. |
 
 **Visual Note:** Single prominent card with soft sky blue background and clean text layout.  
 
@@ -56,12 +56,12 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Identifying Harmful Air Pollutants  
+**Judul Halaman:** Identifying Major Air Quality Compounds  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Nitrogen Dioxide (NO₂):**<br>Respiratory irritant from vehicle combustion. | **Carbon Monoxide (CO):**<br>Odorless toxic gas reducing blood oxygen transport. | **Fine Particulates (PM2.5):**<br>Micro-particles penetrating deep into lung tissue. | **Ground-Level Ozone (O₃):**<br>Corrosive component of urban summer smog. |
+| **Nitrogen Dioxide (NO₂):**<br>Respiratory irritant from vehicle combustion. | **Carbon Monoxide (CO):**<br>Odorless industrial gas reducing blood oxygen transport. | **Fine Particulates (PM2.5):**<br>Micro-particles penetrating deep into lung tissue. | **Ground-Level Ozone (O₃):**<br>reactive component of urban summer ambient haze. |
 
 **Visual Note:** Four pollutant identification cards styled with distinct colored indicators.  
 
@@ -70,12 +70,12 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Human Atmospheric Health Hazards  
+**Judul Halaman:** Human Atmospheric Health Environmental Factors  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Acute Short-Term Impacts:**<br>Airway inflammation, persistent coughing, eye irritation, and sudden asthma attacks during smog peaks. | **Chronic Long-Term Conditions:**<br>Prolonged exposure accelerates chronic obstructive pulmonary disease, heart conditions, and reduced lung capacity. |
+| **Acute Short-Term Impacts:**<br>Airway inflammation, persistent coughing, eye irritation, and temporary airway sensitivity during ambient haze peaks. | **Chronic Long-Term Conditions:**<br>Prolonged exposure accelerates chronic obstructive pulmonary health condition, heart conditions, and reduced lung capacity. |
 
 **Visual Note:** Two health impact cards with medical cross and respiratory vector icons.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Acid Rain Damage:**<br>Sulfur deposition damaging soil & forests. | **Smog Haze Barriers:**<br>Haze blocking sunlight for plant photosynthesis. | **Aquatic Toxins:**<br>Airborne heavy metals settling into lakes. | **Wildlife Inhalation:**<br>Animals suffering respiratory damage. |
+| **Acid Rain Interactions:**<br>Sulfur deposition interacting with soil & forests. | **Atmospheric Haze Factors:**<br>Haze blocking sunlight for plant photosynthesis. | **Aquatic unfiltered particles:**<br>Airborne heavy metals settling into lakes. | **Wildlife Inhalation:**<br>Animals suffering respiratory damage. |
 
 **Visual Note:** Four environmental damage cards styled with earth and water accents.  
 
