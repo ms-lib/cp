@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>CSRD Corporate Sustainability Reporting Directive Mandatory double materiality reporting. | **Resource Optimization:**<br>ISSB International Sustainability Standards Board Baseline global climate metrics. | **GRI (Global Reporting Initiative):**<br>Comprehensive impact disclosure across stakeholders for sustainable urban. |
+| **Csrd Corporate Sustainability:**<br>CSRD Corporate Sustainability Reporting Directive Mandatory double materiality reporting.| **Issb International Sustainability:**<br>ISSB International Sustainability Standards Board Baseline global climate metrics.| **GRI (Global Reporting Initiative):**<br>Comprehensive impact disclosure across stakeholders for sustainable urban. |
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Standardizing global ESG reporting across 45 international business subsidiaries. | **Project Leaders:**<br>Adeline Palmerston Drew Feig for sustainable urban community. | **Data Analytics Team:**<br>Jamie Chastain Olivia Wilson Alfredo Torres for sustainable. |
+| **Standardizing Global Esg:**<br>Standardizing global ESG reporting across 45 international business subsidiaries.| **Project Leaders:**<br>Adeline Palmerston Drew Feig for sustainable urban community. | **Data Analytics Team:**<br>Jamie Chastain Olivia Wilson Alfredo Torres for sustainable. |
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Cloud:**<br>Based ESG software platforms consolidating data from hundreds. | **Governance Roadmap:**<br>Artificial intelligence algorithms detecting anomalous energy readings across factories. |
+| **Cloud:**<br>Based ESG software platforms consolidating data from hundreds. | **Artificial Intelligence Algorithms:**<br>Artificial intelligence algorithms detecting anomalous energy readings across factories.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

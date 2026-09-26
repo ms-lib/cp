@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Designing products for easy disassembly modular repair and. | **Utilizing non:**<br>synthetic bio-based or 100 recycled input materials in manufacturing. | **Environmental Protection:**<br>Standardizing component parts across product lines to simplify refurbishment. |
+| **Designing Products Easy:**<br>Designing products for easy disassembly modular repair and.| **Utilizing non:**<br>synthetic bio-based or 100 recycled input materials in manufacturing. | **Standardizing Component Parts:**<br>Standardizing component parts across product lines to simplify refurbishment.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Establishing corporate trade:**<br>In programs for legacy electronic equipment for sustainable. | **Infrastructure Resilience:**<br>Building reverse logistics networks to collect end-of-life products efficiently. |
+| **Establishing corporate trade:**<br>In programs for legacy electronic equipment for sustainable. | **Building Reverse Logistics:**<br>Building reverse logistics networks to collect end-of-life products efficiently.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Execution Results:**<br>Implementing a circular hardware lease model across enterprise. | **Executive Sponsor:**<br>Aaron Loeb for sustainable urban community growth. |
+| **Implementing Circular Hardware:**<br>Implementing a circular hardware lease model across enterprise.| **Executive Sponsor:**<br>Aaron Loeb for sustainable urban community growth. |
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Partnering across industry sectors to utilize one factory's. | **Process Optimization:**<br>Exchanging industrial waste heat wastewater and byproduct chemicals locally. | **Eco:**<br>Industrial parks optimized for shared utility infrastructure and. |
+| **Partnering Industry Sectors:**<br>Partnering across industry sectors to utilize one factory's.| **Exchanging Industrial Waste:**<br>Exchanging industrial waste heat wastewater and byproduct chemicals locally.| **Industrial Parks Optimized:**<br>Industrial parks optimized for shared utility infrastructure and.|
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>ESG investors award higher valuation multiples to companies. | **Financial Incentive:**<br>Lowering commodity price volatility risk reduces corporate cost. | **Public Partnership:**<br>Extended product lifespans generate recurring subscription revenue models. | **Accounting Innovation:**<br>Capitalizing retained product assets on corporate balance sheets. |
+| **Esg Investors Award:**<br>ESG investors award higher valuation multiples to companies.| **Lowering Commodity Price:**<br>Lowering commodity price volatility risk reduces corporate cost.| **Extended Product Lifespans:**<br>Extended product lifespans generate recurring subscription revenue models.| **Accounting Innovation:**<br>Capitalizing retained product assets on corporate balance sheets. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Preparing for Extended Producer Responsibility EPR legislation across. | **Governance Roadmap:**<br>Complying with digital product passport regulations tracking material provenance. |
+| **Preparing Extended Producer:**<br>Preparing for Extended Producer Responsibility EPR legislation across.| **Complying Digital Product:**<br>Complying with digital product passport regulations tracking material provenance.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

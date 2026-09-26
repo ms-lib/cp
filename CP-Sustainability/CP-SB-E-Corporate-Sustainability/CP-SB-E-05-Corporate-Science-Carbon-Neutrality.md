@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Retrofitting commercial facilities with high-efficiency LED HVAC and. | **Resource Optimization:**<br>Transitioning industrial thermal heating processes from fossil fuels. | **Executing long:**<br>Term Power Purchase Agreements PPAs with regional solar. |
+| **Retrofitting Commercial Facilities:**<br>Retrofitting commercial facilities with high-efficiency LED HVAC and.| **Transitioning Industrial Thermal:**<br>Transitioning industrial thermal heating processes from fossil fuels.| **Executing long:**<br>Term Power Purchase Agreements PPAs with regional solar. |
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Operational Efficiency:**<br>Replacing internal combustion vehicle fleets with electric and. | **Eliminating high:**<br>Global-warming-potential industrial refrigerants from cooling systems for sustainable. |
+| **Replacing Internal Combustion:**<br>Replacing internal combustion vehicle fleets with electric and.| **Eliminating high:**<br>Global-warming-potential industrial refrigerants from cooling systems for sustainable. |
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Engaging top 100 suppliers to adopt 100 renewable. | **Process Optimization:**<br>Redesigning products to reduce energy consumption during consumer. | **Community Value:**<br>Optimizing global shipping logistics to transition freight from. |
+| **Engaging Top 100:**<br>Engaging top 100 suppliers to adopt 100 renewable.| **Redesigning Products Reduce:**<br>Redesigning products to reduce energy consumption during consumer.| **Optimizing Global Shipping:**<br>Optimizing global shipping logistics to transition freight from.|
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Residual emissions under 10 neutralized exclusively through high-integrity. | **Financial Incentive:**<br>Direct Air Capture DAC and permanent geological carbon. | **High:**<br>Quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Avoided Pitfalls:**<br>Rejecting unverified low-quality carbon offset credits for sustainable. |
+| **Residual Emissions 10:**<br>Residual emissions under 10 neutralized exclusively through high-integrity.| **Direct Air Capture:**<br>Direct Air Capture DAC and permanent geological carbon.| **High:**<br>Quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Avoided Pitfalls:**<br>Rejecting unverified low-quality carbon offset credits for sustainable. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Internal climate academy educating staff on corporate net-zero. | **Governance Roadmap:**<br>Departmental carbon budgets tracking team emissions performance quarterly. |
+| **Internal Climate Academy:**<br>Internal climate academy educating staff on corporate net-zero.| **Departmental Carbon Budgets:**<br>Departmental carbon budgets tracking team emissions performance quarterly.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Adequate daily water intake is essential for cellular. | **Resource Optimization:**<br>Proper hydration improves physical endurance skin health and. | **Environmental Protection:**<br>Chronic mild dehydration leads to fatigue headaches and. |
+| **Adequate Daily Water:**<br>Adequate daily water intake is essential for cellular.| **Proper Hydration Improves:**<br>Proper hydration improves physical endurance skin health and.| **Chronic Mild Dehydration:**<br>Chronic mild dehydration leads to fatigue headaches and.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Installing multi:**<br>Stage reverse osmosis or active carbon filters on. | **Infrastructure Resilience:**<br>Countertop filtration pitchers provide accessible clean water without. |
+| **Installing multi:**<br>Stage reverse osmosis or active carbon filters on. | **Countertop Filtration Pitchers:**<br>Countertop filtration pitchers provide accessible clean water without.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Eliminating single:**<br>Use plastic bottles across a 500-employee corporate office. | **Program Director:**<br>Helene Paquet for sustainable urban community growth. |
+| **Eliminating single:**<br>Use plastic bottles across a 500-employee corporate office. | **Sustainable Community Strategy 3:**<br>Helene Paquet for sustainable urban community growth.|
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Food:**<br>Grade stainless steel bottles keep water cold for. | **Process Optimization:**<br>Borosilicate glass containers offer pure taste and easy. | **BPA:**<br>Free lightweight durable silicone bottles ideal for outdoor. |
+| **Food:**<br>Grade stainless steel bottles keep water cold for. | **Borosilicate Glass Containers:**<br>Borosilicate glass containers offer pure taste and easy.| **BPA:**<br>Free lightweight durable silicone bottles ideal for outdoor. |
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Municipal installation of modern refillable water stations in. | **Financial Incentive:**<br>Touchless sensor refilling taps reduce germ transmission in. | **Public Partnership:**<br>Mobile phone apps mapping nearby free public drinking. | **Equity:**<br>Ensuring free access to clean drinking water for. |
+| **Municipal Installation Modern:**<br>Municipal installation of modern refillable water stations in.| **Touchless Sensor Refilling:**<br>Touchless sensor refilling taps reduce germ transmission in.| **Mobile Phone Apps:**<br>Mobile phone apps mapping nearby free public drinking.| **Equity:**<br>Ensuring free access to clean drinking water for. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Teaching school children about the hydrologic cycle and. | **Governance Roadmap:**<br>Distributing stainless steel water bottles to elementary students. |
+| **Teaching School Children:**<br>Teaching school children about the hydrologic cycle and.| **Distributing Stainless Steel:**<br>Distributing stainless steel water bottles to elementary students.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

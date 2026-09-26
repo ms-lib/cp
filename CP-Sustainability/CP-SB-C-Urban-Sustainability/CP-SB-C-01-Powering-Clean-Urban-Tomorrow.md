@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Grid modernization requires real:**<br>Time battery energy storage systems BESS for sustainable. | **Resource Optimization:**<br>Commercial skyscrapers can act as localized solar power. | **Grid Stability:**<br>Utilizing AI algorithms to predict solar and wind intermittency. |
+| **Grid modernization requires real:**<br>Time battery energy storage systems BESS for sustainable. | **Commercial Skyscrapers Act:**<br>Commercial skyscrapers can act as localized solar power.| **Grid Stability:**<br>Utilizing AI algorithms to predict solar and wind intermittency. |
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Operational Efficiency:**<br>Traditional centralized HVAC units emit significant thermal waste. | **Infrastructure Resilience:**<br>Centralized district cooling plants leverage high-efficiency water chillers. |
+| **Traditional Centralized Hvac:**<br>Traditional centralized HVAC units emit significant thermal waste.| **Centralized District Cooling:**<br>Centralized district cooling plants leverage high-efficiency water chillers.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Metropolis Solar Initiative:**<br>Installing 100 MW solar capacity on civic buildings. | **Project Director:**<br>Alexander Aronowitz for sustainable urban community growth. |
+| **Metropolis Solar Initiative:**<br>Installing 100 MW solar capacity on civic buildings. | **Sustainable Urban Community:**<br>Alexander Aronowitz for sustainable urban community growth.|
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Renewable energy portfolio standards for commercial property developers. | **Financial Incentive:**<br>Tax credits and expedited building permits for net-zero. | **Public-Private Partnerships:**<br>Attracting private venture capital into municipal clean tech. | **Feed:**<br>In tariffs for residential solar producers feeding excess. |
+| **Renewable Energy Portfolio:**<br>Renewable energy portfolio standards for commercial property developers.| **Tax Credits Expedited:**<br>Tax credits and expedited building permits for net-zero.| **Public-Private Partnerships:**<br>Attracting private venture capital into municipal clean tech. | **Feed:**<br>In tariffs for residential solar producers feeding excess. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Low:**<br>Income neighborhood solar programs ensure equitable clean energy distribution. | **Governance Roadmap:**<br>Community solar gardens allow renters to subscribe to. |
+| **Income Neighborhood Solar:**<br>Income neighborhood solar programs ensure equitable clean energy distribution.| **Community Solar Gardens:**<br>Community solar gardens allow renters to subscribe to.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

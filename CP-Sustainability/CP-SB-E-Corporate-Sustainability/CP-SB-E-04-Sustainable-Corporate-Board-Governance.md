@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Forming dedicated Board Sustainability Climate Oversight Committees. | **Resource Optimization:**<br>Defining clear committee charters for monitoring corporate ESG. | **Environmental Protection:**<br>Recruiting independent directors with deep expertise in environmental. |
+| **Forming Dedicated Board:**<br>Forming dedicated Board Sustainability Climate Oversight Committees.| **Defining Clear Committee:**<br>Defining clear committee charters for monitoring corporate ESG.| **Recruiting Independent Directors:**<br>Recruiting independent directors with deep expertise in environmental.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Tying executive bonuses and long:**<br>Term incentives LTIP to ESG goal achievement. | **Infrastructure Resilience:**<br>Mandating specific carbon reduction milestones for Chief Executive. |
+| **Tying executive bonuses and long:**<br>Term incentives LTIP to ESG goal achievement. | **Mandating Specific Carbon:**<br>Mandating specific carbon reduction milestones for Chief Executive.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Execution Results:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate. | **Governance Lead:**<br>Chad Gibbons for sustainable urban community growth. |
+| **Restructuring Board Oversight:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate.| **Governance Lead:**<br>Chad Gibbons for sustainable urban community growth. |
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Conducting TCFD:**<br>Aligned climate scenario evaluations 1 5 C vs. | **Process Optimization:**<br>Assessing physical risk impact on corporate manufacturing assets. | **Evaluating transition risks:**<br>Carbon taxes shifting technology and changing consumer tastes. |
+| **Conducting TCFD:**<br>Aligned climate scenario evaluations 1 5 C vs. | **Assessing Physical Risk:**<br>Assessing physical risk impact on corporate manufacturing assets.| **Evaluating transition risks:**<br>Carbon taxes shifting technology and changing consumer tastes. |
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Proactive board dialogue with institutional investors regarding climate. | **Financial Incentive:**<br>Constructive engagement on shareholder resolutions regarding environmental disclosure. | **Public Partnership:**<br>Transparent reporting on corporate lobbying activities to ensure. | **Trust Building:**<br>Direct meetings between independent directors and key ESG. |
+| **Proactive Board Dialogue:**<br>Proactive board dialogue with institutional investors regarding climate.| **Constructive Engagement Shareholder:**<br>Constructive engagement on shareholder resolutions regarding environmental disclosure.| **Transparent Reporting Corporate:**<br>Transparent reporting on corporate lobbying activities to ensure.| **Trust Building:**<br>Direct meetings between independent directors and key ESG. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Increasing board gender racial and international diversity to. | **Governance Roadmap:**<br>Diverse board perspectives prevent groupthink during strategic climate. |
+| **Increasing Board Gender:**<br>Increasing board gender racial and international diversity to.| **Diverse Board Perspectives:**<br>Diverse board perspectives prevent groupthink during strategic climate.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

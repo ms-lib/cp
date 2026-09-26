@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment. | **Resource Optimization:**<br>Reverse osmosis desalination supplies reliable drinking water to. | **Environmental Protection:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-pollutants. |
+| **Membrane Bioreactor Systems:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment.| **Reverse Osmosis Desalination:**<br>Reverse osmosis desalination supplies reliable drinking water to.| **Advanced Oxidation Processes:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-pollutants.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Large:**<br>Scale urban cisterns collect stormwater runoff from industrial. | **Infrastructure Resilience:**<br>Managed aquifer recharge injects treated water into underground. |
+| **Large:**<br>Scale urban cisterns collect stormwater runoff from industrial. | **Managed Aquifer Recharge:**<br>Managed aquifer recharge injects treated water into underground.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Implementation of city:**<br>Wide recycled water network for industrial cooling. | **Project Director:**<br>Cahaya Dewi for sustainable urban community growth. |
+| **Implementation of city:**<br>Wide recycled water network for industrial cooling. | **Sustainable Community Strategy 2:**<br>Cahaya Dewi for sustainable urban community growth.|
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Acoustic IoT sensors detect subterranean pipe leaks before. | **Smart digital meters provide real:**<br>Time water consumption feedback to residents for sustainable. | **Community Value:**<br>Dynamic pricing models encourage water conservation during extreme. |
+| **Acoustic Iot Sensors:**<br>Acoustic IoT sensors detect subterranean pipe leaks before.| **Smart digital meters provide real:**<br>Time water consumption feedback to residents for sustainable. | **Dynamic Pricing Models:**<br>Dynamic pricing models encourage water conservation during extreme.|
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Mandating closed:**<br>Loop water treatment systems for high-water commercial users. | **Financial Incentive:**<br>Greywater reuse systems flush commercial office building toilets. | **Public Partnership:**<br>Financial incentives for factories adopting zero-liquid-discharge ZLD technologies. | **Conservation Impact:**<br>Saving millions of gallons of drinking water daily. |
+| **Mandating closed:**<br>Loop water treatment systems for high-water commercial users. | **Greywater Reuse Systems:**<br>Greywater reuse systems flush commercial office building toilets.| **Financial Incentives Factories:**<br>Financial incentives for factories adopting zero-liquid-discharge ZLD technologies.| **Conservation Impact:**<br>Saving millions of gallons of drinking water daily. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>School curriculum modules teaching urban children water conservation habits. | **Public campaigns promoting drought:**<br>Tolerant landscaping and xeriscaping practices for sustainable urban. |
+| **School Curriculum Modules:**<br>School curriculum modules teaching urban children water conservation habits.| **Public campaigns promoting drought:**<br>Tolerant landscaping and xeriscaping practices for sustainable urban. |
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

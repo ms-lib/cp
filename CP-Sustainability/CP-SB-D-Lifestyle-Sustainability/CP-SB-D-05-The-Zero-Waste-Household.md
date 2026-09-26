@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Replacing disposable paper towels with washable organic cloth rags. | **Buying package:**<br>Free grains spices and oils at local bulk. | **Environmental Protection:**<br>Storing leftover food in glass containers or reusable. |
+| **Replacing Disposable Paper:**<br>Replacing disposable paper towels with washable organic cloth rags.| **Free Grains Spices:**<br>Free grains spices and oils at local bulk.| **Storing Leftover Food:**<br>Storing leftover food in glass containers or reusable.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Operational Efficiency:**<br>Switching from liquid soap in plastic bottles to. | **Infrastructure Resilience:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives. |
+| **Switching Liquid Soap:**<br>Switching from liquid soap in plastic bottles to.| **Replacing Plastic Toothbrushes:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Execution Results:**<br>A suburban family transitioning from 3 trash bags. | **Lead Coach:**<br>Claudia Alves for sustainable urban community growth. |
+| **Suburban Family Transitioning:**<br>A suburban family transitioning from 3 trash bags.| **Lead Coach:**<br>Claudia Alves for sustainable urban community growth. |
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Bringing reusable cotton mesh bags for fresh fruits. | **Tare:**<br>Weighing glass jars at bulk stores before filling. | **Community Value:**<br>Choosing glass aluminum or cardboard packaging over non-recyclable. |
+| **Bringing Reusable Cotton:**<br>Bringing reusable cotton mesh bags for fresh fruits.| **Tare:**<br>Weighing glass jars at bulk stores before filling. | **Choosing Glass Aluminum:**<br>Choosing glass aluminum or cardboard packaging over non-recyclable.|
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Using natural laundry detergent sheets or refillable liquid. | **Financial Incentive:**<br>Drying clothes naturally on outdoor clotheslines or indoor. | **Public Partnership:**<br>Wool dryer balls replace synthetic single-use dryer sheets. | **DIY Cleaners:**<br>Vinegar baking soda and lemon juice clean 90. |
+| **Natural Laundry Detergent:**<br>Using natural laundry detergent sheets or refillable liquid.| **Drying Clothes Naturally:**<br>Drying clothes naturally on outdoor clotheslines or indoor.| **Wool Dryer Balls:**<br>Wool dryer balls replace synthetic single-use dryer sheets.| **DIY Cleaners:**<br>Vinegar baking soda and lemon juice clean 90. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Navigating convenience culture when traveling or dining out. | **Governance Roadmap:**<br>Managing packaging waste when receiving mandatory prescription medications. |
+| **Navigating Convenience Culture:**<br>Navigating convenience culture when traveling or dining out.| **Managing Packaging Waste:**<br>Managing packaging waste when receiving mandatory prescription medications.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Utilizing specialized plants to extract and neutralize soil. | **Resource Optimization:**<br>Sunflowers and willows absorb heavy metals like lead. | **Environmental Protection:**<br>Soil microbes break down complex organic pollutants into. |
+| **Utilizing Specialized Plants:**<br>Utilizing specialized plants to extract and neutralize soil.| **Sunflowers Willows Absorb:**<br>Sunflowers and willows absorb heavy metals like lead.| **Soil Microbes Break:**<br>Soil microbes break down complex organic pollutants into.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Operational Efficiency:**<br>Transforming disused railway lines and factory sites into. | **Designing multi:**<br>Functional spaces that blend recreation with native plant reserves. |
+| **Transforming Disused Railway:**<br>Transforming disused railway lines and factory sites into.| **Designing multi:**<br>Functional spaces that blend recreation with native plant reserves. |
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Transformation of a 50:**<br>Acre abandoned shipyard into a public eco-park. | **Eco:**<br>Project Manager Connor Hamilton for sustainable urban community. |
+| **Transformation of a 50:**<br>Acre abandoned shipyard into a public eco-park. | **Project Manager Sustainable:**<br>Project Manager Connor Hamilton for sustainable urban community.|
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Planting diverse native tree species across former industrial. | **Establishing micro:**<br>Forests using dense reforestation techniques in small spaces. | **Community Value:**<br>Tree canopy coverage reduces heat island temperatures by. |
+| **Planting Diverse Native:**<br>Planting diverse native tree species across former industrial.| **Establishing micro:**<br>Forests using dense reforestation techniques in small spaces. | **Tree Canopy Coverage:**<br>Tree canopy coverage reduces heat island temperatures by.|
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Enriching degraded urban soils with organic compost and. | **Financial Incentive:**<br>Biochar enhances soil water retention and locks carbon. | **Public Partnership:**<br>Aerating compacted soils enables deep root growth for. | **Nutrient Cycling:**<br>Diverting municipal yard waste into high-quality soil compost. |
+| **Enriching Degraded Urban:**<br>Enriching degraded urban soils with organic compost and.| **Biochar Enhances Soil:**<br>Biochar enhances soil water retention and locks carbon.| **Aerating Compacted Soils:**<br>Aerating compacted soils enables deep root growth for.| **Nutrient Cycling:**<br>Diverting municipal yard waste into high-quality soil compost. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Municipal tax credits for private developers remediating contaminated land. | **Governance Roadmap:**<br>Liability protection programs for non-profit groups taking over. |
+| **Municipal Tax Credits:**<br>Municipal tax credits for private developers remediating contaminated land.| **Liability Protection Programs:**<br>Liability protection programs for non-profit groups taking over.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

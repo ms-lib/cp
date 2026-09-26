@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Direct emissions (Scope 1):**<br>Fuel burned in personal cars and home natural. | **Resource Optimization:**<br>Indirect energy emissions Scope 2 Electricity consumed from. | **Supply chain emissions (Scope 3):**<br>Embedded carbon in purchased goods and food. |
+| **Direct emissions (Scope 1):**<br>Fuel burned in personal cars and home natural. | **Indirect Energy Emissions:**<br>Indirect energy emissions Scope 2 Electricity consumed from.| **Supply chain emissions (Scope 3):**<br>Embedded carbon in purchased goods and food. |
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Operational Efficiency:**<br>Switching home electricity contracts to 100 renewable energy providers. | **Infrastructure Resilience:**<br>Retrofitting home insulation and upgrading to high-efficiency heat pumps. |
+| **Switching Home Electricity:**<br>Switching home electricity contracts to 100 renewable energy providers.| **Retrofitting Home Insulation:**<br>Retrofitting home insulation and upgrading to high-efficiency heat pumps.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Execution Results:**<br>A family of four tracking and reducing their. | **Lead Advisor:**<br>Francisco Andrade for sustainable urban community growth. |
+| **Family Four Tracking:**<br>A family of four tracking and reducing their.| **Lead Advisor:**<br>Francisco Andrade for sustainable urban community growth. |
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Commercial aviation represents a high proportion of frequent. | **Choosing rail travel over short:**<br>Haul domestic flights dramatically lowers travel impact. | **Embracing eco:**<br>Tourism destinations that invest in local ecosystem conservation. |
+| **Commercial Aviation Represents:**<br>Commercial aviation represents a high proportion of frequent.| **Choosing rail travel over short:**<br>Haul domestic flights dramatically lowers travel impact. | **Embracing eco:**<br>Tourism destinations that invest in local ecosystem conservation. |
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Fast fashion industry creates significant water pollution and. | **Financial Incentive:**<br>Building a capsule wardrobe of timeless high-quality sustainably. | **Public Partnership:**<br>Buying secondhand vintage clothing and participating in garment. | **Garment Care:**<br>Washing clothes in cold water and line-drying saves energy. |
+| **Fast Fashion Industry:**<br>Fast fashion industry creates significant water pollution and.| **Building Capsule Wardrobe:**<br>Building a capsule wardrobe of timeless high-quality sustainably.| **Buying Secondhand Vintage:**<br>Buying secondhand vintage clothing and participating in garment.| **Garment Care:**<br>Washing clothes in cold water and line-drying saves energy. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors. | **Governance Roadmap:**<br>Advocating for municipal bike lanes and public transit. |
+| **Sharing Personal Footprint:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors.| **Advocating Municipal Bike:**<br>Advocating for municipal bike lanes and public transit.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Connected IoT sensors monitor air quality traffic flow. | **Resource Optimization:**<br>Intelligent street lighting dims automatically when no pedestrians. | **Environmental Protection:**<br>Smart waste management bins notify collection crews when. |
+| **Connected Iot Sensors:**<br>Connected IoT sensors monitor air quality traffic flow.| **Intelligent Street Lighting:**<br>Intelligent street lighting dims automatically when no pedestrians.| **Smart Waste Management:**<br>Smart waste management bins notify collection crews when.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Operational Efficiency:**<br>Integrating living plants onto building facades reduces interior. | **Infrastructure Resilience:**<br>Vertical gardens absorb urban carbon dioxide and release. |
+| **Integrating Living Plants:**<br>Integrating living plants onto building facades reduces interior.| **Vertical Gardens Absorb:**<br>Vertical gardens absorb urban carbon dioxide and release.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Execution Results:**<br>Revitalizing former industrial zones into zero-emission mixed-use communities. | **Planning Director:**<br>Bartholomew Henderson for sustainable urban community growth. |
+| **Revitalizing Former Industrial:**<br>Revitalizing former industrial zones into zero-emission mixed-use communities.| **Planning Director:**<br>Bartholomew Henderson for sustainable urban community growth. |
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Permeable pavement surfaces allow rainwater to filter directly. | **Process Optimization:**<br>Smart stormwater monitoring prevents storm drain overflows during. | **Community Value:**<br>Rainwater collection cisterns supply greywater for city park. |
+| **Permeable Pavement Surfaces:**<br>Permeable pavement surfaces allow rainwater to filter directly.| **Smart Stormwater Monitoring:**<br>Smart stormwater monitoring prevents storm drain overflows during.| **Rainwater Collection Cisterns:**<br>Rainwater collection cisterns supply greywater for city park.|
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Prioritizing pedestrian walkways and dedicated protected cycling pathways. | **Integrating electric micro:**<br>Mobility charging docks near transit terminals for sustainable. | **Low:**<br>Emission zones restrict diesel delivery vehicles from city. | **Safety & Accessibility:**<br>Universal design standards for senior and disabled residents. |
+| **Prioritizing Pedestrian Walkways:**<br>Prioritizing pedestrian walkways and dedicated protected cycling pathways.| **Integrating electric micro:**<br>Mobility charging docks near transit terminals for sustainable. | **Emission Zones Restrict:**<br>Emission zones restrict diesel delivery vehicles from city.| **Safety & Accessibility:**<br>Universal design standards for senior and disabled residents. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Eco:**<br>Districts attract green technology businesses and creative professionals. | **Governance Roadmap:**<br>Affordable sustainable housing options prevent gentrification displacement. |
+| **Districts Attract Green:**<br>Districts attract green technology businesses and creative professionals.| **Affordable Sustainable Housing:**<br>Affordable sustainable housing options prevent gentrification displacement.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

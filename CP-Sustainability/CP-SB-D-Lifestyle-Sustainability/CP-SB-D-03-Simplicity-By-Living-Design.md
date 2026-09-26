@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Utilizing natural, non:**<br>synthetic materials like reclaimed wood bamboo and linen. | **Low:**<br>VOC paints improve indoor air quality and protect. | **Environmental Protection:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements. |
+| **Utilizing natural, non:**<br>synthetic materials like reclaimed wood bamboo and linen. | **Voc Paints Improve:**<br>VOC paints improve indoor air quality and protect.| **Maximizing Natural Daylight:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Operational Efficiency:**<br>Auditing personal possessions to eliminate redundant and non-essential items. | **Donating, re:**<br>Selling or recycling excess items to keep products. |
+| **Auditing Personal Possessions:**<br>Auditing personal possessions to eliminate redundant and non-essential items.| **Donating, re:**<br>Selling or recycling excess items to keep products. |
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Execution Results:**<br>Transforming a traditional urban home into a low-impact. | **Lead Design Consultant:**<br>Chidi Eze for sustainable urban community growth. |
+| **Transforming Traditional Urban:**<br>Transforming a traditional urban home into a low-impact.| **Lead Design Consultant:**<br>Chidi Eze for sustainable urban community growth. |
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Organizing kitchen pantries with glass jars to buy. | **Process Optimization:**<br>Cooking meal portions intentionally to eliminate domestic food. | **Community Value:**<br>Growing home herbs and microgreens on sunlit window. |
+| **Organizing Kitchen Pantries:**<br>Organizing kitchen pantries with glass jars to buy.| **Cooking Meal Portions:**<br>Cooking meal portions intentionally to eliminate domestic food.| **Growing Home Herbs:**<br>Growing home herbs and microgreens on sunlit window.|
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Developing simple daily routines like turning off lights. | **Financial Incentive:**<br>Taking shorter showers and utilizing water-saving showerhead attachments. | **Public Partnership:**<br>Unplugging phantom electronics load devices when not in. | **Smart Controls:**<br>Programmable thermostats adjust heating while residents sleep. |
+| **Developing Simple Daily:**<br>Developing simple daily routines like turning off lights.| **Taking Shorter Showers:**<br>Taking shorter showers and utilizing water-saving showerhead attachments.| **Unplugging Phantom Electronics:**<br>Unplugging phantom electronics load devices when not in.| **Smart Controls:**<br>Programmable thermostats adjust heating while residents sleep. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Making natural household cleaners using vinegar baking soda. | **Replacing single:**<br>Use paper towels with washable organic cotton cloths. |
+| **Natural Household Cleaners:**<br>Making natural household cleaners using vinegar baking soda.| **Replacing single:**<br>Use paper towels with washable organic cotton cloths. |
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

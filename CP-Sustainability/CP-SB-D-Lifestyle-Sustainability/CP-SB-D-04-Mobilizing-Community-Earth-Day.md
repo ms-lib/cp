@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Organizing neighborhood litter removal across local parks beaches. | **Resource Optimization:**<br>Providing volunteers with protective gloves trash pickers and. | **Sorting collected waste on:**<br>Site to separate recyclables from landfill trash. |
+| **Organizing Neighborhood Litter:**<br>Organizing neighborhood litter removal across local parks beaches.| **Providing Volunteers Protective:**<br>Providing volunteers with protective gloves trash pickers and.| **Sorting collected waste on:**<br>Site to separate recyclables from landfill trash. |
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Operational Efficiency:**<br>Partnering with city arborists to plant native trees. | **Infrastructure Resilience:**<br>Establishing wildflower pollinator gardens in public parkways and. |
+| **Partnering City Arborists:**<br>Partnering with city arborists to plant native trees.| **Establishing Wildflower Pollinator:**<br>Establishing wildflower pollinator gardens in public parkways and.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Hosting interactive workshops on home composting recycling and. | **Process Optimization:**<br>Repair Cafes where skilled volunteers fix broken household. | **Community Value:**<br>Sustainable cooking demonstrations promoting plant-based zero-waste recipes. |
+| **Hosting Interactive Workshops:**<br>Hosting interactive workshops on home composting recycling and.| **Repair Cafes Where:**<br>Repair Cafes where skilled volunteers fix broken household.| **Sustainable Cooking Demonstrations:**<br>Sustainable cooking demonstrations promoting plant-based zero-waste recipes.|
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Partnering with neighborhood shops to eliminate single-use plastic. | **Financial Incentive:**<br>Local restaurants offering special planet-friendly vegan lunch menus. | **Public Partnership:**<br>Corporate sponsorship for volunteer T-shirts tools and refreshments. | **Economic Synergy:**<br>Demonstrating that sustainability supports local small business growth. |
+| **Partnering Neighborhood Shops:**<br>Partnering with neighborhood shops to eliminate single-use plastic.| **Local Restaurants Offering:**<br>Local restaurants offering special planet-friendly vegan lunch menus.| **Corporate Sponsorship Volunteer:**<br>Corporate sponsorship for volunteer T-shirts tools and refreshments.| **Economic Synergy:**<br>Demonstrating that sustainability supports local small business growth. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Organizing community town hall meetings with municipal elected. | **Governance Roadmap:**<br>Presenting citizen petitions for expanded municipal bike lanes. |
+| **Organizing Community Town:**<br>Organizing community town hall meetings with municipal elected.| **Presenting Citizen Petitions:**<br>Presenting citizen petitions for expanded municipal bike lanes.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

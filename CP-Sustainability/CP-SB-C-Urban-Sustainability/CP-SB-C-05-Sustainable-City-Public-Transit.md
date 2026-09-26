@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Battery electric buses offer zero tailpipe emissions and. | **Resource Optimization:**<br>Hydrogen fuel cell buses provide long operating ranges. | **Fast:**<br>Charging depot infrastructure recharges electric buses during off-peak hours. |
+| **Battery Electric Buses:**<br>Battery electric buses offer zero tailpipe emissions and.| **Hydrogen Fuel Cell:**<br>Hydrogen fuel cell buses provide long operating ranges.| **Fast:**<br>Charging depot infrastructure recharges electric buses during off-peak hours. |
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -64,7 +64,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Operational Efficiency:**<br>Bus Rapid Transit BRT lanes deliver subway-like efficiency. | **Infrastructure Resilience:**<br>Modern light rail transit LRT systems powered by. |
+| **Bus Rapid Transit:**<br>Bus Rapid Transit BRT lanes deliver subway-like efficiency.| **Modern Light Rail:**<br>Modern light rail transit LRT systems powered by.|
 
 **Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Execution Results:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses. | **Project Lead:**<br>Drew Feig for sustainable urban community growth. |
+| **Transitioning 500 Municipal:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses.| **Project Lead:**<br>Drew Feig for sustainable urban community growth. |
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Technical Innovation:**<br>Shared electric bike and scooter docks placed seamlessly. | **Process Optimization:**<br>Protected cycling express lanes connect residential suburbs to. | **Community Value:**<br>Unified mobility mobile app integrates ticketing across buses. |
+| **Shared Electric Bike:**<br>Shared electric bike and scooter docks placed seamlessly.| **Protected Cycling Express:**<br>Protected cycling express lanes connect residential suburbs to.| **Unified Mobility Mobile:**<br>Unified mobility mobile app integrates ticketing across buses.|
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Low:**<br>Income fare assistance programs ensure transit remains affordable. | **Financial Incentive:**<br>Universal physical accessibility features on all electric buses. | **Extending late:**<br>Night transit service routes for shift workers and. | **Social Mobility:**<br>Connecting underserved neighborhoods to city employment centers. |
+| **Income Fare Assistance:**<br>Income fare assistance programs ensure transit remains affordable.| **Universal Physical Accessibility:**<br>Universal physical accessibility features on all electric buses.| **Extending late:**<br>Night transit service routes for shift workers and. | **Social Mobility:**<br>Connecting underserved neighborhoods to city employment centers. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Directive:**<br>Congestion pricing charges for private cars entering downtown. | **Governance Roadmap:**<br>Reinvesting toll revenue directly into expanding public transit operations. |
+| **Congestion Pricing Charges:**<br>Congestion pricing charges for private cars entering downtown.| **Reinvesting Toll Revenue:**<br>Reinvesting toll revenue directly into expanding public transit operations.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 

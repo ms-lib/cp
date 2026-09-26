@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **System Integration:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection. | **Requiring top:**<br>Tier suppliers to set verified science-based carbon reduction targets. | **Environmental Protection:**<br>Contractual clauses mandating fair labor practices and safe. |
+| **Mandatory Environmental Scorecards:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection.| **Requiring top:**<br>Tier suppliers to set verified science-based carbon reduction targets. | **Contractual Clauses Mandating:**<br>Contractual clauses mandating fair labor practices and safe.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
@@ -79,7 +79,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Execution Results:**<br>Decarbonizing supply chain operations across 200 primary component suppliers. | **Program Director:**<br>Benjamin Shah for sustainable urban community growth. |
+| **Decarbonizing Supply Chain:**<br>Decarbonizing supply chain operations across 200 primary component suppliers.| **Sustainable Community Strategy 4:**<br>Benjamin Shah for sustainable urban community growth.|
 
 **Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Policy Standard:**<br>Hosting annual corporate supplier sustainability summits and training webinars. | **Financial Incentive:**<br>Providing smaller vendors with free carbon accounting tools. | **Public Partnership:**<br>Investing with key suppliers in factory energy-efficiency retrofits. | **Partnership Culture:**<br>Collaborating with vendors as long-term transformation partners. |
+| **Hosting Annual Corporate:**<br>Hosting annual corporate supplier sustainability summits and training webinars.| **Providing Smaller Vendors:**<br>Providing smaller vendors with free carbon accounting tools.| **Investing Key Suppliers:**<br>Investing with key suppliers in factory energy-efficiency retrofits.| **Partnership Culture:**<br>Collaborating with vendors as long-term transformation partners. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
@@ -139,7 +139,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Specifying mandatory minimum post:**<br>Consumer recycled content in corporate purchase orders. | **Governance Roadmap:**<br>Requiring suppliers to take back industrial packaging materials. |
+| **Specifying mandatory minimum post:**<br>Consumer recycled content in corporate purchase orders. | **Requiring Suppliers Take:**<br>Requiring suppliers to take back industrial packaging materials.|
 
 **Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
