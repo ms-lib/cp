@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional presentation cover styled in deep regal blue & gold accent, executive governance layout. Clean typography and structured layout.  
+**Visual Note:** Elegant cover layout in deep regal blue & gold accent, executive governance layout with modern typography and spacious layout.  
 
 **Text:**
 - Title: Sustainable Corporate Board Governance
-- Subtitle: Board Governance & Strategic Action Plan
+- Subtitle: Board Governance & Action Plan
 - Presented By: Chad Gibbons
 - Presented To: Board Directors
 - Brand: Corporate Governance Advisory Board
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| **Core Issue & Context:**<br>Modern corporate fiduciary duty includes managing material climate risks and opportunities.<br>Boards face liability exposure for neglecting foreseeable environmental disruptions.<br>Activist investors demand climate expertise and independence on corporate boards.<br><br>**Strategic Objective:**<br>**Strategic Imperative**: Moving ESG from a marketing topic to core board risk oversight.<br>**Value Preservation**: Safeguarding enterprise capital against systemic climate shocks. |
+| Modern corporate fiduciary duty includes managing material climate risks and opportunities. Boards face liability exposure for neglecting foreseeable environmental disruptions.<br><br>Activist investors demand climate expertise and independence on corporate boards. Moving ESG from a marketing topic to core board risk oversight. |
 
-**Visual Note:** Prominent single-column card with clean typography and topic vector icon.  
+**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Forming dedicated Board Sustainability & Climate Oversight Committees.<br><br>**2. Insight:**<br>Defining clear committee charters for monitoring corporate ESG targets and risks. | **1. Insight:**<br>Recruiting independent directors with deep expertise in environmental science and energy.<br><br>**Quarterly Reviews**: Dedicated board agenda time for reviewing Scope 1-3 carbon data. | **Cross-Committee Alignment**: Coordinating with Audit and Risk committees regularly. |
+| **Key Focus 1:**<br>Forming dedicated Board Sustainability & Climate Oversight Committees. | **Key Focus 2:**<br>Defining clear committee charters for monitoring corporate ESG targets and risks. | **Key Focus 3:**<br>Recruiting independent directors with deep expertise in environmental science and energy. |
 
-**Visual Note:** Three vertical feature columns styled with subtle background cards and category icons.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Tying executive bonuses and long-term incentives (LTIP) to ESG goal achievement.<br><br>**2. Insight:**<br>Mandating specific carbon reduction milestones for Chief Executive Officer payouts.<br><br>**3. Insight:**<br>Metrics include employee safety rates, diversity targets, and circular material adoption. | **Accountability**: Penalizing executive leadership for major environmental compliance failures.<br><br>**Governance Best Practice**: Transparent proxy statement disclosure of ESG compensation ties. |
+| **Key Focus 1:**<br>Tying executive bonuses and long-term incentives (LTIP) to ESG goal achievement. | **Key Focus 2:**<br>Mandating specific carbon reduction milestones for Chief Executive Officer payouts. |
 
-**Visual Note:** Two-column comparison layout with bold headers and clean accent side borders.  
+**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate.<br><br>**2. Insight:**<br>Governance Lead: **Chad Gibbons**<br><br>**3. Insight:**<br>Legal Compliance Counsel: **Chiaki Sato** | **Outcome**: Established dedicated Sustainability Board Committee and tied 20% bonus to ESG.<br><br>**Market Reaction**: Reached top quartile governance ranking in Dow Jones Sustainability Index. |
+| **Key Focus 1:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate. | **Governance Lead:**<br>**Chad Gibbons**. |
 
-**Visual Note:** Split layout highlighting operational metrics and case study execution results.  
+**Visual Note:** Split layout highlighting key execution metrics and operational results.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Conducting TCFD-aligned climate scenario evaluations (1.5°C vs 3°C global warming).<br><br>**2. Insight:**<br>Assessing physical risk impact on corporate manufacturing assets and supply chains. | **1. Insight:**<br>Evaluating transition risks: Carbon taxes, shifting technology, and changing consumer tastes.<br><br>**Strategic Resilience**: Adapting business model capital allocations based on findings. | **Long-Term Planning**: Evaluating 10-year and 30-year corporate growth horizons. |
+| **Conducting TCFD:**<br>aligned climate scenario evaluations (1. | **Key Focus 2:**<br>Assessing physical risk impact on corporate manufacturing assets and supply chains. | **Evaluating transition risks:**<br>Carbon taxes, shifting technology, and changing consumer tastes. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies and innovation drivers.  
+**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
 
 ---
 
@@ -103,23 +103,23 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **1. Insight:**<br>Proactive board dialogue with institutional investors regarding climate transition plans.<br><br>**2. Insight:**<br>Constructive engagement on shareholder resolutions regarding environmental disclosure. | **1. Insight:**<br>Transparent reporting on corporate lobbying activities to ensure alignment with Paris Agreement.<br><br>**Trust Building**: Direct meetings between independent directors and key ESG fund managers. | **Proxy Season Preparedness**: Overwhelming shareholder support for board-backed ESG proposals. | **Key Element:**<br>Continuous monitoring and integration of best practices. |
+| **Key Focus 1:**<br>Proactive board dialogue with institutional investors regarding climate transition plans. | **Key Focus 2:**<br>Constructive engagement on shareholder resolutions regarding environmental disclosure. | **Key Focus 3:**<br>Transparent reporting on corporate lobbying activities to ensure alignment with Paris Agreement. | **Trust Building:**<br>Direct meetings between independent directors and key ESG fund managers. |
 
-**Visual Note:** Four feature badge cards displaying key pillars and performance indicators in clean frames.  
+**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
-**Tipe Halaman:** List/Value  
+**Tipe Halaman:** Opener  
 **Judul Halaman:** Ethics Anti Corruption Compliance  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **1. Insight:**<br>Enforcing strict corporate codes of business conduct across global operations.<br><br>**2. Insight:**<br>Whistleblower protection mechanisms for reporting environmental and accounting violations.<br><br>**3. Insight:**<br>Third-party anti-bribery and corruption auditing across all international business units. | **Compliance Oversight**: Zero tolerance for regulatory misrepresentation or greenwashing.<br><br>**Legal Safeguards**: Regular compliance training for corporate officers and managers. |
+| Kolom 1 |
+|---------|
+| Enforcing strict corporate codes of business conduct across global operations. Whistleblower protection mechanisms for reporting environmental and accounting violations.<br><br>party anti-bribery and corruption auditing across all international business units. Zero tolerance for regulatory misrepresentation or greenwashing. |
 
-**Visual Note:** Two high-impact cards contrasting systemic impact with community and business value.  
+**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
 
 ---
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Increasing board gender, racial, and international diversity to enhance decision-making.<br><br>**2. Insight:**<br>Diverse board perspectives prevent groupthink during strategic climate risk evaluations.<br><br>**3. Insight:**<br>Refreshing board tenure policies to introduce innovative, modern governance perspectives. | **Talent Pipeline**: Developing internal corporate leadership paths for underrepresented groups.<br><br>**Governance Reputation**: Recognized as an ethical employer and progressive board. |
+| **Key Focus 1:**<br>Increasing board gender, racial, and international diversity to enhance decision-making. | **Key Focus 2:**<br>Diverse board perspectives prevent groupthink during strategic climate risk evaluations. |
 
 **Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
 
@@ -143,7 +143,7 @@
 
 **Text:**
 - Sustainable Corporate Board Governance
-- Building a sustainable and resilient future through proactive leadership.
+- Empowering sustainable progress through innovation and conscious design.
 - Corporate Governance Advisory Board
 - www.reallygreatsite.com
 
@@ -157,7 +157,7 @@
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
 - Chad Gibbons (Presenter Name)

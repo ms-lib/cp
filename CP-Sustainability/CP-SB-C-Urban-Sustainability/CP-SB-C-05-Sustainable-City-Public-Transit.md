@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional presentation cover styled in dynamic transit yellow & deep steel blue, kinetic mobility layout. Clean typography and structured layout.  
+**Visual Note:** Elegant cover layout in dynamic transit yellow & deep steel blue, kinetic mobility layout with modern typography and spacious layout.  
 
 **Text:**
 - Title: Sustainable City Public Transit
-- Subtitle: Transit Electrification & Strategic Action Plan
+- Subtitle: Transit Electrification & Action Plan
 - Presented By: Drew Feig
 - Presented To: Transit Authorities
 - Brand: Metropolitan Transit Authority
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| **Core Issue & Context:**<br>Private automobile dependency accounts for the majority of urban transport emissions.<br>Traffic congestion causes billions in lost economic productivity every year.<br>Diesel public buses release harmful particulate matter into dense neighborhood air.<br><br>**Strategic Objective:**<br>**Core Imperative**: Transitioning public transit fleets to zero-emission technology.<br>**Public Benefit**: Reducing traffic gridlock and cleaning metropolitan breathing air. |
+| Private automobile dependency accounts for the majority of urban transport emissions. Traffic congestion causes billions in lost economic productivity every year.<br><br>Diesel public buses release harmful particulate matter into dense neighborhood air. Transitioning public transit fleets to zero-emission technology. |
 
-**Visual Note:** Prominent single-column card with clean typography and topic vector icon.  
+**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Battery electric buses offer zero tailpipe emissions and low operational noise.<br><br>**2. Insight:**<br>Hydrogen fuel cell buses provide long operating ranges for suburban routes. | **1. Insight:**<br>Fast-charging depot infrastructure recharges electric buses during off-peak hours.<br><br>**Lifecycle Efficiency**: Lower maintenance costs compared to internal combustion engines. | **Passenger Comfort**: Smooth, quiet acceleration improves commuter travel experience. |
+| **Key Focus 1:**<br>Battery electric buses offer zero tailpipe emissions and low operational noise. | **Key Focus 2:**<br>Hydrogen fuel cell buses provide long operating ranges for suburban routes. | **Fast:**<br>charging depot infrastructure recharges electric buses during off-peak hours. |
 
-**Visual Note:** Three vertical feature columns styled with subtle background cards and category icons.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Bus Rapid Transit (BRT) lanes deliver subway-like efficiency at a fraction of capital cost.<br><br>**2. Insight:**<br>Modern light rail transit (LRT) systems powered by 100% renewable electricity.<br><br>**3. Insight:**<br>Signal prioritization at intersections allows public buses to bypass traffic jams. | **Commute Time**: Reducing average trip duration by 25% for transit passengers.<br><br>**Capacity**: Moving thousands of passengers per hour per direction efficiently. |
+| **Key Focus 1:**<br>Bus Rapid Transit (BRT) lanes deliver subway-like efficiency at a fraction of capital cost. | **Key Focus 2:**<br>Modern light rail transit (LRT) systems powered by 100% renewable electricity. |
 
-**Visual Note:** Two-column comparison layout with bold headers and clean accent side borders.  
+**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses.<br><br>**2. Insight:**<br>Project Lead: **Drew Feig**<br><br>**3. Insight:**<br>Systems Integration Specialist: **Eleanor Fitzgerald** | **Carbon Reduction**: Eliminates 32,000 metric tons of CO2 emissions per year.<br><br>**Air Quality**: 40% drop in nitrogen dioxide levels along major bus transit corridors. |
+| **Key Focus 1:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses. | **Project Lead:**<br>**Drew Feig**. |
 
-**Visual Note:** Split layout highlighting operational metrics and case study execution results.  
+**Visual Note:** Split layout highlighting key execution metrics and operational results.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Shared electric bike and scooter docks placed seamlessly at transit hubs.<br><br>**2. Insight:**<br>Protected cycling express lanes connect residential suburbs to train stations. | **1. Insight:**<br>Unified mobility mobile app integrates ticketing across buses, trains, and bikes.<br><br>**First/Last Mile Solution**: Eliminates the barrier of walking long distances to stops. | **Urban Space**: Converting street parking spaces into dedicated bike mobility hubs. |
+| **Key Focus 1:**<br>Shared electric bike and scooter docks placed seamlessly at transit hubs. | **Key Focus 2:**<br>Protected cycling express lanes connect residential suburbs to train stations. | **Key Focus 3:**<br>Unified mobility mobile app integrates ticketing across buses, trains, and bikes. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies and innovation drivers.  
+**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
 
 ---
 
@@ -103,23 +103,23 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **1. Insight:**<br>Low-income fare assistance programs ensure transit remains affordable for all.<br><br>**2. Insight:**<br>Universal physical accessibility features on all electric buses and train stations. | **1. Insight:**<br>Extending late-night transit service routes for shift workers and service employees.<br><br>**Social Mobility**: Connecting underserved neighborhoods to city employment centers. | **Safety Measures**: Well-lit transit stops and real-time arrival displays enhance security. | **Key Element:**<br>Continuous monitoring and integration of best practices. |
+| **Low:**<br>income fare assistance programs ensure transit remains affordable for all. | **Key Focus 2:**<br>Universal physical accessibility features on all electric buses and train stations. | **Extending late:**<br>night transit service routes for shift workers and service employees. | **Social Mobility:**<br>Connecting underserved neighborhoods to city employment centers. |
 
-**Visual Note:** Four feature badge cards displaying key pillars and performance indicators in clean frames.  
+**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
-**Tipe Halaman:** List/Value  
+**Tipe Halaman:** Opener  
 **Judul Halaman:** Transit Oriented Development TOD  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **1. Insight:**<br>High-density residential and commercial zoning built directly around rail hubs.<br><br>**2. Insight:**<br>Decreasing mandatory parking minimums for buildings constructed adjacent to stations.<br><br>**3. Insight:**<br>Creating vibrant pedestrian plazas and retail shops surrounding transit nodes. | **Land Use Efficiency**: Preventing urban sprawl by concentrating growth around transit.<br><br>**Economic Growth**: Boosting local business patronage around transit plazas. |
+| Kolom 1 |
+|---------|
+| density residential and commercial zoning built directly around rail hubs. Decreasing mandatory parking minimums for buildings constructed adjacent to stations.<br><br>Creating vibrant pedestrian plazas and retail shops surrounding transit nodes. Preventing urban sprawl by concentrating growth around transit. |
 
-**Visual Note:** Two high-impact cards contrasting systemic impact with community and business value.  
+**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
 
 ---
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Congestion pricing charges for private cars entering downtown business districts.<br><br>**2. Insight:**<br>Reinvesting toll revenue directly into expanding public transit operations.<br><br>**3. Insight:**<br>Green municipal bonds finance large-scale transit infrastructure construction. | **Public-Private Partnerships**: Leasing station naming rights and commercial retail space.<br><br>**Long-Term Return**: High return on investment through increased urban productivity. |
+| **Key Focus 1:**<br>Congestion pricing charges for private cars entering downtown business districts. | **Key Focus 2:**<br>Reinvesting toll revenue directly into expanding public transit operations. |
 
 **Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
 
@@ -143,7 +143,7 @@
 
 **Text:**
 - Sustainable City Public Transit
-- Building a sustainable and resilient future through proactive leadership.
+- Empowering sustainable progress through innovation and conscious design.
 - Metropolitan Transit Authority
 - www.reallygreatsite.com
 
@@ -157,7 +157,7 @@
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
 - Drew Feig (Presenter Name)

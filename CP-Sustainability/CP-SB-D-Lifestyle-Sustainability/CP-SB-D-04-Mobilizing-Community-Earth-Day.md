@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional presentation cover styled in vibrant spring green & sun gold, engaging civic layout. Clean typography and structured layout.  
+**Visual Note:** Elegant cover layout in vibrant spring green & sun gold, engaging civic layout with modern typography and spacious layout.  
 
 **Text:**
 - Title: Mobilizing Community Earth Day
-- Subtitle: Community Earth Day & Strategic Action Plan
+- Subtitle: Community Earth Day & Action Plan
 - Presented By: Cia Rodriguez
 - Presented To: Community Organizers
 - Brand: Community Earth Day Alliance
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| **Core Issue & Context:**<br>Global environmental crises require strong, coordinated neighborhood civic action.<br>Earth Day serves as a powerful focal point to ignite local volunteer activity.<br>Community events bridge social divides and foster shared environmental responsibility.<br><br>**Strategic Objective:**<br>**Empowerment**: Giving citizens tangible, hands-on opportunities to make a difference.<br>**Long-Term Impact**: Turning one-day events into year-round sustainable habits. |
+| Global environmental crises require strong, coordinated neighborhood civic action. Earth Day serves as a powerful focal point to ignite local volunteer activity.<br><br>Community events bridge social divides and foster shared environmental responsibility. Giving citizens tangible, hands-on opportunities to make a difference. |
 
-**Visual Note:** Prominent single-column card with clean typography and topic vector icon.  
+**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Organizing neighborhood litter removal across local parks, beaches, and riverbanks.<br><br>**2. Insight:**<br>Providing volunteers with protective gloves, trash pickers, and color-coded bags. | **1. Insight:**<br>Sorting collected waste on-site to separate recyclables from landfill trash.<br><br>**Safety First**: First-aid kits, hydration stations, and safety briefings for all participants. | **Data Collection**: Weighing and categorizing waste to identify local pollution sources. |
+| **Key Focus 1:**<br>Organizing neighborhood litter removal across local parks, beaches, and riverbanks. | **Key Focus 2:**<br>Providing volunteers with protective gloves, trash pickers, and color-coded bags. | **Sorting collected waste on:**<br>site to separate recyclables from landfill trash. |
 
-**Visual Note:** Three vertical feature columns styled with subtle background cards and category icons.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Partnering with city arborists to plant native trees along neighborhood streets.<br><br>**2. Insight:**<br>Establishing wildflower pollinator gardens in public parkways and school yards.<br><br>**3. Insight:**<br>Teaching volunteers correct tree planting techniques and initial watering care. | **Ecological Benefit**: Expanding local shade canopy and supporting urban bees.<br><br>**Community Pride**: Neighborhood groups taking permanent stewardship of planted trees. |
+| **Key Focus 1:**<br>Partnering with city arborists to plant native trees along neighborhood streets. | **Key Focus 2:**<br>Establishing wildflower pollinator gardens in public parkways and school yards. |
 
-**Visual Note:** Two-column comparison layout with bold headers and clean accent side borders.  
+**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Coordinating a multi-site Earth Day event across 12 city districts.<br><br>**2. Insight:**<br>Lead Campaign Director: **Cia Rodriguez**<br><br>**3. Insight:**<br>Youth Volunteer Coordinator: **Harumi Kobayashi** | **Volunteer Participation**: Over 3,500 local residents engaged across all sites.<br><br>**Environmental Results**: 15 tons of trash removed and 800 native trees planted. |
+| **Coordinating a multi:**<br>site Earth Day event across 12 city districts. | **Lead Campaign Director:**<br>**Cia Rodriguez**. |
 
-**Visual Note:** Split layout highlighting operational metrics and case study execution results.  
+**Visual Note:** Split layout highlighting key execution metrics and operational results.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Hosting interactive workshops on home composting, recycling, and solar energy.<br><br>**2. Insight:**<br>Repair Cafes where skilled volunteers fix broken household appliances for free. | **1. Insight:**<br>Sustainable cooking demonstrations promoting plant-based, zero-waste recipes.<br><br>**Skill Sharing**: Empowering community members with practical eco-friendly skills. | **Youth Engagement**: Interactive environmental science games for elementary children. |
+| **Key Focus 1:**<br>Hosting interactive workshops on home composting, recycling, and solar energy. | **Key Focus 2:**<br>Repair Cafes where skilled volunteers fix broken household appliances for free. | **Key Focus 3:**<br>Sustainable cooking demonstrations promoting plant-based, zero-waste recipes. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies and innovation drivers.  
+**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
 
 ---
 
@@ -103,23 +103,23 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **1. Insight:**<br>Partnering with neighborhood shops to eliminate single-use plastic bags on Earth Day.<br><br>**2. Insight:**<br>Local restaurants offering special planet-friendly vegan lunch menus. | **1. Insight:**<br>Corporate sponsorship for volunteer T-shirts, tools, and refreshments.<br><br>**Economic Synergy**: Demonstrating that sustainability supports local small business growth. | **Green Merchant Recognition**: Awarding certificates to eco-friendly local businesses. | **Key Element:**<br>Continuous monitoring and integration of best practices. |
+| **Key Focus 1:**<br>Partnering with neighborhood shops to eliminate single-use plastic bags on Earth Day. | **Key Focus 2:**<br>Local restaurants offering special planet-friendly vegan lunch menus. | **Key Focus 3:**<br>Corporate sponsorship for volunteer T-shirts, tools, and refreshments. | **Economic Synergy:**<br>Demonstrating that sustainability supports local small business growth. |
 
-**Visual Note:** Four feature badge cards displaying key pillars and performance indicators in clean frames.  
+**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
-**Tipe Halaman:** List/Value  
+**Tipe Halaman:** Opener  
 **Judul Halaman:** Digital Mobilization Social Media  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **1. Insight:**<br>Utilizing social media campaigns to recruit volunteers and raise environmental awareness.<br><br>**2. Insight:**<br>Photo contests highlighting local natural beauty and volunteer cleanup efforts.<br><br>**3. Insight:**<br>Digital pledge campaigns encouraging residents to commit to plastic-free months. | **Amplification**: Reaching thousands of online community members beyond physical events.<br><br>**Transparent Storytelling**: Sharing real-time event updates and impact statistics. |
+| Kolom 1 |
+|---------|
+| Utilizing social media campaigns to recruit volunteers and raise environmental awareness. Photo contests highlighting local natural beauty and volunteer cleanup efforts.<br><br>Digital pledge campaigns encouraging residents to commit to plastic-free months. Reaching thousands of online community members beyond physical events. |
 
-**Visual Note:** Two high-impact cards contrasting systemic impact with community and business value.  
+**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
 
 ---
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Organizing community town hall meetings with municipal elected officials on Earth Day.<br><br>**2. Insight:**<br>Presenting citizen petitions for expanded municipal bike lanes and public parks.<br><br>**3. Insight:**<br>Elevating environmental justice concerns from historically underserved neighborhoods. | **Civic Dialogue**: Direct conversation between residents and urban policymakers.<br><br>**Legislative Action**: Driving adoption of local eco-friendly municipal ordinances. |
+| **Key Focus 1:**<br>Organizing community town hall meetings with municipal elected officials on Earth Day. | **Key Focus 2:**<br>Presenting citizen petitions for expanded municipal bike lanes and public parks. |
 
 **Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
 
@@ -143,7 +143,7 @@
 
 **Text:**
 - Mobilizing Community Earth Day
-- Building a sustainable and resilient future through proactive leadership.
+- Empowering sustainable progress through innovation and conscious design.
 - Community Earth Day Alliance
 - www.reallygreatsite.com
 
@@ -157,7 +157,7 @@
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
 - Cia Rodriguez (Presenter Name)

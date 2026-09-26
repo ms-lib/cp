@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional presentation cover styled in scientific cyan & deep charcoal, modern science layout. Clean typography and structured layout.  
+**Visual Note:** Elegant cover layout in scientific cyan & deep charcoal, modern science layout with modern typography and spacious layout.  
 
 **Text:**
 - Title: Corporate Science Carbon Neutrality
-- Subtitle: Science Based Targets & Strategic Action Plan
+- Subtitle: Science Based Targets & Action Plan
 - Presented By: Estelle Darcy
 - Presented To: Chief Climate Scientists
 - Brand: Science-Based Climate Council
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| **Core Issue & Context:**<br>Setting carbon reduction targets consistent with limiting global warming to 1.5°C.<br>Arbitrary net-zero pledges without scientific backing face intense market skepticism.<br>SBTi validation requires near-term 50% carbon cuts within 10 years.<br><br>**Strategic Objective:**<br>**Strategic Mandate**: Prioritizing deep operational decarbonization over carbon offsets.<br>**Credibility Standard**: Rigorous, transparent verification by international climate scientists. |
+| Setting carbon reduction targets consistent with limiting global warming to 1. zero pledges without scientific backing face intense market skepticism.<br><br>term 50% carbon cuts within 10 years. Prioritizing deep operational decarbonization over carbon offsets. |
 
-**Visual Note:** Prominent single-column card with clean typography and topic vector icon.  
+**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Retrofitting commercial facilities with high-efficiency LED, HVAC, and smart controls.<br><br>**2. Insight:**<br>Transitioning industrial thermal heating processes from fossil fuels to clean electricity. | **1. Insight:**<br>Executing long-term Power Purchase Agreements (PPAs) with regional solar and wind farms.<br><br>**On-Site Generation**: Installing commercial rooftop solar arrays and battery storage. | **Efficiency Metric**: Decreasing energy intensity per unit of corporate product output. |
+| **Key Focus 1:**<br>Retrofitting commercial facilities with high-efficiency LED, HVAC, and smart controls. | **Key Focus 2:**<br>Transitioning industrial thermal heating processes from fossil fuels to clean electricity. | **Executing long:**<br>term Power Purchase Agreements (PPAs) with regional solar and wind farms. |
 
-**Visual Note:** Three vertical feature columns styled with subtle background cards and category icons.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Replacing internal combustion vehicle fleets with electric and fuel-cell utility vehicles.<br><br>**2. Insight:**<br>Eliminating high-global-warming-potential industrial refrigerants from cooling systems.<br><br>**3. Insight:**<br>Optimizing manufacturing processes to eliminate fugitive methane and chemical emissions. | **Operational Benefits**: Lower fuel and maintenance expenditures for corporate fleets.<br><br>**Infrastructure Investment**: Deploying fast electric vehicle chargers at all facilities. |
+| **Key Focus 1:**<br>Replacing internal combustion vehicle fleets with electric and fuel-cell utility vehicles. | **Eliminating high:**<br>global-warming-potential industrial refrigerants from cooling systems. |
 
-**Visual Note:** Two-column comparison layout with bold headers and clean accent side borders.  
+**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Executing net-zero transition strategy across 80 international manufacturing facilities.<br><br>**2. Insight:**<br>Lead Science Advisor: **Estelle Darcy**<br><br>**3. Insight:**<br>Operations Director: **Francisco Andrade** | **Outcome**: Achieved 55% direct emissions reduction in 4 years, validated by SBTi.<br><br>**Cost Savings**: Saved $14.2 million in annual energy costs through efficiency measures. |
+| **Executing net:**<br>zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>**Estelle Darcy**. |
 
-**Visual Note:** Split layout highlighting operational metrics and case study execution results.  
+**Visual Note:** Split layout highlighting key execution metrics and operational results.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Engaging top 100 suppliers to adopt 100% renewable energy for corporate orders.<br><br>**2. Insight:**<br>Redesigning products to reduce energy consumption during consumer use phase. | **1. Insight:**<br>Optimizing global shipping logistics to transition freight from air to ocean and rail.<br><br>**Supplier Coaching**: Providing vendor technical assistance for clean tech adoption. | **Lifecycle Impact**: Reducing overall carbon footprint across total value chain. |
+| **Key Focus 1:**<br>Engaging top 100 suppliers to adopt 100% renewable energy for corporate orders. | **Key Focus 2:**<br>Redesigning products to reduce energy consumption during consumer use phase. | **Key Focus 3:**<br>Optimizing global shipping logistics to transition freight from air to ocean and rail. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies and innovation drivers.  
+**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
 
 ---
 
@@ -103,23 +103,23 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **1. Insight:**<br>Residual emissions (under 10%) neutralized exclusively through high-integrity carbon removal.<br><br>**2. Insight:**<br>Direct Air Capture (DAC) and permanent geological carbon storage investments. | **1. Insight:**<br>High-quality certified reforestation and coastal mangrove ecosystem restoration projects.<br><br>**Avoided Pitfalls**: Rejecting unverified, low-quality carbon offset credits. | **Permanence Standard**: Ensuring carbon removal projects guarantee 100+ year storage. | **Key Element:**<br>Continuous monitoring and integration of best practices. |
+| **Key Focus 1:**<br>Residual emissions (under 10%) neutralized exclusively through high-integrity carbon removal. | **Key Focus 2:**<br>Direct Air Capture (DAC) and permanent geological carbon storage investments. | **High:**<br>quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Avoided Pitfalls:**<br>Rejecting unverified, low-quality carbon offset credits. |
 
-**Visual Note:** Four feature badge cards displaying key pillars and performance indicators in clean frames.  
+**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
-**Tipe Halaman:** List/Value  
+**Tipe Halaman:** Opener  
 **Judul Halaman:** Internal Carbon Pricing Allocation  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **1. Insight:**<br>Establishing internal carbon fee ($75 per ton CO2) charged to operating divisions.<br><br>**2. Insight:**<br>Internal carbon tax proceeds fund corporate clean tech innovation grant pool.<br><br>**3. Insight:**<br>Green capital expenditure (CapEx) prioritized for projects with high carbon ROI. | **Financial Innovation**: Issuing corporate green bonds to fund large-scale solar projects.<br><br>**Resource Allocation**: Directing financial capital toward decarbonization initiatives. |
+| Kolom 1 |
+|---------|
+| Establishing internal carbon fee ($75 per ton CO2) charged to operating divisions. Internal carbon tax proceeds fund corporate clean tech innovation grant pool.<br><br>Green capital expenditure (CapEx) prioritized for projects with high carbon ROI. Issuing corporate green bonds to fund large-scale solar projects. |
 
-**Visual Note:** Two high-impact cards contrasting systemic impact with community and business value.  
+**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
 
 ---
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Internal climate academy educating staff on corporate net-zero targets and actions.<br><br>**2. Insight:**<br>Departmental carbon budgets tracking team emissions performance quarterly.<br><br>**3. Insight:**<br>Employee green team networks spearheading localized facility efficiency projects. | **Purpose-Driven Culture**: High employee pride and retention driven by climate action.<br><br>**Executive Engagement**: Quarterly net-zero town hall updates with senior leadership. |
+| **Key Focus 1:**<br>Internal climate academy educating staff on corporate net-zero targets and actions. | **Key Focus 2:**<br>Departmental carbon budgets tracking team emissions performance quarterly. |
 
 **Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
 
@@ -143,7 +143,7 @@
 
 **Text:**
 - Corporate Science Carbon Neutrality
-- Building a sustainable and resilient future through proactive leadership.
+- Empowering sustainable progress through innovation and conscious design.
 - Science-Based Climate Council
 - www.reallygreatsite.com
 
@@ -157,7 +157,7 @@
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
 - Estelle Darcy (Presenter Name)

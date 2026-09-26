@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional presentation cover styled in earthy terracotta & garden green, warm home layout. Clean typography and structured layout.  
+**Visual Note:** Elegant cover layout in earthy terracotta & garden green, warm home layout with modern typography and spacious layout.  
 
 **Text:**
 - Title: The Zero Waste Household
-- Subtitle: Zero Waste Household & Strategic Action Plan
+- Subtitle: Zero Waste Household & Action Plan
 - Presented By: Claudia Alves
 - Presented To: Families
 - Brand: Zero Waste Home Network
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| **Core Issue & Context:**<br>The 5 Rs: Refuse, Reduce, Reuse, Recycle, and Rot (Compost).<br>Refusing single-use marketing freebies, plastic straws, and disposable utensils.<br>Reducing overall household consumption by purchasing only what is genuinely needed.<br><br>**Strategic Objective:**<br>Reusing durable containers, bags, and items repeatedly before replacement.<br>**Core Mindset**: Viewing waste as a design flaw rather than an inevitable byproduct. |
+| Refuse, Reduce, Reuse, Recycle, and Rot (Compost). use marketing freebies, plastic straws, and disposable utensils.<br><br>Reducing overall household consumption by purchasing only what is genuinely needed. Reusing durable containers, bags, and items repeatedly before replacement. |
 
-**Visual Note:** Prominent single-column card with clean typography and topic vector icon.  
+**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Replacing disposable paper towels with washable organic cloth rags.<br><br>**2. Insight:**<br>Buying package-free grains, spices, and oils at local bulk zero-waste stores. | **1. Insight:**<br>Storing leftover food in glass containers or reusable beeswax food wraps.<br><br>**Organic Waste**: Composting 100% of vegetable peels, coffee grounds, and food scraps. | **Waste Reduction**: Eliminating plastic trash bags with washable bin liners. |
+| **Key Focus 1:**<br>Replacing disposable paper towels with washable organic cloth rags. | **Buying package:**<br>free grains, spices, and oils at local bulk zero-waste stores. | **Key Focus 3:**<br>Storing leftover food in glass containers or reusable beeswax food wraps. |
 
-**Visual Note:** Three vertical feature columns styled with subtle background cards and category icons.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Switching from liquid soap in plastic bottles to solid bar soaps and shampoos.<br><br>**2. Insight:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives.<br><br>**3. Insight:**<br>Utilizing safety razors with replaceable steel blades instead of disposable plastic razors. | **Natural Products**: Choosing cosmetics in refillable glass or metal packaging.<br><br>**Water Conservation**: Installing low-flow aerators on bathroom sinks and showers. |
+| **Key Focus 1:**<br>Switching from liquid soap in plastic bottles to solid bar soaps and shampoos. | **Key Focus 2:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives. |
 
-**Visual Note:** Two-column comparison layout with bold headers and clean accent side borders.  
+**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>A suburban family transitioning from 3 trash bags per week to 1 jar per year.<br><br>**2. Insight:**<br>Lead Coach: **Claudia Alves**<br><br>**3. Insight:**<br>Sustainability Analyst: **Dani Martinez** | **Outcome**: Diverted 95% of household waste from municipal landfills over 18 months.<br><br>**Cost Impact**: Reduced grocery and household supply spending by 28% annually. |
+| **Key Focus 1:**<br>A suburban family transitioning from 3 trash bags per week to 1 jar per year. | **Lead Coach:**<br>**Claudia Alves**. |
 
-**Visual Note:** Split layout highlighting operational metrics and case study execution results.  
+**Visual Note:** Split layout highlighting key execution metrics and operational results.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Bringing reusable cotton mesh bags for fresh fruits, vegetables, and bakery items.<br><br>**2. Insight:**<br>Tare-weighing glass jars at bulk stores before filling with pantry staples. | **1. Insight:**<br>Choosing glass, aluminum, or cardboard packaging over non-recyclable multi-layer plastics.<br><br>**Farmers Markets**: Shopping locally to avoid plastic agricultural produce wrapping. | **Meal Planning**: Shopping with structured lists to eliminate food decay waste. |
+| **Key Focus 1:**<br>Bringing reusable cotton mesh bags for fresh fruits, vegetables, and bakery items. | **Tare:**<br>weighing glass jars at bulk stores before filling with pantry staples. | **Key Focus 3:**<br>Choosing glass, aluminum, or cardboard packaging over non-recyclable multi-layer plastics. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies and innovation drivers.  
+**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
 
 ---
 
@@ -103,23 +103,23 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **1. Insight:**<br>Using natural laundry detergent sheets or refillable liquid detergent stations.<br><br>**2. Insight:**<br>Drying clothes naturally on outdoor clotheslines or indoor drying racks. | **1. Insight:**<br>Wool dryer balls replace synthetic single-use dryer sheets and soften fabrics.<br><br>**DIY Cleaners**: Vinegar, baking soda, and lemon juice clean 90% of household surfaces. | **Plastic Free**: Wooden dish scrub brushes with natural fiber bristles. | **Key Element:**<br>Continuous monitoring and integration of best practices. |
+| **Key Focus 1:**<br>Using natural laundry detergent sheets or refillable liquid detergent stations. | **Key Focus 2:**<br>Drying clothes naturally on outdoor clotheslines or indoor drying racks. | **Key Focus 3:**<br>Wool dryer balls replace synthetic single-use dryer sheets and soften fabrics. | **DIY Cleaners:**<br>Vinegar, baking soda, and lemon juice clean 90% of household surfaces. |
 
-**Visual Note:** Four feature badge cards displaying key pillars and performance indicators in clean frames.  
+**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
-**Tipe Halaman:** List/Value  
+**Tipe Halaman:** Opener  
 **Judul Halaman:** Managing Electronic Household Waste  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **1. Insight:**<br>Safely recycling old electronics, batteries, and lightbulbs at municipal drop-offs.<br><br>**2. Insight:**<br>Disposing of leftover household paints and chemicals through eco-hazard collection days.<br><br>**3. Insight:**<br>Repairing damaged household electronics instead of discarding them prematurely. | **Circular Electronics**: Buying certified refurbished computers and smartphones.<br><br>**Toxic Prevention**: Keeping hazardous materials out of groundwater aquifers. |
+| Kolom 1 |
+|---------|
+| Safely recycling old electronics, batteries, and lightbulbs at municipal drop-offs. Disposing of leftover household paints and chemicals through eco-hazard collection days.<br><br>Repairing damaged household electronics instead of discarding them prematurely. Buying certified refurbished computers and smartphones. |
 
-**Visual Note:** Two high-impact cards contrasting systemic impact with community and business value.  
+**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
 
 ---
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Navigating convenience culture when traveling or dining out at restaurants.<br><br>**2. Insight:**<br>Managing packaging waste when receiving mandatory prescription medications.<br><br>**3. Insight:**<br>Encouraging family members and children without creating friction or pressure. | **Imperfection Principle**: Millions doing zero-waste imperfectly beats a few doing it perfectly.<br><br>**Community Support**: Joining local zero-waste social media groups for tips and encouragement. |
+| **Key Focus 1:**<br>Navigating convenience culture when traveling or dining out at restaurants. | **Key Focus 2:**<br>Managing packaging waste when receiving mandatory prescription medications. |
 
 **Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
 
@@ -143,7 +143,7 @@
 
 **Text:**
 - The Zero Waste Household
-- Building a sustainable and resilient future through proactive leadership.
+- Empowering sustainable progress through innovation and conscious design.
 - Zero Waste Home Network
 - www.reallygreatsite.com
 
@@ -157,7 +157,7 @@
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
 - Claudia Alves (Presenter Name)

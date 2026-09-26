@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional presentation cover styled in clean sky blue & fresh white, crisp wellness layout. Clean typography and structured layout.  
+**Visual Note:** Elegant cover layout in clean sky blue & fresh white, crisp wellness layout with modern typography and spacious layout.  
 
 **Text:**
 - Title: Hydration and Daily Vitality
-- Subtitle: Hydration Vitality & Strategic Action Plan
+- Subtitle: Hydration Vitality & Action Plan
 - Presented By: Helene Paquet
 - Presented To: Health Enthusiasts
 - Brand: Daily Vitality & Wellness Initiative
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| **Core Issue & Context:**<br>Global consumer reliance on single-use plastic water bottles creates massive landfill pollution.<br>Plastic bottles require fossil fuel extraction and emit carbon during manufacturing.<br>Millions of plastic bottles end up floating in ocean gyres every single year.<br><br>**Strategic Objective:**<br>**Health Impact**: Micro-plastics leaching from plastic bottles into drinking water.<br>**Sustainable Alternative**: Transitioning to filtered tap water in reusable containers. |
+| Global consumer reliance on single-use plastic water bottles creates massive landfill pollution. Plastic bottles require fossil fuel extraction and emit carbon during manufacturing.<br><br>Millions of plastic bottles end up floating in ocean gyres every single year. Micro-plastics leaching from plastic bottles into drinking water. |
 
-**Visual Note:** Prominent single-column card with clean typography and topic vector icon.  
+**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Adequate daily water intake is essential for cellular function and cognitive focus.<br><br>**2. Insight:**<br>Proper hydration improves physical endurance, skin health, and digestive function. | **1. Insight:**<br>Chronic mild dehydration leads to fatigue, headaches, and lower immunity.<br><br>**Optimal Intake**: Customizing daily hydration targets based on activity levels. | **Natural Electrolytes**: Incorporating natural minerals without artificial sugar additives. |
+| **Key Focus 1:**<br>Adequate daily water intake is essential for cellular function and cognitive focus. | **Key Focus 2:**<br>Proper hydration improves physical endurance, skin health, and digestive function. | **Key Focus 3:**<br>Chronic mild dehydration leads to fatigue, headaches, and lower immunity. |
 
-**Visual Note:** Three vertical feature columns styled with subtle background cards and category icons.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Installing multi-stage reverse osmosis or active carbon filters on home taps.<br><br>**2. Insight:**<br>Countertop filtration pitchers provide accessible clean water without plastic bottles.<br><br>**3. Insight:**<br>Regular filter replacement schedules ensure optimal water purity and mineral balance. | **Cost Comparison**: Home filtration costs less than 5% of commercial bottled water.<br><br>**Convenience**: Endless access to pure, chilled drinking water at home. |
+| **Installing multi:**<br>stage reverse osmosis or active carbon filters on home taps. | **Key Focus 2:**<br>Countertop filtration pitchers provide accessible clean water without plastic bottles. |
 
-**Visual Note:** Two-column comparison layout with bold headers and clean accent side borders.  
+**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Eliminating single-use plastic bottles across a 500-employee corporate office.<br><br>**2. Insight:**<br>Program Director: **Helene Paquet**<br><br>**3. Insight:**<br>Health Coordinator: **Francois Mercer** | **Outcome**: Diverted 120,000 plastic water bottles from landfills in year one.<br><br>**Employee Impact**: 85% reported increased daily hydration habits at work. |
+| **Eliminating single:**<br>use plastic bottles across a 500-employee corporate office. | **Program Director:**<br>**Helene Paquet**. |
 
-**Visual Note:** Split layout highlighting operational metrics and case study execution results.  
+**Visual Note:** Split layout highlighting key execution metrics and operational results.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Food-grade stainless steel bottles keep water cold for 24 hours without chemical leaching.<br><br>**2. Insight:**<br>Borosilicate glass containers offer pure taste and easy dishwashing cleaning. | **1. Insight:**<br>BPA-free lightweight durable silicone bottles ideal for outdoor athletic activities.<br><br>**Hygiene Care**: Daily cleaning with non-toxic soap prevents bacterial buildup. | **Personal Expression**: Customizing reusable bottles encourages daily usage habits. |
+| **Food:**<br>grade stainless steel bottles keep water cold for 24 hours without chemical leaching. | **Key Focus 2:**<br>Borosilicate glass containers offer pure taste and easy dishwashing cleaning. | **BPA:**<br>free lightweight durable silicone bottles ideal for outdoor athletic activities. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies and innovation drivers.  
+**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
 
 ---
 
@@ -103,23 +103,23 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **1. Insight:**<br>Municipal installation of modern refillable water stations in public parks and stations.<br><br>**2. Insight:**<br>Touchless sensor refilling taps reduce germ transmission in public facilities. | **1. Insight:**<br>Mobile phone apps mapping nearby free public drinking water stations.<br><br>**Equity**: Ensuring free access to clean drinking water for all citizens. | **Urban Design**: Architectural integration of hydration fountains into civic spaces. | **Key Element:**<br>Continuous monitoring and integration of best practices. |
+| **Key Focus 1:**<br>Municipal installation of modern refillable water stations in public parks and stations. | **Key Focus 2:**<br>Touchless sensor refilling taps reduce germ transmission in public facilities. | **Key Focus 3:**<br>Mobile phone apps mapping nearby free public drinking water stations. | **Equity:**<br>Ensuring free access to clean drinking water for all citizens. |
 
-**Visual Note:** Four feature badge cards displaying key pillars and performance indicators in clean frames.  
+**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
-**Tipe Halaman:** List/Value  
+**Tipe Halaman:** Opener  
 **Judul Halaman:** Hydration Plant Based Vitality  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **1. Insight:**<br>Hydrating through water-rich organic fruits and vegetables like cucumbers and melons.<br><br>**2. Insight:**<br>Herbal teas and infused waters provide antioxidant benefits without synthetic flavorings.<br><br>**3. Insight:**<br>Reducing high-sugar sodas and energy drinks lowers chronic health disease risks. | **Energy Levels**: Sustained physical vitality through clean hydration and plant nutrition.<br><br>**Metabolic Balance**: Optimizing kidney function and natural bodily detoxification. |
+| Kolom 1 |
+|---------|
+| rich organic fruits and vegetables like cucumbers and melons. Herbal teas and infused waters provide antioxidant benefits without synthetic flavorings.<br><br>sugar sodas and energy drinks lowers chronic health disease risks. Sustained physical vitality through clean hydration and plant nutrition. |
 
-**Visual Note:** Two high-impact cards contrasting systemic impact with community and business value.  
+**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
 
 ---
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Teaching school children about the hydrologic cycle and body hydration needs.<br><br>**2. Insight:**<br>Distributing stainless steel water bottles to elementary students in public schools.<br><br>**3. Insight:**<br>School campaigns challenging students to eliminate single-use beverage containers. | **Behavioral Change**: Empowering youth to become eco-wellness champions at home.<br><br>**Health Equity**: Guaranteeing clean water access across all educational facilities. |
+| **Key Focus 1:**<br>Teaching school children about the hydrologic cycle and body hydration needs. | **Key Focus 2:**<br>Distributing stainless steel water bottles to elementary students in public schools. |
 
 **Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
 
@@ -143,7 +143,7 @@
 
 **Text:**
 - Hydration and Daily Vitality
-- Building a sustainable and resilient future through proactive leadership.
+- Empowering sustainable progress through innovation and conscious design.
 - Daily Vitality & Wellness Initiative
 - www.reallygreatsite.com
 
@@ -157,7 +157,7 @@
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
 - Helene Paquet (Presenter Name)

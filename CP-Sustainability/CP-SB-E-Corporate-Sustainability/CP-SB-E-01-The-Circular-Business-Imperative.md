@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional presentation cover styled in deep corporate navy & emerald green, executive professional layout. Clean typography and structured layout.  
+**Visual Note:** Elegant cover layout in deep corporate navy & emerald green, executive professional layout with modern typography and spacious layout.  
 
 **Text:**
 - Title: The Circular Business Imperative
-- Subtitle: Circular Business Imperative & Strategic Action Plan
+- Subtitle: Circular Business Imperative & Action Plan
 - Presented By: Aaron Loeb
 - Presented To: Chief Sustainability Officers
 - Brand: Corporate Circular Strategy Institute
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| **Core Issue & Context:**<br>Traditional "Take-Make-Waste" industrial models face escalating material costs.<br>Global regulatory pressure and carbon taxes penalize resource-inefficient companies.<br>Modern consumers demand ethically produced, recyclable products and services.<br><br>**Strategic Objective:**<br>**Strategic Risk**: Supply chain volatility for virgin raw material commodities.<br>**Economic Solution**: Designing closed-loop systems that retain material value indefinitely. |
+| Make-Waste" industrial models face escalating material costs. Global regulatory pressure and carbon taxes penalize resource-inefficient companies.<br><br>Modern consumers demand ethically produced, recyclable products and services. Supply chain volatility for virgin raw material commodities. |
 
-**Visual Note:** Prominent single-column card with clean typography and topic vector icon.  
+**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Designing products for easy disassembly, modular repair, and component upgrade.<br><br>**2. Insight:**<br>Utilizing non-toxic, bio-based, or 100% recycled input materials in manufacturing. | **1. Insight:**<br>Standardizing component parts across product lines to simplify refurbishment.<br><br>**Product-as-a-Service**: Leasing hardware services rather than selling physical assets. | **Durability Engineering**: Building commercial products engineered for decades of utility. |
+| **Key Focus 1:**<br>Designing products for easy disassembly, modular repair, and component upgrade. | **Utilizing non:**<br>toxic, bio-based, or 100% recycled input materials in manufacturing. | **Key Focus 3:**<br>Standardizing component parts across product lines to simplify refurbishment. |
 
-**Visual Note:** Three vertical feature columns styled with subtle background cards and category icons.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Establishing corporate trade-in programs for legacy electronic equipment.<br><br>**2. Insight:**<br>Building reverse logistics networks to collect end-of-life products efficiently.<br><br>**3. Insight:**<br>Refurbishing and reselling certified pre-owned products at attractive margin rates. | **Material Recovery**: Extracting high-value precious metals from recycled circuit boards.<br><br>**Customer Loyalty**: Buyback incentives lock in long-term customer relationships. |
+| **Establishing corporate trade:**<br>in programs for legacy electronic equipment. | **Key Focus 2:**<br>Building reverse logistics networks to collect end-of-life products efficiently. |
 
-**Visual Note:** Two-column comparison layout with bold headers and clean accent side borders.  
+**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Implementing a circular hardware lease model across enterprise enterprise clients.<br><br>**2. Insight:**<br>Executive Sponsor: **Aaron Loeb**<br><br>**3. Insight:**<br>Strategy Lead: **Adora Montminy** | **Financial Result**: Increased profit margins by 22% while reducing virgin material use by 45%.<br><br>**Environmental Impact**: Diverted 8,000 tons of high-tech hardware from landfills. |
+| **Key Focus 1:**<br>Implementing a circular hardware lease model across enterprise enterprise clients. | **Executive Sponsor:**<br>**Aaron Loeb**. |
 
-**Visual Note:** Split layout highlighting operational metrics and case study execution results.  
+**Visual Note:** Split layout highlighting key execution metrics and operational results.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Partnering across industry sectors to utilize one factory's waste as another's raw material.<br><br>**2. Insight:**<br>Exchanging industrial waste heat, wastewater, and byproduct chemicals locally. | **1. Insight:**<br>Eco-industrial parks optimized for shared utility infrastructure and material exchange.<br><br>**Cost Efficiency**: Cutting waste disposal fees and lowering raw material purchase costs. | **Inter-Industry Synergy**: Creating resilient regional business ecosystems. |
+| **Key Focus 1:**<br>Partnering across industry sectors to utilize one factory's waste as another's raw material. | **Key Focus 2:**<br>Exchanging industrial waste heat, wastewater, and byproduct chemicals locally. | **Eco:**<br>industrial parks optimized for shared utility infrastructure and material exchange. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies and innovation drivers.  
+**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
 
 ---
 
@@ -103,23 +103,23 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **1. Insight:**<br>ESG investors award higher valuation multiples to companies with circular resilience.<br><br>**2. Insight:**<br>Lowering commodity price volatility risk reduces corporate cost of capital. | **1. Insight:**<br>Extended product lifespans generate recurring subscription revenue models.<br><br>**Accounting Innovation**: Capitalizing retained product assets on corporate balance sheets. | **Risk Mitigation**: Insulation against international supply chain trade disruptions. | **Key Element:**<br>Continuous monitoring and integration of best practices. |
+| **Key Focus 1:**<br>ESG investors award higher valuation multiples to companies with circular resilience. | **Key Focus 2:**<br>Lowering commodity price volatility risk reduces corporate cost of capital. | **Key Focus 3:**<br>Extended product lifespans generate recurring subscription revenue models. | **Accounting Innovation:**<br>Capitalizing retained product assets on corporate balance sheets. |
 
-**Visual Note:** Four feature badge cards displaying key pillars and performance indicators in clean frames.  
+**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
-**Tipe Halaman:** List/Value  
+**Tipe Halaman:** Opener  
 **Judul Halaman:** Employee Engagement Culture Strategy  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **1. Insight:**<br>Training corporate engineering teams in circular design principles and software toolkits.<br><br>**2. Insight:**<br>Internal innovation hackathons generating circular business ideas from staff.<br><br>**3. Insight:**<br>Executive compensation tied directly to circular economy performance indicators. | **Talent Attraction**: Top university graduates seek out circular sustainability leaders.<br><br>**Corporate Purpose**: Aligning everyday office work with global planetary stewardship. |
+| Kolom 1 |
+|---------|
+| Training corporate engineering teams in circular design principles and software toolkits. Internal innovation hackathons generating circular business ideas from staff.<br><br>Executive compensation tied directly to circular economy performance indicators. Top university graduates seek out circular sustainability leaders. |
 
-**Visual Note:** Two high-impact cards contrasting systemic impact with community and business value.  
+**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
 
 ---
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Preparing for Extended Producer Responsibility (EPR) legislation across major markets.<br><br>**2. Insight:**<br>Complying with digital product passport regulations tracking material provenance.<br><br>**3. Insight:**<br>Corporate lobby advocacy for tax incentives supporting recycled content usage. | **Global Alignment**: Adopting ISO standards for circular economy management systems.<br><br>**Market Access**: Ensuring uninterrupted regulatory access to key global trade markets. |
+| **Key Focus 1:**<br>Preparing for Extended Producer Responsibility (EPR) legislation across major markets. | **Key Focus 2:**<br>Complying with digital product passport regulations tracking material provenance. |
 
 **Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
 
@@ -143,7 +143,7 @@
 
 **Text:**
 - The Circular Business Imperative
-- Building a sustainable and resilient future through proactive leadership.
+- Empowering sustainable progress through innovation and conscious design.
 - Corporate Circular Strategy Institute
 - www.reallygreatsite.com
 
@@ -157,7 +157,7 @@
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
 - Aaron Loeb (Presenter Name)

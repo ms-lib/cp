@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional presentation cover styled in warm neutral linen & soft wood, minimalist zen layout. Clean typography and structured layout.  
+**Visual Note:** Elegant cover layout in warm neutral linen & soft wood, minimalist zen layout with modern typography and spacious layout.  
 
 **Text:**
 - Title: Simplicity by Living Design
-- Subtitle: Minimalist Living & Strategic Action Plan
+- Subtitle: Minimalist Living & Action Plan
 - Presented By: Chidi Eze
 - Presented To: Homeowners
 - Brand: Living Design Simplicity Studio
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| **Core Issue & Context:**<br>Hyper-consumerism leads to physical clutter, mental stress, and environmental strain.<br>Conscious living focuses on quality, functional utility, and emotional clarity over volume.<br>Decoupling personal happiness from continuous material acquisition.<br><br>**Strategic Objective:**<br>**Ecological Impact**: Lowering consumer demand reduces manufacturing emissions.<br>**Core Value**: Choosing items built to last, repair, and gracefully age over time. |
+| consumerism leads to physical clutter, mental stress, and environmental strain. Conscious living focuses on quality, functional utility, and emotional clarity over volume.<br><br>Decoupling personal happiness from continuous material acquisition. Lowering consumer demand reduces manufacturing emissions. |
 
-**Visual Note:** Prominent single-column card with clean typography and topic vector icon.  
+**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Utilizing natural, non-toxic materials like reclaimed wood, bamboo, and linen.<br><br>**2. Insight:**<br>Low-VOC paints improve indoor air quality and protect household health. | **1. Insight:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements.<br><br>**Space Efficiency**: Multi-functional furniture maximizes small urban apartment space. | **Thermal Comfort**: Natural insulation materials maintain stable room temperature. |
+| **Utilizing natural, non:**<br>toxic materials like reclaimed wood, bamboo, and linen. | **Low:**<br>VOC paints improve indoor air quality and protect household health. | **Key Focus 3:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements. |
 
-**Visual Note:** Three vertical feature columns styled with subtle background cards and category icons.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Auditing personal possessions to eliminate redundant and non-essential items.<br><br>**2. Insight:**<br>Donating, re-selling, or recycling excess items to keep products in active use.<br><br>**3. Insight:**<br>The 24-hour rule before non-essential purchases prevents impulsive consumer spending. | **Borrowing Economy**: Sharing tools and equipment with neighbors instead of buying.<br><br>**Mental Clarity**: Clean, uncluttered physical spaces reduce daily stress. |
+| **Key Focus 1:**<br>Auditing personal possessions to eliminate redundant and non-essential items. | **Donating, re:**<br>selling, or recycling excess items to keep products in active use. |
 
-**Visual Note:** Two-column comparison layout with bold headers and clean accent side borders.  
+**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Transforming a traditional urban home into a low-impact minimalist living space.<br><br>**2. Insight:**<br>Lead Design Consultant: **Chidi Eze**<br><br>**3. Insight:**<br>Homeowner / Client: **Howard Ong** | **Outcome**: Reduced monthly electricity consumption by 35% and waste by 60%.<br><br>**Satisfaction**: Improved indoor air quality metrics and enhanced living comfort. |
+| **Key Focus 1:**<br>Transforming a traditional urban home into a low-impact minimalist living space. | **Lead Design Consultant:**<br>**Chidi Eze**. |
 
-**Visual Note:** Split layout highlighting operational metrics and case study execution results.  
+**Visual Note:** Split layout highlighting key execution metrics and operational results.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Organizing kitchen pantries with glass jars to buy food in bulk without plastic packaging.<br><br>**2. Insight:**<br>Cooking meal portions intentionally to eliminate domestic food spoilage and waste. | **1. Insight:**<br>Growing home herbs and microgreens on sunlit window sills for fresh cooking.<br><br>**Composting**: Diverting kitchen scraps into indoor vermicomposting bins. | **Seasonal Eating**: Buying locally produced seasonal vegetables from nearby farmers. |
+| **Key Focus 1:**<br>Organizing kitchen pantries with glass jars to buy food in bulk without plastic packaging. | **Key Focus 2:**<br>Cooking meal portions intentionally to eliminate domestic food spoilage and waste. | **Key Focus 3:**<br>Growing home herbs and microgreens on sunlit window sills for fresh cooking. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies and innovation drivers.  
+**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
 
 ---
 
@@ -103,23 +103,23 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **1. Insight:**<br>Developing simple daily routines like turning off lights when leaving rooms.<br><br>**2. Insight:**<br>Taking shorter showers and utilizing water-saving showerhead attachments. | **1. Insight:**<br>Unplugging phantom electronics load devices when not in active operation.<br><br>**Smart Controls**: Programmable thermostats adjust heating while residents sleep. | **Habit Tracking**: Monitoring utility bills to observe monthly resource reductions. | **Key Element:**<br>Continuous monitoring and integration of best practices. |
+| **Key Focus 1:**<br>Developing simple daily routines like turning off lights when leaving rooms. | **Key Focus 2:**<br>Taking shorter showers and utilizing water-saving showerhead attachments. | **Key Focus 3:**<br>Unplugging phantom electronics load devices when not in active operation. | **Smart Controls:**<br>Programmable thermostats adjust heating while residents sleep. |
 
-**Visual Note:** Four feature badge cards displaying key pillars and performance indicators in clean frames.  
+**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
-**Tipe Halaman:** List/Value  
+**Tipe Halaman:** Opener  
 **Judul Halaman:** Mindful Work Life Balance  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **1. Insight:**<br>Integrating outdoor nature walks into daily work schedules to reduce stress.<br><br>**2. Insight:**<br>Transitioning away from digital screens during evening relaxation hours.<br><br>**3. Insight:**<br>Prioritizing experiences, relationships, and learning over material purchases. | **Community Connection**: Participating in neighborhood cleanups and garden projects.<br><br>**Holistic Health**: Physical exercise and quiet contemplation enhance personal wellbeing. |
+| Kolom 1 |
+|---------|
+| Integrating outdoor nature walks into daily work schedules to reduce stress. Transitioning away from digital screens during evening relaxation hours.<br><br>Prioritizing experiences, relationships, and learning over material purchases. Participating in neighborhood cleanups and garden projects. |
 
-**Visual Note:** Two high-impact cards contrasting systemic impact with community and business value.  
+**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
 
 ---
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Making natural household cleaners using vinegar, baking soda, and essential oils.<br><br>**2. Insight:**<br>Replacing single-use paper towels with washable organic cotton cloths.<br><br>**3. Insight:**<br>Maintenance routines that preserve furniture, appliances, and footwear longer. | **Toxic Chemical Reduction**: Eliminating synthetic air fresheners and harsh sprays.<br><br>**Budget Benefits**: Natural homemade cleaning solutions cost a fraction of commercial products. |
+| **Key Focus 1:**<br>Making natural household cleaners using vinegar, baking soda, and essential oils. | **Replacing single:**<br>use paper towels with washable organic cotton cloths. |
 
 **Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
 
@@ -143,7 +143,7 @@
 
 **Text:**
 - Simplicity by Living Design
-- Building a sustainable and resilient future through proactive leadership.
+- Empowering sustainable progress through innovation and conscious design.
 - Living Design Simplicity Studio
 - www.reallygreatsite.com
 
@@ -157,7 +157,7 @@
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
 - Chidi Eze (Presenter Name)

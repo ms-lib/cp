@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional presentation cover styled in industrial steel blue & forest green, logistics precision layout. Clean typography and structured layout.  
+**Visual Note:** Elegant cover layout in industrial steel blue & forest green, logistics precision layout with modern typography and spacious layout.  
 
 **Text:**
 - Title: Green Supply Chain Management
-- Subtitle: Green Supply Chain & Strategic Action Plan
+- Subtitle: Green Supply Chain & Action Plan
 - Presented By: Benjamin Shah
 - Presented To: Supply Chain VPs
 - Brand: Commercial Procurement Board
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| **Core Issue & Context:**<br>Upstream supply chains account for over 80% of a typical corporation's carbon footprint.<br>Global vendor networks present complex visibility and ethical compliance challenges.<br>Single-source supply chains face high vulnerability to climate-driven weather disruptions.<br><br>**Strategic Objective:**<br>**Strategic Priority**: Extending corporate environmental standards to all global vendors.<br>**Value Creation**: Lowering operational waste and mitigating supply chain delay risks. |
+| Upstream supply chains account for over 80% of a typical corporation's carbon footprint. Global vendor networks present complex visibility and ethical compliance challenges.<br><br>source supply chains face high vulnerability to climate-driven weather disruptions. Extending corporate environmental standards to all global vendors. |
 
-**Visual Note:** Prominent single-column card with clean typography and topic vector icon.  
+**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection.<br><br>**2. Insight:**<br>Requiring top-tier suppliers to set verified science-based carbon reduction targets. | **1. Insight:**<br>Contractual clauses mandating fair labor practices and safe working conditions.<br><br>**Vendor Auditing**: On-site third-party environmental inspections for supplier factories. | **Incentive Structures**: Preferential contract terms for high-performing green suppliers. |
+| **Key Focus 1:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection. | **Requiring top:**<br>tier suppliers to set verified science-based carbon reduction targets. | **Key Focus 3:**<br>Contractual clauses mandating fair labor practices and safe working conditions. |
 
-**Visual Note:** Three vertical feature columns styled with subtle background cards and category icons.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Shifting long-haul freight transport from aviation to high-efficiency rail and maritime.<br><br>**2. Insight:**<br>Transitioning short-haul delivery fleets to battery electric and hydrogen vehicles.<br><br>**3. Insight:**<br>Optimizing route planning software to minimize vehicle mileage and fuel consumption. | **Packaging Efficiency**: Eliminating excess void-fill and utilizing 100% recycled boxes.<br><br>**Consolidation**: Combining cargo shipments to maximize transport container fill rates. |
+| **Shifting long:**<br>haul freight transport from aviation to high-efficiency rail and maritime. | **Transitioning short:**<br>haul delivery fleets to battery electric and hydrogen vehicles. |
 
-**Visual Note:** Two-column comparison layout with bold headers and clean accent side borders.  
+**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Decarbonizing supply chain operations across 200 primary component suppliers.<br><br>**2. Insight:**<br>Program Director: **Benjamin Shah**<br><br>**3. Insight:**<br>Logistics Lead: **Brigitte Schwartz** | **Outcome**: Reduced Scope 3 supply chain carbon emissions by 34% over 3 years.<br><br>**Efficiency Gain**: Cut packaging material expenditures by $6.8 million annually. |
+| **Key Focus 1:**<br>Decarbonizing supply chain operations across 200 primary component suppliers. | **Program Director:**<br>**Benjamin Shah**. |
 
-**Visual Note:** Split layout highlighting operational metrics and case study execution results.  
+**Visual Note:** Split layout highlighting key execution metrics and operational results.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **1. Insight:**<br>Digital block-chain ledgers tracking raw material origin from mine to final product.<br><br>**2. Insight:**<br>Guaranteeing conflict-free minerals and deforestation-free timber procurement. | **1. Insight:**<br>Certified organic, fair-trade, and recycled material certification validation.<br><br>**Brand Reputation**: Eliminating risks of hidden environmental or human rights violations. | **Transparency**: Consumers scan QR codes to view complete product material provenance. |
+| **Digital block:**<br>chain ledgers tracking raw material origin from mine to final product. | **Guaranteeing conflict:**<br>free minerals and deforestation-free timber procurement. | **Certified organic, fair:**<br>trade, and recycled material certification validation. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies and innovation drivers.  
+**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
 
 ---
 
@@ -103,23 +103,23 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **1. Insight:**<br>Hosting annual corporate supplier sustainability summits and training webinars.<br><br>**2. Insight:**<br>Providing smaller vendors with free carbon accounting tools and software access. | **1. Insight:**<br>Co-investing with key suppliers in factory energy-efficiency retrofits and solar panels.<br><br>**Partnership Culture**: Collaborating with vendors as long-term transformation partners. | **Knowledge Sharing**: Dissemination of best practices for industrial water recycling. | **Key Element:**<br>Continuous monitoring and integration of best practices. |
+| **Key Focus 1:**<br>Hosting annual corporate supplier sustainability summits and training webinars. | **Key Focus 2:**<br>Providing smaller vendors with free carbon accounting tools and software access. | **Co:**<br>investing with key suppliers in factory energy-efficiency retrofits and solar panels. | **Partnership Culture:**<br>Collaborating with vendors as long-term transformation partners. |
 
-**Visual Note:** Four feature badge cards displaying key pillars and performance indicators in clean frames.  
+**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
-**Tipe Halaman:** List/Value  
+**Tipe Halaman:** Opener  
 **Judul Halaman:** Nearshoring Supply Network Resiliency  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 1  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **1. Insight:**<br>Rebalancing global supply chains with regional nearshoring procurement hubs.<br><br>**2. Insight:**<br>Reducing maritime transit distances lowers transport fuel emissions significantly.<br><br>**3. Insight:**<br>Regional supplier diversification protects against geopolitical trade disruptions. | **Inventory Optimization**: Demand-driven inventory management reduces excess stock.<br><br>**Agility**: Faster turnaround times for corporate customer product requests. |
+| Kolom 1 |
+|---------|
+| Rebalancing global supply chains with regional nearshoring procurement hubs. Reducing maritime transit distances lowers transport fuel emissions significantly.<br><br>Regional supplier diversification protects against geopolitical trade disruptions. Demand-driven inventory management reduces excess stock. |
 
-**Visual Note:** Two high-impact cards contrasting systemic impact with community and business value.  
+**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
 
 ---
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **1. Insight:**<br>Specifying mandatory minimum post-consumer recycled content in corporate purchase orders.<br><br>**2. Insight:**<br>Requiring suppliers to take back industrial packaging materials for reuse.<br><br>**3. Insight:**<br>Implementing zero-landfill-waste requirements across all tier-one supplier factories. | **Resource Closed-Loop**: Repurposing manufacturing scrap back into supplier raw feeds.<br><br>**Cost Sharing**: Shared cost savings resulting from joint supplier material efficiency. |
+| **Key Focus 1:**<br>Specifying mandatory minimum post-consumer recycled content in corporate purchase orders. | **Key Focus 2:**<br>Requiring suppliers to take back industrial packaging materials for reuse. |
 
 **Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
 
@@ -143,7 +143,7 @@
 
 **Text:**
 - Green Supply Chain Management
-- Building a sustainable and resilient future through proactive leadership.
+- Empowering sustainable progress through innovation and conscious design.
 - Commercial Procurement Board
 - www.reallygreatsite.com
 
@@ -157,7 +157,7 @@
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
 - Benjamin Shah (Presenter Name)
