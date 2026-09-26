@@ -31,10 +31,9 @@
 **Judul Halaman:** Philosophy of Living Design  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Hyper-consumerism leads to physical clutter mental clutter and. Conscious living focuses on quality functional utility and.<br><br>Decoupling personal happiness from continuous material acquisition. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Sustainable Interior Living Spaces  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Utilizing natural, non:**<br>synthetic materials like reclaimed wood bamboo and linen. | **Voc Paints Improve:**<br>VOC paints improve indoor air quality and protect.| **Maximizing Natural Daylight:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements.|
+| **Utilizing Natural Non:**<br>Utilizing natural non-synthetic materials like reclaimed wood bamboo. | **Low Voc Paints:**<br>Low-VOC paints improve indoor air quality and protect. | **Maximizing Natural Daylight:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Decluttering Circular Home Ownership  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Auditing Personal Possessions:**<br>Auditing personal possessions to eliminate redundant and non-essential items. | **Donating Re Selling:**<br>Donating re-selling or recycling excess items to keep. | **24 Hour Rule:**<br>The 24-hour rule before non-essential purchases prevents impulsive. | **Borrowing Economy:**<br>Sharing tools and equipment with neighbors instead of buying. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Auditing Personal Possessions:**<br>Auditing personal possessions to eliminate redundant and non-essential items.| **Donating, re:**<br>Selling or recycling excess items to keep products. |
-
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Residential Eco Living Transformation  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Transforming Traditional Urban:**<br>Transforming a traditional urban home into a low-impact.| **Lead Design Consultant:**<br>Chidi Eze for sustainable urban community growth. |
+| **Transforming Traditional Urban:**<br>Transforming a traditional urban home into a low-impact. | **Lead Design Consultant:**<br>Sustainable practices deliver long term value creation effectively. |
 
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Sustainable Food Living Habits  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Organizing Kitchen Pantries:**<br>Organizing kitchen pantries with glass jars to buy.| **Cooking Meal Portions:**<br>Cooking meal portions intentionally to eliminate domestic food.| **Growing Home Herbs:**<br>Growing home herbs and microgreens on sunlit window.|
+| **Organizing Kitchen Pantries:**<br>Organizing kitchen pantries with glass jars to buy. | **Cooking Meal Portions:**<br>Cooking meal portions intentionally to eliminate domestic food. | **Growing Home Herbs:**<br>Growing home herbs and microgreens on sunlit window. |
 
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Energy Water Mindful Habits  
 **Jumlah Kolom:** 4  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Developing Simple Daily:**<br>Developing simple daily routines like turning off lights.| **Taking Shorter Showers:**<br>Taking shorter showers and utilizing water-saving showerhead attachments.| **Unplugging Phantom Electronics:**<br>Unplugging phantom electronics load devices when not in.| **Smart Controls:**<br>Programmable thermostats adjust heating while residents sleep. |
+| **Developing Simple Daily:**<br>Developing simple daily routines like turning off lights. | **Taking Shorter Showers:**<br>Taking shorter showers and utilizing water-saving showerhead attachments. | **Unplugging Phantom Electronics:**<br>Unplugging phantom electronics load devices when not in. | **Smart Controls:**<br>Programmable thermostats adjust heating while residents sleep. |
 
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Mindful Work Life Balance  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Eco Friendly Cleaning Maintenance  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Natural Household Cleaners:**<br>Making natural household cleaners using vinegar baking soda.| **Replacing single:**<br>Use paper towels with washable organic cotton cloths. |
+| **Making Natural Household:**<br>Making natural household cleaners using vinegar baking soda. | **Replacing Single Use:**<br>Replacing single-use paper towels with washable organic cotton cloths. |
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Mindful Work Life Balance  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Integrating outdoor nature walks into daily work schedules. Transitioning away from digital screens during evening relaxation hours.<br><br>Prioritizing experiences relationships and learning over material purchases. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

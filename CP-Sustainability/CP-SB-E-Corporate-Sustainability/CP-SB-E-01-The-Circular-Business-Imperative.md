@@ -31,10 +31,9 @@
 **Judul Halaman:** Limits of Linear Business  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Traditional Take-Make-Waste industrial models face escalating material costs. Global regulatory pressure and carbon taxes encourage efficient practices.<br><br>Modern consumers demand ethically produced recyclable products and services. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Principles of Circular Design  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Designing Products Easy:**<br>Designing products for easy disassembly modular repair and.| **Utilizing non:**<br>synthetic bio-based or 100 recycled input materials in manufacturing. | **Standardizing Component Parts:**<br>Standardizing component parts across product lines to simplify refurbishment.|
+| **Designing Products Easy:**<br>Designing products for easy disassembly modular repair and. | **Utilizing Non synthetic:**<br>Utilizing non-synthetic bio-based or 100 recycled input materials. | **Standardizing Component Parts:**<br>Standardizing component parts across product lines to simplify refurbishment. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Reverse Logistics Takeback Systems  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Establishing corporate trade:**<br>In programs for legacy electronic equipment for sustainable. | **Building Reverse Logistics:**<br>Building reverse logistics networks to collect end-of-life products efficiently.|
+| **Establishing Corporate Trade:**<br>Establishing corporate trade-in programs for legacy electronic equipment. | **Building Reverse Logistics:**<br>Building reverse logistics networks to collect end-of-life products efficiently. |
 
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Global Electronics Manufacturer Study  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Implementing Circular Hardware:**<br>Implementing a circular hardware lease model across enterprise.| **Executive Sponsor:**<br>Aaron Loeb for sustainable urban community growth. |
+| **Circular Hardware Lease:**<br>Implementing a circular hardware lease model across enterprise. | **Executive Sponsor:**<br>Sustainable practices deliver long term value creation effectively. |
 
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Circular Industrial Symbiosis Strategy  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Partnering Industry Sectors:**<br>Partnering across industry sectors to utilize one factory's.| **Exchanging Industrial Waste:**<br>Exchanging industrial waste heat wastewater and byproduct chemicals locally.| **Industrial Parks Optimized:**<br>Industrial parks optimized for shared utility infrastructure and.|
+| **Partnering Industry Sectors:**<br>Partnering across industry sectors to utilize one factory's. | **Exchanging Industrial Waste:**<br>Exchanging industrial waste heat wastewater and byproduct chemicals locally. | **Eco Industrial Parks:**<br>Eco-industrial parks optimized for shared utility infrastructure and. |
 
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Financial Valuation Investor Metrics  
 **Jumlah Kolom:** 4  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Esg Investors Award:**<br>ESG investors award higher valuation multiples to companies.| **Lowering Commodity Price:**<br>Lowering commodity price volatility risk reduces corporate cost.| **Extended Product Lifespans:**<br>Extended product lifespans generate recurring subscription revenue models.| **Accounting Innovation:**<br>Capitalizing retained product assets on corporate balance sheets. |
+| **Esg Investors Award:**<br>ESG investors award higher valuation multiples to companies. | **Lowering Commodity Price:**<br>Lowering commodity price volatility risk reduces corporate cost. | **Extended Product Lifespans:**<br>Extended product lifespans generate recurring subscription revenue models. | **Accounting Innovation:**<br>Capitalizing retained product assets on corporate balance sheets. |
 
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Employee Engagement Culture Strategy  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Regulatory Policy Global Standards  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Preparing Extended Producer:**<br>Preparing for Extended Producer Responsibility EPR legislation across.| **Complying Digital Product:**<br>Complying with digital product passport regulations tracking material provenance.|
+| **Preparing Extended Producer:**<br>Preparing for Extended Producer Responsibility EPR legislation across. | **Complying Digital Product:**<br>Complying with digital product passport regulations tracking material provenance. |
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Employee Engagement Culture Strategy  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Training corporate engineering teams in circular design principles. Internal innovation hackathons generating circular business ideas from staff.<br><br>Executive compensation tied directly to circular economy performance indicators. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

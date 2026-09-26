@@ -31,10 +31,9 @@
 **Judul Halaman:** Science Based Targets Initiative  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Setting carbon reduction targets consistent with limiting global. Arbitrary net-zero pledges without scientific backing face intense.<br><br>SBTi validation requires near-term 50 carbon cuts within. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Operational Energy Decarbonization Strategy  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Retrofitting Commercial Facilities:**<br>Retrofitting commercial facilities with high-efficiency LED HVAC and. | **Transitioning Industrial Thermal:**<br>Transitioning industrial thermal heating processes from fossil fuels. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Retrofitting Commercial Facilities:**<br>Retrofitting commercial facilities with high-efficiency LED HVAC and.| **Transitioning Industrial Thermal:**<br>Transitioning industrial thermal heating processes from fossil fuels.| **Executing long:**<br>Term Power Purchase Agreements PPAs with regional solar. |
-
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Process Fleet Electrification Pathways  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Replacing Internal Combustion:**<br>Replacing internal combustion vehicle fleets with electric and. | **Eliminating High Global:**<br>Eliminating high-global-warming-potential industrial refrigerants from cooling systems. | **Optimizing Manufacturing Processes:**<br>Optimizing manufacturing processes to eliminate fugitive methane and. | **Operational Benefits:**<br>Lower fuel and maintenance expenditures for corporate fleets. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Replacing Internal Combustion:**<br>Replacing internal combustion vehicle fleets with electric and.| **Eliminating high:**<br>Global-warming-potential industrial refrigerants from cooling systems for sustainable. |
-
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Corporate Net Zero Execution  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Executing net:**<br>Zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>Estelle Darcy for sustainable urban community growth. |
+| **Executing Net Zero:**<br>Executing net-zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>Sustainable practices deliver long term value creation effectively. |
 
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Scope Three Decarbonization Strategies  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Engaging Top 100:**<br>Engaging top 100 suppliers to adopt 100 renewable.| **Redesigning Products Reduce:**<br>Redesigning products to reduce energy consumption during consumer.| **Optimizing Global Shipping:**<br>Optimizing global shipping logistics to transition freight from.|
+| **Engaging Top 100:**<br>Engaging top 100 suppliers to adopt 100 renewable. | **Redesigning Products Reduce:**<br>Redesigning products to reduce energy consumption during consumer. | **Optimizing Global Shipping:**<br>Optimizing global shipping logistics to transition freight from. |
 
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** High Integrity Carbon Neutralization  
 **Jumlah Kolom:** 4  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Residual Emissions 10:**<br>Residual emissions under 10 neutralized exclusively through high-integrity.| **Direct Air Capture:**<br>Direct Air Capture DAC and permanent geological carbon.| **High:**<br>Quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Avoided Pitfalls:**<br>Rejecting unverified low-quality carbon offset credits for sustainable. |
+| **Residual Emissions 10:**<br>Residual emissions under 10 neutralized exclusively through high-integrity. | **Direct Air Dac:**<br>Direct Air Capture DAC and permanent geological carbon. | **High Quality Certified:**<br>High-quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Avoided Pitfalls:**<br>Rejecting unverified low-quality carbon offset credits for sustainable. |
 
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Internal Carbon Pricing Allocation  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Employee Culture Climate Leadership  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Internal Climate Academy:**<br>Internal climate academy educating staff on corporate net-zero.| **Departmental Carbon Budgets:**<br>Departmental carbon budgets tracking team emissions performance quarterly.|
+| **Internal Climate Academy:**<br>Internal climate academy educating staff on corporate net-zero. | **Departmental Carbon Budgets:**<br>Departmental carbon budgets tracking team emissions performance quarterly. |
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Internal Carbon Pricing Allocation  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Establishing internal carbon fee 75 per ton CO2. Internal carbon tax proceeds fund corporate clean tech.<br><br>Green capital expenditure CapEx prioritized for projects with. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

@@ -31,10 +31,9 @@
 **Judul Halaman:** Power of Grassroots Mobilization  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Global environmental crises require strong coordinated neighborhood civic action. Earth Day serves as a powerful focal point.<br><br>Community events bridge social divides and foster shared. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Planning Effective Community Cleanups  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Organizing Neighborhood Litter:**<br>Organizing neighborhood litter removal across local parks beaches.| **Providing Volunteers Protective:**<br>Providing volunteers with protective gloves trash pickers and.| **Sorting collected waste on:**<br>Site to separate recyclables from landfill trash. |
+| **Organizing Neighborhood Litter:**<br>Organizing neighborhood litter removal across local parks beaches. | **Providing Volunteers Protective:**<br>Providing volunteers with protective gloves trash pickers and. | **Sorting Collected Waste:**<br>Sorting collected waste on-site to separate recyclables from. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Urban Reforestation Planting Drives  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Partnering City Arborists:**<br>Partnering with city arborists to plant native trees.| **Establishing Wildflower Pollinator:**<br>Establishing wildflower pollinator gardens in public parkways and.|
+| **Partnering City Arborists:**<br>Partnering with city arborists to plant native trees. | **Establishing Wildflower Pollinator:**<br>Establishing wildflower pollinator gardens in public parkways and. |
 
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Citywide Earth Day Mobilization  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Coordinating Multi Site:**<br>Coordinating a multi-site Earth Day event across 12. | **Lead Campaign Director:**<br>Sustainable practices deliver long term value creation effectively. | **Youth Volunteer Coordinator:**<br>Sustainable practices deliver long term value creation effectively. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Coordinating a multi:**<br>Site Earth Day event across 12 city districts. | **Lead Campaign Director:**<br>Cia Rodriguez for sustainable urban community growth. |
-
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Eco Workshops Education Hubs  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Hosting Interactive Workshops:**<br>Hosting interactive workshops on home composting recycling and. | **Repair Cafes Where:**<br>Repair Cafes where skilled volunteers fix broken household. | **Sustainable Cooking Demonstrations:**<br>Sustainable cooking demonstrations promoting plant-based zero-waste recipes. | **Skill Sharing:**<br>Empowering community members with practical eco-friendly skills. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Hosting Interactive Workshops:**<br>Hosting interactive workshops on home composting recycling and.| **Repair Cafes Where:**<br>Repair Cafes where skilled volunteers fix broken household.| **Sustainable Cooking Demonstrations:**<br>Sustainable cooking demonstrations promoting plant-based zero-waste recipes.|
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Local Business Merchant Engagement  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Partnering Neighborhood Shops:**<br>Partnering with neighborhood shops to eliminate single-use plastic. | **Local Restaurants Offering:**<br>Local restaurants offering special planet-friendly vegan lunch menus. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Partnering Neighborhood Shops:**<br>Partnering with neighborhood shops to eliminate single-use plastic.| **Local Restaurants Offering:**<br>Local restaurants offering special planet-friendly vegan lunch menus.| **Corporate Sponsorship Volunteer:**<br>Corporate sponsorship for volunteer T-shirts tools and refreshments.| **Economic Synergy:**<br>Demonstrating that sustainability supports local small business growth. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Digital Mobilization Social Media  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Policy Advocacy Town Halls  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Organizing Community Town:**<br>Organizing community town hall meetings with municipal elected. | **Presenting Citizen Petitions:**<br>Presenting citizen petitions for expanded municipal bike lanes. | **Elevating Environmental Justice:**<br>Elevating environmental justice concerns from historically underserved neighborhoods. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Organizing Community Town:**<br>Organizing community town hall meetings with municipal elected.| **Presenting Citizen Petitions:**<br>Presenting citizen petitions for expanded municipal bike lanes.|
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Digital Mobilization Social Media  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Utilizing social media campaigns to recruit volunteers and. Photo contests highlighting local natural beauty and volunteer.<br><br>Digital pledge campaigns encouraging residents to commit to. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

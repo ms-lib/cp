@@ -31,10 +31,9 @@
 **Judul Halaman:** The Urban Water Challenge  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Climate variability causes erratic precipitation and prolonged regional droughts. Aging water distribution infrastructure suffers high pipe leakage losses.<br><br>Rapid population growth places unprecedented strain on existing aquifers. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Advanced Water Purification Tech  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Membrane Bioreactor Systems:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment.| **Reverse Osmosis Desalination:**<br>Reverse osmosis desalination supplies reliable drinking water to.| **Advanced Oxidation Processes:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-particles.|
+| **Membrane Bioreactor Systems:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment. | **Reverse Osmosis Desalination:**<br>Reverse osmosis desalination supplies reliable drinking water to. | **Advanced Oxidation Processes:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-particles. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Rainwater Harvesting Managed Recharge  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Large Scale Urban:**<br>Large-scale urban cisterns collect stormwater runoff from industrial. | **Managed Aquifer Recharge:**<br>Managed aquifer recharge injects treated water into underground. | **Rain Gardens Along:**<br>Rain gardens along roadways filter heavy road pollutants. | **Capacity Management:**<br>Reducing municipal stormwater drainage system overload for sustainable. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Large:**<br>Scale urban cisterns collect stormwater runoff from industrial. | **Managed Aquifer Recharge:**<br>Managed aquifer recharge injects treated water into underground.|
-
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Zero Water Waste Municipality  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Implementation of city:**<br>Wide recycled water network for industrial cooling. | **Sustainable Community Strategy 2:**<br>Cahaya Dewi for sustainable urban community growth.|
+| **Implementation City Wide:**<br>Implementation of city-wide recycled water network for industrial cooling. | **Zero Leadership:**<br>Sustainable practices deliver long term value creation effectively. |
 
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Smart Metering Leak Detection  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Acoustic Iot Sensors:**<br>Acoustic IoT sensors detect subterranean pipe leaks before. | **Smart Digital Meters:**<br>Smart digital meters provide real-time water consumption feedback. | **Dynamic Pricing Models:**<br>Dynamic pricing models encourage water conservation during extreme. | **Loss Reduction:**<br>Cutting non-revenue water loss from 25 down to. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Acoustic Iot Sensors:**<br>Acoustic IoT sensors detect subterranean pipe leaks before.| **Smart digital meters provide real:**<br>Time water consumption feedback to residents for sustainable. | **Dynamic Pricing Models:**<br>Dynamic pricing models encourage water conservation during extreme.|
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Industrial Commercial Water Recycling  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Mandating Closed Loop:**<br>Mandating closed-loop water treatment systems for high-water commercial users. | **Greywater Reuse Systems:**<br>Greywater reuse systems flush commercial office building toilets. | **Financial Incentives Factories:**<br>Financial incentives for factories adopting zero-liquid-discharge ZLD technologies. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Mandating closed:**<br>Loop water treatment systems for high-water commercial users. | **Greywater Reuse Systems:**<br>Greywater reuse systems flush commercial office building toilets.| **Financial Incentives Factories:**<br>Financial incentives for factories adopting zero-liquid-discharge ZLD technologies.| **Conservation Impact:**<br>Saving millions of gallons of drinking water daily. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Watershed Protection Upstream Conservation  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Public Education Behavior Shift  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **School Curriculum Modules:**<br>School curriculum modules teaching urban children water conservation habits.| **Public campaigns promoting drought:**<br>Tolerant landscaping and xeriscaping practices for sustainable urban. |
+| **School Curriculum Modules:**<br>School curriculum modules teaching urban children water conservation habits. | **Public Campaigns Promoting:**<br>Public campaigns promoting drought-tolerant landscaping and xeriscaping practices. |
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Watershed Protection Upstream Conservation  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Partnering with rural upstream communities to protect municipal. Reforestation along riverbanks reduces soil erosion and sediment.<br><br>Preserving natural wetlands provides low-cost organic filtering of. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

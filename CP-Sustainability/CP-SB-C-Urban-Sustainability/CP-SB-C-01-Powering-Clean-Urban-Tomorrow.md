@@ -31,10 +31,9 @@
 **Judul Halaman:** Urban Clean Energy Landscape  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Current municipal energy consumption relies heavily on legacy. Decentralized renewable generation reduces transmission losses across high-density zones.<br><br>Balancing peak electrical demand during extreme temperature fluctuations. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Renewable Energy Grid Integration  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Grid modernization requires real:**<br>Time battery energy storage systems BESS for sustainable. | **Commercial Skyscrapers Act:**<br>Commercial skyscrapers can act as localized solar power.| **Grid Stability:**<br>Utilizing AI algorithms to predict solar and wind intermittency. |
+| **Grid Modernization Real:**<br>Grid modernization requires real-time battery energy storage systems BESS. | **Commercial Skyscrapers Act:**<br>Commercial skyscrapers can act as localized solar power. | **Grid Stability:**<br>Utilizing AI algorithms to predict solar and wind intermittency. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** District Cooling Heating Systems  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Traditional Centralized Hvac:**<br>Traditional centralized HVAC units emit significant thermal waste.| **Centralized District Cooling:**<br>Centralized district cooling plants leverage high-efficiency water chillers.|
+| **Traditional Centralized Hvac:**<br>Traditional centralized HVAC units emit significant thermal waste. | **Centralized District Cooling:**<br>Centralized district cooling plants leverage high-efficiency water chillers. |
 
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Municipal Solar Deployment Study  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Metropolis Solar Initiative:**<br>Installing 100 MW solar capacity on civic buildings. | **Sustainable Urban Community:**<br>Alexander Aronowitz for sustainable urban community growth.|
+| **Metropolis Solar Initiative:**<br>Installing 100 MW solar capacity on civic buildings. | **Municipal Leadership:**<br>Sustainable practices deliver long term value creation effectively. |
 
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Wind Micro Turbine Innovations  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Building:**<br>Integrated wind turbines capture high-altitude rooftop airflow patterns. | **Micro:**<br>Turbines installed on bridges and overpasses leverage highway. | **Design Focus:**<br>Silent operation and bird-safe turbine vertical-axis blades. |
+| **Building Integrated Wind:**<br>Building-integrated wind turbines capture high-altitude rooftop airflow patterns. | **Micro Turbines Bridges:**<br>Micro-turbines installed on bridges and overpasses leverage highway. | **Design Focus:**<br>Silent operation and bird-safe turbine vertical-axis blades. |
 
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Policy and Incentive Frameworks  
 **Jumlah Kolom:** 4  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Renewable Energy Portfolio:**<br>Renewable energy portfolio standards for commercial property developers.| **Tax Credits Expedited:**<br>Tax credits and expedited building permits for net-zero.| **Public-Private Partnerships:**<br>Attracting private venture capital into municipal clean tech. | **Feed:**<br>In tariffs for residential solar producers feeding excess. |
+| **Renewable Energy Portfolio:**<br>Renewable energy portfolio standards for commercial property developers. | **Tax Credits Expedited:**<br>Tax credits and expedited building permits for net-zero. | **Public Private Partnerships:**<br>Attracting private venture capital into municipal clean tech. | **Feed Tariffs Residential:**<br>Feed-in tariffs for residential solar producers feeding excess. |
 
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Smart Grid Operations Security  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Community Clean Energy Access  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Income Neighborhood Solar:**<br>Income neighborhood solar programs ensure equitable clean energy distribution.| **Community Solar Gardens:**<br>Community solar gardens allow renters to subscribe to.|
+| **Low Income Neighborhood:**<br>Low-income neighborhood solar programs ensure equitable clean energy distribution. | **Community Solar Gardens:**<br>Community solar gardens allow renters to subscribe to. |
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Smart Grid Operations Security  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Real-time IoT sensors detect grid strain and automatically. Advanced cyber-defense protocols protect critical municipal energy infrastructure.<br><br>Demand-response programs reward industrial facilities for shifting peak. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

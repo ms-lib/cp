@@ -31,10 +31,9 @@
 **Judul Halaman:** Scope Three Supply Chain  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Upstream supply chains account for over 80 of. Global vendor networks present complex visibility and ethical.<br><br>Single-source supply chains face high vulnerability to climate-driven. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Sustainable Vendor Procurement Policies  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Mandatory Environmental Scorecards:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection. | **Requiring Top Tier:**<br>Requiring top-tier suppliers to set verified science-based carbon. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Mandatory Environmental Scorecards:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection.| **Requiring top:**<br>Tier suppliers to set verified science-based carbon reduction targets. | **Contractual Clauses Mandating:**<br>Contractual clauses mandating fair labor practices and safe.|
-
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Sustainable Freight Logistics Solutions  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Shifting Long Haul:**<br>Shifting long-haul freight transport from aviation to high-efficiency. | **Transitioning Short Haul:**<br>Transitioning short-haul delivery fleets to battery electric and. | **Optimizing Route Planning:**<br>Optimizing route planning software to minimize vehicle mileage. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Shifting long:**<br>Haul freight transport from aviation to high-efficiency rail. | **Transitioning short:**<br>Haul delivery fleets to battery electric and hydrogen vehicles. |
-
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Global Electronics Supply Network  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Decarbonizing Supply Chain:**<br>Decarbonizing supply chain operations across 200 primary component suppliers. | **Global Leadership:**<br>Sustainable practices deliver long term value creation effectively. | **Logistics Lead:**<br>Sustainable practices deliver long term value creation effectively. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Decarbonizing Supply Chain:**<br>Decarbonizing supply chain operations across 200 primary component suppliers.| **Sustainable Community Strategy 4:**<br>Benjamin Shah for sustainable urban community growth.|
-
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Sustainable Material Supply Traceability  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Digital Block Chain:**<br>Digital block-chain ledgers tracking raw material origin from. | **Guaranteeing ethically sourced:**<br>guaranteeing ethically sourced minerals and deforestation-free timber procurement. | **Certified Organic Fair:**<br>Certified organic fair-trade and recycled material certification validation. | **Brand Reputation:**<br>Eliminating risks of hidden environmental or human rights violations. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Digital block:**<br>Chain ledgers tracking raw material origin from mine. | **Ethical Mineral Sourcing:**<br>Ethically sourced minerals and deforestation-free timber procurement for sustainable. | **Certified organic, fair:**<br>Trade and recycled material certification validation for sustainable. |
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Supplier Capacity Building Training  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Hosting Annual Corporate:**<br>Hosting annual corporate supplier sustainability summits and training webinars. | **Providing Smaller Vendors:**<br>Providing smaller vendors with free carbon accounting tools. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Hosting Annual Corporate:**<br>Hosting annual corporate supplier sustainability summits and training webinars.| **Providing Smaller Vendors:**<br>Providing smaller vendors with free carbon accounting tools.| **Investing Key Suppliers:**<br>Investing with key suppliers in factory energy-efficiency retrofits.| **Partnership Culture:**<br>Collaborating with vendors as long-term transformation partners. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Nearshoring Supply Network Resiliency  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Circular Procurement Waste Reduction  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Specifying Mandatory Minimum:**<br>Specifying mandatory minimum post-consumer recycled content in corporate. | **Requiring Suppliers Take:**<br>Requiring suppliers to take back industrial packaging materials. | **Zero Landfill Waste:**<br>Implementing zero-landfill-waste requirements across all tier-one supplier factories. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Specifying mandatory minimum post:**<br>Consumer recycled content in corporate purchase orders. | **Requiring Suppliers Take:**<br>Requiring suppliers to take back industrial packaging materials.|
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Nearshoring Supply Network Resiliency  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Rebalancing global supply chains with regional nearshoring procurement hubs. Reducing maritime transit distances lowers transport fuel emissions significantly.<br><br>Regional supplier diversification protects against geopolitical trade disruptions. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

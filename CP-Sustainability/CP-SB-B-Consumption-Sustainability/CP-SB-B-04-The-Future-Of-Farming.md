@@ -2,148 +2,149 @@
 ## The Future of Farming
 
 **Sub-Topic:** CP-SB-B-Consumption-Sustainability  
-**Main Keywords:** future of farming, organic agronomy, precision agriculture, smart farming, hydroponic systems, sustainable food, Werner & Spencer  
-**Audience:** Farmers, Agricultural Students, Consumers, Policy Makers  
-**Style:** Modern Agro-Green & Warm Ochre, Clean Comparison Layout  
-**Tone:** Balanced, analytical, forward-looking  
+**Main Keywords:** future of farming, regenerative agriculture, vertical farming, precision agriculture, soil health, Borcelle Agri  
+**Audience:** Farmers, Agricultural Students, Agronomists, Eco Consumers  
+**Style:** Harvest Gold & Field Green, Agricultural Tech Layout  
+**Tone:** Forward-thinking, practical, inspiring  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→2→3→2→3→2→2→3→1  
+**Pattern Kolom:** 1→1→2→3→2→3→2→1→3→1  
 
 ---
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** High-end agricultural presentation cover. Warm ochre and deep leaf green split background with wheat and circuit vector illustrations.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: The Future of Farming
-- Subtitle: Fusing Organic Ecological Principles with Precision Smart Agriculture
-- Presented By: Teddy Yu
-- Brand: Werner & Spencer
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
+- Presented By: David Miller
+- Presented To: Farmers
+- Brand: Borcelle Agri Lab
 
 ---
 
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Global Sustainable Agricultural Imperatives  
+**Judul Halaman:** Understanding Key Challenges  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Balancing Yield & Sustainability:**<br>Rising global food demand coupled with shrinking arable land forces a revolution in agriculture. Combining organic soil stewardship with precision technology ensures sustainable, climate-resilient food production.<br><br>**Core Focus:** Merging natural ecological balance with high-efficiency technological precision. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Single prominent card with warm ochre background and clean text layout.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Principles of Organic Agronomy  
+**Judul Halaman:** Strategic Insights 3  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Natural Inputs & Biological Balance:**<br>Utilizes compost, green manure, and natural crop rotations to maintain soil vitality. | **Soil Biodiversity & Natural Pest Resistance:**<br>Enhances soil microbial life and polyculture systems to control pests naturally. |
+| **Strategic Focus 1 49:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 49:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Two organic farming cards in deep leaf green and warm soil brown.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Precision Smart Farming Innovations  
+**Judul Halaman:** Strategic Insights 4  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **IoT Sensors & Drones:**<br>Track real-time soil moisture, crop health parameters, and weather parameters. | **Vertical & Hydroponic Farms:**<br>Grow crops indoors without soil using nutrient-recirculating water. | **Automated Drip Systems:**<br>Deliver exact water and nutrient doses directly to plant roots. |
+| **Strategic Focus 1 50:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 50:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 33:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three smart tech cards in vibrant teal and steel green with drone/sensor icons.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
-**Tipe Halaman:** Comparison  
-**Judul Halaman:** Agricultural Side Method Analysis  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Strategic Insights 5  
 **Jumlah Kolom:** 2  
 
-| Kolom 1 (Organic Soil Agronomy) | Kolom 2 (Precision Tech Systems) |
-|----------------------------------|-----------------------------------|
-| **Nature-Grounded Systems:**<br>Soil-based; relies on seasonal climate; manual soil management.<br><br>**Market Perception:**<br>Valued for natural purity, zero synthetic chemicals, and soil biodiversity. | **Controlled Environment:**<br>Soil-free hydroponics; climate-controlled; app & sensor monitoring.<br><br>**Yield Efficiency:**<br>High crop yield per square meter; significant initial technology investment. |
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Strategic Focus 1 51:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 51:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Side-by-side comparison layout contrasting soil-based organic vs indoor tech farming.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Environmental Footprint Resource Use  
+**Judul Halaman:** Strategic Insights 6  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Groundwater Protection:**<br>Organic methods avoid synthetic pesticides, safeguarding aquatic life. | **Spatial Footprint Efficiency:**<br>Vertical tech yields up to 10x more produce per square meter than traditional fields. | **Water Conservation:**<br>Hydroponic recirculating systems reduce water consumption by up to 90%. |
+| **Strategic Focus 1 52:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 52:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 34:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three environmental analysis cards in leaf green, ochre, and teal.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Economic Viability and Scalability  
-**Jumlah Kolom:** 2  
-
-| Kolom 1 (Organic Farming Profile) | Kolom 2 (Precision Tech Profile) |
-|-----------------------------------|----------------------------------|
-| **Labor-Intensive, Premium Pricing:**<br>Requires manual weeding and monitoring, resulting in premium organic pricing. | **Capital-Intensive, Urban Scalable:**<br>High initial setup setup cost, but enables year-round urban food production. |
-
-**Visual Note:** Two market analysis cards styled in earthy tones with financial trend graphics.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Determining Optimal Farming Models  
+**Judul Halaman:** Strategic Insights 7  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Organic: Rural & Heritage:**<br>Ideal for rural regions with fertile soil and consumers prioritizing natural heritage. | **Tech: Urban & Arid Zones:**<br>Ideal for dense urban centers, water-scarce regions, and indoor farming setups. |
+| **Strategic Focus 1 53:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 53:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Two decision framework cards contrasting rural traditional vs urban high-tech.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Integrated Smart Organic Future  
+**Judul Halaman:** Strategic Insights 9  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Drone Soil Mapping:**<br>Drones analyze organic soil health without synthetic inputs. | **Precision Organic Fertigation:**<br>Smart drip systems deliver liquid compost to field crops. | **Resilient Regional Food:**<br>Merging both creates weather-proof, highly productive food networks. |
+| **Strategic Focus 1 54:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 54:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 35:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three integration cards showcasing the fusion of organic soil care with smart technology.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Inspiring Sustainable Impact  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover in warm ochre with inspiring agriculture tagline.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- The Future of Farming
-- Fusing natural wisdom with technological innovation feeds tomorrow's world.
-- Werner & Spencer
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
+- Borcelle Agri Lab
 - www.reallygreatsite.com
 
 ---
@@ -151,14 +152,14 @@
 ## NOTES FOR DESIGNER
 
 ### Design Philosophy:
-- **Tone:** Balanced, analytical, and forward-looking.
-- **Color Palette:** Warm ochre, deep leaf green, soil brown, teal.
+- **Tone:** Forward-Thinking, Practical, Inspiring.
+- **Color Palette:** Harvest Gold, Field Green, Warm Soil Brown, Sky Blue.
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
-- Teddy Yu (Presenter Name)
-- Werner & Spencer (Brand Name)
+- David Miller (Presenter Name)
+- Borcelle Agri Lab (Brand Name)
 - www.reallygreatsite.com (Standard Website)

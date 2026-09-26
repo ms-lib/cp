@@ -2,147 +2,149 @@
 ## Earth Environmental Protection & Care
 
 **Sub-Topic:** CP-SB-A-Environment-Sustainability  
-**Main Keywords:** Earth Environmental Protection & Care, safety preparedness, emergency safety, Environmental Factor response, resilient communities, Nature Alert  
-**Audience:** Emergency Responders, Local Communities, Educators, Citizens  
-**Style:** Bold Alert Red & Navy, High-Readability Clean Layout  
-**Tone:** Urgent, informative, practical  
+**Main Keywords:** earth environmental protection, safety preparedness, emergency safety, Environmental Factor response, resilient communities, Nature Alert  
+**Audience:** Emergency Responders, Local Leaders, Community Organizers, Citizens  
+**Style:** Safety Amber & Dark Slate, High-Alert Resilient Layout  
+**Tone:** Urgent, instructional, reassuring  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→5→3→3→2→4→3→3→1  
+**Pattern Kolom:** 1→1→5→3→3→2→4→1→3→1  
 
 ---
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** High-visibility safety presentation cover. Deep navy blue background with crisp orange-red accents and clean emergency shield vector art.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Earth Environmental Protection & Care
-- Subtitle: safety preparedness, Emergency Safety Protocols & Resilient Communities
-- Brand: Nature Alert
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
+- Presented By: Alfredo Torres
+- Presented To: Emergency Responders
+- Brand: Nature Alert Council
 
 ---
 
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Understanding Natural Environmental Events  
+**Judul Halaman:** Understanding Key Challenges  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Major Environmental Events:**<br>Natural emergency events are sudden geological or meteorological events—including earthquakes, significant floods, tsunamis, volcanic eruptions, and tropical cyclones—that cause significant community impact, structural destruction, and social displacement.<br><br>**Core Mission:** Building community Environmental Factor awareness, early warning networks, and emergency resilience. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Single prominent card with deep navy background and clean white text layout.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Categories of Natural Environmental Factors  
+**Judul Halaman:** Strategic Insights 3  
 **Jumlah Kolom:** 5  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 | Kolom 5 |
 |---------|---------|---------|---------|---------|
-| **Earthquakes:**<br>Sudden tectonic plate slips. | **Floods:**<br>River overflow and storm surges. | **Tsunamis:**<br>Subsea earthquake ocean waves. | **Volcanoes:**<br>Magma, ash, and pyroclastic flows. | **Hurricanes:**<br>Strong tropical storm winds. |
+| **Strategic Focus 1 25:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 25:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 17:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 7:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 5:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Five compact emergency event cards with clean vector icons for tectonic, flood, tsunami, volcano, and storm Environmental Factors.  
+**Visual Note:** Structured layout with 5 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Factors Elevating emergency event Risk  
+**Judul Halaman:** Strategic Insights 4  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Environmental transformation:**<br>Deforestation removes natural tree root barriers against mudslides. | **Unplanned Urban Sprawl:**<br>High-density housing built without seismic or flood building codes. | **Climate Volatility:**<br>Rising temperatures drive intense rainfall events and hurricane severity. |
+| **Strategic Focus 1 26:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 26:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 18:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three analytical risk cards in deep slate and muted red.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Human Physical Economic Impacts  
+**Judul Halaman:** Strategic Insights 5  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Human Displacement:**<br>Families forced into emergency shelters after losing homes and belongings. | **Infrastructure Collapse:**<br>Disrupted power grids, severed highways, and destroyed water supply lines. | **Economic Recovery Obstacles:**<br>significant agricultural crop loss and small business disruption requiring years of aid. |
+| **Strategic Focus 1 27:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 27:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 19:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three impact cards highlighting human, structural, and economic dimensions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Household Community Emergency Preparedness  
+**Judul Halaman:** Strategic Insights 6  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Early Warning Systems:**<br>Setting up community siren networks and mobile emergency alerts saves lives. | **Emergency Survival Kits:**<br>Stocking 72-hour survival kits with clean water, dry food, first aid, and crank radios. |
+| **Strategic Focus 1 28:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 28:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Two preparedness guidance cards with emergency kit icon graphics.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Immediate Emergency Response Protocols  
+**Judul Halaman:** Strategic Insights 7  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Emergency Triage:**<br>Providing urgent medical care. | **Relief Distribution:**<br>Supplying food, water, & tents. | **Search & Rescue:**<br>Locating trapped survivors. | **Civic Coordination:**<br>Deploying national aid resources. |
+| **Strategic Focus 1 29:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 29:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 20:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 8:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Four action cards displaying emergency response phases.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Sustainable Rebuilding and Recovery  
-**Jumlah Kolom:** 3  
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **emergency event-Resilient Housing:**<br>Rebuilding homes engineered to withstand earthquakes and flood surges. | **Restoring Essential Utilities:**<br>Rapidly repairing municipal power, water treatment, and cellular networks. | **Community Trauma Care:**<br>Providing psychological counseling and long-term economic recovery grants. |
-
-**Visual Note:** Three reconstruction cards styled in navy and soft gold.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Civic Action emergency event Safety  
+**Judul Halaman:** Strategic Insights 9  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Know Evacuation Routes:**<br>Familiarize your household with local emergency shelter locations and escape paths. | **Volunteer with Relief Groups:**<br>Support certified first-responder organizations with emergency funds or time. | **Educate Neighborhoods:**<br>Host community emergency event safety drills in schools, offices, and residential areas. |
+| **Strategic Focus 1 30:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 30:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 21:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three community empowerment cards leading to a strong call to action.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Inspiring Sustainable Impact  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover in navy blue with safety pledge tagline.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Earth Environmental Protection & Care
-- Preparedness turns challenges into safety; unity rebuilds hope.
-- Nature Alert
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
+- Nature Alert Council
 - www.reallygreatsite.com
 
 ---
@@ -150,13 +152,14 @@
 ## NOTES FOR DESIGNER
 
 ### Design Philosophy:
-- **Tone:** Urgent, informative, and practical.
-- **Color Palette:** Deep navy blue, alert orange-red, slate gray, white.
+- **Tone:** Urgent, Instructional, Reassuring.
+- **Color Palette:** Safety Amber, Dark Slate, Warning Red, Light Gray.
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
-- Nature Alert (Brand Name)
+- Alfredo Torres (Presenter Name)
+- Nature Alert Council (Brand Name)
 - www.reallygreatsite.com (Standard Website)

@@ -31,10 +31,9 @@
 **Judul Halaman:** The Modern Urban Dilemma  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Rapid urbanization increases resource consumption and environmental demand. High traffic congestion elevates metropolitan carbon emissions and ambient haze.<br><br>Inefficient building designs waste electricity and clean water supplies. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Smart Urban Infrastructure Development  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Connected Iot Sensors:**<br>Connected IoT sensors monitor air quality traffic flow. | **Intelligent Street Lighting:**<br>Intelligent street lighting dims automatically when no pedestrians. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Connected Iot Sensors:**<br>Connected IoT sensors monitor air quality traffic flow.| **Intelligent Street Lighting:**<br>Intelligent street lighting dims automatically when no pedestrians.| **Smart Waste Management:**<br>Smart waste management bins notify collection crews when.|
-
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Green Architecture Vertical Forests  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Integrating Living Plants:**<br>Integrating living plants onto building facades reduces interior. | **Vertical Gardens Absorb:**<br>Vertical gardens absorb urban carbon dioxide and release. | **High Performance Building:**<br>High-performance building envelopes minimize thermal bridging and air leaks. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Integrating Living Plants:**<br>Integrating living plants onto building facades reduces interior.| **Vertical Gardens Absorb:**<br>Vertical gardens absorb urban carbon dioxide and release.|
-
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Eco District Redevelopment Study  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Revitalizing Former Industrial:**<br>Revitalizing former industrial zones into zero-emission mixed-use communities. | **Planning Director:**<br>Sustainable practices deliver long term value creation effectively. | **Sustainable Design Specialist:**<br>Sustainable practices deliver long term value creation effectively. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Revitalizing Former Industrial:**<br>Revitalizing former industrial zones into zero-emission mixed-use communities.| **Planning Director:**<br>Bartholomew Henderson for sustainable urban community growth. |
-
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Urban Water Stormwater Systems  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Permeable Pavement Surfaces:**<br>Permeable pavement surfaces allow rainwater to filter directly. | **Smart Stormwater Monitoring:**<br>Smart stormwater monitoring prevents storm drain overflows during. | **Rainwater Collection Cisterns:**<br>Rainwater collection cisterns supply greywater for city park. | **Flooding Mitigation:**<br>Wetland parks act as natural sponge buffers during. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Permeable Pavement Surfaces:**<br>Permeable pavement surfaces allow rainwater to filter directly.| **Smart Stormwater Monitoring:**<br>Smart stormwater monitoring prevents storm drain overflows during.| **Rainwater Collection Cisterns:**<br>Rainwater collection cisterns supply greywater for city park.|
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Sustainable Urban Transportation Corridors  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Prioritizing Pedestrian Walkways:**<br>Prioritizing pedestrian walkways and dedicated protected cycling pathways. | **Integrating Electric Micro:**<br>Integrating electric micro-mobility charging docks near transit terminals. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Prioritizing Pedestrian Walkways:**<br>Prioritizing pedestrian walkways and dedicated protected cycling pathways.| **Integrating electric micro:**<br>Mobility charging docks near transit terminals for sustainable. | **Emission Zones Restrict:**<br>Emission zones restrict diesel delivery vehicles from city.| **Safety & Accessibility:**<br>Universal design standards for senior and disabled residents. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Data Privacy Ethical Governance  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Economic and Social Vitality  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Eco Districts Attract:**<br>Eco-districts attract green technology businesses and creative professionals. | **Affordable Sustainable Housing:**<br>Affordable sustainable housing options prevent gentrification displacement. | **Vibrant Public Plazas:**<br>Vibrant public plazas foster community cohesion and outdoor. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Districts Attract Green:**<br>Districts attract green technology businesses and creative professionals.| **Affordable Sustainable Housing:**<br>Affordable sustainable housing options prevent gentrification displacement.|
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Data Privacy Ethical Governance  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Ensuring smart city sensor networks respect citizen privacy. Transparent open-data portals enable civic developers to build.<br><br>Citizen feedback channels incorporate public preferences into urban. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

@@ -31,10 +31,9 @@
 **Judul Halaman:** Legacy of Industrial Urbanization  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Decades of unmonitored manufacturing left behind synthetic soil contaminants. Vacant urban lots degrade local property values and.<br><br>High urban concrete density eliminates natural soil filtration. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Advanced Urban Phytoremediation Techniques  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Utilizing Specialized Plants:**<br>Utilizing specialized plants to extract and neutralize soil.| **Sunflowers Willows Absorb:**<br>Sunflowers and willows absorb heavy metals like lead.| **Soil Microbes Break:**<br>Soil microbes break down complex organic pollutants into.|
+| **Utilizing Specialized Plants:**<br>Utilizing specialized plants to extract and neutralize soil. | **Sunflowers Willows Absorb:**<br>Sunflowers and willows absorb heavy metals like lead. | **Soil Microbes Break:**<br>Soil microbes break down complex organic pollutants into. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Converting Brownfields to Parks  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Transforming Disused Railway:**<br>Transforming disused railway lines and factory sites into.| **Designing multi:**<br>Functional spaces that blend recreation with native plant reserves. |
+| **Transforming Disused Railway:**<br>Transforming disused railway lines and factory sites into. | **Designing Multi Functional:**<br>Designing multi-functional spaces that blend recreation with native. |
 
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Riverfront Industrial Revitalization Study  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Transformation 50 Acre:**<br>Transformation of a 50-acre abandoned shipyard into a. | **Eco Project Manager:**<br>Sustainable practices deliver long term value creation effectively. | **Lead Designer:**<br>Sustainable practices deliver long term value creation effectively. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Transformation of a 50:**<br>Acre abandoned shipyard into a public eco-park. | **Project Manager Sustainable:**<br>Project Manager Connor Hamilton for sustainable urban community.|
-
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Urban Forestry Canopy Expansion  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Planting Diverse Native:**<br>Planting diverse native tree species across former industrial. | **Establishing Micro Forests:**<br>Establishing micro-forests using dense reforestation techniques in small spaces. | **Tree Canopy Coverage:**<br>Tree canopy coverage reduces heat island temperatures by. | **Carbon Strategy:**<br>Urban trees sequester tons of atmospheric carbon dioxide annually. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Planting Diverse Native:**<br>Planting diverse native tree species across former industrial.| **Establishing micro:**<br>Forests using dense reforestation techniques in small spaces. | **Tree Canopy Coverage:**<br>Tree canopy coverage reduces heat island temperatures by.|
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Soil Regeneration Biochar Application  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Enriching Degraded Urban:**<br>Enriching degraded urban soils with organic compost and. | **Biochar Enhances Soil:**<br>Biochar enhances soil water retention and locks carbon. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Enriching Degraded Urban:**<br>Enriching degraded urban soils with organic compost and.| **Biochar Enhances Soil:**<br>Biochar enhances soil water retention and locks carbon.| **Aerating Compacted Soils:**<br>Aerating compacted soils enables deep root growth for.| **Nutrient Cycling:**<br>Diverting municipal yard waste into high-quality soil compost. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Community Ownership Urban Agriculture  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Brownfield Redevelopment Policy Grants  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Municipal Tax Credits:**<br>Municipal tax credits for private developers remediating contaminated land. | **Liability Protection Programs:**<br>Liability protection programs for non-profit groups taking over. | **Federal Grants Supporting:**<br>Federal grants supporting environmental assessment and cleanup of brownfields. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Municipal Tax Credits:**<br>Municipal tax credits for private developers remediating contaminated land.| **Liability Protection Programs:**<br>Liability protection programs for non-profit groups taking over.|
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Community Ownership Urban Agriculture  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Partnering with local neighborhood associations to steward restored land. Converting clean brownfield spaces into community vegetable gardens.<br><br>Teaching urban residents sustainable gardening and soil care techniques. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

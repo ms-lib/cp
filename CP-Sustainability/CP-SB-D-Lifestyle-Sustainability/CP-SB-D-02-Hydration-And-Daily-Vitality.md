@@ -31,10 +31,9 @@
 **Judul Halaman:** Bottled Water Environmental Cost  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Global consumer reliance on single-use plastic water bottles. Plastic bottles require fossil fuel extraction and emit.<br><br>Millions of plastic bottles end up floating in. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Physiological Hydration Importance Vitality  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Adequate Daily Water:**<br>Adequate daily water intake is essential for cellular. | **Proper Hydration Improves:**<br>Proper hydration improves physical endurance skin health and. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Adequate Daily Water:**<br>Adequate daily water intake is essential for cellular.| **Proper Hydration Improves:**<br>Proper hydration improves physical endurance skin health and.| **Chronic Mild Dehydration:**<br>Chronic mild dehydration leads to fatigue headaches and.|
-
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Sustainable Home Water Filtration  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Installing Multi Stage:**<br>Installing multi-stage reverse osmosis or active carbon filters. | **Countertop Filtration Pitchers:**<br>Countertop filtration pitchers provide accessible clean water without. | **Regular Filter Replacement:**<br>Regular filter replacement schedules ensure optimal water purity. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Installing multi:**<br>Stage reverse osmosis or active carbon filters on. | **Countertop Filtration Pitchers:**<br>Countertop filtration pitchers provide accessible clean water without.|
-
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Zero Single Use Wellness  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Eliminating Single Use:**<br>Eliminating single-use plastic bottles across a 500-employee corporate office. | **Zero Leadership 2:**<br>Sustainable practices deliver long term value creation effectively. | **Health Coordinator:**<br>Sustainable practices deliver long term value creation effectively. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Eliminating single:**<br>Use plastic bottles across a 500-employee corporate office. | **Sustainable Community Strategy 3:**<br>Helene Paquet for sustainable urban community growth.|
-
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Reusable Vessel Materials Design  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Food Grade Stainless:**<br>Food-grade stainless steel bottles keep water cold for. | **Borosilicate Glass Containers:**<br>Borosilicate glass containers offer pure taste and easy. | **Bpa Free Lightweight:**<br>BPA-free lightweight durable silicone bottles ideal for outdoor. | **Hygiene Care:**<br>Daily cleaning with non-synthetic soap prevents bacterial buildup. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Food:**<br>Grade stainless steel bottles keep water cold for. | **Borosilicate Glass Containers:**<br>Borosilicate glass containers offer pure taste and easy.| **BPA:**<br>Free lightweight durable silicone bottles ideal for outdoor. |
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Public Clean Hydration Infrastructure  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Municipal Installation Modern:**<br>Municipal installation of modern refillable water stations in. | **Touchless Sensor Refilling:**<br>Touchless sensor refilling taps reduce germ transmission in. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Municipal Installation Modern:**<br>Municipal installation of modern refillable water stations in.| **Touchless Sensor Refilling:**<br>Touchless sensor refilling taps reduce germ transmission in.| **Mobile Phone Apps:**<br>Mobile phone apps mapping nearby free public drinking.| **Equity:**<br>Ensuring free access to clean drinking water for. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Hydration Plant Based Vitality  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Educational Outreach Youth Programs  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Teaching School Children:**<br>Teaching school children about the hydrologic cycle and. | **Distributing Stainless Steel:**<br>Distributing stainless steel water bottles to elementary students. | **School Campaigns Challenging:**<br>School campaigns challenging students to eliminate single-use beverage containers. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Teaching School Children:**<br>Teaching school children about the hydrologic cycle and.| **Distributing Stainless Steel:**<br>Distributing stainless steel water bottles to elementary students.|
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Hydration Plant Based Vitality  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Hydrating through water-rich organic fruits and vegetables like. Herbal teas and infused waters provide antioxidant benefits.<br><br>Reducing high-sugar sodas and energy drinks lowers chronic. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

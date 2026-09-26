@@ -31,10 +31,9 @@
 **Judul Halaman:** Board Fiduciary Duty Shift  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Modern corporate fiduciary duty includes managing material climate. Boards face liability exposure for neglecting foreseeable environmental disruptions.<br><br>Activist investors demand climate expertise and independence on. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Establishing Board Sustainability Committees  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Forming Dedicated Board:**<br>Forming dedicated Board Sustainability Climate Oversight Committees.| **Defining Clear Committee:**<br>Defining clear committee charters for monitoring corporate ESG.| **Recruiting Independent Directors:**<br>Recruiting independent directors with deep expertise in environmental.|
+| **Forming Dedicated Board:**<br>Forming dedicated Board Sustainability Climate Oversight Committees. | **Defining Clear Committee:**<br>Defining clear committee charters for monitoring corporate ESG. | **Recruiting Independent Directors:**<br>Recruiting independent directors with deep expertise in environmental. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Executive Compensation Sustainability Alignment  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Tying executive bonuses and long:**<br>Term incentives LTIP to ESG goal achievement. | **Mandating Specific Carbon:**<br>Mandating specific carbon reduction milestones for Chief Executive.|
+| **Tying Executive Bonuses:**<br>Tying executive bonuses and long-term incentives LTIP to. | **Mandating Specific Carbon:**<br>Mandating specific carbon reduction milestones for Chief Executive. |
 
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Board Governance Modernization Study  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Restructuring Board Oversight:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate. | **Governance Lead:**<br>Sustainable practices deliver long term value creation effectively. | **Legal Compliance Counsel:**<br>Sustainable practices deliver long term value creation effectively. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Restructuring Board Oversight:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate.| **Governance Lead:**<br>Chad Gibbons for sustainable urban community growth. |
-
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Climate Risk Scenario Analysis  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Conducting Tcfd Aligned:**<br>Conducting TCFD-aligned climate scenario evaluations 1 5 C. | **Assessing Physical Risk:**<br>Assessing physical risk impact on corporate manufacturing assets. | **Evaluating Transition Risks:**<br>Carbon taxes shifting technology and changing consumer tastes. | **Strategic Resilience:**<br>Adapting business model capital allocations based on findings. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Conducting TCFD:**<br>Aligned climate scenario evaluations 1 5 C vs. | **Assessing Physical Risk:**<br>Assessing physical risk impact on corporate manufacturing assets.| **Evaluating transition risks:**<br>Carbon taxes shifting technology and changing consumer tastes. |
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Shareholder Engagement and Activism  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Proactive Board Dialogue:**<br>Proactive board dialogue with institutional investors regarding climate. | **Constructive Engagement Shareholder:**<br>Constructive engagement on shareholder resolutions regarding environmental disclosure. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Proactive Board Dialogue:**<br>Proactive board dialogue with institutional investors regarding climate.| **Constructive Engagement Shareholder:**<br>Constructive engagement on shareholder resolutions regarding environmental disclosure.| **Transparent Reporting Corporate:**<br>Transparent reporting on corporate lobbying activities to ensure.| **Trust Building:**<br>Direct meetings between independent directors and key ESG. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Ethics & Corporate Compliance  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Diversity Equity Board Inclusion  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Increasing Board Gender:**<br>Increasing board gender racial and international diversity to. | **Diverse Board Perspectives:**<br>Diverse board perspectives prevent groupthink during strategic climate. | **Refreshing Board Tenure:**<br>Refreshing board tenure policies to introduce innovative modern. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Increasing Board Gender:**<br>Increasing board gender racial and international diversity to.| **Diverse Board Perspectives:**<br>Diverse board perspectives prevent groupthink during strategic climate.|
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Ethics & Corporate Compliance  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Enforcing strict corporate codes of business conduct across. Whistleblower protection mechanisms for reporting environmental and accounting violations.<br><br>Third-party anti-bribery and Compliance Risk auditing across all international. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

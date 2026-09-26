@@ -31,10 +31,9 @@
 **Judul Halaman:** Understanding Personal Carbon Emissions  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Every daily choice transportation diet heating consumption emits carbon. The global average personal footprint exceeds sustainable planetary boundaries.<br><br>Home energy use personal vehicle travel and food choice. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Carbon Emissions Accounting Methodology  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Direct emissions (Scope 1):**<br>Fuel burned in personal cars and home natural. | **Indirect Energy Emissions:**<br>Indirect energy emissions Scope 2 Electricity consumed from.| **Supply chain emissions (Scope 3):**<br>Embedded carbon in purchased goods and food. |
+| **Direct Emissions Scope:**<br>Fuel burned in personal cars and home natural. | **Indirect Energy Emissions:**<br>Electricity consumed from local utility grids for sustainable. | **Supply Chain Emissions:**<br>Embedded carbon in purchased goods and food. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** High Impact Household Reductions  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Switching Home Electricity:**<br>Switching home electricity contracts to 100 renewable energy providers.| **Retrofitting Home Insulation:**<br>Retrofitting home insulation and upgrading to high-efficiency heat pumps.|
+| **Switching Home Electricity:**<br>Switching home electricity contracts to 100 renewable energy providers. | **Retrofitting Home Insulation:**<br>Retrofitting home insulation and upgrading to high-efficiency heat pumps. |
 
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Household Footprint Reduction Study  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Family Four Tracking:**<br>A family of four tracking and reducing their.| **Lead Advisor:**<br>Francisco Andrade for sustainable urban community growth. |
+| **Family Four Tracking:**<br>A family of four tracking and reducing their. | **Lead Advisor:**<br>Sustainable practices deliver long term value creation effectively. |
 
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Sustainable Travel Aviation Choices  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Commercial Aviation Represents:**<br>Commercial aviation represents a high proportion of frequent.| **Choosing rail travel over short:**<br>Haul domestic flights dramatically lowers travel impact. | **Embracing eco:**<br>Tourism destinations that invest in local ecosystem conservation. |
+| **Commercial Aviation Represents:**<br>Commercial aviation represents a high proportion of frequent. | **Choosing Rail Travel:**<br>Choosing rail travel over short-haul domestic flights dramatically. | **Embracing Eco Tourism:**<br>Embracing eco-tourism destinations that invest in local ecosystem conservation. |
 
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Sustainable Fashion Textiles Guide  
 **Jumlah Kolom:** 4  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Fast Fashion Industry:**<br>Fast fashion industry creates significant water resource impact and.| **Building Capsule Wardrobe:**<br>Building a capsule wardrobe of timeless high-quality sustainably.| **Buying Secondhand Vintage:**<br>Buying secondhand vintage clothing and participating in garment.| **Garment Care:**<br>Washing clothes in cold water and line-drying saves energy. |
+| **Fast Fashion Industry:**<br>Fast fashion industry creates significant water resource impact and. | **Building Capsule Wardrobe:**<br>Building a capsule wardrobe of timeless high-quality sustainably. | **Buying Secondhand Vintage:**<br>Buying secondhand vintage clothing and participating in garment. | **Garment Care:**<br>Washing clothes in cold water and line-drying saves energy. |
 
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Mindful Digital Footprint Strategy  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Community Amplification and Advocacy  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Sharing Personal Footprint:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors.| **Advocating Municipal Bike:**<br>Advocating for municipal bike lanes and public transit.|
+| **Sharing Personal Footprint:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors. | **Advocating Municipal Bike:**<br>Advocating for municipal bike lanes and public transit. |
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Mindful Digital Footprint Strategy  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Digital cloud storage and streaming video consume substantial. Unsubscribing from spam emails and cleaning up unnecessary.<br><br>Extending personal electronics usage lifespans from two years. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

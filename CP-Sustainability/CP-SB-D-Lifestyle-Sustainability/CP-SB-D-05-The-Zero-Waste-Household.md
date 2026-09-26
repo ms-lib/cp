@@ -31,10 +31,9 @@
 **Judul Halaman:** The Zero Waste Hierarchy  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| The 5 Rs Refuse Reduce Reuse Recycle and. Refusing single-use marketing freebies plastic straws and disposable utensils.<br><br>Reducing overall household consumption by purchasing only what. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Kitchen Zero Waste Transformation  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Replacing Disposable Paper:**<br>Replacing disposable paper towels with washable organic cloth rags. | **Buying Package Free:**<br>Buying package-free grains spices and oils at local. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Replacing Disposable Paper:**<br>Replacing disposable paper towels with washable organic cloth rags.| **Free Grains Spices:**<br>Free grains spices and oils at local bulk.| **Storing Leftover Food:**<br>Storing leftover food in glass containers or reusable.|
-
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Bathroom Zero Waste Audit  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Switching Liquid Soap:**<br>Switching from liquid soap in plastic bottles to. | **Replacing Plastic Toothbrushes:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives. | **Utilizing Safety Razors:**<br>Utilizing safety razors with replaceable steel blades instead. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Switching Liquid Soap:**<br>Switching from liquid soap in plastic bottles to.| **Replacing Plastic Toothbrushes:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives.|
-
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Suburban Zero Waste Family  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Suburban Family Transitioning:**<br>A suburban family transitioning from 3 trash bags.| **Lead Coach:**<br>Claudia Alves for sustainable urban community growth. |
+| **Suburban Family Transitioning:**<br>A suburban family transitioning from 3 trash bags. | **Lead Coach:**<br>Sustainable practices deliver long term value creation effectively. |
 
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Zero Waste Grocery Shopping  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Bringing Reusable Cotton:**<br>Bringing reusable cotton mesh bags for fresh fruits. | **Tare Weighing Glass:**<br>Tare-weighing glass jars at bulk stores before filling. | **Choosing Glass Aluminum:**<br>Choosing glass aluminum or cardboard packaging over non-recyclable. | **Farmers Markets:**<br>Shopping locally to avoid plastic agricultural produce wrapping. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Bringing Reusable Cotton:**<br>Bringing reusable cotton mesh bags for fresh fruits.| **Tare:**<br>Weighing glass jars at bulk stores before filling. | **Choosing Glass Aluminum:**<br>Choosing glass aluminum or cardboard packaging over non-recyclable.|
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Sustainable Laundry Cleaning Practices  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Using Natural Laundry:**<br>Using natural laundry detergent sheets or refillable liquid. | **Drying Clothes Naturally:**<br>Drying clothes naturally on outdoor clotheslines or indoor. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Natural Laundry Detergent:**<br>Using natural laundry detergent sheets or refillable liquid.| **Drying Clothes Naturally:**<br>Drying clothes naturally on outdoor clotheslines or indoor.| **Wool Dryer Balls:**<br>Wool dryer balls replace synthetic single-use dryer sheets.| **DIY Cleaners:**<br>Vinegar baking soda and lemon juice clean 90. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Managing Electronic Household Waste  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Overcoming Zero Waste Challenges  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Navigating Convenience Culture:**<br>Navigating convenience culture when traveling or dining out. | **Managing Packaging Waste:**<br>Managing packaging waste when receiving mandatory prescription medications. | **Encouraging Family Members:**<br>Encouraging family members and children without creating friction. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Navigating Convenience Culture:**<br>Navigating convenience culture when traveling or dining out.| **Managing Packaging Waste:**<br>Managing packaging waste when receiving mandatory prescription medications.|
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Managing Electronic Household Waste  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Safely recycling old electronics batteries and lightbulbs at. Disposing of leftover household paints and chemicals through.<br><br>Repairing damaged household electronics instead of discarding them prematurely. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

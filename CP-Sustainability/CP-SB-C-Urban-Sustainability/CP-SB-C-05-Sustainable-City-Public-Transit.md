@@ -31,10 +31,9 @@
 **Judul Halaman:** The Urban Mobility Challenge  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Private automobile dependency accounts for the majority of. Traffic congestion causes billions in lost economic productivity.<br><br>Diesel public buses release urban particulate matter into. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Electric Hydrogen Bus Fleets  
 **Jumlah Kolom:** 2  
 
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Battery Electric Buses:**<br>Battery electric buses offer zero tailpipe emissions and. | **Hydrogen Fuel Cell:**<br>Hydrogen fuel cell buses provide long operating ranges. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Battery Electric Buses:**<br>Battery electric buses offer zero tailpipe emissions and.| **Hydrogen Fuel Cell:**<br>Hydrogen fuel cell buses provide long operating ranges.| **Fast:**<br>Charging depot infrastructure recharges electric buses during off-peak hours. |
-
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** High Capacity Rail Transit  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Bus Rapid Transit:**<br>Bus Rapid Transit BRT lanes deliver subway-like efficiency. | **Modern Light Rail:**<br>Modern light rail transit LRT systems powered by. | **Signal Prioritization Intersections:**<br>Signal prioritization at intersections allows public buses to. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Bus Rapid Transit:**<br>Bus Rapid Transit BRT lanes deliver subway-like efficiency.| **Modern Light Rail:**<br>Modern light rail transit LRT systems powered by.|
-
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Municipal Fleet Conversion Study  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Transitioning 500 Municipal:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses.| **Project Lead:**<br>Drew Feig for sustainable urban community growth. |
+| **Transitioning 500 Municipal:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses. | **Project Lead:**<br>Sustainable practices deliver long term value creation effectively. |
 
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Micro Mobility Integration Strategy  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Shared Electric Bike:**<br>Shared electric bike and scooter docks placed seamlessly. | **Protected Cycling Express:**<br>Protected cycling express lanes connect residential suburbs to. | **Unified Mobility Mobile:**<br>Unified mobility mobile app integrates ticketing across buses. | **Firstlast Mile Solution:**<br>Eliminates the barrier of walking long distances to stops. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Shared Electric Bike:**<br>Shared electric bike and scooter docks placed seamlessly.| **Protected Cycling Express:**<br>Protected cycling express lanes connect residential suburbs to.| **Unified Mobility Mobile:**<br>Unified mobility mobile app integrates ticketing across buses.|
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Equitable Inclusive Transit Access  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Low Income Fare:**<br>Low-income fare assistance programs ensure transit remains affordable. | **Universal Physical Accessibility:**<br>Universal physical accessibility features on all electric buses. | **Extending Late Night:**<br>Extending late-night transit service routes for shift workers. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Income Fare Assistance:**<br>Income fare assistance programs ensure transit remains affordable.| **Universal Physical Accessibility:**<br>Universal physical accessibility features on all electric buses.| **Extending late:**<br>Night transit service routes for shift workers and. | **Social Mobility:**<br>Connecting underserved neighborhoods to city employment centers. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Transit Oriented Development TOD  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Funding Financial Transit Sustainability  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Congestion Pricing Charges:**<br>Congestion pricing charges for private cars entering downtown.| **Reinvesting Toll Revenue:**<br>Reinvesting toll revenue directly into expanding public transit operations.|
+| **Congestion Pricing Charges:**<br>Congestion pricing charges for private cars entering downtown. | **Reinvesting Toll Revenue:**<br>Reinvesting toll revenue directly into expanding public transit operations. |
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Transit Oriented Development TOD  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| High-density residential and commercial zoning built directly around. Decreasing mandatory parking minimums for buildings constructed adjacent.<br><br>Creating vibrant pedestrian plazas and retail shops surrounding. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

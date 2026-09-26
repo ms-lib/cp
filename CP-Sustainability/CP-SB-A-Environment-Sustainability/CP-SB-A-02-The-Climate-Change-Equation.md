@@ -2,149 +2,149 @@
 ## The Climate Change Equation
 
 **Sub-Topic:** CP-SB-A-Environment-Sustainability  
-**Main Keywords:** climate change equation, global warming, thermal shift, climate resilience, greenhouse dynamics, Werner & Spencer  
-**Audience:** Students, Educators, Community Members, General Public  
-**Style:** Professional Educational, Clean Earth Tones  
-**Tone:** Informative, urgent, empowering  
+**Main Keywords:** climate change equation, global warming, carbon emissions, greenhouse effect, climate action, Studio Shodwe  
+**Audience:** Climate Activists, Policy Makers, Researchers, Students  
+**Style:** Teal & Charcoal Gray, Dynamic Environmental Layout  
+**Tone:** Urgent, analytical, empowering  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→4→3→2→3→4→3→1  
+**Pattern Kolom:** 1→1→3→4→3→2→3→1→3→1  
 
 ---
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Professional climate presentation cover. Slate blue background with warm terracotta accents and a minimalist global temperature line art illustration.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: The Climate Change Equation
-- Subtitle: Decoding Global Warming Dynamics & Building Planetary Resilience
-- Presented By: Juliana Silva
-- Presented To: Aaron Loeb
-- Brand: Werner & Spencer
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
+- Presented By: Adora Montminy
+- Presented To: Climate Activists
+- Brand: Studio Shodwe Climate Lab
 
 ---
 
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Unraveling Planetary Thermal Shifts  
+**Judul Halaman:** Understanding Key Challenges  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Understanding Climate Dynamics:**<br>Climate change represents sustained shifts in global weather patterns and surface temperatures. While natural fluctuations occur, human industrial activity—specifically fossil fuel burning and land clearing—has driven unprecedented warming since the 19th century.<br><br>**Educational Focus:** Fostering comprehensive climate literacy to catalyze collective solutions. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Single column card on a soft blue-gray background with minimalist world icon.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Key Atmospheric Warming Drivers  
+**Judul Halaman:** Strategic Insights 3  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Fossil Fuel Dependency:**<br>Burning coal, oil, and natural gas releases dense carbon dioxide into the air. | **Land Use Alteration:**<br>Deforestation degrades natural carbon sinks and releases historical carbon. | **Industrial Agriculture:**<br>Ruminant livestock and synthetic fertilizers emit potent methane and nitrous oxide. |
+| **Strategic Focus 1 7:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 7:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 4:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three distinct columns with clean icons representing industrial energy, tree clearing, and agriculture.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Widespread Physical Consequences  
+**Judul Halaman:** Strategic Insights 4  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Extended Heatwaves:**<br>Rising global baseline surface temperatures. | **Ocean Inundation:**<br>Thermal expansion and ice melt flooding coasts. | **Glacial Dynamics:**<br>Accelerated thawing of ice sheets and glaciers. | **Volatile Weather:**<br>Intensified storms, flash floods, and wildfires. |
+| **Strategic Focus 1 8:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 8:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 5:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 2:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Four feature cards in slate and muted orange with distinct climate impact badges.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Ecological focus Habitat Shift  
+**Judul Halaman:** Strategic Insights 5  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Habitat Contraction:**<br>Shrinking biomes force wildlife species to migrate or relocate to preserve species population. | **Altered Seasonal Timing:**<br>Shifting temperature cues disrupt pollination and migratory breeding cycles. | **Species Vulnerability:**<br>Specialized flora and fauna struggle to adapt to rapid environmental shifts. |
+| **Strategic Focus 1 9:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 9:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 6:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three environmental warning cards in earthy olive and muted terracotta.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Societal Vulnerability Public Health  
+**Judul Halaman:** Strategic Insights 6  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Health Risks & health condition Vectors:**<br>Extreme thermal conditions and shifting health factors challenge public healthcare systems. | **Food Security & Water Scarcity:**<br>Unpredictable rainfall patterns reduce agricultural yields and freshwater access. |
+| **Strategic Focus 1 10:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 10:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Two socio-economic impact cards styled with clean professional borders.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Accelerated Decarbonization Pathways  
+**Judul Halaman:** Strategic Insights 7  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Clean Energy Jobs:**<br>Expanding wind and solar sectors generates skilled workforce opportunities. | **Systemic Decarbonization:**<br>Phasing out fossil fuels reduces overall baseline industrial emissions. | **Renewable Technology:**<br>Deploying solar, wind, and geothermal systems to power modern cities. |
+| **Strategic Focus 1 11:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 11:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 7:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three uplifting solution cards in refreshing teal and green hues.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Household Energy Efficiency Measures  
-**Jumlah Kolom:** 4  
-
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **1. Efficient LED Bulbs:**<br>Lowering electricity consumption. | **2. Thermal Insulation:**<br>Sealing home doors and roofs. | **3. Unplug Idle Devices:**<br>Cutting phantom standby power. | **4. Smart Thermostats:**<br>Optimizing home temperature. |
-
-**Visual Note:** Four household conservation tip cards with clear step icons.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Collaborative Climate Resilience Strategy  
+**Judul Halaman:** Strategic Insights 9  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Municipal Resilience:**<br>Building adaptive infrastructure for coastal and river basin communities. | **Environmental Literacy:**<br>Integrating climate science into school curricula and community workshops. | **Grassroots Advocacy:**<br>Fostering local civic initiatives to influence regional climate policy. |
+| **Strategic Focus 1 12:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 12:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 8:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three closing cards emphasizing community preparedness and advocacy.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Inspiring Sustainable Impact  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Clean minimalist back cover in slate blue with strong brand signature.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- The Climate Change Equation
-- Understanding climate dynamics empowers us to shape a sustainable future.
-- Werner & Spencer
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
+- Studio Shodwe Climate Lab
 - www.reallygreatsite.com
 
 ---
@@ -152,15 +152,14 @@
 ## NOTES FOR DESIGNER
 
 ### Design Philosophy:
-- **Tone:** Informative, urgent, and empowering.
-- **Color Palette:** Slate blue, terracotta, olive green, soft gray.
+- **Tone:** Urgent, Analytical, Empowering.
+- **Color Palette:** Deep Teal, Charcoal Gray, Soft Blue, Clean White.
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
-- Juliana Silva (Presenter Name)
-- Aaron Loeb (Recipient Name)
-- Werner & Spencer (Brand Name)
+- Adora Montminy (Presenter Name)
+- Studio Shodwe Climate Lab (Brand Name)
 - www.reallygreatsite.com (Standard Website)

@@ -31,10 +31,9 @@
 **Judul Halaman:** Evolution of Corporate Disclosures  
 **Jumlah Kolom:** 1  
 
-
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| Institutional investors require rigorous ESG data alongside traditional. Global regulatory mandates enforce standardized climate risk reporting.<br><br>Consumers and talent evaluate corporate ethics based on. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -46,12 +45,11 @@
 **Judul Halaman:** Key Reporting Frameworks Alignment  
 **Jumlah Kolom:** 3  
 
-
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Csrd Corporate Sustainability:**<br>CSRD Corporate Sustainability Reporting Directive Mandatory double materiality reporting.| **Issb International Sustainability:**<br>ISSB International Sustainability Standards Board Baseline global climate metrics.| **GRI (Global Reporting Initiative):**<br>Comprehensive impact disclosure across stakeholders for sustainable urban. |
+| **Csrd Corporate Sustainability:**<br>CSRD Corporate Sustainability Reporting Directive Mandatory double materiality reporting. | **Issb International Sustainability:**<br>ISSB International Sustainability Standards Board Baseline global climate metrics. | **Gri Global Reporting:**<br>Comprehensive impact disclosure across stakeholders for sustainable community. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -61,12 +59,11 @@
 **Judul Halaman:** Environmental Data Collection Systems  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Scope 1:**<br>Direct emissions from corporate facilities and vehicle fleets. | **Scope 2:**<br>Indirect emissions from purchased electricity and steam generation. | **Scope 3:**<br>Upstream supply chain emissions and downstream product usage. | **Water Waste:**<br>Tracking municipal water abstraction and landfill waste diversion. |
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Scope 1:**<br>Direct emissions from corporate facilities and vehicle fleets. | **Scope 2:**<br>Indirect emissions from purchased electricity and steam generation. |
-
-**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -76,12 +73,11 @@
 **Judul Halaman:** Social Governance ESG Metrics  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Human capital management:**<br>Diversity equity and inclusion DEI workforce metrics. | **Environmental Impact:**<br>Occupational health and safety OHS incident rates across. |
+| **Human Capital Management:**<br>Diversity equity and inclusion DEI workforce metrics. | **Occupational Health Safety:**<br>Occupational health and safety OHS incident rates across. |
 
-**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -91,12 +87,11 @@
 **Judul Halaman:** Corporate ESG Reporting Overhaul  
 **Jumlah Kolom:** 4  
 
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+|---------|---------|---------|---------|
+| **Standardizing Global Esg:**<br>Standardizing global ESG reporting across 45 international business subsidiaries. | **Project Leaders:**<br>Sustainable practices deliver long term value creation effectively. | **Data Analytics Team:**<br>Sustainable practices deliver long term value creation effectively. | **Outcome Strategy:**<br>Achieved AA rating from major global ESG rating agencies. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Standardizing Global Esg:**<br>Standardizing global ESG reporting across 45 international business subsidiaries.| **Project Leaders:**<br>Adeline Palmerston Drew Feig for sustainable urban community. | **Data Analytics Team:**<br>Jamie Chastain Olivia Wilson Alfredo Torres for sustainable. |
-
-**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -106,27 +101,11 @@
 **Judul Halaman:** Materiality Assessment Double Materiality  
 **Jumlah Kolom:** 3  
 
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Identifying Financial Materiality:**<br>How climate change impacts corporate asset value. | **Identifying Impact Materiality:**<br>How business operations impact society and nature. | **Stakeholder Engagement:**<br>Consulting shareholders employees suppliers and communities for sustainable. |
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Identifying financial materiality:**<br>How climate change impacts corporate asset value. | **Identifying impact materiality:**<br>How business operations impact society and nature. | **Stakeholder engagement:**<br>Consulting shareholders employees suppliers and communities for sustainable. | **Matrix Prioritization:**<br>Focusing executive reporting on top 10 material ESG risks. |
-
-**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Auditing Third Party Assurance  
-**Jumlah Kolom:** 1  
-
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
@@ -136,12 +115,25 @@
 **Judul Halaman:** Digital Transformation ESG Data  
 **Jumlah Kolom:** 2  
 
-
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Cloud:**<br>Based ESG software platforms consolidating data from hundreds. | **Artificial Intelligence Algorithms:**<br>Artificial intelligence algorithms detecting anomalous energy readings across factories.|
+| **Cloud Based Esg:**<br>Cloud-based ESG software platforms consolidating data from hundreds. | **Artificial Intelligence Algorithms:**<br>Artificial intelligence algorithms detecting anomalous energy readings across factories. |
 
-**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Auditing Third Party Assurance  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Engaging independent accounting firms to perform limited and. Establishing internal controls for ESG data collection equivalent.<br><br>Utilizing blockchain ledgers for immutable audit trails of. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 

@@ -2,147 +2,149 @@
 ## Guardians of Blue Planet
 
 **Sub-Topic:** CP-SB-A-Environment-Sustainability  
-**Main Keywords:** guardians of blue planet, marine plastic Environmental Factors, coastal preservation, ocean health, microplastics, aquatic life, Borcelle Oceans  
-**Audience:** Eco-Activists, Coastal Communities, Students, General Public  
-**Style:** Deep Ocean Blue & Cyan, Clean Aquatic Aesthetic  
-**Tone:** Urgent, educational, action-oriented  
+**Main Keywords:** guardians of blue planet, marine plastic solutions, coastal preservation, ocean health, microplastics, aquatic life, Borcelle Oceans  
+**Audience:** Ocean Conservationists, Marine Biologists, Coastal Communities, Youth Activists  
+**Style:** Deep Ocean Blue & Coral Accent, Marine Conservation Layout  
+**Tone:** Passionate, protective, action-oriented  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→2→3→3→4→2→3→2→1  
+**Pattern Kolom:** 1→1→2→3→3→4→2→1→2→1  
 
 ---
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Stunning deep ocean presentation cover. Dark cyan and royal blue gradient with subtle minimalist wave vector graphics.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Guardians of Blue Planet
-- Subtitle: Tackling Marine Plastics & Preserving Coastal Ecosystems
-- Brand: Borcelle Oceans
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
+- Presented By: Avery Davis
+- Presented To: Ocean Conservationists
+- Brand: Borcelle Oceans Foundation
 
 ---
 
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** The Oceanic Environmental Focus & Care  
+**Judul Halaman:** Understanding Key Challenges  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Protecting Marine Waters:**<br>Marine ecosystems face unprecedented transformation from synthetic plastic waste, chemical runoff, raw sewage, and maritime vessel spills. Preserving ocean health is vital for global climate stability and marine life survival.<br><br>**Mission:** Educating coastal communities, organizing cleanups, and driving systemic plastic reduction. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Single prominent card with deep ocean blue background and clean white text layout.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Primary Marine Waste Sources  
+**Judul Halaman:** Strategic Insights 3  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Land-Based Debris Influx:**<br>Single-use consumer packaging, stormwater trash, and untreated river runoff. | **Maritime & Fishing Waste:**<br>Commercial vessel oil discharges, lost cargo, and abandoned ghost fishing nets. |
+| **Strategic Focus 1 19:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 19:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Two contrasting cards in cyan and deep navy with land and vessel icons.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Key Marine transformation Drivers  
+**Judul Halaman:** Strategic Insights 4  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Plastic Accumulation:**<br>Millions of tons of non-biodegradable waste dumped into ocean gyres annually. | **Agricultural Chemical Runoff:**<br>Excess fertilizer causing low oxygen levels and dead zones in coastal waters. | **Petroleum & Chemical Spills:**<br>unfiltered particles coating marine wildlife feathers, scales, and coastal mangroves. |
+| **Strategic Focus 1 20:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 20:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 14:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three clean columns in deep cyan, teal, and navy.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** The Global Microplastic Action Plan  
+**Judul Halaman:** Strategic Insights 5  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Wildlife Ingestion:**<br>Sea birds, turtles, and fish mistake floating plastic particles for prey. | **Microparticles in Food Webs:**<br>Sunlight degrades plastics into microparticles absorbed by marine plankton. | **Current Transport:**<br>Oceanic currents spread buoyant debris to pristine Arctic and island beaches. |
+| **Strategic Focus 1 21:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 21:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 15:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Three plastic impact cards styled with clean aquatic warning badges.  
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Marine Wildlife Protection Priorities  
+**Judul Halaman:** Strategic Insights 6  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Net Entanglement:**<br>Ghost nets trapping sea mammals. | **Internal Injury:**<br>Plastic ingestion causing blockage. | **Disrupted Breeding:**<br>unfiltered particles altering animal migration. | **Reef Bleaching:**<br>Chemicals smothering coral reefs. |
+| **Strategic Focus 1 22:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 22:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 16:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 6:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Four wildlife conservation cards displaying marine species impact.  
+**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Human Health Nutrition Risks  
+**Judul Halaman:** Strategic Insights 7  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Microplastics in Human Diet:**<br>Microscopic synthetic particles detected in commercial seafood, sea salt, and drinking water. | **Bioaccumulation of unfiltered particles:**<br>Industrial chemicals absorbed by ocean plastics accumulate up the marine food chain to humans. |
+| **Strategic Focus 1 23:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 23:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Two health risk cards styled with water purity and bioaccumulation diagrams.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Empowering Public Marine Action  
-**Jumlah Kolom:** 3  
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Consumer Plastic Reduction:**<br>Public education inspires individuals to eliminate single-use plastics. | **Coastal Cleanup Drives:**<br>Local volunteer efforts remove tons of debris from beaches before it drifts offshore. | **Digital Advocacy:**<br>Social media campaigns mobilize global youth for ocean conservation laws. |
-
-**Visual Note:** Three uplifting community action cards in bright cyan and white.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Pathways to Clean Oceans  
+**Judul Halaman:** Strategic Insights 9  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Support Ocean-Friendly Brands:**<br>Patronize companies implementing zero-plastic packaging and funding ocean cleanup projects. | **Lead Local Beach Cleanups:**<br>Organize community shoreline cleanups to intercept litter before entering ocean currents. |
+| **Strategic Focus 1 24:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 24:**<br>Modern sustainable practices deliver long term operational efficiency. |
 
-**Visual Note:** Soft split layout highlighting consumer power and direct volunteer action.  
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** Opener  
+**Judul Halaman:** Inspiring Sustainable Impact  
+**Jumlah Kolom:** 1  
+
+| Kolom 1 |
+|---------|
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
+
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover in deep ocean blue with marine pledge text.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Guardians of Blue Planet
-- Protecting our oceans preserves the lifeblood of Earth.
-- Borcelle Oceans
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
+- Borcelle Oceans Foundation
 - www.reallygreatsite.com
 
 ---
@@ -150,13 +152,14 @@
 ## NOTES FOR DESIGNER
 
 ### Design Philosophy:
-- **Tone:** Urgent, educational, and action-oriented.
-- **Color Palette:** Deep ocean blue, cyan, teal, white.
+- **Tone:** Passionate, Protective, Action-Oriented.
+- **Color Palette:** Deep Ocean Blue, Coral Red, Seafoam Green, Sand Beige.
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40% white space within text boxes for better editability.
+- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
 
 ### Customization Points:
-- Borcelle Oceans (Brand Name)
+- Avery Davis (Presenter Name)
+- Borcelle Oceans Foundation (Brand Name)
 - www.reallygreatsite.com (Standard Website)
