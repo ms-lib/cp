@@ -120,30 +120,33 @@
 **Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
 **Style & Aesthetics:** Trustworthy Medical Teal Theme with Clean Clinical Graphics & Vet Photography  
 
-#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+#### VOUCHER VARIATION 1: FIRST VISIT SPECIAL (`FREE VET CHECKUP`)
 - **Background & Palette:** Deep Medical Teal & Mint Gradient (`#0D5C75` -> `#052F3C`)
 - **Top Left Header:** Brand Logo (**Pawfect Care**)
-- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
-- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
-- **Promo Code Pill Badge:** `CODE : VET30` (White pill badge capsule with bold dark text)
+- **Main Headline:** **FIRST VISIT SPECIAL** (Bold uppercase Canva display typography)
+- **Giant Offer Highlight:** **FREE VET CHECKUP** (Giant high-contrast white text highlight)
+- **Offer Subtext / Tagline:** *"Complimentary initial wellness exam & doctor consultation for your pet"* (Clean readable subtext)
+- **Promo Code Pill Badge:** `CODE : FREECONSULT` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photography of a gentle vet doctor examining a cute puppy with stethoscope & soft glowing medical cross emblem
 
-#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+#### VOUCHER VARIATION 2: PET HEALTHCARE CREDIT (`$20 VET CREDIT`)
 - **Background & Palette:** Rich Medical Teal Solid (`#0A7E8C`)
 - **Top Left Header:** Brand Logo (**Pawfect Care**)
-- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
-- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
-- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Main Headline:** **HEALTHCARE VOUCHER** (Bold uppercase Canva display typography)
+- **Giant Offer Highlight:** **$20 VET CREDIT** (Giant high-contrast white text highlight)
+- **Offer Subtext / Tagline:** *"Get $20 credit towards annual vaccinations or dental scaling services"* (Clean readable subtext)
+- **Promo Code Pill Badge:** `CODE : VETCARE20` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photo of annual vaccine vials, syringe & pet health passport with glowing heart outline
 
-#### VOUCHER VARIATION 3: PET HOTEL & BOARDING BUNDLE (`40% OFF`)
+#### VOUCHER VARIATION 3: PET HOTEL SPECIAL (`FREE 1 NIGHT STAY`)
 - **Background & Palette:** Dark Teal Night Gradient (`#053C49` -> `#021C22`)
 - **Top Left Header:** Brand Logo (**Pawfect Care**)
-- **Main Headline:** **PET HOTEL BOARDING DEAL** (Bold white header typography)
-- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
-- **Promo Code Pill Badge:** `CODE : HOTEL40` (White pill badge capsule with bold dark text)
+- **Main Headline:** **PET HOTEL DEAL** (Bold uppercase Canva display typography)
+- **Giant Offer Highlight:** **FREE 1 NIGHT STAY** (Giant high-contrast white text highlight)
+- **Offer Subtext / Tagline:** *"Book 3 consecutive boarding nights and get the 4th night absolutely free"* (Clean readable subtext)
+- **Promo Code Pill Badge:** `CODE : FREEBOARD` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photo of luxury pet boarding room suite with cozy dog bed, toys & paw print sparkles
 

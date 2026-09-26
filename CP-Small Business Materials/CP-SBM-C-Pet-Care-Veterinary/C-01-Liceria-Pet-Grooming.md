@@ -99,32 +99,35 @@
 **Layout:** Horizontal Promotional Voucher Card Set (3 High-Impact Design Variations - Canva & Print Ready)  
 **Style & Aesthetics:** Playful Warm Pet Grooming Theme with Warm Terracotta & Peach Background & Pet Photography  
 
-#### VOUCHER VARIATION 1: SPECIAL PERCENTAGE DISCOUNT (`30% OFF`)
+#### VOUCHER VARIATION 1: SPECIAL GIFT VOUCHER (`$15 OFF`)
 - **Background & Palette:** Warm Terracotta & Peach Gradient (`#D97706` -> `#92400E`)
 - **Top Left Header:** Brand Logo (**Liceria Pet**)
-- **Main Headline:** **DISCOUNT COUPON** (Bold condensed white display typography)
-- **Giant Offer Highlight:** **30% OFF** (Giant centered white typography)
-- **Promo Code Pill Badge:** `CODE : GROOM30` (White pill badge capsule with bold dark text)
+- **Main Headline:** **SPECIAL GIFT VOUCHER** (Bold uppercase Canva display typography)
+- **Giant Offer Highlight:** **$15 OFF** (Giant centered white typography)
+- **Offer Subtext / Tagline:** *"Save $15 on your pet's next full spa grooming session"* (Clean readable subtext)
+- **Promo Code Pill Badge:** `CODE : PAMPER15` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photography of a fluffy happy Golden Retriever getting a warm bubble bath with floating soap suds & water splash
 
-#### VOUCHER VARIATION 2: B1G1 SPECIAL DEAL (`BUY 1 GET 1`)
+#### VOUCHER VARIATION 2: FREE SERVICE UPGRADE (`FREE MEDICATED BATH`)
 - **Background & Palette:** Rich Warm Orange Solid (`#EA580C`)
 - **Top Left Header:** Brand Logo (**Liceria Pet**)
-- **Main Headline:** **BUY 1 GET 1** (Bold white uppercase display typography)
-- **Giant Offer Highlight:** **BUY 1 GET 1** (Giant high-contrast white text highlight)
-- **Promo Code Pill Badge:** `CODE : B1G1` (White pill badge capsule with bold dark text)
+- **Main Headline:** **FREE SPA UPGRADE** (Bold uppercase Canva display typography)
+- **Giant Offer Highlight:** **FREE MEDICATED BATH** (Giant high-contrast white text highlight)
+- **Offer Subtext / Tagline:** *"Free organic flea & tick bath upgrade with any full grooming package"* (Clean readable subtext)
+- **Promo Code Pill Badge:** `CODE : FREEBATH` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo of professional pet grooming scissor, brush set & fur care accessories
+- **Right Visual Artwork:** High-resolution photo of professional organic flea & tick shampoo bottle, bath sponge & grooming accessories
 
-#### VOUCHER VARIATION 3: DELUXE PET PAMPER BUNDLE (`40% OFF`)
+#### VOUCHER VARIATION 3: FIRST VISIT SPECIAL (`FREE NAIL & EAR CARE`)
 - **Background & Palette:** Deep Caramel & Cocoa Gradient (`#78350F` -> `#451A03`)
 - **Top Left Header:** Brand Logo (**Liceria Pet**)
-- **Main Headline:** **DELUXE SPA PACKAGE** (Bold white header typography)
-- **Giant Offer Highlight:** **40% OFF** (Giant bold white text highlight)
-- **Promo Code Pill Badge:** `CODE : PAMPER40` (White pill badge capsule with bold dark text)
+- **Main Headline:** **FIRST VISIT SPECIAL** (Bold uppercase Canva display typography)
+- **Giant Offer Highlight:** **FREE NAIL & EAR CARE** (Giant bold white text highlight)
+- **Offer Subtext / Tagline:** *"Complimentary nail trimming & gentle ear care add-on for new clients"* (Clean readable subtext)
+- **Promo Code Pill Badge:** `CODE : FREECARE` (White pill badge capsule with bold dark text)
 - **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo showcase of groomed fluffy pomeranian/cat wearing a cute bow tie surrounded by pet spa treats & paw print sparkles
+- **Right Visual Artwork:** High-resolution photo showcase of groomed fluffy pomeranian/cat wearing a cute bow tie surrounded by pet grooming scissors & ear care kit
 
 ---
 
