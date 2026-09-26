@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Elegant cover layout in dynamic transit yellow & deep steel blue, kinetic mobility layout with modern typography and spacious layout.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Sustainable City Public Transit
-- Subtitle: Transit Electrification & Action Plan
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
 - Presented By: Drew Feig
 - Presented To: Transit Authorities
 - Brand: Metropolitan Transit Authority
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| Private automobile dependency accounts for the majority of urban transport emissions. Traffic congestion causes billions in lost economic productivity every year.<br><br>Diesel public buses release harmful particulate matter into dense neighborhood air. Transitioning public transit fleets to zero-emission technology. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Battery electric buses offer zero tailpipe emissions and low operational noise. | **Key Focus 2:**<br>Hydrogen fuel cell buses provide long operating ranges for suburban routes. | **Fast:**<br>charging depot infrastructure recharges electric buses during off-peak hours. |
+| **System Integration:**<br>Battery electric buses offer zero tailpipe emissions and. | **Resource Optimization:**<br>Hydrogen fuel cell buses provide long operating ranges. | **Fast:**<br>Charging depot infrastructure recharges electric buses during off-peak hours. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Bus Rapid Transit (BRT) lanes deliver subway-like efficiency at a fraction of capital cost. | **Key Focus 2:**<br>Modern light rail transit (LRT) systems powered by 100% renewable electricity. |
+| **Operational Efficiency:**<br>Bus Rapid Transit BRT lanes deliver subway-like efficiency. | **Infrastructure Resilience:**<br>Modern light rail transit LRT systems powered by. |
 
-**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
+**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses. | **Project Lead:**<br>**Drew Feig**. |
+| **Execution Results:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses. | **Project Lead:**<br>Drew Feig for sustainable urban community growth. |
 
-**Visual Note:** Split layout highlighting key execution metrics and operational results.  
+**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Shared electric bike and scooter docks placed seamlessly at transit hubs. | **Key Focus 2:**<br>Protected cycling express lanes connect residential suburbs to train stations. | **Key Focus 3:**<br>Unified mobility mobile app integrates ticketing across buses, trains, and bikes. |
+| **Technical Innovation:**<br>Shared electric bike and scooter docks placed seamlessly. | **Process Optimization:**<br>Protected cycling express lanes connect residential suburbs to. | **Community Value:**<br>Unified mobility mobile app integrates ticketing across buses. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
+**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
 ---
 
@@ -103,9 +103,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Low:**<br>income fare assistance programs ensure transit remains affordable for all. | **Key Focus 2:**<br>Universal physical accessibility features on all electric buses and train stations. | **Extending late:**<br>night transit service routes for shift workers and service employees. | **Social Mobility:**<br>Connecting underserved neighborhoods to city employment centers. |
+| **Low:**<br>Income fare assistance programs ensure transit remains affordable. | **Financial Incentive:**<br>Universal physical accessibility features on all electric buses. | **Extending late:**<br>Night transit service routes for shift workers and. | **Social Mobility:**<br>Connecting underserved neighborhoods to city employment centers. |
 
-**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
+**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
 ---
 
@@ -117,9 +117,9 @@
 
 | Kolom 1 |
 |---------|
-| density residential and commercial zoning built directly around rail hubs. Decreasing mandatory parking minimums for buildings constructed adjacent to stations.<br><br>Creating vibrant pedestrian plazas and retail shops surrounding transit nodes. Preventing urban sprawl by concentrating growth around transit. |
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
 
-**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
@@ -131,19 +131,19 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Congestion pricing charges for private cars entering downtown business districts. | **Key Focus 2:**<br>Reinvesting toll revenue directly into expanding public transit operations. |
+| **Strategic Directive:**<br>Congestion pricing charges for private cars entering downtown. | **Governance Roadmap:**<br>Reinvesting toll revenue directly into expanding public transit operations. |
 
-**Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
+**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled in dynamic transit yellow & deep steel blue, kinetic mobility layout with closing call to action.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Sustainable City Public Transit
-- Empowering sustainable progress through innovation and conscious design.
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
 - Metropolitan Transit Authority
 - www.reallygreatsite.com
 

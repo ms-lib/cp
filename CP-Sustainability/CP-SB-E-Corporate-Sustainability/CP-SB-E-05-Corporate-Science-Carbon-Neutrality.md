@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Elegant cover layout in scientific cyan & deep charcoal, modern science layout with modern typography and spacious layout.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Corporate Science Carbon Neutrality
-- Subtitle: Science Based Targets & Action Plan
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
 - Presented By: Estelle Darcy
 - Presented To: Chief Climate Scientists
 - Brand: Science-Based Climate Council
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| Setting carbon reduction targets consistent with limiting global warming to 1. zero pledges without scientific backing face intense market skepticism.<br><br>term 50% carbon cuts within 10 years. Prioritizing deep operational decarbonization over carbon offsets. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Retrofitting commercial facilities with high-efficiency LED, HVAC, and smart controls. | **Key Focus 2:**<br>Transitioning industrial thermal heating processes from fossil fuels to clean electricity. | **Executing long:**<br>term Power Purchase Agreements (PPAs) with regional solar and wind farms. |
+| **System Integration:**<br>Retrofitting commercial facilities with high-efficiency LED HVAC and. | **Resource Optimization:**<br>Transitioning industrial thermal heating processes from fossil fuels. | **Executing long:**<br>Term Power Purchase Agreements PPAs with regional solar. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Replacing internal combustion vehicle fleets with electric and fuel-cell utility vehicles. | **Eliminating high:**<br>global-warming-potential industrial refrigerants from cooling systems. |
+| **Operational Efficiency:**<br>Replacing internal combustion vehicle fleets with electric and. | **Eliminating high:**<br>Global-warming-potential industrial refrigerants from cooling systems for sustainable. |
 
-**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
+**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Executing net:**<br>zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>**Estelle Darcy**. |
+| **Executing net:**<br>Zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>Estelle Darcy for sustainable urban community growth. |
 
-**Visual Note:** Split layout highlighting key execution metrics and operational results.  
+**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Engaging top 100 suppliers to adopt 100% renewable energy for corporate orders. | **Key Focus 2:**<br>Redesigning products to reduce energy consumption during consumer use phase. | **Key Focus 3:**<br>Optimizing global shipping logistics to transition freight from air to ocean and rail. |
+| **Technical Innovation:**<br>Engaging top 100 suppliers to adopt 100 renewable. | **Process Optimization:**<br>Redesigning products to reduce energy consumption during consumer. | **Community Value:**<br>Optimizing global shipping logistics to transition freight from. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
+**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
 ---
 
@@ -103,9 +103,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Key Focus 1:**<br>Residual emissions (under 10%) neutralized exclusively through high-integrity carbon removal. | **Key Focus 2:**<br>Direct Air Capture (DAC) and permanent geological carbon storage investments. | **High:**<br>quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Avoided Pitfalls:**<br>Rejecting unverified, low-quality carbon offset credits. |
+| **Policy Standard:**<br>Residual emissions under 10 neutralized exclusively through high-integrity. | **Financial Incentive:**<br>Direct Air Capture DAC and permanent geological carbon. | **High:**<br>Quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Avoided Pitfalls:**<br>Rejecting unverified low-quality carbon offset credits for sustainable. |
 
-**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
+**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
 ---
 
@@ -117,9 +117,9 @@
 
 | Kolom 1 |
 |---------|
-| Establishing internal carbon fee ($75 per ton CO2) charged to operating divisions. Internal carbon tax proceeds fund corporate clean tech innovation grant pool.<br><br>Green capital expenditure (CapEx) prioritized for projects with high carbon ROI. Issuing corporate green bonds to fund large-scale solar projects. |
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
 
-**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
@@ -131,19 +131,19 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Internal climate academy educating staff on corporate net-zero targets and actions. | **Key Focus 2:**<br>Departmental carbon budgets tracking team emissions performance quarterly. |
+| **Strategic Directive:**<br>Internal climate academy educating staff on corporate net-zero. | **Governance Roadmap:**<br>Departmental carbon budgets tracking team emissions performance quarterly. |
 
-**Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
+**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled in scientific cyan & deep charcoal, modern science layout with closing call to action.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Corporate Science Carbon Neutrality
-- Empowering sustainable progress through innovation and conscious design.
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
 - Science-Based Climate Council
 - www.reallygreatsite.com
 

@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Elegant cover layout in warm earthy sage & cream, friendly lifestyle layout with modern typography and spacious layout.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Tracing Personal Carbon Footprint
-- Subtitle: Personal Carbon Footprint & Action Plan
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
 - Presented By: Francisco Andrade
 - Presented To: Eco-Conscious Citizens
 - Brand: Personal Carbon Action Network
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| Every daily choice—transportation, diet, heating, consumption—emits carbon. The global average personal footprint exceeds sustainable planetary boundaries.<br><br>Home energy use, personal vehicle travel, and food choice. Small individual lifestyle shifts accumulate into massive community reductions. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Direct emissions (Scope 1):**<br>Fuel burned in personal cars and home natural gas heaters. | **Key Focus 2:**<br>Indirect energy emissions (Scope 2): Electricity consumed from local utility grids. | **Key Focus 3:**<br>Supply chain emissions (Scope 3): Embedded carbon in purchased goods and food. |
+| **Direct emissions (Scope 1):**<br>Fuel burned in personal cars and home natural. | **Resource Optimization:**<br>Indirect energy emissions Scope 2 Electricity consumed from. | **Supply chain emissions (Scope 3):**<br>Embedded carbon in purchased goods and food. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Switching home electricity contracts to 100% renewable energy providers. | **Key Focus 2:**<br>Retrofitting home insulation and upgrading to high-efficiency heat pumps. |
+| **Operational Efficiency:**<br>Switching home electricity contracts to 100 renewable energy providers. | **Infrastructure Resilience:**<br>Retrofitting home insulation and upgrading to high-efficiency heat pumps. |
 
-**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
+**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>A family of four tracking and reducing their annual carbon emissions over 12 months. | **Lead Advisor:**<br>**Francisco Andrade**. |
+| **Execution Results:**<br>A family of four tracking and reducing their. | **Lead Advisor:**<br>Francisco Andrade for sustainable urban community growth. |
 
-**Visual Note:** Split layout highlighting key execution metrics and operational results.  
+**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Commercial aviation represents a high proportion of frequent traveler carbon output. | **Key Focus 2:**<br>Choosing rail travel over short-haul domestic flights dramatically lowers travel impact. | **Embracing eco:**<br>tourism destinations that invest in local ecosystem conservation. |
+| **Technical Innovation:**<br>Commercial aviation represents a high proportion of frequent. | **Choosing rail travel over short:**<br>Haul domestic flights dramatically lowers travel impact. | **Embracing eco:**<br>Tourism destinations that invest in local ecosystem conservation. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
+**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
 ---
 
@@ -103,9 +103,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Key Focus 1:**<br>Fast fashion industry creates significant water pollution and textile landfill waste. | **Key Focus 2:**<br>Building a capsule wardrobe of timeless, high-quality, sustainably sourced garments. | **Key Focus 3:**<br>Buying secondhand, vintage clothing, and participating in garment swap events. | **Garment Care:**<br>Washing clothes in cold water and line-drying saves energy. |
+| **Policy Standard:**<br>Fast fashion industry creates significant water pollution and. | **Financial Incentive:**<br>Building a capsule wardrobe of timeless high-quality sustainably. | **Public Partnership:**<br>Buying secondhand vintage clothing and participating in garment. | **Garment Care:**<br>Washing clothes in cold water and line-drying saves energy. |
 
-**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
+**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
 ---
 
@@ -117,9 +117,9 @@
 
 | Kolom 1 |
 |---------|
-| Digital cloud storage and streaming video consume substantial data center power. Unsubscribing from spam emails and cleaning up unnecessary cloud storage files.<br><br>Extending personal electronics usage lifespans from two years to five years. Recycling old smartphones and laptops at certified centers. |
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
 
-**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
@@ -131,19 +131,19 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors. | **Key Focus 2:**<br>Advocating for municipal bike lanes and public transit investment at city meetings. |
+| **Strategic Directive:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors. | **Governance Roadmap:**<br>Advocating for municipal bike lanes and public transit. |
 
-**Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
+**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled in warm earthy sage & cream, friendly lifestyle layout with closing call to action.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Tracing Personal Carbon Footprint
-- Empowering sustainable progress through innovation and conscious design.
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
 - Personal Carbon Action Network
 - www.reallygreatsite.com
 

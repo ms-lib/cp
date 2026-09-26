@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Elegant cover layout in terracotta & forest moss green, organic soil layout with modern typography and spacious layout.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Healing Degraded Urban Landscapes
-- Subtitle: Brownfield Remediation & Action Plan
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
 - Presented By: Connor Hamilton
 - Presented To: Restoration Ecologists
 - Brand: Urban Restoration Ecology Group
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| Decades of unmonitored manufacturing left behind toxic soil contaminants. Vacant urban lots degrade local property values and harbor illegal dumping.<br><br>High urban concrete density eliminates natural soil filtration and biodiversity. Removing heavy metals and petroleum hydrocarbons safely. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Utilizing specialized plants to extract and neutralize soil contaminants naturally. | **Key Focus 2:**<br>Sunflowers and willows absorb heavy metals like lead and cadmium from contaminated soil. | **Key Focus 3:**<br>Soil microbes break down complex organic pollutants into non-toxic compounds. |
+| **System Integration:**<br>Utilizing specialized plants to extract and neutralize soil. | **Resource Optimization:**<br>Sunflowers and willows absorb heavy metals like lead. | **Environmental Protection:**<br>Soil microbes break down complex organic pollutants into. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Transforming disused railway lines and factory sites into linear greenways. | **Designing multi:**<br>functional spaces that blend recreation with native plant reserves. |
+| **Operational Efficiency:**<br>Transforming disused railway lines and factory sites into. | **Designing multi:**<br>Functional spaces that blend recreation with native plant reserves. |
 
-**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
+**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Transformation of a 50:**<br>acre abandoned shipyard into a public eco-park. | **Eco:**<br>Project Manager: **Connor Hamilton**. |
+| **Transformation of a 50:**<br>Acre abandoned shipyard into a public eco-park. | **Eco:**<br>Project Manager Connor Hamilton for sustainable urban community. |
 
-**Visual Note:** Split layout highlighting key execution metrics and operational results.  
+**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Planting diverse native tree species across former industrial brownfield zones. | **Establishing micro:**<br>forests using dense reforestation techniques in small spaces. | **Key Focus 3:**<br>Tree canopy coverage reduces heat island temperatures by up to 5°C. |
+| **Technical Innovation:**<br>Planting diverse native tree species across former industrial. | **Establishing micro:**<br>Forests using dense reforestation techniques in small spaces. | **Community Value:**<br>Tree canopy coverage reduces heat island temperatures by. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
+**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
 ---
 
@@ -103,9 +103,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Key Focus 1:**<br>Enriching degraded urban soils with organic compost and biochar soil amendments. | **Key Focus 2:**<br>Biochar enhances soil water retention and locks carbon into the earth permanently. | **Key Focus 3:**<br>Aerating compacted soils enables deep root growth for urban shade trees. | **Nutrient Cycling:**<br>Diverting municipal yard waste into high-quality soil compost. |
+| **Policy Standard:**<br>Enriching degraded urban soils with organic compost and. | **Financial Incentive:**<br>Biochar enhances soil water retention and locks carbon. | **Public Partnership:**<br>Aerating compacted soils enables deep root growth for. | **Nutrient Cycling:**<br>Diverting municipal yard waste into high-quality soil compost. |
 
-**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
+**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
 ---
 
@@ -117,9 +117,9 @@
 
 | Kolom 1 |
 |---------|
-| Partnering with local neighborhood associations to steward restored land. Converting clean brownfield spaces into community vegetable gardens.<br><br>Teaching urban residents sustainable gardening and soil care techniques. Providing fresh, locally grown produce in urban food deserts. |
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
 
-**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
@@ -131,19 +131,19 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Municipal tax credits for private developers remediating contaminated land. | **Key Focus 2:**<br>Liability protection programs for non-profit groups taking over abandoned lots. |
+| **Strategic Directive:**<br>Municipal tax credits for private developers remediating contaminated land. | **Governance Roadmap:**<br>Liability protection programs for non-profit groups taking over. |
 
-**Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
+**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled in terracotta & forest moss green, organic soil layout with closing call to action.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Healing Degraded Urban Landscapes
-- Empowering sustainable progress through innovation and conscious design.
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
 - Urban Restoration Ecology Group
 - www.reallygreatsite.com
 

@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Elegant cover layout in ocean blue & fresh aqua, clean hydro layout with modern typography and spacious layout.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Urban Municipal Water Resilience
-- Subtitle: Municipal Water Resilience & Action Plan
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
 - Presented By: Cahaya Dewi
 - Presented To: Water Resource Managers
 - Brand: Municipal Water Resilience Authority
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| Climate variability causes erratic precipitation and prolonged regional droughts. Aging water distribution infrastructure suffers high pipe leakage losses.<br><br>Rapid population growth places unprecedented strain on existing aquifers. Depletion of freshwater reservoirs during multi-year dry spells. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment. | **Key Focus 2:**<br>Reverse osmosis desalination supplies reliable drinking water to coastal cities. | **Key Focus 3:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-pollutants. |
+| **System Integration:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment. | **Resource Optimization:**<br>Reverse osmosis desalination supplies reliable drinking water to. | **Environmental Protection:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-pollutants. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Large:**<br>scale urban cisterns collect stormwater runoff from industrial roof space. | **Key Focus 2:**<br>Managed aquifer recharge injects treated water into underground aquifers for storage. |
+| **Large:**<br>Scale urban cisterns collect stormwater runoff from industrial. | **Infrastructure Resilience:**<br>Managed aquifer recharge injects treated water into underground. |
 
-**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
+**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Implementation of city:**<br>wide recycled water network for industrial cooling. | **Project Director:**<br>**Cahaya Dewi**. |
+| **Implementation of city:**<br>Wide recycled water network for industrial cooling. | **Project Director:**<br>Cahaya Dewi for sustainable urban community growth. |
 
-**Visual Note:** Split layout highlighting key execution metrics and operational results.  
+**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Acoustic IoT sensors detect subterranean pipe leaks before major bursts occur. | **Key Focus 2:**<br>Smart digital meters provide real-time water consumption feedback to residents. | **Key Focus 3:**<br>Dynamic pricing models encourage water conservation during extreme summer droughts. |
+| **Technical Innovation:**<br>Acoustic IoT sensors detect subterranean pipe leaks before. | **Smart digital meters provide real:**<br>Time water consumption feedback to residents for sustainable. | **Community Value:**<br>Dynamic pricing models encourage water conservation during extreme. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
+**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
 ---
 
@@ -103,9 +103,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Mandating closed:**<br>loop water treatment systems for high-water commercial users. | **Key Focus 2:**<br>Greywater reuse systems flush commercial office building toilets and cool towers. | **Key Focus 3:**<br>Financial incentives for factories adopting zero-liquid-discharge (ZLD) technologies. | **Conservation Impact:**<br>Saving millions of gallons of drinking water daily. |
+| **Mandating closed:**<br>Loop water treatment systems for high-water commercial users. | **Financial Incentive:**<br>Greywater reuse systems flush commercial office building toilets. | **Public Partnership:**<br>Financial incentives for factories adopting zero-liquid-discharge ZLD technologies. | **Conservation Impact:**<br>Saving millions of gallons of drinking water daily. |
 
-**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
+**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
 ---
 
@@ -117,9 +117,9 @@
 
 | Kolom 1 |
 |---------|
-| Partnering with rural upstream communities to protect municipal river source zones. Reforestation along riverbanks reduces soil erosion and sediment build-up in reservoirs.<br><br>Preserving natural wetlands provides low-cost organic filtering of incoming rivers. Payment for Ecosystem Services (PES) funded by utility rates. |
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
 
-**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
@@ -131,19 +131,19 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>School curriculum modules teaching urban children water conservation habits. | **Key Focus 2:**<br>Public campaigns promoting drought-tolerant landscaping and xeriscaping practices. |
+| **Strategic Directive:**<br>School curriculum modules teaching urban children water conservation habits. | **Public campaigns promoting drought:**<br>Tolerant landscaping and xeriscaping practices for sustainable urban. |
 
-**Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
+**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled in ocean blue & fresh aqua, clean hydro layout with closing call to action.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Urban Municipal Water Resilience
-- Empowering sustainable progress through innovation and conscious design.
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
 - Municipal Water Resilience Authority
 - www.reallygreatsite.com
 

@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Elegant cover layout in earthy terracotta & garden green, warm home layout with modern typography and spacious layout.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: The Zero Waste Household
-- Subtitle: Zero Waste Household & Action Plan
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
 - Presented By: Claudia Alves
 - Presented To: Families
 - Brand: Zero Waste Home Network
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| Refuse, Reduce, Reuse, Recycle, and Rot (Compost). use marketing freebies, plastic straws, and disposable utensils.<br><br>Reducing overall household consumption by purchasing only what is genuinely needed. Reusing durable containers, bags, and items repeatedly before replacement. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Replacing disposable paper towels with washable organic cloth rags. | **Buying package:**<br>free grains, spices, and oils at local bulk zero-waste stores. | **Key Focus 3:**<br>Storing leftover food in glass containers or reusable beeswax food wraps. |
+| **System Integration:**<br>Replacing disposable paper towels with washable organic cloth rags. | **Buying package:**<br>Free grains spices and oils at local bulk. | **Environmental Protection:**<br>Storing leftover food in glass containers or reusable. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Switching from liquid soap in plastic bottles to solid bar soaps and shampoos. | **Key Focus 2:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives. |
+| **Operational Efficiency:**<br>Switching from liquid soap in plastic bottles to. | **Infrastructure Resilience:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives. |
 
-**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
+**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>A suburban family transitioning from 3 trash bags per week to 1 jar per year. | **Lead Coach:**<br>**Claudia Alves**. |
+| **Execution Results:**<br>A suburban family transitioning from 3 trash bags. | **Lead Coach:**<br>Claudia Alves for sustainable urban community growth. |
 
-**Visual Note:** Split layout highlighting key execution metrics and operational results.  
+**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Bringing reusable cotton mesh bags for fresh fruits, vegetables, and bakery items. | **Tare:**<br>weighing glass jars at bulk stores before filling with pantry staples. | **Key Focus 3:**<br>Choosing glass, aluminum, or cardboard packaging over non-recyclable multi-layer plastics. |
+| **Technical Innovation:**<br>Bringing reusable cotton mesh bags for fresh fruits. | **Tare:**<br>Weighing glass jars at bulk stores before filling. | **Community Value:**<br>Choosing glass aluminum or cardboard packaging over non-recyclable. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
+**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
 ---
 
@@ -103,9 +103,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Key Focus 1:**<br>Using natural laundry detergent sheets or refillable liquid detergent stations. | **Key Focus 2:**<br>Drying clothes naturally on outdoor clotheslines or indoor drying racks. | **Key Focus 3:**<br>Wool dryer balls replace synthetic single-use dryer sheets and soften fabrics. | **DIY Cleaners:**<br>Vinegar, baking soda, and lemon juice clean 90% of household surfaces. |
+| **Policy Standard:**<br>Using natural laundry detergent sheets or refillable liquid. | **Financial Incentive:**<br>Drying clothes naturally on outdoor clotheslines or indoor. | **Public Partnership:**<br>Wool dryer balls replace synthetic single-use dryer sheets. | **DIY Cleaners:**<br>Vinegar baking soda and lemon juice clean 90. |
 
-**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
+**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
 ---
 
@@ -117,9 +117,9 @@
 
 | Kolom 1 |
 |---------|
-| Safely recycling old electronics, batteries, and lightbulbs at municipal drop-offs. Disposing of leftover household paints and chemicals through eco-hazard collection days.<br><br>Repairing damaged household electronics instead of discarding them prematurely. Buying certified refurbished computers and smartphones. |
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
 
-**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
@@ -131,19 +131,19 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Navigating convenience culture when traveling or dining out at restaurants. | **Key Focus 2:**<br>Managing packaging waste when receiving mandatory prescription medications. |
+| **Strategic Directive:**<br>Navigating convenience culture when traveling or dining out. | **Governance Roadmap:**<br>Managing packaging waste when receiving mandatory prescription medications. |
 
-**Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
+**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled in earthy terracotta & garden green, warm home layout with closing call to action.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- The Zero Waste Household
-- Empowering sustainable progress through innovation and conscious design.
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
 - Zero Waste Home Network
 - www.reallygreatsite.com
 

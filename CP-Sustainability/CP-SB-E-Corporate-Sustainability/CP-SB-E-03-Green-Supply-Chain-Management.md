@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Elegant cover layout in industrial steel blue & forest green, logistics precision layout with modern typography and spacious layout.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Green Supply Chain Management
-- Subtitle: Green Supply Chain & Action Plan
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
 - Presented By: Benjamin Shah
 - Presented To: Supply Chain VPs
 - Brand: Commercial Procurement Board
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| Upstream supply chains account for over 80% of a typical corporation's carbon footprint. Global vendor networks present complex visibility and ethical compliance challenges.<br><br>source supply chains face high vulnerability to climate-driven weather disruptions. Extending corporate environmental standards to all global vendors. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection. | **Requiring top:**<br>tier suppliers to set verified science-based carbon reduction targets. | **Key Focus 3:**<br>Contractual clauses mandating fair labor practices and safe working conditions. |
+| **System Integration:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection. | **Requiring top:**<br>Tier suppliers to set verified science-based carbon reduction targets. | **Environmental Protection:**<br>Contractual clauses mandating fair labor practices and safe. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Shifting long:**<br>haul freight transport from aviation to high-efficiency rail and maritime. | **Transitioning short:**<br>haul delivery fleets to battery electric and hydrogen vehicles. |
+| **Shifting long:**<br>Haul freight transport from aviation to high-efficiency rail. | **Transitioning short:**<br>Haul delivery fleets to battery electric and hydrogen vehicles. |
 
-**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
+**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Decarbonizing supply chain operations across 200 primary component suppliers. | **Program Director:**<br>**Benjamin Shah**. |
+| **Execution Results:**<br>Decarbonizing supply chain operations across 200 primary component suppliers. | **Program Director:**<br>Benjamin Shah for sustainable urban community growth. |
 
-**Visual Note:** Split layout highlighting key execution metrics and operational results.  
+**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Digital block:**<br>chain ledgers tracking raw material origin from mine to final product. | **Guaranteeing conflict:**<br>free minerals and deforestation-free timber procurement. | **Certified organic, fair:**<br>trade, and recycled material certification validation. |
+| **Digital block:**<br>Chain ledgers tracking raw material origin from mine. | **Guaranteeing conflict:**<br>Free minerals and deforestation-free timber procurement for sustainable. | **Certified organic, fair:**<br>Trade and recycled material certification validation for sustainable. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
+**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
 ---
 
@@ -103,9 +103,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Key Focus 1:**<br>Hosting annual corporate supplier sustainability summits and training webinars. | **Key Focus 2:**<br>Providing smaller vendors with free carbon accounting tools and software access. | **Co:**<br>investing with key suppliers in factory energy-efficiency retrofits and solar panels. | **Partnership Culture:**<br>Collaborating with vendors as long-term transformation partners. |
+| **Policy Standard:**<br>Hosting annual corporate supplier sustainability summits and training webinars. | **Financial Incentive:**<br>Providing smaller vendors with free carbon accounting tools. | **Public Partnership:**<br>Investing with key suppliers in factory energy-efficiency retrofits. | **Partnership Culture:**<br>Collaborating with vendors as long-term transformation partners. |
 
-**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
+**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
 ---
 
@@ -117,9 +117,9 @@
 
 | Kolom 1 |
 |---------|
-| Rebalancing global supply chains with regional nearshoring procurement hubs. Reducing maritime transit distances lowers transport fuel emissions significantly.<br><br>Regional supplier diversification protects against geopolitical trade disruptions. Demand-driven inventory management reduces excess stock. |
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
 
-**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
@@ -131,19 +131,19 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Specifying mandatory minimum post-consumer recycled content in corporate purchase orders. | **Key Focus 2:**<br>Requiring suppliers to take back industrial packaging materials for reuse. |
+| **Specifying mandatory minimum post:**<br>Consumer recycled content in corporate purchase orders. | **Governance Roadmap:**<br>Requiring suppliers to take back industrial packaging materials. |
 
-**Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
+**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled in industrial steel blue & forest green, logistics precision layout with closing call to action.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Green Supply Chain Management
-- Empowering sustainable progress through innovation and conscious design.
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
 - Commercial Procurement Board
 - www.reallygreatsite.com
 

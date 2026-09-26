@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Elegant cover layout in emerald green & smart digital teal, modern urban layout with modern typography and spacious layout.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Smart Green Sustainable Cities
-- Subtitle: Smart Cities & Action Plan
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
 - Presented By: Bartholomew Henderson
 - Presented To: Urban Architects
 - Brand: Urban Eco-Design Lab
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| Rapid urbanization increases resource consumption and environmental stress. High traffic congestion elevates metropolitan carbon emissions and smog.<br><br>Inefficient building designs waste electricity and clean water supplies. Data-driven urban management using IoT networks and green design. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Connected IoT sensors monitor air quality, traffic flow, and noise levels. | **Key Focus 2:**<br>Intelligent street lighting dims automatically when no pedestrians or cars are near. | **Key Focus 3:**<br>Smart waste management bins notify collection crews when fill levels reach capacity. |
+| **System Integration:**<br>Connected IoT sensors monitor air quality traffic flow. | **Resource Optimization:**<br>Intelligent street lighting dims automatically when no pedestrians. | **Environmental Protection:**<br>Smart waste management bins notify collection crews when. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
 ---
 
@@ -61,9 +61,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Integrating living plants onto building facades reduces interior cooling requirements. | **Key Focus 2:**<br>Vertical gardens absorb urban carbon dioxide and release fresh atmospheric oxygen. |
+| **Operational Efficiency:**<br>Integrating living plants onto building facades reduces interior. | **Infrastructure Resilience:**<br>Vertical gardens absorb urban carbon dioxide and release. |
 
-**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
+**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Key Focus 1:**<br>Revitalizing former industrial zones into zero-emission mixed-use communities. | **Planning Director:**<br>**Bartholomew Henderson**. |
+| **Execution Results:**<br>Revitalizing former industrial zones into zero-emission mixed-use communities. | **Planning Director:**<br>Bartholomew Henderson for sustainable urban community growth. |
 
-**Visual Note:** Split layout highlighting key execution metrics and operational results.  
+**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Permeable pavement surfaces allow rainwater to filter directly into aquifers. | **Key Focus 2:**<br>Smart stormwater monitoring prevents storm drain overflows during heavy rains. | **Key Focus 3:**<br>Rainwater collection cisterns supply greywater for city park irrigation systems. |
+| **Technical Innovation:**<br>Permeable pavement surfaces allow rainwater to filter directly. | **Process Optimization:**<br>Smart stormwater monitoring prevents storm drain overflows during. | **Community Value:**<br>Rainwater collection cisterns supply greywater for city park. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
+**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
 ---
 
@@ -103,9 +103,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Key Focus 1:**<br>Prioritizing pedestrian walkways and dedicated protected cycling pathways. | **Integrating electric micro:**<br>mobility charging docks near transit terminals. | **Low:**<br>emission zones restrict diesel delivery vehicles from city centers during peak hours. | **Safety & Accessibility:**<br>Universal design standards for senior and disabled residents. |
+| **Policy Standard:**<br>Prioritizing pedestrian walkways and dedicated protected cycling pathways. | **Integrating electric micro:**<br>Mobility charging docks near transit terminals for sustainable. | **Low:**<br>Emission zones restrict diesel delivery vehicles from city. | **Safety & Accessibility:**<br>Universal design standards for senior and disabled residents. |
 
-**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
+**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
 ---
 
@@ -117,9 +117,9 @@
 
 | Kolom 1 |
 |---------|
-| Ensuring smart city sensor networks respect citizen privacy and data security. data portals enable civic developers to build public apps.<br><br>Citizen feedback channels incorporate public preferences into urban design choices. Mitigating algorithmic bias in municipal service allocation. |
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
 
-**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
@@ -131,19 +131,19 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Eco:**<br>districts attract green technology businesses and creative professionals. | **Key Focus 2:**<br>Affordable sustainable housing options prevent gentrification displacement. |
+| **Eco:**<br>Districts attract green technology businesses and creative professionals. | **Governance Roadmap:**<br>Affordable sustainable housing options prevent gentrification displacement. |
 
-**Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
+**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled in emerald green & smart digital teal, modern urban layout with closing call to action.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Smart Green Sustainable Cities
-- Empowering sustainable progress through innovation and conscious design.
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
 - Urban Eco-Design Lab
 - www.reallygreatsite.com
 

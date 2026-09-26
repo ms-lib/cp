@@ -14,11 +14,11 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Elegant cover layout in slate blue & platinum gray, clean audit layout with modern typography and spacious layout.  
+**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
 
 **Text:**
 - Title: Corporate ESG Framework Reporting
-- Subtitle: Corporate Esg Framework & Action Plan
+- Subtitle: Practical strategy guide for sustainable community and environmental progress.
 - Presented By: Adeline Palmerston
 - Presented To: ESG Officers
 - Brand: Global ESG Disclosure Board
@@ -33,9 +33,9 @@
 
 | Kolom 1 |
 |---------|
-| Institutional investors require rigorous ESG data alongside traditional financial statements. Global regulatory mandates enforce standardized climate risk reporting.<br><br>Consumers and talent evaluate corporate ethics based on verified ESG disclosures. Moving from voluntary green marketing to auditable ESG reporting. |
+| Sustainable initiatives empower communities to protect natural resources and optimize daily operations effectively.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
 
-**Visual Note:** Prominent single-column card featuring 2 short paragraphs with generous white space.  
+**Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
 ---
 
@@ -47,9 +47,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>CSRD (Corporate Sustainability Reporting Directive): Mandatory double materiality reporting. | **Key Focus 2:**<br>ISSB (International Sustainability Standards Board): Baseline global climate metrics. | **Key Focus 3:**<br>GRI (Global Reporting Initiative): Comprehensive impact disclosure across stakeholders. |
+| **System Integration:**<br>CSRD Corporate Sustainability Reporting Directive Mandatory double materiality reporting. | **Resource Optimization:**<br>ISSB International Sustainability Standards Board Baseline global climate metrics. | **GRI (Global Reporting Initiative):**<br>Comprehensive impact disclosure across stakeholders for sustainable urban. |
 
-**Visual Note:** Three vertical feature columns styled with clean spacing and 2-3 lines of text per cell.  
+**Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 
 ---
 
@@ -63,7 +63,7 @@
 |---------|---------|
 | **Scope 1:**<br>Direct emissions from corporate facilities and vehicle fleets. | **Scope 2:**<br>Indirect emissions from purchased electricity and steam generation. |
 
-**Visual Note:** Two-column comparison layout with concise 2-3 line bullet cards.  
+**Visual Note:** Two-column layout with bold contextual titles and 7-9 word description sentences.  
 
 ---
 
@@ -75,9 +75,9 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Human capital management:**<br>Diversity, equity, and inclusion (DEI) workforce metrics. | **Key Focus 2:**<br>Occupational health and safety (OHS) incident rates across corporate facilities. |
+| **Human capital management:**<br>Diversity equity and inclusion DEI workforce metrics. | **Environmental Impact:**<br>Occupational health and safety OHS incident rates across. |
 
-**Visual Note:** Split layout highlighting key execution metrics and operational results.  
+**Visual Note:** Two feature cards contrasting execution metrics with verified environmental outcomes.  
 
 ---
 
@@ -89,9 +89,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Key Focus 1:**<br>Standardizing global ESG reporting across 45 international business subsidiaries. | **Project Leaders:**<br>**Adeline Palmerston** & **Drew Feig**. | **Data Analytics Team:**<br>**Jamie Chastain**, **Olivia Wilson**, **Alfredo Torres**. |
+| **Technical Innovation:**<br>Standardizing global ESG reporting across 45 international business subsidiaries. | **Project Leaders:**<br>Adeline Palmerston Drew Feig for sustainable urban community. | **Data Analytics Team:**<br>Jamie Chastain Olivia Wilson Alfredo Torres for sustainable. |
 
-**Visual Note:** Three step cards showcasing core technical methodologies with 2-3 lines of text.  
+**Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 
 ---
 
@@ -103,9 +103,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Key Focus 1:**<br>Identifying financial materiality: How climate change impacts corporate asset value. | **Key Focus 2:**<br>Identifying impact materiality: How business operations impact society and nature. | **Stakeholder engagement:**<br>Consulting shareholders, employees, suppliers, and communities. | **Matrix Prioritization:**<br>Focusing executive reporting on top 10 material ESG risks. |
+| **Identifying financial materiality:**<br>How climate change impacts corporate asset value. | **Identifying impact materiality:**<br>How business operations impact society and nature. | **Stakeholder engagement:**<br>Consulting shareholders employees suppliers and communities for sustainable. | **Matrix Prioritization:**<br>Focusing executive reporting on top 10 material ESG risks. |
 
-**Visual Note:** Four feature badge cards displaying key pillars in clean, spacious frames.  
+**Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 
 ---
 
@@ -117,9 +117,9 @@
 
 | Kolom 1 |
 |---------|
-| Engaging independent accounting firms to perform limited and reasonable assurance. Establishing internal controls for ESG data collection equivalent to financial auditing.<br><br>Utilizing blockchain ledgers for immutable audit trails of carbon footprint calculations. Rigorous substantiation of all public sustainability claims. |
+| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
 
-**Visual Note:** Full-width paragraph slide featuring 2 short inspiring paragraphs with deep background styling.  
+**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
 ---
 
@@ -131,19 +131,19 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Cloud:**<br>based ESG software platforms consolidating data from hundreds of global sites. | **Key Focus 2:**<br>Artificial intelligence algorithms detecting anomalous energy readings across factories. |
+| **Cloud:**<br>Based ESG software platforms consolidating data from hundreds. | **Governance Roadmap:**<br>Artificial intelligence algorithms detecting anomalous energy readings across factories. |
 
-**Visual Note:** Structured two-column summary slide highlighting governance and policy directives.  
+**Visual Note:** Structured two-column summary slide highlighting final policy directives and recommendations.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled in slate blue & platinum gray, clean audit layout with closing call to action.  
+**Visual Note:** Minimalist back cover styled with a warm thank you message.  
 
 **Text:**
-- Corporate ESG Framework Reporting
-- Empowering sustainable progress through innovation and conscious design.
+- Thank You!
+- Building a clean, resilient future through proactive environmental leadership.
 - Global ESG Disclosure Board
 - www.reallygreatsite.com
 
