@@ -89,7 +89,7 @@
 |---------|---------|---------|---------|
 | **Net Entanglement:**<br>Ghost nets trapping sea mammals. | **Internal Injury:**<br>Plastic ingestion causing blockage. | **Disrupted Breeding:**<br>unfiltered particles altering animal migration. | **Reef Bleaching:**<br>Chemicals smothering coral reefs. |
 
-**Visual Note:** Four wildlife damage cards displaying marine species impact.  
+**Visual Note:** Four wildlife conservation cards displaying marine species impact.  
 
 ---
 

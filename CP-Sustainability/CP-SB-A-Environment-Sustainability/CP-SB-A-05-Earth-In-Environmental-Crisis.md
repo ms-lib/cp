@@ -31,7 +31,7 @@
 
 | Kolom 1 |
 |---------|
-| **Major Environmental Events:**<br>Natural emergency events are sudden geological or meteorological events—including earthquakes, severe floods, tsunamis, volcanic eruptions, and tropical cyclones—that cause significant community impact, structural destruction, and social displacement.<br><br>**Core Mission:** Building community Environmental Factor awareness, early warning networks, and emergency resilience. |
+| **Major Environmental Events:**<br>Natural emergency events are sudden geological or meteorological events—including earthquakes, significant floods, tsunamis, volcanic eruptions, and tropical cyclones—that cause significant community impact, structural destruction, and social displacement.<br><br>**Core Mission:** Building community Environmental Factor awareness, early warning networks, and emergency resilience. |
 
 **Visual Note:** Single prominent card with deep navy background and clean white text layout.  
 
@@ -73,7 +73,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Human Displacement:**<br>Families forced into emergency shelters after losing homes and belongings. | **Infrastructure Collapse:**<br>Disrupted power grids, severed highways, and destroyed water supply lines. | **Economic Recovery Obstacles:**<br>Severe agricultural crop loss and small business disruption requiring years of aid. |
+| **Human Displacement:**<br>Families forced into emergency shelters after losing homes and belongings. | **Infrastructure Collapse:**<br>Disrupted power grids, severed highways, and destroyed water supply lines. | **Economic Recovery Obstacles:**<br>significant agricultural crop loss and small business disruption requiring years of aid. |
 
 **Visual Note:** Three impact cards highlighting human, structural, and economic dimensions.  
 

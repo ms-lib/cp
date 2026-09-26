@@ -59,7 +59,7 @@
 
 | Kolom 1 (Compostable Organics) | Kolom 2 (Excluded Waste) |
 |--------------------------------|--------------------------|
-| **Compostable Materials:**<br>Vegetable peels, coffee grounds, eggshells, dry autumn leaves, and shredded unprinted paper. | **Excluded Items:**<br>Meat scraps, dairy products, grease, pet waste, and diseased garden foliage. |
+| **Compostable Materials:**<br>Vegetable peels, coffee grounds, eggshells, dry autumn leaves, and shredded unprinted paper. | **Excluded Items:**<br>Meat scraps, dairy products, grease, pet waste, and unsuitable garden foliage. |
 
 **Visual Note:** Two contrasting checkmark vs cross cards in green and muted red.  
 
@@ -101,7 +101,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Regular Pile Turning:**<br>Turn and aerate the compost pile every 1–2 weeks to provide oxygen to active aerobic microbes. | **Managing Excess Moisture:**<br>If unpleasant odors arise, mix in extra dry shredded Browns and aerate thoroughly. |
+| **Regular Pile Turning:**<br>Turn and aerate the compost pile every 1–2 weeks to provide oxygen to active aerobic microbes. | **Managing Excess Moisture:**<br>If excess moisture signs arise, mix in extra dry shredded Browns and aerate thoroughly. |
 
 **Visual Note:** Two maintenance cards with turning fork and ventilation graphics.  
 
@@ -115,7 +115,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Dark Crumbly Texture:**<br>Resembles dark, rich woodland soil without visible original food scraps. | **Earthy Forest Aroma:**<br>Emits a clean, earthy scent without any sour or rotten odors. | **Maturation Timeframe:**<br>Typically ready in 2 to 3 months with consistent moisture and turning. |
+| **Dark Crumbly Texture:**<br>Resembles dark, rich woodland soil without visible original food scraps. | **Earthy Forest Aroma:**<br>Emits a clean, earthy scent without any sour or unrefined odors. | **Maturation Timeframe:**<br>Typically ready in 2 to 3 months with consistent moisture and turning. |
 
 **Visual Note:** Three readiness indicator cards in rich chocolate brown.  
 

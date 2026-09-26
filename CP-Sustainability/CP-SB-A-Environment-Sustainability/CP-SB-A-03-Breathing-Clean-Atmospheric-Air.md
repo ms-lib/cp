@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: Breathing Clean Atmospheric Air
-- Subtitle: Atmospheric Health, Pollution Control & Protecting Public Well-Being
+- Subtitle: Atmospheric Health, Air Quality Management & Protecting Public Well-Being
 - Presented By: Juliana Silva
 - Presented To: Pedro Fernandes
 - Brand: Rimberio
@@ -28,12 +28,12 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Understanding Urban Air Pollution  
+**Judul Halaman:** Understanding Urban Air Quality  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Atmospheric Air Quality:**<br>Air pollution occurs when industrial gases, fine particulates, and chemical aerosols accumulate in the lower atmosphere, compromising human respiratory health and disturbing ecological stability.<br><br>**Core Objective:** Inspiring collective action to eliminate emission sources and guarantee clean air for all. |
+| **Atmospheric Air Quality:**<br>Air quality changes occur when industrial gases, fine particulates, and chemical aerosols accumulate in the lower atmosphere, compromising human respiratory health and disturbing ecological stability.<br><br>**Core Objective:** Inspiring collective action to eliminate emission sources and guarantee clean air for all. |
 
 **Visual Note:** Single prominent card with soft sky blue background and clean text layout.  
 
@@ -42,7 +42,7 @@
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Major Industrial Pollution Sources  
+**Judul Halaman:** Major Industrial Air Quality Factors  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
@@ -63,7 +63,7 @@
 |---------|---------|---------|---------|
 | **Nitrogen Dioxide (NO₂):**<br>Respiratory irritant from vehicle combustion. | **Carbon Monoxide (CO):**<br>Odorless industrial gas reducing blood oxygen transport. | **Fine Particulates (PM2.5):**<br>Micro-particles penetrating deep into lung tissue. | **Ground-Level Ozone (O₃):**<br>reactive component of urban summer ambient haze. |
 
-**Visual Note:** Four pollutant identification cards styled with distinct colored indicators.  
+**Visual Note:** four air quality identification cards styled with distinct colored indicators.  
 
 ---
 
@@ -84,26 +84,26 @@
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Widespread Environmental Ecosystem Destruction  
+**Judul Halaman:** Widespread Environmental Ecosystem Renewal Needs  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Acid Rain Interactions:**<br>Sulfur deposition interacting with soil & forests. | **Atmospheric Haze Factors:**<br>Haze blocking sunlight for plant photosynthesis. | **Aquatic unfiltered particles:**<br>Airborne heavy metals settling into lakes. | **Wildlife Inhalation:**<br>Animals suffering respiratory damage. |
+| **Soil Health Balance:**<br>Interactions between precipitation and forest soils. | **Atmospheric Haze Factors:**<br>Haze blocking sunlight for plant photosynthesis. | **Aquatic unfiltered particles:**<br>Airborne heavy metals settling into lakes. | **Wildlife Inhalation:**<br>Animals suffering respiratory damage. |
 
-**Visual Note:** Four environmental damage cards styled with earth and water accents.  
+**Visual Note:** Four environmental protection cards styled with earth and water accents.  
 
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Socioeconomic Impacts of Pollution  
+**Judul Halaman:** Socioeconomic Aspects of Air Quality  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Elevated Healthcare Costs:**<br>Surging medical expenditures for treating acute pollution-induced illnesses. | **Restricted Outdoor Activity:**<br>Reduced community recreational exercise during high-pollution alert days. | **Loss of School & Work Days:**<br>Increased absenteeism due to respiratory flare-ups and sickness. |
+| **Elevated Healthcare Costs:**<br>Surging medical expenditures for treating respiratory wellness concerns. | **Restricted Outdoor Activity:**<br>Reduced community recreational exercise during high-pollution alert days. | **Loss of School & Work Days:**<br>Increased absenteeism due to respiratory flare-ups and sickness. |
 
 **Visual Note:** Three analytical economic cards displaying social impact metrics.  
 

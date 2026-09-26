@@ -109,7 +109,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Fast Fashion Industry:**<br>Fast fashion industry creates significant water pollution and.| **Building Capsule Wardrobe:**<br>Building a capsule wardrobe of timeless high-quality sustainably.| **Buying Secondhand Vintage:**<br>Buying secondhand vintage clothing and participating in garment.| **Garment Care:**<br>Washing clothes in cold water and line-drying saves energy. |
+| **Fast Fashion Industry:**<br>Fast fashion industry creates significant water resource impact and.| **Building Capsule Wardrobe:**<br>Building a capsule wardrobe of timeless high-quality sustainably.| **Buying Secondhand Vintage:**<br>Buying secondhand vintage clothing and participating in garment.| **Garment Care:**<br>Washing clothes in cold water and line-drying saves energy. |
 
 **Visual Note:** Four concise badge cards displaying key performance metrics in clean frames.  
 

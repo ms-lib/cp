@@ -49,7 +49,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Membrane Bioreactor Systems:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment.| **Reverse Osmosis Desalination:**<br>Reverse osmosis desalination supplies reliable drinking water to.| **Advanced Oxidation Processes:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-pollutants.|
+| **Membrane Bioreactor Systems:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment.| **Reverse Osmosis Desalination:**<br>Reverse osmosis desalination supplies reliable drinking water to.| **Advanced Oxidation Processes:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-particles.|
 
 **Visual Note:** Three vertical feature columns styled with clean spacing and clear 7-9 word descriptions.  
 

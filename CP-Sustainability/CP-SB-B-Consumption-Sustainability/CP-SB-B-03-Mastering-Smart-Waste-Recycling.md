@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: Mastering Smart Waste Recycling
-- Subtitle: Contamination-Free Waste Sorting Protocols for Sustainable Living
+- Subtitle: pure-stream Waste Sorting Protocols for Sustainable Living
 - Brand: Rimberio
 
 ---
@@ -31,7 +31,7 @@
 
 | Kolom 1 |
 |---------|
-| **Circulating Raw Materials:**<br>Recycling transforms post-consumer waste back into industrial raw materials. This conserves municipal landfill space, reduces manufacturing energy consumption, and protects natural resources like timber and minerals.<br><br>**Goal:** Establishing clean, contamination-free household recycling habits. |
+| **Circulating Raw Materials:**<br>Recycling transforms post-consumer waste back into industrial raw materials. This conserves municipal landfill space, reduces manufacturing energy consumption, and protects natural resources like timber and minerals.<br><br>**Goal:** Establishing clean, pure-stream household recycling habits. |
 
 **Visual Note:** Single prominent card with soft sage green background and clean text layout.  
 
@@ -68,7 +68,7 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Preparation Contamination Prevention  
+**Judul Halaman:** Preparation Sorting Quality Preservation  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
@@ -115,7 +115,7 @@
 
 | Kolom 1 (Tangler Environmental Factor) | Kolom 2 (Mixed Materials) |
 |--------------------------|---------------------------|
-| **No Hoses, Cords, or Bags:**<br>Flexible items wrap around sorting gears, causing dangerous equipment shutdowns. | **Separate Bottle Caps:**<br>Remove metal caps from glass bottles so different materials process correctly. |
+| **No Hoses, Cords, or Bags:**<br>Flexible items wrap around sorting gears, causing operational equipment shutdowns. | **Separate Bottle Caps:**<br>Remove metal caps from glass bottles so different materials process correctly. |
 
 **Visual Note:** Two warning cards highlighting common sorting errors in red and charcoal accents.  
 

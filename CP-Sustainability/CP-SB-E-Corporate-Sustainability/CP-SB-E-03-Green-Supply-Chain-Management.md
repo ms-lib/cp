@@ -94,7 +94,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Digital block:**<br>Chain ledgers tracking raw material origin from mine. | **Guaranteeing conflict:**<br>Free minerals and deforestation-free timber procurement for sustainable. | **Certified organic, fair:**<br>Trade and recycled material certification validation for sustainable. |
+| **Digital block:**<br>Chain ledgers tracking raw material origin from mine. | **Ethical Mineral Sourcing:**<br>Ethically sourced minerals and deforestation-free timber procurement for sustainable. | **Certified organic, fair:**<br>Trade and recycled material certification validation for sustainable. |
 
 **Visual Note:** Three structured step cards showcasing technical methodologies with 7-9 word descriptions.  
 

@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Habitat Contraction:**<br>Shrinking biomes force wildlife species to migrate or face local extinction. | **Altered Seasonal Timing:**<br>Shifting temperature cues disrupt pollination and migratory breeding cycles. | **Species Vulnerability:**<br>Specialized flora and fauna struggle to adapt to rapid environmental shifts. |
+| **Habitat Contraction:**<br>Shrinking biomes force wildlife species to migrate or relocate to preserve species population. | **Altered Seasonal Timing:**<br>Shifting temperature cues disrupt pollination and migratory breeding cycles. | **Species Vulnerability:**<br>Specialized flora and fauna struggle to adapt to rapid environmental shifts. |
 
 **Visual Note:** Three environmental warning cards in earthy olive and muted terracotta.  
 
