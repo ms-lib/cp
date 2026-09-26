@@ -2,149 +2,147 @@
 ## Mastering Smart Waste Recycling
 
 **Sub-Topic:** CP-SB-B-Consumption-Sustainability  
-**Main Keywords:** smart waste recycling, waste sorting, recycling contamination, circular recovery, municipal waste, Salford Recycles  
-**Audience:** Municipal Staff, Households, School Administrators, Eco Leaders  
-**Style:** Recycling Green & Clean Gray, Structured Sorting Layout  
-**Tone:** Clear, educational, systematic  
+**Main Keywords:** mastering smart waste recycling, contamination free sorting, waste sorting protocols, material recovery, circular waste management, Rimberio  
+**Audience:** Homeowners, Students, Community Members, Businesses  
+**Style:** Clean Modern Green & Blue, High-Readability Layout  
+**Tone:** Practical, educational, systematic  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→4→2→4→2→1→3→1  
+**Pattern Kolom:** 1→1→3→4→2→4→2→2→3→1  
 
 ---
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
+**Visual Note:** Clean modern recycling presentation cover. Leaf green and sky blue split design with minimalist recycling loop vector icon.  
 
 **Text:**
 - Title: Mastering Smart Waste Recycling
-- Subtitle: Practical strategy guide for sustainable community and environmental progress.
-- Presented By: Dani Martinez
-- Presented To: Municipal Staff
-- Brand: Salford Recycles
+- Subtitle: pure-stream Waste Sorting Protocols for Sustainable Living
+- Brand: Rimberio
 
 ---
 
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Understanding Key Challenges  
+**Judul Halaman:** Why Recycling Protocols Matter  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| **Circulating Raw Materials:**<br>Recycling transforms post-consumer waste back into industrial raw materials. This conserves municipal landfill space, reduces manufacturing energy consumption, and protects natural resources like timber and minerals.<br><br>**Goal:** Establishing clean, pure-stream household recycling habits. |
 
-**Visual Note:** Single column card featuring clear introductory text and ample white space.  
+**Visual Note:** Single prominent card with soft sage green background and clean text layout.  
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 3  
+**Judul Halaman:** Core Environmental Benefits Overview  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Strategic Focus 1 43:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 43:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 29:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Landfill Space Conservation:**<br>Diverts valuable reusable resources from overcrowded municipal dumpsites. | **Manufacturing Energy Savings:**<br>Processing recycled materials consumes far less power than extracting virgin ore. | **Natural Habitat Protection:**<br>Reduces mining, logging, and petroleum extraction required for new goods. |
 
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Three clean vertical columns in leaf green, sky blue, and warm sand.  
 
 ---
 
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 4  
+**Judul Halaman:** Standard Recyclable Waste Categories  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Strategic Focus 1 44:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 44:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 30:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 11:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Paper & Cardboard:**<br>Clean boxes, paper, & cardboard. | **Glass Containers:**<br>Rinsed glass jars & food bottles. | **Plastic Containers:**<br>Rigid plastics marked #1 & #2. | **Metal Cans:**<br>Rinsed aluminum & tin food cans. |
 
-**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Four material category cards with clean icons for paper, glass, plastic, and metal.  
 
 ---
 
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 5  
+**Judul Halaman:** Preparation Sorting Quality Preservation  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Focus 1 45:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 45:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Rinse & Dry Items:**<br>Rinse out food residue; grease and liquids contaminate entire recycling loads. | **Keep Recyclables Loose:**<br>Place items loose in bins; plastic trash bags tangle facility sorting gears. |
 
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Two preparation guidance cards styled with clean rinse and unbagged icons.  
 
 ---
 
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 6  
+**Judul Halaman:** Recycling Outlets Collection Channels  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Strategic Focus 1 46:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 46:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 31:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 12:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Curbside Bins:**<br>Municipal pickup for sorted items. | **Community Drop-Off:**<br>Local waste sorting centers. | **Retail Take-Back:**<br>Bins for batteries & e-waste. | **Specialist Centers:**<br>Facilities for soft films & glass. |
 
-**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Four location option cards with clean facility vector badges.  
 
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 7  
+**Judul Halaman:** Material Recovery Facility Operations  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Focus 1 47:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 47:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Automated Sorting Tech:**<br>Recovery facilities use magnetic separators, optical scanners, and air classifiers to split items. | **Reprocessing & Manufacturing:**<br>Sorted items are shredded, washed, melted, and resold to factories as raw pellets. |
 
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Two facility workflow cards with conveyor belt and optical sensor graphics.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Eliminating Household Sorting Errors  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 (Tangler Environmental Factor) | Kolom 2 (Mixed Materials) |
+|--------------------------|---------------------------|
+| **No Hoses, Cords, or Bags:**<br>Flexible items wrap around sorting gears, causing operational equipment shutdowns. | **Separate Bottle Caps:**<br>Remove metal caps from glass bottles so different materials process correctly. |
+
+**Visual Note:** Two warning cards highlighting common sorting errors in red and charcoal accents.  
 
 ---
 
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 9  
+**Judul Halaman:** Building Household Recycling Habits  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Strategic Focus 1 48:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 48:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 32:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Reduce & Reuse First:**<br>Lower consumption before relying on recycling bins. | **Set Up 2-Bin System:**<br>Create clear trash vs recycling sorting bins at home. | **Guide Your Family:**<br>Teach household members clean sorting habits daily. |
 
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Inspiring Sustainable Impact  
-**Jumlah Kolom:** 1  
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Three practical habit cards leading to a positive conclusion.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled with a warm thank you message.  
+**Visual Note:** Minimalist back cover in leaf green with clean recycling statement.  
 
 **Text:**
-- Thank You!
-- Building a clean, resilient future through proactive environmental leadership.
-- Salford Recycles
+- Mastering Smart Waste Recycling
+- Clean sorting habits convert household waste into vital industrial raw materials.
+- Rimberio
 - www.reallygreatsite.com
 
 ---
@@ -152,14 +150,13 @@
 ## NOTES FOR DESIGNER
 
 ### Design Philosophy:
-- **Tone:** Clear, Educational, Systematic.
-- **Color Palette:** Recycling Green, Clean Gray, Bright White, Slate.
+- **Tone:** Practical, educational, and systematic.
+- **Color Palette:** Leaf green, sky blue, charcoal, white.
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
 
 ### Customization Points:
-- Dani Martinez (Presenter Name)
-- Salford Recycles (Brand Name)
+- Rimberio (Brand Name)
 - www.reallygreatsite.com (Standard Website)

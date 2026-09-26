@@ -2,149 +2,149 @@
 ## Breathing Clean Atmospheric Air
 
 **Sub-Topic:** CP-SB-A-Environment-Sustainability  
-**Main Keywords:** clean air, atmospheric air quality, Air Quality Management, clean energy, respiratory health, Borcelle Air  
-**Audience:** Public Health Advocates, Urban Residents, Policy Makers, Environmentalists  
-**Style:** Clean Atmospheric Blue & Cloud White, Breathable Layout  
-**Tone:** Informative, hopeful, health-focused  
+**Main Keywords:** breathing clean atmospheric air, atmospheric health, air quality management, particulate matter, clean air policy, Rimberio  
+**Audience:** Public Health Officials, Educators, Citizens, Students  
+**Style:** Fresh Modern Blue & White, Clean Professional Layout  
+**Tone:** Informative, analytical, preventative  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→4→2→4→3→1→4→1  
+**Pattern Kolom:** 1→1→3→4→2→4→3→2→4→1  
 
 ---
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
+**Visual Note:** Crisp modern presentation cover. Clean sky blue background with subtle cloud-line illustrations and white typography.  
 
 **Text:**
 - Title: Breathing Clean Atmospheric Air
-- Subtitle: Practical strategy guide for sustainable community and environmental progress.
-- Presented By: Francois Mercer
-- Presented To: Public Health Advocates
-- Brand: Borcelle Air Initiative
+- Subtitle: Atmospheric Health, Air Quality Management & Protecting Public Well-Being
+- Presented By: Juliana Silva
+- Presented To: Pedro Fernandes
+- Brand: Rimberio
 
 ---
 
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Understanding Key Challenges  
+**Judul Halaman:** Understanding Urban Air Quality  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| **Atmospheric Air Quality:**<br>Air quality changes occur when industrial gases, fine particulates, and chemical aerosols accumulate in the lower atmosphere, compromising human respiratory health and disturbing ecological stability.<br><br>**Core Objective:** Inspiring collective action to eliminate emission sources and guarantee clean air for all. |
 
-**Visual Note:** Single column card featuring clear introductory text and ample white space.  
+**Visual Note:** Single prominent card with soft sky blue background and clean text layout.  
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 3  
+**Judul Halaman:** Major Industrial Air Quality Factors  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Strategic Focus 1 13:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 13:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 9:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Combustion Vehicles:**<br>Transportation exhaust emitting nitrogen oxides and carbon monoxide. | **Power & Manufacturing Plants:**<br>Industrial facilities releasing sulfur dioxide and dense fly ash. | **Agricultural & Waste Burning:**<br>Open crop field fires releasing heavy particulate plumes. |
 
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Three clean columns in steel blue, charcoal, and warm amber.  
 
 ---
 
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 4  
+**Judul Halaman:** Identifying Major Air Quality Compounds  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Strategic Focus 1 14:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 14:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 10:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 3:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Nitrogen Dioxide (NO₂):**<br>Respiratory irritant from vehicle combustion. | **Carbon Monoxide (CO):**<br>Odorless industrial gas reducing blood oxygen transport. | **Fine Particulates (PM2.5):**<br>Micro-particles penetrating deep into lung tissue. | **Ground-Level Ozone (O₃):**<br>reactive component of urban summer ambient haze. |
 
-**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** four air quality identification cards styled with distinct colored indicators.  
 
 ---
 
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 5  
+**Judul Halaman:** Human Atmospheric Health Environmental Factors  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Focus 1 15:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 15:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Acute Short-Term Impacts:**<br>Airway inflammation, persistent coughing, eye irritation, and temporary airway sensitivity during ambient haze peaks. | **Chronic Long-Term Conditions:**<br>Prolonged exposure accelerates chronic obstructive pulmonary health condition, heart conditions, and reduced lung capacity. |
 
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Two health impact cards with medical cross and respiratory vector icons.  
 
 ---
 
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 6  
+**Judul Halaman:** Widespread Environmental Ecosystem Renewal Needs  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Strategic Focus 1 16:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 16:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 11:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 4:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Soil Health Balance:**<br>Interactions between precipitation and forest soils. | **Atmospheric Haze Factors:**<br>Haze blocking sunlight for plant photosynthesis. | **Aquatic unfiltered particles:**<br>Airborne heavy metals settling into lakes. | **Wildlife Inhalation:**<br>Animals suffering respiratory damage. |
 
-**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Four environmental protection cards styled with earth and water accents.  
 
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 7  
+**Judul Halaman:** Socioeconomic Aspects of Air Quality  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Strategic Focus 1 17:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 17:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 12:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Elevated Healthcare Costs:**<br>Surging medical expenditures for treating respiratory wellness concerns. | **Restricted Outdoor Activity:**<br>Reduced community recreational exercise during high-pollution alert days. | **Loss of School & Work Days:**<br>Increased absenteeism due to respiratory flare-ups and sickness. |
 
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Three analytical economic cards displaying social impact metrics.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Systemic Clean Sky Solutions  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Urban Canopy Expansion:**<br>Cities planting trees and green buffers to naturally capture airborne dust and particulates. | **Strict Emission Standards:**<br>Governments mandating clean fuel standards and transitioning power grids to solar and wind. |
+
+**Visual Note:** Two policy cards featuring urban forestry and renewable energy icons.  
 
 ---
 
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 9  
+**Judul Halaman:** Personal Air Quality Commitments  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Strategic Focus 1 18:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 18:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 13:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 5:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Choose Active Transit:**<br>Walk, bike, or ride public transit. | **Conserve Electricity:**<br>Reduce household power demand. | **Zero Yard Burning:**<br>Compost organic yard waste instead. | **Support Green Policy:**<br>Patronize low-emission businesses. |
 
-**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Inspiring Sustainable Impact  
-**Jumlah Kolom:** 1  
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Four individual action cards with clear step icons leading to a clean conclusion.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled with a warm thank you message.  
+**Visual Note:** Minimalist back cover in sky blue with clean air pledge text.  
 
 **Text:**
-- Thank You!
-- Building a clean, resilient future through proactive environmental leadership.
-- Borcelle Air Initiative
+- Breathing Clean Atmospheric Air
+- Clean air is a vital shared resource; every action clears the sky.
+- Rimberio
 - www.reallygreatsite.com
 
 ---
@@ -152,14 +152,15 @@
 ## NOTES FOR DESIGNER
 
 ### Design Philosophy:
-- **Tone:** Informative, Hopeful, Health-Focused.
-- **Color Palette:** Sky Blue, Cloud White, Soft Cyan, Charcoal.
+- **Tone:** Informative, analytical, and preventative.
+- **Color Palette:** Sky blue, steel gray, crisp white, charcoal.
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
 
 ### Customization Points:
-- Francois Mercer (Presenter Name)
-- Borcelle Air Initiative (Brand Name)
+- Juliana Silva (Presenter Name)
+- Pedro Fernandes (Recipient Name)
+- Rimberio (Brand Name)
 - www.reallygreatsite.com (Standard Website)

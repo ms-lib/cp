@@ -8,17 +8,17 @@
 **Tone:** Inspiring, educational, protective  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→1→2→1  
+**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
 
 ---
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
+**Visual Note:** Elegant deep forest green cover featuring subtle leaf vein patterns and modern typography. Clean presentation aesthetic.  
 
 **Text:**
 - Title: Sustaining the Green Canopy
-- Subtitle: Practical strategy guide for sustainable community and environmental progress.
+- Subtitle: Reforestation Strategies & Protecting Ancient Forest Systems
 - Presented By: Aluna Mira
 - Presented To: Eco-Activists
 - Brand: Salford & Co. (2050)
@@ -28,122 +28,122 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Understanding Key Challenges  
+**Judul Halaman:** Forces Accelerating Deforestation  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| **Understanding Forest Renewal:**<br>Worldwide forest coverage is shrinking due to intensive industrial timber harvesting, agricultural expansion, infrastructure encroachment, mining activities, and unsustainable land development.<br><br>**Our Mission:** Mobilizing local and international alliances to safeguard remaining primary forests and rejuvenate damaged woodlands. |
 
-**Visual Note:** Single column card featuring clear introductory text and ample white space.  
+**Visual Note:** Single column card on a soft moss green background with clean typography and forest icon.  
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 3  
+**Judul Halaman:** Vital Ecological Woodland Contributions  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Strategic Focus 1:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **1. Atmosphere Purification:**<br>Canopies filter gaseous air impurities while generating oxygen for terrestrial life. | **2. Soil & Watershed Protection:**<br>Root networks anchor topsoil layers, mitigating soil erosion and slope failure. | **3. Food Web Foundations:**<br>Forests supply complex micro-habitats that sustain diverse animal and plant populations. |
 
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Three clean vertical columns in dark green, olive, and warm cream.  
 
 ---
 
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 4  
+**Judul Halaman:** Preserving Native Wildlife Species  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Focus 1 2:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 2:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **1. Sanctuary for Wildlife:**<br>Intact woodlands serve as vital nesting, foraging, and breeding grounds for endangered fauna. | **2. Nurturing Biological Cycles:**<br>Forest ecosystems harbor essential pollinators and seed dispersers critical for flora reproduction. |
 
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Two horizontal habitat highlight cards with clean vector animal icons.  
 
 ---
 
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 5  
+**Judul Halaman:** Reforestation Climate Buffer Strategy  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Focus 1 3:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 3:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Hydrological Regulation:**<br>Tree canopies intercept torrential rainfall, moderating surface runoff and preventing flash floods. | **Atmospheric Carbon Sink:**<br>Growing trees sequester atmospheric carbon dioxide, locking it safely into woody biomass. |
 
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Split layout contrasting hydrology control with carbon sequestration functions.  
 
 ---
 
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 6  
+**Judul Halaman:** Practical Reforestation Methodologies  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Strategic Focus 1 4:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 4:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 2:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **1. Target Tree Planting:**<br>Organized community drives planting native saplings in degraded areas. | **2. Natural Assisted Regeneration:**<br>Protecting land boundaries to allow native seeds to regenerate naturally. | **3. Agroforestry Integration:**<br>Intercropping agricultural crops with native trees for mutual ecological health. |
 
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Three step cards styled with clear step numbers and green accent borders.  
 
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 7  
+**Judul Halaman:** Benefits of Forest Cover  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Strategic Focus 1 5:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 5:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 3:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Evapotranspiration:**<br>Releasing vapor to cloud systems. | **Microclimate Balance:**<br>Cooling ambient air temperatures. | **Water Filtration:**<br>Filtering rainwater into aquifers. | **Biomass Sequestration:**<br>Locking carbon in tree tissue. |
 
-**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Four feature cards displaying ecological cycle metrics in clean badge frames.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Prosperity in Forest Protection  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Sustainable Forest Livelihoods:**<br>Harvesting non-timber forest products and promoting eco-tourism yield renewable local income. | **Safeguarding Cultural Heritage:**<br>Healthy forests preserve indigenous customs, spiritual sites, and ancestral wisdom. |
+
+**Visual Note:** Two reflective cards in warm sand and deep green highlighting human connection to nature.  
 
 ---
 
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 9  
+**Judul Halaman:** Global Forest Renewal Roadmap  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Focus 1 6:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 6:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **1. Enforce Sustainable Standards:**<br>Implement strict certification for commercial timber and support certified timber trade. | **2. Partner with Indigenous Leaders:**<br>Empower indigenous communities as primary custodians of protected wilderness areas. |
 
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Inspiring Sustainable Impact  
-**Jumlah Kolom:** 1  
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Clean split closing slide focusing on policy enforcement and community leadership.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled with a warm thank you message.  
+**Visual Note:** Minimalist back cover in forest green with inspirational tagline.  
 
 **Text:**
-- Thank You!
-- Building a clean, resilient future through proactive environmental leadership.
+- Sustaining the Green Canopy
+- Every tree planted strengthens the ecological resilience of tomorrow.
 - Salford & Co. (2050)
 - www.reallygreatsite.com
 
@@ -152,14 +152,14 @@
 ## NOTES FOR DESIGNER
 
 ### Design Philosophy:
-- **Tone:** Inspiring, Educational, Protective.
-- **Color Palette:** Deep Forest Green, Olive Green, Warm Cream, Earth Brown.
+- **Tone:** Inspiring, educational, and protective.
+- **Color Palette:** Deep forest green, olive green, warm cream, earth brown.
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
 
 ### Customization Points:
 - Aluna Mira (Presenter Name)
-- Salford & Co. (2050) (Brand Name)
+- Salford & Co. (Brand Name)
 - www.reallygreatsite.com (Standard Website)

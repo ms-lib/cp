@@ -2,149 +2,147 @@
 ## Cradle to Cradle Design
 
 **Sub-Topic:** CP-SB-B-Consumption-Sustainability  
-**Main Keywords:** cradle to cradle design, biological nutrients, technical nutrients, eco-design, circular product, Studio Shodwe  
-**Audience:** Product Designers, Engineers, Sustainability Officers, Business Leaders  
-**Style:** Clean Industrial Teal & Pure White, Structural Design Layout  
-**Tone:** Visionary, technical, systematic  
+**Main Keywords:** cradle to cradle design, product stewardship, upcycling, circular design, material recovery, sustainable manufacturing, Borcelle & Co.  
+**Audience:** Product Designers, Manufacturers, Eco-Consumers, Students  
+**Style:** Modern Minimalist Warm Beige & Forest Teal  
+**Tone:** Innovative, practical, forward-looking  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→2→2→3→4→1→2→1  
+**Pattern Kolom:** 1→1→3→2→2→3→4→2→2→1  
 
 ---
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** Clean cover slide with title, short description, and presenter identity.  
+**Visual Note:** Stylish product design presentation cover. Warm beige background with clean forest teal accents and a minimalist circular material loop line art.  
 
 **Text:**
 - Title: Cradle to Cradle Design
-- Subtitle: Practical strategy guide for sustainable community and environmental progress.
-- Presented By: Donna Stroupe
-- Presented To: Product Designers
-- Brand: Studio Shodwe Design Lab
+- Subtitle: Sustainable Product Stewardship, Upcycling & Closed-Loop Manufacturing
+- Brand: Borcelle & Co.
 
 ---
 
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Understanding Key Challenges  
+**Judul Halaman:** Reimagining Sustainable Product Lifecycles  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Sustainable initiatives empower communities to protect natural resources and optimize daily operations.<br><br>By adopting innovative practices, organizations build long term resilience and create lasting shared value. |
+| **Beyond Cradle-to-Grave:**<br>Traditional manufacturing follows a linear "Cradle-to-Grave" model where products end in landfills. Cradle-to-Cradle design ensures that every material is conceived as a continuous biological or technical nutrient for future products.<br><br>**Design Goal:** Zero waste by intent, designing products for infinite reuse and high-value upcycling. |
 
-**Visual Note:** Single column card featuring clear introductory text and ample white space.  
+**Visual Note:** Single prominent card on a warm beige background with clean centered typography.  
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 3  
+**Judul Halaman:** Cradle to Cradle Pillars  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Strategic Focus 1 55:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 55:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 36:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **1. Waste Equals Food:**<br>Every material input is designed to safely re-enter biological or technical cycles. | **2. Power with Solar & Wind:**<br>Manufacturing operations powered by 100% renewable energy sources. | **3. Foster Social Fairness:**<br>Operations protect human health, worker safety, and ethical supply chains. |
 
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Three clean vertical columns in forest teal, warm beige, and charcoal.  
 
 ---
 
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 4  
+**Judul Halaman:** Biological versus Technical Cycles  
 **Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Strategic Focus 1 56:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 56:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| Kolom 1 (Biological Nutrients) | Kolom 2 (Technical Nutrients) |
+|---------------------------------|--------------------------------|
+| **Biodegradable Materials:**<br>Organic textiles, natural fibers, and bioplastics designed to safely decompose into soil nutrients. | **Synthetic & Metal Materials:**<br>Metals, polymers, and glass designed for continuous high-grade industrial recycling without transformation. |
 
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Two contrasting material category cards with organic leaf vs gear icons.  
 
 ---
 
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 5  
+**Judul Halaman:** Power of Creative Upcycling  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Focus 1 57:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 57:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Upcycling vs Downcycling:**<br>Upcycling transforms discarded materials into higher-value products, unlike downcycling which degrades quality. | **Waste Stream Value Creation:**<br>Turning ocean plastic, scrap metals, and wood offcuts into premium furniture, fashion, and construction materials. |
 
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Split feature layout contrasting value-add upcycling vs traditional recycling.  
 
 ---
 
 ### PAGE 6 - CORE CONTENT C
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 6  
+**Judul Halaman:** Implementing Product Stewardship Steps  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Strategic Focus 1 58:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 58:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 37:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **1. Non-synthetic Material Selection:**<br>Eliminate heavy metals, synthetic dyes, and volatile organic compounds in design. | **2. Design for Disassembly:**<br>Engineer products with modular snap joints for easy end-of-life component separation. | **3. Extended Take-Back Systems:**<br>Establish consumer take-back programs to retrieve post-use items. |
 
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Three step cards styled with clear step numbers and teal accent borders.  
 
 ---
 
 ### PAGE 7 - ENGAGEMENT BREAK
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 7  
+**Judul Halaman:** Closed Loop Design Benefits  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Strategic Focus 1 59:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 59:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 3 38:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 4 13:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **Resource Savings:**<br>Lower raw material costs. | **Brand Equity:**<br>High eco-consumer trust. | **Supply Resilience:**<br>Recaptured material loops. | **Regulatory Shield:**<br>Compliance with EPR laws. |
 
-**Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
+**Visual Note:** Four feature cards displaying economic and environmental benefits.  
+
+---
+
+### PAGE 8 - EMOTIONAL PEAK
+**Fase:** PEAK  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Upcycling Consumer Fashion Goods  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Upcycled Apparel & Accessories:**<br>Transforming discarded textiles and plastic bottles into durable outdoor clothing and footwear. | **Sustainable Home & Decor:**<br>Crafting luxury furniture and acoustic panels from reclaimed timber and recycled plastics. |
+
+**Visual Note:** Two product showcase cards highlighting upcycled fashion and home decor.  
 
 ---
 
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Strategic Insights 9  
+**Judul Halaman:** Consumer Product Stewardship Support  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Strategic Focus 1 60:**<br>Modern sustainable practices deliver long term operational efficiency. | **Strategic Focus 2 60:**<br>Modern sustainable practices deliver long term operational efficiency. |
+| **1. Choose Certified Products:**<br>Buy products certified by Cradle to Cradle standards and eco-labels. | **2. Utilize Take-Back Programs:**<br>Return used electronics, clothing, and batteries to manufacturer buy-back bins. |
 
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
-### PAGE 8 - EMOTIONAL PEAK
-**Fase:** PEAK  
-**Tipe Halaman:** Opener  
-**Judul Halaman:** Inspiring Sustainable Impact  
-**Jumlah Kolom:** 1  
-
-| Kolom 1 |
-|---------|
-| Achieving lasting environmental impact requires dedicated collaboration and clear strategic vision across every sector.<br><br>Together, our proactive stewardship builds a cleaner, healthier world for future generations. |
-
-**Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+**Visual Note:** Clean split closing slide focusing on consumer empowerment and take-back participation.  
 
 ---
 
 ### PAGE 10 - BACK COVER
 **Layout:** Back cover  
-**Visual Note:** Minimalist back cover styled with a warm thank you message.  
+**Visual Note:** Minimalist back cover in warm beige with circular design tagline.  
 
 **Text:**
-- Thank You!
-- Building a clean, resilient future through proactive environmental leadership.
-- Studio Shodwe Design Lab
+- Cradle to Cradle Design
+- Designing out waste creates an infinitely regenerative consumer world.
+- Borcelle & Co.
 - www.reallygreatsite.com
 
 ---
@@ -152,14 +150,13 @@
 ## NOTES FOR DESIGNER
 
 ### Design Philosophy:
-- **Tone:** Visionary, Technical, Systematic.
-- **Color Palette:** Industrial Teal, Pure White, Steel Gray, Leaf Green.
+- **Tone:** Innovative, practical, and forward-looking.
+- **Color Palette:** Warm beige, forest teal, soft taupe, charcoal.
 
 ### Technical Constraints (Canva Safety):
 - **No Effects:** Strictly avoid Shadow, Lift, and Neon text effects.
-- **60% Rule:** Maintain 40%+ white space within text boxes for maximum visual breathing room.
+- **60% Rule:** Maintain 40% white space within text boxes for better editability.
 
 ### Customization Points:
-- Donna Stroupe (Presenter Name)
-- Studio Shodwe Design Lab (Brand Name)
+- Borcelle & Co. (Brand Name)
 - www.reallygreatsite.com (Standard Website)
