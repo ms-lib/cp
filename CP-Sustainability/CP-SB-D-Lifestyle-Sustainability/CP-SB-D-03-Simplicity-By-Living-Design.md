@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Eco Friendly Cleaning Maintenance  
-**Jumlah Kolom:** 2  
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Making Natural Household:**<br>Making natural household cleaners using vinegar baking soda. | **Replacing Single Use:**<br>Replacing single-use paper towels with washable organic cotton cloths. |
-
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Integrating outdoor nature walks into daily work schedules. Transitioning away from digital screens during evening relaxation hours.<br><br>Prioritizing experiences relationships and learning over material purchases. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Eco Friendly Cleaning Maintenance  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Making Natural Household:**<br>Making natural household cleaners using vinegar baking soda. | **Replacing Single Use:**<br>Replacing single-use paper towels with washable organic cotton cloths. |
+
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

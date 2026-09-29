@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Regulatory Policy Global Standards  
-**Jumlah Kolom:** 2  
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Preparing Extended Producer:**<br>Preparing for Extended Producer Responsibility EPR legislation across. | **Complying Digital Product:**<br>Complying with digital product passport regulations tracking material provenance. |
-
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Training corporate engineering teams in circular design principles. Internal innovation hackathons generating circular business ideas from staff.<br><br>Executive compensation tied directly to circular economy performance indicators. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Regulatory Policy Global Standards  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Preparing Extended Producer:**<br>Preparing for Extended Producer Responsibility EPR legislation across. | **Complying Digital Product:**<br>Complying with digital product passport regulations tracking material provenance. |
+
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

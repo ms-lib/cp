@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Community Clean Energy Access  
-**Jumlah Kolom:** 2  
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Low Income Neighborhood:**<br>Low-income neighborhood solar programs ensure equitable clean energy distribution. | **Community Solar Gardens:**<br>Community solar gardens allow renters to subscribe to. |
-
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Real-time IoT sensors detect grid strain and automatically. Advanced cyber-defense protocols protect critical municipal energy infrastructure.<br><br>Demand-response programs reward industrial facilities for shifting peak. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Community Clean Energy Access  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Low Income Neighborhood:**<br>Low-income neighborhood solar programs ensure equitable clean energy distribution. | **Community Solar Gardens:**<br>Community solar gardens allow renters to subscribe to. |
+
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

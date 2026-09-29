@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Employee Culture Climate Leadership  
-**Jumlah Kolom:** 2  
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Internal Climate Academy:**<br>Internal climate academy educating staff on corporate net-zero. | **Departmental Carbon Budgets:**<br>Departmental carbon budgets tracking team emissions performance quarterly. |
-
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Establishing internal carbon fee 75 per ton CO2. Internal carbon tax proceeds fund corporate clean tech.<br><br>Green capital expenditure CapEx prioritized for projects with. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Employee Culture Climate Leadership  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Internal Climate Academy:**<br>Internal climate academy educating staff on corporate net-zero. | **Departmental Carbon Budgets:**<br>Departmental carbon budgets tracking team emissions performance quarterly. |
+
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

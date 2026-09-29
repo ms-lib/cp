@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Brownfield Redevelopment Policy Grants  
-**Jumlah Kolom:** 3  
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Municipal Tax Credits:**<br>Municipal tax credits for private developers remediating contaminated land. | **Liability Protection Programs:**<br>Liability protection programs for non-profit groups taking over. | **Federal Grants Supporting:**<br>Federal grants supporting environmental assessment and cleanup of brownfields. |
-
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Partnering with local neighborhood associations to steward restored land. Converting clean brownfield spaces into community vegetable gardens.<br><br>Teaching urban residents sustainable gardening and soil care techniques. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Brownfield Redevelopment Policy Grants  
+**Jumlah Kolom:** 3  
+
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Municipal Tax Credits:**<br>Municipal tax credits for private developers remediating contaminated land. | **Liability Protection Programs:**<br>Liability protection programs for non-profit groups taking over. | **Federal Grants Supporting:**<br>Federal grants supporting environmental assessment and cleanup of brownfields. |
+
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

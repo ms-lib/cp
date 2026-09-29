@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Community Amplification and Advocacy  
-**Jumlah Kolom:** 2  
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Sharing Personal Footprint:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors. | **Advocating Municipal Bike:**<br>Advocating for municipal bike lanes and public transit. |
-
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Digital cloud storage and streaming video consume substantial. Unsubscribing from spam emails and cleaning up unnecessary.<br><br>Extending personal electronics usage lifespans from two years. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Community Amplification and Advocacy  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Sharing Personal Footprint:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors. | **Advocating Municipal Bike:**<br>Advocating for municipal bike lanes and public transit. |
+
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

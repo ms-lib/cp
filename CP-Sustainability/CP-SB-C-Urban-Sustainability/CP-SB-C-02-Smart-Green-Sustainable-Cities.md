@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Economic and Social Vitality  
-**Jumlah Kolom:** 3  
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Eco Districts Attract:**<br>Eco-districts attract green technology businesses and creative professionals. | **Affordable Sustainable Housing:**<br>Affordable sustainable housing options prevent gentrification displacement. | **Vibrant Public Plazas:**<br>Vibrant public plazas foster community cohesion and outdoor. |
-
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Ensuring smart city sensor networks respect citizen privacy. Transparent open-data portals enable civic developers to build.<br><br>Citizen feedback channels incorporate public preferences into urban. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Economic and Social Vitality  
+**Jumlah Kolom:** 3  
+
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Eco Districts Attract:**<br>Eco-districts attract green technology businesses and creative professionals. | **Affordable Sustainable Housing:**<br>Affordable sustainable housing options prevent gentrification displacement. | **Vibrant Public Plazas:**<br>Vibrant public plazas foster community cohesion and outdoor. |
+
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

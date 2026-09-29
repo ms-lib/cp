@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Educational Outreach Youth Programs  
-**Jumlah Kolom:** 3  
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Teaching School Children:**<br>Teaching school children about the hydrologic cycle and. | **Distributing Stainless Steel:**<br>Distributing stainless steel water bottles to elementary students. | **School Campaigns Challenging:**<br>School campaigns challenging students to eliminate single-use beverage containers. |
-
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Hydrating through water-rich organic fruits and vegetables like. Herbal teas and infused waters provide antioxidant benefits.<br><br>Reducing high-sugar sodas and energy drinks lowers chronic. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Educational Outreach Youth Programs  
+**Jumlah Kolom:** 3  
+
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Teaching School Children:**<br>Teaching school children about the hydrologic cycle and. | **Distributing Stainless Steel:**<br>Distributing stainless steel water bottles to elementary students. | **School Campaigns Challenging:**<br>School campaigns challenging students to eliminate single-use beverage containers. |
+
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

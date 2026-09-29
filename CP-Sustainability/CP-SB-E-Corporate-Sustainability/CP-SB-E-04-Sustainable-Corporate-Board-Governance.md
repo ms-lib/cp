@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Diversity Equity Board Inclusion  
-**Jumlah Kolom:** 3  
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Increasing Board Gender:**<br>Increasing board gender racial and international diversity to. | **Diverse Board Perspectives:**<br>Diverse board perspectives prevent groupthink during strategic climate. | **Refreshing Board Tenure:**<br>Refreshing board tenure policies to introduce innovative modern. |
-
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Enforcing strict corporate codes of business conduct across. Whistleblower protection mechanisms for reporting environmental and accounting violations.<br><br>Third-party anti-bribery and Compliance Risk auditing across all international. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Diversity Equity Board Inclusion  
+**Jumlah Kolom:** 3  
+
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Increasing Board Gender:**<br>Increasing board gender racial and international diversity to. | **Diverse Board Perspectives:**<br>Diverse board perspectives prevent groupthink during strategic climate. | **Refreshing Board Tenure:**<br>Refreshing board tenure policies to introduce innovative modern. |
+
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Funding Financial Transit Sustainability  
-**Jumlah Kolom:** 2  
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **Congestion Pricing Charges:**<br>Congestion pricing charges for private cars entering downtown. | **Reinvesting Toll Revenue:**<br>Reinvesting toll revenue directly into expanding public transit operations. |
-
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | High-density residential and commercial zoning built directly around. Decreasing mandatory parking minimums for buildings constructed adjacent.<br><br>Creating vibrant pedestrian plazas and retail shops surrounding. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Funding Financial Transit Sustainability  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **Congestion Pricing Charges:**<br>Congestion pricing charges for private cars entering downtown. | **Reinvesting Toll Revenue:**<br>Reinvesting toll revenue directly into expanding public transit operations. |
+
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

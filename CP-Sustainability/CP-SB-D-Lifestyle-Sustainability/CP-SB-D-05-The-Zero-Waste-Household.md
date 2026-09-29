@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Overcoming Zero Waste Challenges  
-**Jumlah Kolom:** 3  
-
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Navigating Convenience Culture:**<br>Navigating convenience culture when traveling or dining out. | **Managing Packaging Waste:**<br>Managing packaging waste when receiving mandatory prescription medications. | **Encouraging Family Members:**<br>Encouraging family members and children without creating friction. |
-
-**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Safely recycling old electronics batteries and lightbulbs at. Disposing of leftover household paints and chemicals through.<br><br>Repairing damaged household electronics instead of discarding them prematurely. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Overcoming Zero Waste Challenges  
+**Jumlah Kolom:** 3  
+
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Navigating Convenience Culture:**<br>Navigating convenience culture when traveling or dining out. | **Managing Packaging Waste:**<br>Managing packaging waste when receiving mandatory prescription medications. | **Encouraging Family Members:**<br>Encouraging family members and children without creating friction. |
+
+**Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 

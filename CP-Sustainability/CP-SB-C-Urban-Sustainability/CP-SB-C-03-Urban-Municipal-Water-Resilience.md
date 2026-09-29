@@ -109,20 +109,6 @@
 
 ---
 
-### PAGE 9 - CLOSING
-**Fase:** CLOSE  
-**Tipe Halaman:** List/Value  
-**Judul Halaman:** Public Education Behavior Shift  
-**Jumlah Kolom:** 2  
-
-| Kolom 1 | Kolom 2 |
-|---------|---------|
-| **School Curriculum Modules:**<br>School curriculum modules teaching urban children water conservation habits. | **Public Campaigns Promoting:**<br>Public campaigns promoting drought-tolerant landscaping and xeriscaping practices. |
-
-**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
-
----
-
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Opener  
@@ -134,6 +120,20 @@
 | Partnering with rural upstream communities to protect municipal. Reforestation along riverbanks reduces soil erosion and sediment.<br><br>Preserving natural wetlands provides low-cost organic filtering of. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
+
+---
+
+### PAGE 9 - CLOSING
+**Fase:** CLOSE  
+**Tipe Halaman:** List/Value  
+**Judul Halaman:** Public Education Behavior Shift  
+**Jumlah Kolom:** 2  
+
+| Kolom 1 | Kolom 2 |
+|---------|---------|
+| **School Curriculum Modules:**<br>School curriculum modules teaching urban children water conservation habits. | **Public Campaigns Promoting:**<br>Public campaigns promoting drought-tolerant landscaping and xeriscaping practices. |
+
+**Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
 ---
 
