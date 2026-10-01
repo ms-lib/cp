@@ -6,19 +6,20 @@ Dokumen ini menggabungkan **analisis 5 templat referensi travel** (*Liceria Trav
 
 ## 1. Aturan Kritis Kolom & Word Count Canva Review
 
-### A. Aturan Halaman 3 dan 4 Kolom (Multi-Column Cells)
-Untuk halaman dengan **3 atau 4 kolom** (misal: Page 3, 5, 6, 7):
-* **Subjudul / Bold Header:** **2–3 kata** saja (misal: `**Sustainable Tourism:**`, `**Customer Safety:**`, `**Flight Ticketing:**`, `**Luxury Lodging:**`).
-* **Deskripsi / Content Text:** **5–6 kata** per kolom (misal: `Eco-conscious travel protecting pristine natural ecosystems.`, `Comprehensive emergency support and verified safety.`).
-* **Tujuan:** Menjaga agar text box di kolom yang sempit tidak *wrapped* berlebihan di Canva.
+### A. Aturan Halaman Our Team (Page 4 - CORE A)
+* **Lokasi Wajib:** Seluruh file presentasi travel wajib mencantumkan halaman **Our Team** pada **Page 4 (CORE A)**.
+* **Jumlah Anggota Tim:** Wajib mencantumkan **3 hingga 4 anggota tim** (nama & peran) dari daftar nama terverifikasi (`Estelle Darcy`, `Daniel Gallego`, `Olivia Wilson`, `Samira Hadid`, `Adeline Palmerston`, `Drew Feig`, `Jamie Chastain`, `Alfredo Torres`, dll.).
+* **Format:** 1-Kolom dengan 1 paragraf ringkas (30–49 kata).
 
-### B. Aturan Halaman 1-Kolom (Pages 2, 4, 8)
-Untuk halaman **1-kolom** (Pages 2, 4, 8):
-* **Jumlah Paragraf:** **1 atau 2 paragraf**.
-* **Word Count:** **30–49 kata** per body paragraph (tidak termasuk label).
+### B. Aturan Maksimal 1 Halaman 4-Kolom per File
+* **Batas Halaman 4-Kolom:** Dalam 1 file presentasi (10 halaman), **hanya boleh ada TEPAT 1 HALAMAN yang memiliki 4 kolom** (misal: hanya Page 3 ATAU hanya Page 5 ATAU hanya Page 7).
+* **Halaman Multi-Kolom Lainnya:** Halaman multi-kolom lainnya menggunakan **2 atau 3 kolom**.
+* **Subjudul 4/3 Kolom:** 2–3 kata.
+* **Deskripsi 4/3 Kolom:** 5–6 kata per cell.
 
-### C. Variasi Pola Kolom (Pattern Kolom Acak)
-Pattern kolom 10 halaman bervariasi antar file (misal: `1→1→3→1→4→2→3→1→2→1`, `1→1→2→1→3→4→2→1→2→1`, `1→1→4→1→2→3→4→1→2→1`, `1→1→3→1→4→3→2→1→2→1`).
+### C. Aturan Page 8 (EMOTIONAL PEAK / Testimonial / Philosophy)
+* **Jumlah Paragraf:** **TEPAT 1 PARAGRAF** (tanpa double line break `<br><br>`).
+* **Word Count:** **30–49 kata**.
 
 ---
 
@@ -55,27 +56,27 @@ Pattern kolom 10 halaman bervariasi antar file (misal: `1→1→3→1→4→2→
 ├───────┬──────────┬──────────┬──────────┬──────────┬──────────┬──────────────┤
 │ Page  │ 1        │ 2        │ 3        │ 4        │ 5        │ 6, 7, 8, 9,10│
 │ Fase  │ COVER    │ OPENER   │ CONTEXT  │ CORE A   │ CORE B   │ CORE C & END │
-│ Arc   │ Title &  │ Intro /  │ Values / │ Landmark │ Services │ Packages,    │
-│       │ Brand    │ About Us │ Culture  │ / Team   │ / Nature │ Proof & Close│
+│ Arc   │ Title &  │ Intro /  │ Values / │ Our Team │ Services │ Packages,    │
+│       │ Brand    │ About Us │ Culture  │ (3-4 Org)│ / Nature │ Proof & Close│
 └───────┴──────────┴──────────┴──────────┴──────────┴──────────┴──────────────┘
 ```
 
-| Page | Fase | Tipe Halaman | Elemen Utama | Pola Kolom (Bervariasi) |
+| Page | Fase | Tipe Halaman | Elemen Utama | Pola Kolom (Max 1 Page 4-Kolom) |
 |---|---|---|---|---|
 | **Page 1** | COVER | Cover | Brand Name, Main Title, Subtitle, Tagline | Layout Cover |
 | **Page 2** | OPENING | Opener | About Us / Destination Introduction (1-2 Paragraf, 30–49 kata) | 1 Kolom |
 | **Page 3** | CONTEXT | Core Values | Company Pillars / Sacred Architecture (Subjudul 2-3 kata, Deskripsi 5-6 kata) | 3 atau 4 Kolom |
-| **Page 4** | CORE A | Team / Landscapes | Our Team / Natural Landscapes (1-2 Paragraf, 30–49 kata) | 1 Kolom |
-| **Page 5** | CORE B | Services / Experiences | Services Offered / Local Festivals (Subjudul 2-3 kata, Deskripsi 5-6 kata) | 3 atau 4 Kolom |
-| **Page 6** | CORE C | Tour Packages / Flavors | Tour Packages & Pricing ($) / Culinary Highlights | 2 atau 3 Kolom |
-| **Page 7** | ENGAGEMENT | Destinations / Highlights | Featured Spots / Activity Highlights (Subjudul 2-3 kata, Deskripsi 5-6 kata) | 3 atau 4 Kolom |
-| **Page 8** | EMOTIONAL PEAK | Social Proof / Philosophy | Client Reviews / Living Heritage (1-2 Paragraf, 30–49 kata) | 1 Kolom |
+| **Page 4** | CORE A | Team Profile | **Our Team & Specialists (3-4 Anggota Tim, 30–49 kata)** | 1 Kolom |
+| **Page 5** | CORE B | Services / Experiences | Services Offered / Local Festivals (Subjudul 2-3 kata, Deskripsi 5-6 kata) | 3 atau 2 Kolom |
+| **Page 6** | CORE C | Tour Packages / Flavors | Tour Packages & Pricing ($) / Culinary Highlights | 3 atau 2 Kolom |
+| **Page 7** | ENGAGEMENT | Destinations / Highlights | Featured Spots / Activity Highlights (Subjudul 2-3 kata, Deskripsi 5-6 kata) | 3 atau 2 Kolom |
+| **Page 8** | EMOTIONAL PEAK | Social Proof / Philosophy | **Client Reviews / Living Heritage (TEPAT 1 Paragraf, 30–49 kata)** | 1 Kolom |
 | **Page 9** | CLOSING | Contact / Eco Vision | Get In Touch & Booking / Eco-Tourism Commitment | 2 Kolom |
 | **Page 10** | BACK COVER | Back Cover | Thank You, Brand Handle, Website | Layout Cover |
 
 ---
 
-## 5. Contoh Implementasi Sesuai Aturan Kolom & Word Count
+## 5. Contoh Sampel Implementasi Sesuai Aturan Terbaru
 
 ```markdown
 # JUDUL 01 OF 30
@@ -88,7 +89,7 @@ Pattern kolom 10 halaman bervariasi antar file (misal: `1→1→3→1→4→2→
 **Tone:** Inspiring, Trustworthy, Professional  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→4→1→4→3→4→1→2→1  
+**Pattern Kolom:** 1→1→4→1→3→3→3→1→2→1  
 
 ---
 
@@ -133,14 +134,14 @@ Pattern kolom 10 halaman bervariasi antar file (misal: `1→1→3→1→4→2→
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Meet Our Seasoned Travel Specialists  
+**Judul Halaman:** Meet Our Seasoned Expedition Team  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Expert Expedition Leadership:**<br>Our team of seasoned travel architects brings decades of combined field experience across 50 countries. Led by Estelle Darcy, Daniel Gallego, and Olivia Wilson, we design custom itineraries that transform simple vacations into life-changing cultural journeys.<br><br>**Client Commitment:** 100% personalized travel planning from takeoff to your safe return home. |
+| **Our Travel Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Estelle Darcy** (Expedition Director), **Daniel Gallego** (Senior Travel Architect), **Olivia Wilson** (Destination Specialist), and **Samira Hadid** (Guest Relations Manager), we design custom travel packages that turn dream vacations into reality. |
 
-**Visual Note:** Spotlight profile layout with circular portrait placeholders over a warm background.
+**Visual Note:** Spotlight profile layout with 4 circular portrait placeholders over a warm background.
 
 ---
 
@@ -148,13 +149,13 @@ Pattern kolom 10 halaman bervariasi antar file (misal: `1→1→3→1→4→2→
 **Fase:** CORE  
 **Tipe Halaman:** Services Offered  
 **Judul Halaman:** End-to-End Travel Services  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Flight Ticketing:**<br>Seamless international seat booking and layovers. | **Luxury Lodging:**<br>Handpicked resort suites and luxury villas. | **Tour Guides:**<br>Certified bilingual local experts for sightseeing. | **24/7 Concierge:**<br>Round-the-clock emergency support and itinerary tweaks. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Flight Ticketing:**<br>Seamless international seat booking and layovers. | **Luxury Lodging:**<br>Handpicked resort suites and luxury villas. | **Private Tour Guides:**<br>Certified bilingual local experts for sightseeing. |
 
-**Visual Note:** Clean 4-card service showcase layout with subtle drop shadows.
+**Visual Note:** Clean 3-card service showcase layout with subtle drop shadows.
 
 ---
 
@@ -176,13 +177,13 @@ Pattern kolom 10 halaman bervariasi antar file (misal: `1→1→3→1→4→2→
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
 **Judul Halaman:** Most Coveted Global Destinations  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Maldives Atolls:**<br>Crystal lagoons and overwater luxury bungalows. | **Kyoto Shrines:**<br>Cherry blossom avenues and ancient temples. | **Bali Retreats:**<br>Lush rice terraces and spiritual wellness. | **Swiss Alps:**<br>Majestic mountain peaks and alpine railways. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+|---------|---------|---------|
+| **Maldives Atolls:**<br>Crystal lagoons and overwater luxury bungalows. | **Kyoto Shrines:**<br>Cherry blossom avenues and ancient temples. | **Bali Retreats:**<br>Lush rice terraces and spiritual wellness. |
 
-**Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
+**Visual Note:** 3 vertical photo card containers showcasing high-resolution destination imagery.
 
 ---
 
@@ -194,9 +195,9 @@ Pattern kolom 10 halaman bervariasi antar file (misal: `1→1→3→1→4→2→
 
 | Kolom 1 |
 |---------|
-| **Unforgettable Memories Created:**<br>"Our customized family trip to Japan exceeded every expectation. The reservation process was seamless, our private guide was incredibly knowledgeable, and every hotel was top-tier. Liceria Travel delivered a 10 out of 10 experience!"<br><br>**Client:** Samira Hadid & Aaron Loeb (Verified World Travelers) |
+| **Unforgettable Client Experience:**<br>"Our customized family trip booked through Liceria Travel exceeded every single expectation. From takeoff to homecoming, the reservation process was completely seamless, our private local guide was exceptionally helpful, and hotel lodging was top-tier. A 10 out of 10 travel experience!" |
 
-**Visual Note:** Elegant quote box layout with large serif quotation marks.
+**Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
 ---
 

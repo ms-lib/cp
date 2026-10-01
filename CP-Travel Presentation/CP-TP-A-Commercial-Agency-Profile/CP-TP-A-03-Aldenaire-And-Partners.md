@@ -8,7 +8,7 @@
 **Tone:** Inspiring, Trustworthy, Professional  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→4→1→3→2→4→1→2→1  
+**Pattern Kolom:** 1→1→3→1→3→3→4→1→2→1  
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| Aldenaire & Partners Tours is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by experienced travel architects Alfredo Torres, Kimberly Nguyen, and Yanis Petros, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
+| Aldenaire & Partners Tours is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by our experienced travel architects, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
 
 **Visual Note:** Clean 1-column layout with a warm neutral background and subtle agency badge artwork.
 
@@ -40,27 +40,27 @@
 **Fase:** CONTEXT  
 **Tipe Halaman:** Core Values  
 **Judul Halaman:** Core Values & Travel Philosophy  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-| --------- | --------- | --------- | --------- |
-| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. | **Cultural Immersion:**<br>Authentic local guided walks fostering genuine connections. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. |
 
-**Visual Note:** 4-column feature grid with icon badges above each 2-3 word header.
+**Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
 ---
 
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Meet Our Expedition Specialists  
+**Judul Halaman:** Meet Our Seasoned Expedition Team  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Our dedicated travel coordination team brings decades of field experience across 50 countries. Led by Alfredo Torres, Kimberly Nguyen, and Yanis Petros, we design custom travel packages that turn dream vacations into reality.<br><br>**Client Commitment:** 100% personalized travel service from booking to your return home. |
+| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Alfredo Torres** (VIP Concierge Lead), **Kimberly Nguyen** (Resort Partnership Manager), **Yanis Petros** (Private Yacht Captain), **Aaron Loeb** (Guest Experience Lead), we design custom travel packages that turn dream vacations into reality. |
 
-**Visual Note:** Spotlight profile layout with circular portrait placeholders over a warm background.
+**Visual Note:** Spotlight profile layout with circular portrait placeholders for 4 team members.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
 **Judul Halaman:** Featured Tour Packages & Pricing  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 |
-| --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
 
-**Visual Note:** 2 pricing card columns with prominent price badges.
+**Visual Note:** 3 pricing card columns with prominent price badges.
 
 ---
 
@@ -114,9 +114,9 @@
 
 | Kolom 1 |
 |---------|
-| "Our vacation booked through Aldenaire & Partners Tours was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded expectations. Highly recommended travel partner!"<br><br>**Client:** Samira Hadid & Aaron Loeb (Verified Travelers) |
+| **Unforgettable Client Experience:**<br>"Our vacation booked through Aldenaire & Partners Tours was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded every expectation. A 10 out of 10 travel experience!" |
 
-**Visual Note:** Elegant quote box layout with large serif quotation marks.
+**Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
 ---
 

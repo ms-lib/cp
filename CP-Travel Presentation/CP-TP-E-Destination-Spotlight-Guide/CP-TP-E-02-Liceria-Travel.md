@@ -8,7 +8,7 @@
 **Tone:** Inspiring, Trustworthy, Professional  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→2→4→1→2→1  
+**Pattern Kolom:** 1→1→3→1→4→3→3→1→2→1  
 
 ---
 
@@ -53,14 +53,14 @@
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Breathtaking Natural Landscapes  
+**Judul Halaman:** Meet Our Seasoned Expedition Team  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| The natural surroundings of Kyoto feature extraordinary diversity, curated by local specialists Chiaki Sato, Hae-won Jeon, and Matt Zhang. From arashiyama bamboo grove to pristine scenic trails, nature inspires at every turn.<br><br>**Eco Preservation:** Protected habitats preserved through sustainable eco-tourism practices. |
+| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Chiaki Sato** (Kyoto Heritage Lead), **Hae-won Jeon** (Shrine & Temple Guide), **Matt Zhang** (Cultural Experience Planner), we design custom travel packages that turn dream vacations into reality. |
 
-**Visual Note:** Spotlight profile layout with circular portrait placeholders over a warm background.
+**Visual Note:** Spotlight profile layout with circular portrait placeholders for 3 team members.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
 **Judul Halaman:** Authentic Culinary Delights  
-**Jumlah Kolom:** 2  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 |
-| --------- | --------- |
-| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Kaiseki & Tea Ceremony:**<br>Signature culinary dish with rich indigenous spices. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Kaiseki & Tea Ceremony:**<br>Signature culinary dish with rich indigenous spices. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
 
-**Visual Note:** 2 pricing card columns with prominent price badges.
+**Visual Note:** 3 pricing card columns with prominent price badges.
 
 ---
 
@@ -96,13 +96,13 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
 **Judul Halaman:** Unforgettable Experience Highlights  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-| --------- | --------- | --------- | --------- |
-| **Sightseeing Walks:**<br>Guided tours through historic quarters and viewpoints. | **Wellness Retreats:**<br>Rejuvenate body and mind with luxury spa. | **Outdoor Adventures:**<br>Exciting outdoor activities and coastal boat excursions. | **Luxury Hospitality:**<br>Unwind in handpicked boutique eco resorts. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Sightseeing Walks:**<br>Guided tours through historic quarters and viewpoints. | **Wellness Retreats:**<br>Rejuvenate body and mind with luxury spa. | **Outdoor Adventures:**<br>Exciting outdoor activities and coastal boat excursions. |
 
-**Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
+**Visual Note:** 3 vertical photo card containers showcasing high-resolution destination imagery.
 
 ---
 
@@ -114,9 +114,9 @@
 
 | Kolom 1 |
 |---------|
-| Experience the true spirit of Kyoto through authentic community connections and local hospitality. Travelers witness living traditions preserved through generational pride, sustainable living, and warm welcome.<br><br>**Traveler Impact:** Practicing mindful travel that respects local culture and environment. |
+| **Authentic Living Heritage:**<br>Experience the true spirit of Kyoto through authentic community connections and local hospitality. Travelers witness living traditions preserved through generational pride, sustainable living, and warm welcome. |
 
-**Visual Note:** Elegant quote box layout with large serif quotation marks.
+**Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
 ---
 

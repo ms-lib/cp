@@ -8,7 +8,7 @@
 **Tone:** Inspiring, Trustworthy, Professional  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→4→1→3→3→4→1→2→1  
+**Pattern Kolom:** 1→1→3→1→4→3→3→1→2→1  
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| The Art of Escaping is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by experienced travel architects Estelle Darcy, Adeline Palmerston, and Drew Feig, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
+| The Art of Escaping is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by our experienced travel architects, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
 
 **Visual Note:** Clean 1-column layout with a warm neutral background and subtle agency badge artwork.
 
@@ -40,27 +40,27 @@
 **Fase:** CONTEXT  
 **Tipe Halaman:** Core Values  
 **Judul Halaman:** Core Values & Travel Philosophy  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-| --------- | --------- | --------- | --------- |
-| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. | **Cultural Immersion:**<br>Authentic local guided walks fostering genuine connections. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. |
 
-**Visual Note:** 4-column feature grid with icon badges above each 2-3 word header.
+**Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
 ---
 
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Meet Our Expedition Specialists  
+**Judul Halaman:** Meet Our Seasoned Expedition Team  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Our dedicated travel coordination team brings decades of field experience across 50 countries. Led by Estelle Darcy, Adeline Palmerston, and Drew Feig, we design custom travel packages that turn dream vacations into reality.<br><br>**Client Commitment:** 100% personalized travel service from booking to your return home. |
+| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Estelle Darcy** (Mindful Travel Curator), **Adeline Palmerston** (Creative Escape Lead), **Drew Feig** (Journal Editor), we design custom travel packages that turn dream vacations into reality. |
 
-**Visual Note:** Spotlight profile layout with circular portrait placeholders over a warm background.
+**Visual Note:** Spotlight profile layout with circular portrait placeholders for 3 team members.
 
 ---
 
@@ -68,13 +68,13 @@
 **Fase:** CORE  
 **Tipe Halaman:** Services Offered  
 **Judul Halaman:** Comprehensive Travel Services  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 4  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-| --------- | --------- | --------- |
-| **Flight Ticketing:**<br>Seamless international seat booking and layover care. | **Quality Lodging:**<br>Handpicked resort suites and luxury beach villas. | **Tour Guides:**<br>Certified bilingual local experts providing rich commentary. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+| --------- | --------- | --------- | --------- |
+| **Flight Ticketing:**<br>Seamless international seat booking and layover care. | **Quality Lodging:**<br>Handpicked resort suites and luxury beach villas. | **Tour Guides:**<br>Certified bilingual local experts providing rich commentary. | **24/7 Assistance:**<br>Round-the-clock ground support hotline for flight rebooking. |
 
-**Visual Note:** Clean 3-card service showcase layout with subtle drop shadows and icon badges.
+**Visual Note:** Clean 4-card service showcase layout with subtle drop shadows and icon badges.
 
 ---
 
@@ -96,13 +96,13 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
 **Judul Halaman:** Featured Global Destinations  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-| --------- | --------- | --------- | --------- |
-| **Kyoto & Tokyo:**<br>Ancient shrines and cherry blossom avenues. | **Paris & Riviera:**<br>Iconic landmarks and Seine river cruises. | **Bali & Lombok:**<br>Lush terraced rice paddies and surf beaches. | **Swiss Alps:**<br>Majestic mountain peaks and alpine chalets. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Kyoto & Tokyo:**<br>Ancient shrines and cherry blossom avenues. | **Paris & Riviera:**<br>Iconic landmarks and Seine river cruises. | **Bali & Lombok:**<br>Lush terraced rice paddies and surf beaches. |
 
-**Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
+**Visual Note:** 3 vertical photo card containers showcasing high-resolution destination imagery.
 
 ---
 
@@ -114,9 +114,9 @@
 
 | Kolom 1 |
 |---------|
-| "Our vacation booked through The Art of Escaping was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded expectations. Highly recommended travel partner!"<br><br>**Client:** Samira Hadid & Aaron Loeb (Verified Travelers) |
+| **Unforgettable Client Experience:**<br>"Our vacation booked through The Art of Escaping was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded every expectation. A 10 out of 10 travel experience!" |
 
-**Visual Note:** Elegant quote box layout with large serif quotation marks.
+**Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
 ---
 

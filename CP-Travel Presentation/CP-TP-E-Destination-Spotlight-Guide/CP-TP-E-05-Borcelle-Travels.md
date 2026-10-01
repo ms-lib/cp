@@ -8,7 +8,7 @@
 **Tone:** Inspiring, Trustworthy, Professional  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→4→1→4→3→4→1→2→1  
+**Pattern Kolom:** 1→1→3→1→4→3→3→1→2→1  
 
 ---
 
@@ -40,27 +40,27 @@
 **Fase:** CONTEXT  
 **Tipe Halaman:** Core Values  
 **Judul Halaman:** Iconic Shrines & Historic Landmarks  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-| --------- | --------- | --------- | --------- |
-| **Oia Sunset Caldera:**<br>Iconic heritage site with ocean vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. | **Panoramic Views:**<br>Breathtaking viewpoints overlooking historic coastal horizons. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Oia Sunset Caldera:**<br>Iconic heritage site with ocean vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. |
 
-**Visual Note:** 4-column feature grid with icon badges above each 2-3 word header.
+**Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
 ---
 
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Breathtaking Natural Landscapes  
+**Judul Halaman:** Meet Our Seasoned Expedition Team  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| The natural surroundings of Santorini feature extraordinary diversity, curated by local specialists Alfredo Torres, Kimberly Nguyen, and Samira Hadid. From blue domed churches to pristine scenic trails, nature inspires at every turn.<br><br>**Eco Preservation:** Protected habitats preserved through sustainable eco-tourism practices. |
+| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Alfredo Torres** (Santorini Cruise Lead), **Kimberly Nguyen** (Cliffside Resort Specialist), **Samira Hadid** (Guest Experience Coordinator), we design custom travel packages that turn dream vacations into reality. |
 
-**Visual Note:** Spotlight profile layout with circular portrait placeholders over a warm background.
+**Visual Note:** Spotlight profile layout with circular portrait placeholders for 3 team members.
 
 ---
 
@@ -96,13 +96,13 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
 **Judul Halaman:** Unforgettable Experience Highlights  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-| --------- | --------- | --------- | --------- |
-| **Sightseeing Walks:**<br>Guided tours through historic quarters and viewpoints. | **Wellness Retreats:**<br>Rejuvenate body and mind with luxury spa. | **Outdoor Adventures:**<br>Exciting outdoor activities and coastal boat excursions. | **Luxury Hospitality:**<br>Unwind in handpicked boutique eco resorts. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Sightseeing Walks:**<br>Guided tours through historic quarters and viewpoints. | **Wellness Retreats:**<br>Rejuvenate body and mind with luxury spa. | **Outdoor Adventures:**<br>Exciting outdoor activities and coastal boat excursions. |
 
-**Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
+**Visual Note:** 3 vertical photo card containers showcasing high-resolution destination imagery.
 
 ---
 
@@ -114,9 +114,9 @@
 
 | Kolom 1 |
 |---------|
-| Experience the true spirit of Santorini through authentic community connections and local hospitality. Travelers witness living traditions preserved through generational pride, sustainable living, and warm welcome.<br><br>**Traveler Impact:** Practicing mindful travel that respects local culture and environment. |
+| **Authentic Living Heritage:**<br>Experience the true spirit of Santorini through authentic community connections and local hospitality. Travelers witness living traditions preserved through generational pride, sustainable living, and warm welcome. |
 
-**Visual Note:** Elegant quote box layout with large serif quotation marks.
+**Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
 ---
 

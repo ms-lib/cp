@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| Borcelle Travels is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by experienced travel architects Samira Hadid, Aaron Loeb, and Adeline Palmerston, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
+| Borcelle Travels is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by our experienced travel architects, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
 
 **Visual Note:** Clean 1-column layout with a warm neutral background and subtle agency badge artwork.
 
@@ -53,14 +53,14 @@
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Meet Our Expedition Specialists  
+**Judul Halaman:** Meet Our Seasoned Expedition Team  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Our dedicated travel coordination team brings decades of field experience across 50 countries. Led by Samira Hadid, Aaron Loeb, and Adeline Palmerston, we design custom travel packages that turn dream vacations into reality.<br><br>**Client Commitment:** 100% personalized travel service from booking to your return home. |
+| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Samira Hadid** (Global Tour Director), **Aaron Loeb** (Vacation Package Architect), **Adeline Palmerston** (Luxury Travel Specialist), **Drew Feig** (Field Logistics Manager), we design custom travel packages that turn dream vacations into reality. |
 
-**Visual Note:** Spotlight profile layout with circular portrait placeholders over a warm background.
+**Visual Note:** Spotlight profile layout with circular portrait placeholders for 4 team members.
 
 ---
 
@@ -114,9 +114,9 @@
 
 | Kolom 1 |
 |---------|
-| "Our vacation booked through Borcelle Travels was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded expectations. Highly recommended travel partner!"<br><br>**Client:** Samira Hadid & Aaron Loeb (Verified Travelers) |
+| **Unforgettable Client Experience:**<br>"Our vacation booked through Borcelle Travels was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded every expectation. A 10 out of 10 travel experience!" |
 
-**Visual Note:** Elegant quote box layout with large serif quotation marks.
+**Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
 ---
 
