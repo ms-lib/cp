@@ -14,10 +14,10 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** High-resolution hero background with elegant typography overlay and brand logo badge.  
+**Visual Note:** High-resolution hero background with vibrant deal typography overlay and brand logo badge.  
 **Text:**
-- Title: EXPLORE THE WORLD WITH LICERIA TRAVEL
-- Subtitle: Tailored Vacations, Certified Tour Guides & Seamless Travel Experiences
+- Title: BUDGET & DELUXE TOUR PACKAGES
+- Subtitle: Flexible Travel Tiers Tailored To Every Vacation Budget
 - Brand: Liceria Travel
 
 ---
@@ -25,26 +25,26 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Welcome to Liceria Travel  
+**Judul Halaman:** Flexible Vacation Package Tiers  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Liceria Travel is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by our experienced travel architects, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
+| Liceria Travel offers versatile tour packages tiered for both budget-conscious travelers and deluxe vacationers. Whether you choose our Express Budget option or Deluxe All-Inclusive suite, you receive our signature quality service and certified local guides.<br><br>**Tier Flexibility:** Easy upgrades and custom add-ons to suit your style. |
 
-**Visual Note:** Clean 1-column layout with a warm neutral background and subtle agency badge artwork.
+**Visual Note:** Clean 1-column layout with a warm promo background and subtle agency badge artwork.
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** CONTEXT  
 **Tipe Halaman:** Core Values  
-**Judul Halaman:** Core Values & Travel Philosophy  
+**Judul Halaman:** Guiding Value Pillars Of Our Package Deals  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. |
+| **Tier Options:**<br>Choose between Express Budget or Deluxe VIP package tiers. | **No Hidden Fees:**<br>Itemized transparent pricing for total booking confidence. | **Custom Add-Ons:**<br>Add spa sessions or private car transfers as needed. |
 
 **Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
@@ -53,12 +53,12 @@
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Meet Our Seasoned Expedition Team  
+**Judul Halaman:** Meet Our Tour Package Coordinators  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Rosa Maria Aguado** (Budget Package Coordinator), **Cahaya Dewi** (Deluxe Tour Specialist), **Hae-won Jeon** (Itinerary Planner), we design custom travel packages that turn dream vacations into reality. |
+| **Our Tour Package Coordinators:**<br>Our dedicated tour management team brings passion, safety protocols, and local destination knowledge to every trip. Coordinated by **Rosa Maria Aguado** (Budget Coordinator), **Cahaya Dewi** (Deluxe Specialist), **Hae-won Jeon** (Itinerary Planner), we ensure your safety, comfort, and maximum vacation value at every step. |
 
 **Visual Note:** Spotlight profile layout with circular portrait placeholders for 3 team members.
 
@@ -67,12 +67,12 @@
 ### PAGE 5 - CORE B
 **Fase:** CORE  
 **Tipe Halaman:** Services Offered  
-**Judul Halaman:** Comprehensive Travel Services  
+**Judul Halaman:** Standard Package Inclusions  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Flight Ticketing:**<br>Seamless international seat booking and layover care. | **Quality Lodging:**<br>Handpicked resort suites and luxury beach villas. | **Tour Guides:**<br>Certified bilingual local experts providing rich commentary. |
+| **Hotel Selection:**<br>Comfortable 3-star budget hotels or 5-star deluxe resorts. | **Flexible Sightseeing:**<br>Choose self-guided city passes or private tour guides. | **Meal Packages:**<br>Daily breakfast plans or full gourmet board inclusions. |
 
 **Visual Note:** Clean 3-card service showcase layout with subtle drop shadows and icon badges.
 
@@ -81,26 +81,26 @@
 ### PAGE 6 - CORE C
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
-**Judul Halaman:** Featured Tour Packages & Pricing  
+**Judul Halaman:** Featured All-Inclusive Package Pricing  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **Express City Break:**<br>**$480** | 3 Days / 2 Nights<br>Includes 3-star hotel stay, hop-on city bus pass, and airport shuttle. | **Classic Heritage Deal:**<br>**$1,100** | 5 Days / 4 Nights<br>Includes 4-star lodging, rail pass, museum entries, and daily meals. | **Grand Deluxe Suite:**<br>**$2,400** | 7 Days / 6 Nights<br>Includes 5-star resort, private chauffeur, VIP tour passes, and dining. |
 
-**Visual Note:** 3 pricing card columns with prominent price badges.
+**Visual Note:** 3 pricing card columns with prominent price badges and bulleted inclusions list.
 
 ---
 
 ### PAGE 7 - ENGAGEMENT
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
-**Judul Halaman:** Featured Global Destinations  
+**Judul Halaman:** Top Destinations Available Now  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 | --------- | --------- | --------- | --------- |
-| **Kyoto & Tokyo:**<br>Ancient shrines and cherry blossom avenues. | **Paris & Riviera:**<br>Iconic landmarks and Seine river cruises. | **Bali & Lombok:**<br>Lush terraced rice paddies and surf beaches. | **Swiss Alps:**<br>Majestic mountain peaks and alpine chalets. |
+| **Tokyo Metropolis:**<br>Shinjuku lights, Shibuya crossing, and temple walks. | **Paris Landmark Tour:**<br>Eiffel Tower views, Seine cruises, and Louvre museum. | **Bangkok Express:**<br>Floating markets, Grand Palace, and vibrant street food. | **Rome Colosseum:**<br>Ancient Roman ruins, Vatican city, and gelato walks. |
 
 **Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
 
@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** EMOTIONAL PEAK  
 **Tipe Halaman:** Testimonials  
-**Judul Halaman:** Customer Satisfaction Reviews  
+**Judul Halaman:** Verified Customer Tour Reviews  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Unforgettable Client Experience:**<br>"Our vacation booked through Liceria Travel was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded every expectation. A 10 out of 10 travel experience!" |
+| **Perfect Tailored Option:**<br>"Liceria Travel's tier system allowed us to choose exactly what we needed. We picked the Deluxe package for Paris and enjoyed VIP treatment from start to finish!" |
 
 **Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
@@ -123,14 +123,12 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSING  
 **Tipe Halaman:** Contact & Booking  
-**Judul Halaman:** Book Your Vacation Package Today  
+**Judul Halaman:** Book Your Tour Package Today  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Contact Our Travel Desk:**<br>Ready to plan your next vacation? Reach out to our specialists today for a custom quote.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Main Travel Office:**<br>📍 **Address:** 123 Anywhere St., Any City, ST 12345<br>⏰ **Hours:** Mon – Sat: 08:30 AM – 06:30 PM<br>✉️ **Email:** info@liceriatravel.com |
-
-**Visual Note:** Split 2-column layout featuring contact details on left and office map placeholder on right.
+| **Contact Our Booking Desk:**<br>Reach out to our booking team to reserve your spots for upcoming seasonal tours.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Main Travel Office:**<br>📍 **Address:** 123 Anywhere St., Any City, ST 12345<br>⏰ **Hours:** Mon – Sat: 08:30 AM – 06:30 PM<br>✉️ **Email:** info@liceriatravel.com |
 
 ---
 

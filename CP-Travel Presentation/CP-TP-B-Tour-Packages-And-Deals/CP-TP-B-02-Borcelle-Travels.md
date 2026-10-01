@@ -14,10 +14,10 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** High-resolution hero background with elegant typography overlay and brand logo badge.  
+**Visual Note:** High-resolution hero background with vibrant deal typography overlay and brand logo badge.  
 **Text:**
-- Title: EXPLORE THE WORLD WITH BORCELLE TRAVELS
-- Subtitle: Tailored Vacations, Certified Tour Guides & Seamless Travel Experiences
+- Title: CURATED VACATION DEALS & TOURS
+- Subtitle: Handcrafted Group Expeditions & Exclusive Package Discounts
 - Brand: Borcelle Travels
 
 ---
@@ -25,26 +25,26 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Welcome to Borcelle Travels  
+**Judul Halaman:** Handcrafted Global Vacation Deals  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Borcelle Travels is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by our experienced travel architects, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
+| Borcelle Travels specializes in high-value group tour packages and seasonal vacation deals across Asia, Europe, and the Americas. Our curated itineraries maximize your holiday time while offering exclusive group discounts and 24/7 concierge assistance.<br><br>**Our Focus:** Premium travel experiences at prices that fit your vacation budget. |
 
-**Visual Note:** Clean 1-column layout with a warm neutral background and subtle agency badge artwork.
+**Visual Note:** Clean 1-column layout with a warm promo background and subtle agency badge artwork.
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** CONTEXT  
 **Tipe Halaman:** Core Values  
-**Judul Halaman:** Core Values & Travel Philosophy  
+**Judul Halaman:** Guiding Value Pillars Of Our Package Deals  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. |
+| **Group Discounts:**<br>Save up to 25% on group package reservations. | **Vetted Resorts:**<br>Handpicked 5-star beachfront resorts and heritage hotels. | **24/7 Support:**<br>Round-the-clock emergency support throughout your trip. |
 
 **Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
@@ -53,12 +53,12 @@
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Meet Our Seasoned Expedition Team  
+**Judul Halaman:** Meet Our Tour Package Coordinators  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Samira Hadid** (Global Tour Director), **Aaron Loeb** (Vacation Package Architect), **Adeline Palmerston** (Luxury Travel Specialist), **Drew Feig** (Field Logistics Manager), we design custom travel packages that turn dream vacations into reality. |
+| **Our Tour Package Coordinators:**<br>Our dedicated tour management team brings passion, safety protocols, and local destination knowledge to every trip. Coordinated by **Samira Hadid** (Global Tour Director), **Aaron Loeb** (Package Architect), **Adeline Palmerston** (Luxury Specialist), **Drew Feig** (Logistics Lead), we ensure your safety, comfort, and maximum vacation value at every step. |
 
 **Visual Note:** Spotlight profile layout with circular portrait placeholders for 4 team members.
 
@@ -67,12 +67,12 @@
 ### PAGE 5 - CORE B
 **Fase:** CORE  
 **Tipe Halaman:** Services Offered  
-**Judul Halaman:** Comprehensive Travel Services  
+**Judul Halaman:** Standard Package Inclusions  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Flight Ticketing:**<br>Seamless international seat booking and layover care. | **Quality Lodging:**<br>Handpicked resort suites and luxury beach villas. | **Tour Guides:**<br>Certified bilingual local experts providing rich commentary. |
+| **Flight Bundles:**<br>Round-trip flight tickets bundled with hotel stays. | **Sightseeing Passes:**<br>Pre-paid admission passes for top landmarks and museums. | **Local Concierge:**<br>Dedicated ground staff handling baggage and transfers. |
 
 **Visual Note:** Clean 3-card service showcase layout with subtle drop shadows and icon badges.
 
@@ -81,26 +81,26 @@
 ### PAGE 6 - CORE C
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
-**Judul Halaman:** Featured Tour Packages & Pricing  
+**Judul Halaman:** Featured All-Inclusive Package Pricing  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **Tropical Island Deal:**<br>**$900** | 4 Days / 3 Nights<br>Includes overwater villa stay, speed boat transfers, and guided reef dive. | **European Grand Tour:**<br>**$2,200** | 8 Days / 7 Nights<br>Includes multi-city rail pass, 4-star boutique hotels, and landmark entries. | **Asian Cultural Walk:**<br>**$1,500** | 6 Days / 5 Nights<br>Includes temple passes, street food tours, and luxury city hotel stay. |
 
-**Visual Note:** 3 pricing card columns with prominent price badges.
+**Visual Note:** 3 pricing card columns with prominent price badges and bulleted inclusions list.
 
 ---
 
 ### PAGE 7 - ENGAGEMENT
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
-**Judul Halaman:** Featured Global Destinations  
+**Judul Halaman:** Top Destinations Available Now  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 | --------- | --------- | --------- | --------- |
-| **Kyoto & Tokyo:**<br>Ancient shrines and cherry blossom avenues. | **Paris & Riviera:**<br>Iconic landmarks and Seine river cruises. | **Bali & Lombok:**<br>Lush terraced rice paddies and surf beaches. | **Swiss Alps:**<br>Majestic mountain peaks and alpine chalets. |
+| **Maldives Atolls:**<br>Overwater bungalows and crystal blue lagoons. | **Swiss Alps:**<br>Alpine railways, chalets, and mountain skiing. | **Santorini Cliffs:**<br>White-washed suites and Aegean sunset cruises. | **Bangkok Markets:**<br>Golden temples, night markets, and canal rides. |
 
 **Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
 
@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** EMOTIONAL PEAK  
 **Tipe Halaman:** Testimonials  
-**Judul Halaman:** Customer Satisfaction Reviews  
+**Judul Halaman:** Verified Customer Tour Reviews  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Unforgettable Client Experience:**<br>"Our vacation booked through Borcelle Travels was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded every expectation. A 10 out of 10 travel experience!" |
+| **Flawless Vacation Execution:**<br>"Borcelle Travels organized our European group tour effortlessly. We saved significantly with their bundled rates, and the 24/7 support gave us total peace of mind throughout our holiday!" |
 
 **Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
@@ -123,14 +123,12 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSING  
 **Tipe Halaman:** Contact & Booking  
-**Judul Halaman:** Book Your Vacation Package Today  
+**Judul Halaman:** Book Your Tour Package Today  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Contact Our Travel Desk:**<br>Ready to plan your next vacation? Reach out to our specialists today for a custom quote.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Main Travel Office:**<br>📍 **Address:** 123 Anywhere St., Any City, ST 12345<br>⏰ **Hours:** Mon – Sat: 08:30 AM – 06:30 PM<br>✉️ **Email:** info@borcelletravels.com |
-
-**Visual Note:** Split 2-column layout featuring contact details on left and office map placeholder on right.
+| **Contact Our Booking Desk:**<br>Reach out to our booking team to reserve your spots for upcoming seasonal tours.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Main Travel Office:**<br>📍 **Address:** 123 Anywhere St., Any City, ST 12345<br>⏰ **Hours:** Mon – Sat: 08:30 AM – 06:30 PM<br>✉️ **Email:** info@borcelletravels.com |
 
 ---
 

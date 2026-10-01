@@ -14,10 +14,10 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** High-resolution hero background with elegant typography overlay and brand logo badge.  
+**Visual Note:** High-resolution hero background with vibrant deal typography overlay and brand logo badge.  
 **Text:**
-- Title: EXPLORE THE WORLD WITH WARDIERE JOURNEYS
-- Subtitle: Tailored Vacations, Certified Tour Guides & Seamless Travel Experiences
+- Title: SEASONAL VACATION PACKAGES
+- Subtitle: Spring Blossom & Winter Alpine Expeditions With All Inclusions
 - Brand: Wardiere Journeys
 
 ---
@@ -25,26 +25,26 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Welcome to Wardiere Journeys  
+**Judul Halaman:** Seasonal Holiday Expeditions  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Wardiere Journeys is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by our experienced travel architects, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
+| Wardiere Journeys creates limited seasonal tour packages designed to capture nature's most spectacular moments. From spring cherry blossom walks in Kyoto to winter aurora hunts in Lapland, our all-inclusive deals feature expert local guides and boutique lodging.<br><br>**Seasonal Value:** Exclusive access to peak-season events at guaranteed rates. |
 
-**Visual Note:** Clean 1-column layout with a warm neutral background and subtle agency badge artwork.
+**Visual Note:** Clean 1-column layout with a warm promo background and subtle agency badge artwork.
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** CONTEXT  
 **Tipe Halaman:** Core Values  
-**Judul Halaman:** Core Values & Travel Philosophy  
+**Judul Halaman:** Guiding Value Pillars Of Our Package Deals  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. |
+| **Peak Access:**<br>Guaranteed bookings during high-demand festival seasons. | **Boutique Stays:**<br>Charming ryokans, alpine chalets, and eco-lodges. | **Expert Guides:**<br>Native specialists providing deep local cultural insights. |
 
 **Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
@@ -53,12 +53,12 @@
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Meet Our Seasoned Expedition Team  
+**Judul Halaman:** Meet Our Tour Package Coordinators  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Drew Feig** (Seasonal Tour Specialist), **Jamie Chastain** (Blossom Expedition Guide), **Olivia Wilson** (Alpine Tour Manager), we design custom travel packages that turn dream vacations into reality. |
+| **Our Tour Package Coordinators:**<br>Our dedicated tour management team brings passion, safety protocols, and local destination knowledge to every trip. Coordinated by **Drew Feig** (Seasonal Tour Specialist), **Jamie Chastain** (Blossom Expedition Guide), **Olivia Wilson** (Alpine Tour Manager), we ensure your safety, comfort, and maximum vacation value at every step. |
 
 **Visual Note:** Spotlight profile layout with circular portrait placeholders for 3 team members.
 
@@ -67,12 +67,12 @@
 ### PAGE 5 - CORE B
 **Fase:** CORE  
 **Tipe Halaman:** Services Offered  
-**Judul Halaman:** Comprehensive Travel Services  
+**Judul Halaman:** Standard Package Inclusions  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 | --------- | --------- | --------- | --------- |
-| **Flight Ticketing:**<br>Seamless international seat booking and layover care. | **Quality Lodging:**<br>Handpicked resort suites and luxury beach villas. | **Tour Guides:**<br>Certified bilingual local experts providing rich commentary. | **24/7 Assistance:**<br>Round-the-clock ground support hotline for flight rebooking. |
+| **Festival Passes:**<br>Reserved seating for seasonal cultural festivals. | **Scenic Transit:**<br>Panoramic train journeys and private coach transfers. | **Gourmet Dining:**<br>Authentic seasonal tasting menus and farm visits. | **Luggage Care:**<br>Hassle-free luggage transfers between destination hotels. |
 
 **Visual Note:** Clean 4-card service showcase layout with subtle drop shadows and icon badges.
 
@@ -81,26 +81,26 @@
 ### PAGE 6 - CORE C
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
-**Judul Halaman:** Featured Tour Packages & Pricing  
+**Judul Halaman:** Featured All-Inclusive Package Pricing  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **Kyoto Spring Special:**<br>**$1,200** | 5 Days / 4 Nights<br>Includes ryokan stay, cherry blossom garden walks, and tea ceremony. | **Swiss Alpine Winter:**<br>**$1,850** | 6 Days / 5 Nights<br>Includes glacier express train, chalet lodging, and ski passes. | **Bali Wellness Retreat:**<br>**$780** | 5 Days / 4 Nights<br>Includes jungle villa, daily yoga, spa treatments, and organic dining. |
 
-**Visual Note:** 3 pricing card columns with prominent price badges.
+**Visual Note:** 3 pricing card columns with prominent price badges and bulleted inclusions list.
 
 ---
 
 ### PAGE 7 - ENGAGEMENT
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
-**Judul Halaman:** Featured Global Destinations  
+**Judul Halaman:** Top Destinations Available Now  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Kyoto & Tokyo:**<br>Ancient shrines and cherry blossom avenues. | **Paris & Riviera:**<br>Iconic landmarks and Seine river cruises. | **Bali & Lombok:**<br>Lush terraced rice paddies and surf beaches. |
+| **Kyoto Gardens:**<br>Blooming cherry blossoms and serene Zen shrines. | **Matterhorn Peaks:**<br>Snowy mountain chalets and scenic cable cars. | **Ubud Jungles:**<br>Tropical rice terraces and holistic spa sanctuaries. |
 
 **Visual Note:** 3 vertical photo card containers showcasing high-resolution destination imagery.
 
@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** EMOTIONAL PEAK  
 **Tipe Halaman:** Testimonials  
-**Judul Halaman:** Customer Satisfaction Reviews  
+**Judul Halaman:** Verified Customer Tour Reviews  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Unforgettable Client Experience:**<br>"Our vacation booked through Wardiere Journeys was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded every expectation. A 10 out of 10 travel experience!" |
+| **Magical Seasonal Holiday:**<br>"Our Kyoto spring blossom trip with Wardiere Journeys was magical beyond words. Having guaranteed ryokan bookings during peak season made all the difference!" |
 
 **Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
@@ -123,14 +123,12 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSING  
 **Tipe Halaman:** Contact & Booking  
-**Judul Halaman:** Book Your Vacation Package Today  
+**Judul Halaman:** Book Your Tour Package Today  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Contact Our Travel Desk:**<br>Ready to plan your next vacation? Reach out to our specialists today for a custom quote.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Main Travel Office:**<br>📍 **Address:** 123 Anywhere St., Any City, ST 12345<br>⏰ **Hours:** Mon – Sat: 08:30 AM – 06:30 PM<br>✉️ **Email:** info@wardierejourneys.com |
-
-**Visual Note:** Split 2-column layout featuring contact details on left and office map placeholder on right.
+| **Contact Our Booking Desk:**<br>Reach out to our booking team to reserve your spots for upcoming seasonal tours.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Main Travel Office:**<br>📍 **Address:** 123 Anywhere St., Any City, ST 12345<br>⏰ **Hours:** Mon – Sat: 08:30 AM – 06:30 PM<br>✉️ **Email:** info@wardierejourneys.com |
 
 ---
 
