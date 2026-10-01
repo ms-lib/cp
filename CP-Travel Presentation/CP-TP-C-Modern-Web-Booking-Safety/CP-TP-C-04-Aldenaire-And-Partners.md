@@ -14,10 +14,10 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** High-resolution hero background with elegant typography overlay and brand logo badge.  
+**Visual Note:** High-resolution digital hero background with sleek tech typography overlay and brand logo badge.  
 **Text:**
-- Title: EXPLORE THE WORLD WITH ALDENAIRE & PARTNERS TOURS
-- Subtitle: Tailored Vacations, Certified Tour Guides & Seamless Travel Experiences
+- Title: EXCLUSIVE RATE BOOKING SUITE
+- Subtitle: Wholesale Luxury Hotel & Private Jet Charter Reservations
 - Brand: Aldenaire & Partners Tours
 
 ---
@@ -25,40 +25,40 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Welcome to Aldenaire & Partners Tours  
+**Judul Halaman:** Wholesale Luxury Booking Access  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Aldenaire & Partners Tours is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by our experienced travel architects, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
+| Aldenaire & Partners Tours grants VIP access to negotiated wholesale rates across world-class luxury hotels, private jet charters, and premium flight cabins. Our digital booking platform guarantees exclusive rates not published on public travel sites.<br><br>**Privilege Access:** Save up to 35% on luxury resort suites and first-class flights. |
 
-**Visual Note:** Clean 1-column layout with a warm neutral background and subtle agency badge artwork.
+**Visual Note:** Clean 1-column layout with a sleek digital neutral background and subtle tech badge artwork.
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** CONTEXT  
 **Tipe Halaman:** Core Values  
-**Judul Halaman:** Core Values & Travel Philosophy  
+**Judul Halaman:** Digital Platform & Security Pillars  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 | --------- | --------- | --------- | --------- |
-| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. | **Cultural Immersion:**<br>Authentic local guided walks fostering genuine connections. |
+| **Wholesale Rates:**<br>Exclusive discounted rates on 5-star luxury hotels. | **Room Upgrades:**<br>Complimentary room upgrades upon check-in when available. | **First Class Seats:**<br>Discounted premium international flight cabin fares. | **Private Charters:**<br>On-demand booking for luxury private jets and yachts. |
 
-**Visual Note:** 4-column feature grid with icon badges above each 2-3 word header.
+**Visual Note:** 4-column feature grid with digital icon badges above each 2-3 word header.
 
 ---
 
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Meet Our Seasoned Expedition Team  
+**Judul Halaman:** Meet Our Digital Booking & Safety Team  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Adeline Palmerston** (Exclusive Rate Manager), **Drew Feig** (Flight Negotiations Lead), **Estelle Darcy** (Luxury Booking Specialist), we design custom travel packages that turn dream vacations into reality. |
+| **Our Digital Platform & Safety Specialists:**<br>Our dedicated technology and travel security team ensures 100% reservation accuracy and safety. Managed by **Adeline Palmerston** (Exclusive Rate Manager), **Drew Feig** (Flight Negotiations Lead), **Estelle Darcy** (Luxury Booking Specialist), we provide round-the-clock digital support and booking peace of mind. |
 
 **Visual Note:** Spotlight profile layout with circular portrait placeholders for 3 team members.
 
@@ -67,40 +67,40 @@
 ### PAGE 5 - CORE B
 **Fase:** CORE  
 **Tipe Halaman:** Services Offered  
-**Judul Halaman:** Comprehensive Travel Services  
+**Judul Halaman:** Digital Travel Platform Features  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Flight Ticketing:**<br>Seamless international seat booking and layover care. | **Quality Lodging:**<br>Handpicked resort suites and luxury beach villas. | **Tour Guides:**<br>Certified bilingual local experts providing rich commentary. |
+| **Free Breakfast:**<br>Daily gourmet breakfast buffet included in all hotel stays. | **Resort Credits:**<br>$100 spa or dining credit per room reservation. | **Early Check-In:**<br>Flexible early check-in and late checkout privileges. |
 
-**Visual Note:** Clean 3-card service showcase layout with subtle drop shadows and icon badges.
+**Visual Note:** Clean 3-card digital service showcase layout with subtle drop shadows and icon badges.
 
 ---
 
 ### PAGE 6 - CORE C
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
-**Judul Halaman:** Featured Tour Packages & Pricing  
+**Judul Halaman:** Flight & Hotel Price Highlights  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **Luxury Villa Escape:**<br>**$890** | 3 Nights Villa Stay<br>Includes private pool villa, $100 spa credit, and daily breakfast. | **First Class Flight Bundle:**<br>**$1,950** | Round-Trip First Class<br>Includes premium lie-flat seat, lounge access, and private transfer. | **VIP Presidential Package:**<br>**$3,500** | 5 Days Full Luxury<br>Includes penthouse suite, private chauffeur, and yacht charter. |
 
-**Visual Note:** 3 pricing card columns with prominent price badges.
+**Visual Note:** 3 pricing card columns with prominent digital price badges and inclusion details.
 
 ---
 
 ### PAGE 7 - ENGAGEMENT
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
-**Judul Halaman:** Featured Global Destinations  
+**Judul Halaman:** Popular Destinations Available To Book  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Kyoto & Tokyo:**<br>Ancient shrines and cherry blossom avenues. | **Paris & Riviera:**<br>Iconic landmarks and Seine river cruises. | **Bali & Lombok:**<br>Lush terraced rice paddies and surf beaches. |
+| **Beverly Hills & Aspen:**<br>Private luxury chalets and iconic celebrity hotels. | **Monte Carlo & Nice:**<br>French Riviera yachting and luxury casino resorts. | **Maldives Overwater:**<br>Secluded lagoon villas with private butler service. |
 
 **Visual Note:** 3 vertical photo card containers showcasing high-resolution destination imagery.
 
@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** EMOTIONAL PEAK  
 **Tipe Halaman:** Testimonials  
-**Judul Halaman:** Customer Satisfaction Reviews  
+**Judul Halaman:** Verified Digital User Reviews  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Unforgettable Client Experience:**<br>"Our vacation booked through Aldenaire & Partners Tours was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded every expectation. A 10 out of 10 travel experience!" |
+| **Unmatched Luxury Rates:**<br>"Booking our villa through Aldenaire & Partners saved us over $1,000 compared to public sites, plus we received a free room upgrade and $100 spa credit. Outstanding VIP platform!" |
 
 **Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
@@ -123,14 +123,12 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSING  
 **Tipe Halaman:** Contact & Booking  
-**Judul Halaman:** Book Your Vacation Package Today  
+**Judul Halaman:** Start Booking With Confidence  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Contact Our Travel Desk:**<br>Ready to plan your next vacation? Reach out to our specialists today for a custom quote.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Main Travel Office:**<br>📍 **Address:** 123 Anywhere St., Any City, ST 12345<br>⏰ **Hours:** Mon – Sat: 08:30 AM – 06:30 PM<br>✉️ **Email:** info@aldenairepartnerstours.com |
-
-**Visual Note:** Split 2-column layout featuring contact details on left and office map placeholder on right.
+| **24/7 Digital Support Desk:**<br>Need assistance with your booking? Contact our digital support desk anytime.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Corporate Headquarters:**<br>📍 **Address:** 789 Tech Boulevard, Any City, ST 12345<br>⏰ **Hours:** Open 24 Hours / 7 Days A Week<br>✉️ **Email:** support@aldenairepartnerstours.com |
 
 ---
 
@@ -139,6 +137,6 @@
 **Visual Note:** Minimalist back cover matching the cover aesthetic with centered brand handle.  
 **Text:**
 - Title: THANK YOU FOR YOUR ATTENTION
-- Subtitle: Reach Out To Us To Plan Your Dream Vacation Today
+- Subtitle: Explore The World With Digital Confidence & Ease
 - Brand: Aldenaire & Partners Tours
 - Website: www.reallygreatsite.com

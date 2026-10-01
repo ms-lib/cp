@@ -14,10 +14,10 @@
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** High-resolution hero background with elegant typography overlay and brand logo badge.  
+**Visual Note:** High-resolution atmospheric hero background with elegant script typography overlay and brand logo badge.  
 **Text:**
-- Title: EXPLORE THE WORLD WITH WONDERS OF THE WORLD
-- Subtitle: Tailored Vacations, Certified Tour Guides & Seamless Travel Experiences
+- Title: WONDERS OF THE WORLD
+- Subtitle: Encountering Living Monuments, Ancient Customs & Human Connections
 - Brand: Wonders of the World
 
 ---
@@ -25,40 +25,40 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Welcome to Wonders of the World  
+**Judul Halaman:** Celebrating Global Cultural Heritage  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Wonders of the World is a trusted global travel agency dedicated to crafting seamless vacation experiences. Supported by our experienced travel architects, we connect travelers with breathtaking destinations through transparent pricing and world-class service.<br><br>**Our Mission:** Making every journey safe, inspiring, and completely hassle-free. |
+| Wonders of the World curates journeys to earth's most inspiring cultural monuments and sacred heritage sites. We invite travelers to look beyond sightseeing, fostering deep human connection with native custodians who keep ancient customs alive.<br><br>**Cultural Heart:** Transforming tourism into meaningful cross-cultural dialogue. |
 
-**Visual Note:** Clean 1-column layout with a warm neutral background and subtle agency badge artwork.
+**Visual Note:** Clean 1-column layout with an artistic organic background and subtle storytelling badge artwork.
 
 ---
 
 ### PAGE 3 - CONTEXT
 **Fase:** CONTEXT  
 **Tipe Halaman:** Core Values  
-**Judul Halaman:** Core Values & Travel Philosophy  
+**Judul Halaman:** Pillars of Soulful Exploration  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. |
+| **Living Monuments:**<br>Standing in awe before world heritage architectural marvels. | **Native Custodians:**<br>Learning ancient wisdom directly from local community elders. | **Shared Customs:**<br>Participating respectfully in traditional ceremonies and meals. |
 
-**Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
+**Visual Note:** 3-column feature grid with artistic icon badges above each 2-3 word header.
 
 ---
 
 ### PAGE 4 - CORE A
 **Fase:** CORE  
 **Tipe Halaman:** Team Profile  
-**Judul Halaman:** Meet Our Seasoned Expedition Team  
+**Judul Halaman:** Meet Our Journey Curators  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Sacha Dubois** (Cultural Connection Lead), **Chiaki Sato** (Heritage Exploration Guide), **Harper Russo** (Journal Curator), **Aaron Loeb** (Editorial Manager), we design custom travel packages that turn dream vacations into reality. |
+| **Our Journey Curators & Storytellers:**<br>Our team of passionate travel writers, photographers, and heritage curators designs deeply emotional travel sanctuaries. Curated by **Sacha Dubois** (Cultural Connection Lead), **Chiaki Sato** (Heritage Exploration Guide), **Harper Russo** (Journal Curator), **Aaron Loeb** (Editorial Manager), we invite you to experience travel as a transformative art. |
 
 **Visual Note:** Spotlight profile layout with circular portrait placeholders for 4 team members.
 
@@ -67,54 +67,54 @@
 ### PAGE 5 - CORE B
 **Fase:** CORE  
 **Tipe Halaman:** Services Offered  
-**Judul Halaman:** Comprehensive Travel Services  
+**Judul Halaman:** Storytelling & Reflection Elements  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Flight Ticketing:**<br>Seamless international seat booking and layover care. | **Quality Lodging:**<br>Handpicked resort suites and luxury beach villas. | **Tour Guides:**<br>Certified bilingual local experts providing rich commentary. |
+| **Heritage Access:**<br>VIP private access to historic temples and monuments. | **Elder Dialogues:**<br>Intimate storytelling sessions with local heritage keepers. | **Sacred Music:**<br>Listening to traditional indigenous music performances. |
 
-**Visual Note:** Clean 3-card service showcase layout with subtle drop shadows and icon badges.
+**Visual Note:** Clean 3-card storytelling showcase layout with subtle drop shadows and artistic badges.
 
 ---
 
 ### PAGE 6 - CORE C
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
-**Judul Halaman:** Featured Tour Packages & Pricing  
+**Judul Halaman:** Curated Soulful Journeys & Escapes  
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **Sacred Monuments Walk:**<br>**$950** | 5 Days Heritage Journey<br>Includes traditional lodging, private temple access, and meals. | **Wonders of Asia Deal:**<br>**$1,580** | 6 Days Cultural Tour<br>Includes high-speed train pass, ryokan stay, and tea ceremonies. | **Ancient Mediterranean:**<br>**$2,300** | 8 Days Historic Expedition<br>Includes private castle tours, gourmet dining, and boutique stays. |
 
-**Visual Note:** 3 pricing card columns with prominent price badges.
+**Visual Note:** 3 pricing card columns with elegant price badges and package details.
 
 ---
 
 ### PAGE 7 - ENGAGEMENT
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
-**Judul Halaman:** Featured Global Destinations  
+**Judul Halaman:** Atmospheric Destinations & Horizons  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 | --------- | --------- | --------- | --------- |
-| **Kyoto & Tokyo:**<br>Ancient shrines and cherry blossom avenues. | **Paris & Riviera:**<br>Iconic landmarks and Seine river cruises. | **Bali & Lombok:**<br>Lush terraced rice paddies and surf beaches. | **Swiss Alps:**<br>Majestic mountain peaks and alpine chalets. |
+| **Machu Picchu (Peru):**<br>Mystical Inca citadel soaring above Andes clouds. | **Taj Mahal (India):**<br>White marble monument of eternal love at dawn. | **Petra (Jordan):**<br>Ancient rose-red city carved directly into canyon rock. | **Colosseum (Rome):**<br>Grand amphitheater echoing centuries of Roman history. |
 
-**Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
+**Visual Note:** 4 vertical photo card containers showcasing high-resolution landscape photography.
 
 ---
 
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** EMOTIONAL PEAK  
 **Tipe Halaman:** Testimonials  
-**Judul Halaman:** Customer Satisfaction Reviews  
+**Judul Halaman:** Reflections From Mindful Explorers  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| **Unforgettable Client Experience:**<br>"Our vacation booked through Wonders of the World was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded every expectation. A 10 out of 10 travel experience!" |
+| **A Soul-Stirring Cultural Connection:**<br>"Standing before Petra at dawn alongside our native guide was a soul-stirring experience. Wonders of the World doesn't just show you places; they connect you to the living heartbeat of human culture!" |
 
 **Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
@@ -123,14 +123,12 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSING  
 **Tipe Halaman:** Contact & Booking  
-**Judul Halaman:** Book Your Vacation Package Today  
+**Judul Halaman:** Begin Your Inspiring Journey  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Contact Our Travel Desk:**<br>Ready to plan your next vacation? Reach out to our specialists today for a custom quote.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Main Travel Office:**<br>📍 **Address:** 123 Anywhere St., Any City, ST 12345<br>⏰ **Hours:** Mon – Sat: 08:30 AM – 06:30 PM<br>✉️ **Email:** info@wondersoftheworld.com |
-
-**Visual Note:** Split 2-column layout featuring contact details on left and office map placeholder on right.
+| **Connect With Our Storytellers:**<br>Ready to start your next emotional travel chapter? Reach out to our journey curators today.<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com | **Storytelling Desk:**<br>📍 **Address:** 321 Harmony Lane, Any City, ST 12345<br>⏰ **Hours:** Mon – Fri: 09:00 AM – 05:00 PM<br>✉️ **Email:** hello@wondersoftheworld.com |
 
 ---
 
@@ -138,7 +136,7 @@
 **Layout:** Back cover page  
 **Visual Note:** Minimalist back cover matching the cover aesthetic with centered brand handle.  
 **Text:**
-- Title: THANK YOU FOR YOUR ATTENTION
-- Subtitle: Reach Out To Us To Plan Your Dream Vacation Today
+- Title: JOURNEY WITHOUT END
+- Subtitle: May Your Heart Always Seek The Wonders Beyond The Horizon
 - Brand: Wonders of the World
 - Website: www.reallygreatsite.com
