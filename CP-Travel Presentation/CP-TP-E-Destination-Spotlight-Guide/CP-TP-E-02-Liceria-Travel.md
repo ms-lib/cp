@@ -1,23 +1,23 @@
 # JUDUL 26 OF 30
-## Liceria Travel – Kyoto: Ancient Heritage & Shrine Spotlight Guide
+## Liceria Travel – Tokyo: Modern Metropolis & Cherry Blossom Spotlight Guide
 
 **Sub-Topic:** CP-TP-E-Destination-Spotlight-Guide  
-**Main Keywords:** kyoto travel presentation, ancient heritage guide, shrine tour presentation  
+**Main Keywords:** tokyo travel presentation, tokyo city guide, modern japan presentation, cherry blossom tour tokyo  
 **Target Audience:** Vacationers, Cultural Travelers, Eco-Tourists, Travel Agencies  
 **Style:** Classic, Historic, Red, Photo, Aesthetic  
 **Tone:** Inspiring, Trustworthy, Professional  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→3→1→4→3→3→1→2→1  
+**Pattern Kolom:** 1→1→3→1→4→2→4→1→2→1  
 
 ---
 
 ### PAGE 1 - COVER
 **Layout:** Cover page  
-**Visual Note:** High-resolution hero background with elegant typography overlay and brand logo badge.  
+**Visual Note:** High-resolution hero background of Shibuya Crossing illuminated at dusk with Tokyo Tower and Mount Fuji in the background.  
 **Text:**
-- Title: KYOTO, JAPAN: DESTINATION SPOTLIGHT
-- Subtitle: An Immersive Journey Through Culture, Nature & Local Lifestyle
+- Title: TOKYO, JAPAN: DESTINATION SPOTLIGHT
+- Subtitle: An Immersive Journey Through Futuristic Metropolis & Ancient Cherry Blossom Shrines
 - Brand: Liceria Travel
 
 ---
@@ -25,12 +25,12 @@
 ### PAGE 2 - OPENER
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
-**Judul Halaman:** Introduction to Kyoto  
+**Judul Halaman:** Introduction to Tokyo  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Renowned globally as a premier travel destination, Kyoto captivates visitors through its rich heritage, iconic landmarks, and breathtaking landscapes. Local hosts welcome travelers into an immersive cultural experience.<br><br>**Visitor Highlights:** A unique destination where historic traditions harmonize with unforgettable scenery. |
+| Renowned globally as a premier travel destination, Tokyo captivates visitors through its rich heritage, iconic landmarks, and breathtaking landscapes. Local hosts welcome travelers into an immersive cultural experience.<br><br>**Visitor Highlights:** A unique destination where historic traditions harmonize with unforgettable scenery. |
 
 **Visual Note:** Clean 1-column layout with a warm neutral background and subtle agency badge artwork.
 
@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Fushimi Inari Shrines:**<br>Iconic heritage site with ocean vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. |
+| **Shibuya Crossing & Senso-ji:**<br>Iconic heritage site with ocean vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. |
 
 **Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
@@ -72,9 +72,9 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 | --------- | --------- | --------- | --------- |
-| **Gion Geisha Traditions:**<br>Vibrant seasonal events celebrating community heritage. | **Artisan Workshops:**<br>Hands-on sessions with traditional local master craftsmen. | **Bustling Markets:**<br>Markets offering fresh produce and authentic souvenirs. | **Living Traditions:**<br>Daily rituals reflecting local pride and hospitality. |
+| **Sumida Fireworks & Harajuku:**<br>Vibrant seasonal events celebrating community heritage. | **Artisan Workshops:**<br>Hands-on sessions with traditional local master craftsmen. | **Bustling Markets:**<br>Markets offering fresh produce and authentic souvenirs. | **Living Traditions:**<br>Daily rituals reflecting local pride and hospitality. |
 
-**Visual Note:** Clean 4-card service showcase layout with subtle drop shadows and icon badges.
+**Visual Note:** 4-column feature grid with icon badges above each 2-3 word header.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
 **Judul Halaman:** Authentic Culinary Delights  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-| --------- | --------- | --------- |
-| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Kaiseki & Tea Ceremony:**<br>Signature culinary dish with rich indigenous spices. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
+| Kolom 1 | Kolom 2 |
+| --------- | --------- |
+| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Ramen, Sushi & Izakaya Feasts:**<br>Signature culinary dish with rich indigenous spices. |
 
-**Visual Note:** 3 pricing card columns with prominent price badges.
+**Visual Note:** 2 pricing card columns with prominent price badges.
 
 ---
 
@@ -96,13 +96,13 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
 **Judul Halaman:** Unforgettable Experience Highlights  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 4  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-| --------- | --------- | --------- |
-| **Sightseeing Walks:**<br>Guided tours through historic quarters and viewpoints. | **Wellness Retreats:**<br>Rejuvenate body and mind with luxury spa. | **Outdoor Adventures:**<br>Exciting outdoor activities and coastal boat excursions. |
+| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
+| --------- | --------- | --------- | --------- |
+| **Sightseeing Walks:**<br>Guided tours through historic quarters and viewpoints. | **Wellness Retreats:**<br>Rejuvenate body and mind with luxury spa. | **Outdoor Adventures:**<br>Exciting outdoor activities and coastal boat excursions. | **Luxury Hospitality:**<br>Unwind in handpicked boutique eco resorts. |
 
-**Visual Note:** 3 vertical photo card containers showcasing high-resolution destination imagery.
+**Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
 
 ---
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| **Authentic Living Heritage:**<br>Experience the true spirit of Kyoto through authentic community connections and local hospitality. Travelers witness living traditions preserved through generational pride, sustainable living, and warm welcome. |
+| **Authentic Living Heritage:**<br>Experience the true spirit of Tokyo through authentic community connections and local hospitality. Travelers witness living traditions preserved through generational pride, sustainable living, and warm welcome. |
 
 **Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Eco-Tourism Commitment:**<br>Liceria Travel supports sustainable travel initiatives, local heritage preservation, and plastic reduction policies.<br><br>• **Green Lodging:** Solar-powered eco-resorts.<br>• **Fair Trade:** Direct support for local artisan guilds. | **Plan Your Trip to Kyoto:**<br>Ready to discover this extraordinary destination?<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com<br>✉️ **Email:** hello@liceriatravel.com<br>📍 **Address:** 123 Anywhere St., Any City |
+| **Eco-Tourism Commitment:**<br>Liceria Travel supports sustainable travel initiatives, local heritage preservation, and plastic reduction policies.<br><br>• **Green Lodging:** Solar-powered eco-resorts.<br>• **Fair Trade:** Direct support for local artisan guilds. | **Plan Your Trip to Tokyo:**<br>Ready to discover this extraordinary destination?<br><br>📞 **Phone:** +123-456-7890<br>🌐 **Website:** www.reallygreatsite.com<br>✉️ **Email:** hello@liceriatravel.com<br>📍 **Address:** 123 Anywhere St., Any City |
 
 **Visual Note:** Split 2-column layout featuring contact details on left and office map placeholder on right.
 
@@ -138,7 +138,8 @@
 **Layout:** Back cover page  
 **Visual Note:** Minimalist back cover matching the cover aesthetic with centered brand handle.  
 **Text:**
-- Title: DISCOVER KYOTO WITH US
+- Title: DISCOVER TOKYO WITH US
 - Subtitle: May The Beauty & Memories Of Your Journey Stay With You Forever
 - Brand: Liceria Travel
 - Website: www.reallygreatsite.com
+```,Description:

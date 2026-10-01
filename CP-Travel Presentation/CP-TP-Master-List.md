@@ -92,7 +92,7 @@
 | # | File Name | Destinasi Tren / Viral | Focus Highlights & Experience |
 |---|---|---|---|
 | E-01 | `CP-TP-E-01-Wardiere-Inc-Bali-Island-Of-Gods.md` | **Bali, Indonesia** | Pura ikonik, terraced rice fields, festival Nyepi, kuliner Betutu, Tri Hita Karana |
-| E-02 | `CP-TP-E-02-Liceria-Travel-Kyoto-Ancient-Heritage-Guide.md` | **Kyoto, Japan** | Kuil Fushimi Inari, Gion geisha district, Arashiyama bamboo grove, tea ceremony |
+| E-02 | `CP-TP-E-02-Liceria-Travel.md` | **Tokyo, Japan** | Shibuya Crossing, Senso-ji shrine, Sumida fireworks, Harajuku, ramen & sushi culture |
 | E-03 | `CP-TP-E-03-Rimberio-Tour-Paris-City-Of-Light-Spotlight.md` | **Paris, France** | Eiffel Tower, Louvre museum walk, Montmartre artists, Seine river cruise, bistro dining |
 | E-04 | `CP-TP-E-04-Studio-Shodwe-Swiss-Alps-Alpine-Paradise.md` | **Swiss Alps, Switzerland** | Matterhorn views, Jungfraujoch railway, glacier trekking, alpine chalets & fondue |
 | E-05 | `CP-TP-E-05-Borcelle-Travels-Santorini-Aegean-Sanctuary.md` | **Santorini, Greece** | Oia sunset views, blue-domed churches, volcanic black sand beaches, Aegean cruises |
