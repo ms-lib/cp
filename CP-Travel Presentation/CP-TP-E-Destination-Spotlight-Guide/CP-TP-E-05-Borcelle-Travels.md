@@ -43,10 +43,10 @@
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Oia Sunset Caldera:**<br>Iconic heritage site offering profound architectural beauty and panoramic photo opportunities. | **Historic City Center:**<br>Cobblestone streets lined with centuries of preserved culture, local cafes, and artisan shops. | **Heritage Landmarks:**<br>World-famous monuments representing the historical heart and artistic soul of the region. | **Panoramas:**<br>Breathtaking viewpoints overlooking historic valleys and coastal horizons. |
+| --------- | --------- | --------- | --------- |
+| **Oia Sunset Caldera:**<br>Iconic heritage site with ocean vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. | **Panoramic Views:**<br>Breathtaking viewpoints overlooking historic coastal horizons. |
 
-**Visual Note:** 4-column feature grid with icon badges above each bold header.
+**Visual Note:** 4-column feature grid with icon badges above each 2-3 word header.
 
 ---
 
@@ -71,8 +71,8 @@
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Volcanic Black Beaches:**<br>Vibrant seasonal events celebrating indigenous music, art, and community heritage. | **Artisan Crafts:**<br>Hands-on workshops with master craftsmen preserving traditional handmade heritage. | **Local Markets:**<br>Bustling markets offering fresh produce, handwoven textiles, and authentic souvenirs. | **Living Traditions:**<br>Authentic daily rituals reflecting generational pride and warm local hospitality. |
+| --------- | --------- | --------- | --------- |
+| **Volcanic Black Beaches:**<br>Vibrant seasonal events celebrating community heritage. | **Artisan Workshops:**<br>Hands-on sessions with traditional local master craftsmen. | **Bustling Markets:**<br>Markets offering fresh produce and authentic souvenirs. | **Living Traditions:**<br>Daily rituals reflecting local pride and hospitality. |
 
 **Visual Note:** Clean 4-card service showcase layout with subtle drop shadows and icon badges.
 
@@ -85,10 +85,10 @@
 **Jumlah Kolom:** 3  
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Gastronomic Journey:**<br>Dining in Santorini is a sensory celebration. Local dishes feature fresh indigenous ingredients and time-honored recipes.<br><br>**Dining Culture:** Shared banquets bringing travelers and locals together. | **Featured Local Specialties:**<br>• **Aegean Yachting & Wine:** Signature culinary dish prepared with rich traditional spices.<br>• **Artisan Sweets:** Handcrafted local desserts and seasonal beverages.<br>• **Street Flavors:** Authentic market bites loved by locals and travelers alike. | **Private Tastings:**<br>Curated food tours and wine tasting passes led by local culinary masters. |
+| --------- | --------- | --------- |
+| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Aegean Yachting & Wine:**<br>Signature culinary dish with rich indigenous spices. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
 
-**Visual Note:** 3 pricing card columns with prominent price badges and bulleted inclusions list.
+**Visual Note:** 3 pricing card columns with prominent price badges.
 
 ---
 
@@ -99,8 +99,8 @@
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Sightseeing Walks:**<br>Guided tours through iconic landmarks, historic quarters, and scenic viewpoints. | **Wellness & Relaxation:**<br>Rejuvenate body and mind with luxury spa retreats and serene nature walks. | **Outdoor Adventure:**<br>Exciting outdoor activities ranging from scenic hiking to coastal boat excursions. | **Luxury Hospitality:**<br>Unwind in handpicked boutique hotels and eco-resorts with prime views. |
+| --------- | --------- | --------- | --------- |
+| **Sightseeing Walks:**<br>Guided tours through historic quarters and viewpoints. | **Wellness Retreats:**<br>Rejuvenate body and mind with luxury spa. | **Outdoor Adventures:**<br>Exciting outdoor activities and coastal boat excursions. | **Luxury Hospitality:**<br>Unwind in handpicked boutique eco resorts. |
 
 **Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
 
@@ -116,7 +116,7 @@
 |---------|
 | Experience the true spirit of Santorini through authentic community connections and local hospitality. Travelers witness living traditions preserved through generational pride, sustainable living, and warm welcome.<br><br>**Traveler Impact:** Practicing mindful travel that respects local culture and environment. |
 
-**Visual Note:** Elegant quote box layout with large serif quotation marks and 5-star rating graphic.
+**Visual Note:** Elegant quote box layout with large serif quotation marks.
 
 ---
 

@@ -8,7 +8,7 @@
 **Tone:** Inspiring, Trustworthy, Professional  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→4→1→4→3→4→1→2→1  
+**Pattern Kolom:** 1→1→3→1→3→2→4→1→2→1  
 
 ---
 
@@ -40,13 +40,13 @@
 **Fase:** CONTEXT  
 **Tipe Halaman:** Core Values  
 **Judul Halaman:** Iconic Shrines & Historic Landmarks  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Aurora Northern Lights:**<br>Iconic heritage site offering profound architectural beauty and panoramic photo opportunities. | **Historic City Center:**<br>Cobblestone streets lined with centuries of preserved culture, local cafes, and artisan shops. | **Heritage Landmarks:**<br>World-famous monuments representing the historical heart and artistic soul of the region. | **Panoramas:**<br>Breathtaking viewpoints overlooking historic valleys and coastal horizons. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Aurora Northern Lights:**<br>Iconic heritage site with ocean vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. |
 
-**Visual Note:** 4-column feature grid with icon badges above each bold header.
+**Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
 ---
 
@@ -68,13 +68,13 @@
 **Fase:** CORE  
 **Tipe Halaman:** Services Offered  
 **Judul Halaman:** Cultural Experiences & Local Life  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Gullfoss & Geysers:**<br>Vibrant seasonal events celebrating indigenous music, art, and community heritage. | **Artisan Crafts:**<br>Hands-on workshops with master craftsmen preserving traditional handmade heritage. | **Local Markets:**<br>Bustling markets offering fresh produce, handwoven textiles, and authentic souvenirs. | **Living Traditions:**<br>Authentic daily rituals reflecting generational pride and warm local hospitality. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Gullfoss & Geysers:**<br>Vibrant seasonal events celebrating community heritage. | **Artisan Workshops:**<br>Hands-on sessions with traditional local master craftsmen. | **Bustling Markets:**<br>Markets offering fresh produce and authentic souvenirs. |
 
-**Visual Note:** Clean 4-card service showcase layout with subtle drop shadows and icon badges.
+**Visual Note:** Clean 3-card service showcase layout with subtle drop shadows and icon badges.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
 **Judul Halaman:** Authentic Culinary Delights  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Gastronomic Journey:**<br>Dining in Iceland (Reykjavik) is a sensory celebration. Local dishes feature fresh indigenous ingredients and time-honored recipes.<br><br>**Dining Culture:** Shared banquets bringing travelers and locals together. | **Featured Local Specialties:**<br>• **Glacier Ice Cave Treks:** Signature culinary dish prepared with rich traditional spices.<br>• **Artisan Sweets:** Handcrafted local desserts and seasonal beverages.<br>• **Street Flavors:** Authentic market bites loved by locals and travelers alike. | **Private Tastings:**<br>Curated food tours and wine tasting passes led by local culinary masters. |
+| Kolom 1 | Kolom 2 |
+| --------- | --------- |
+| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Glacier Ice Cave Treks:**<br>Signature culinary dish with rich indigenous spices. |
 
-**Visual Note:** 3 pricing card columns with prominent price badges and bulleted inclusions list.
+**Visual Note:** 2 pricing card columns with prominent price badges.
 
 ---
 
@@ -99,8 +99,8 @@
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Sightseeing Walks:**<br>Guided tours through iconic landmarks, historic quarters, and scenic viewpoints. | **Wellness & Relaxation:**<br>Rejuvenate body and mind with luxury spa retreats and serene nature walks. | **Outdoor Adventure:**<br>Exciting outdoor activities ranging from scenic hiking to coastal boat excursions. | **Luxury Hospitality:**<br>Unwind in handpicked boutique hotels and eco-resorts with prime views. |
+| --------- | --------- | --------- | --------- |
+| **Sightseeing Walks:**<br>Guided tours through historic quarters and viewpoints. | **Wellness Retreats:**<br>Rejuvenate body and mind with luxury spa. | **Outdoor Adventures:**<br>Exciting outdoor activities and coastal boat excursions. | **Luxury Hospitality:**<br>Unwind in handpicked boutique eco resorts. |
 
 **Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
 
@@ -116,7 +116,7 @@
 |---------|
 | Experience the true spirit of Iceland (Reykjavik) through authentic community connections and local hospitality. Travelers witness living traditions preserved through generational pride, sustainable living, and warm welcome.<br><br>**Traveler Impact:** Practicing mindful travel that respects local culture and environment. |
 
-**Visual Note:** Elegant quote box layout with large serif quotation marks and 5-star rating graphic.
+**Visual Note:** Elegant quote box layout with large serif quotation marks.
 
 ---
 

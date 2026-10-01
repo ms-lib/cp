@@ -8,7 +8,7 @@
 **Tone:** Inspiring, Trustworthy, Professional  
 
 **Total Pages:** 10 halaman  
-**Pattern Kolom:** 1→1→4→1→4→3→4→1→2→1  
+**Pattern Kolom:** 1→1→4→1→3→2→3→1→2→1  
 
 ---
 
@@ -43,10 +43,10 @@
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Uncompromised Safety:**<br>Comprehensive 24/7 emergency support and verified hotel safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel rates ensuring maximum travel value. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting natural habitats and local host communities. | **Cultural Immersion:**<br>Authentic local guided walks fostering genuine cultural connections. |
+| --------- | --------- | --------- | --------- |
+| **Uncompromised Safety:**<br>Comprehensive emergency support and verified safety standards. | **Best Price Value:**<br>Exclusive negotiated flight and hotel discount rates. | **Sustainable Travel:**<br>Eco-conscious tour itineraries protecting pristine natural habitats. | **Cultural Immersion:**<br>Authentic local guided walks fostering genuine connections. |
 
-**Visual Note:** 4-column feature grid with icon badges above each bold header.
+**Visual Note:** 4-column feature grid with icon badges above each 2-3 word header.
 
 ---
 
@@ -68,13 +68,13 @@
 **Fase:** CORE  
 **Tipe Halaman:** Services Offered  
 **Judul Halaman:** Comprehensive Travel Services  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Flight Ticketing:**<br>Seamless international seat reservations, layover management, and baggage care. | **Quality Lodging:**<br>Handpicked 4-star and 5-star hotels, luxury beach resorts, and heritage villas. | **Private Tour Guides:**<br>Certified bilingual local experts providing rich cultural and historical insights. | **24/7 Assistance:**<br>Round-the-clock ground support hotline for flight rebooking and concierge needs. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Flight Ticketing:**<br>Seamless international seat booking and layover care. | **Quality Lodging:**<br>Handpicked resort suites and luxury beach villas. | **Tour Guides:**<br>Certified bilingual local experts providing rich commentary. |
 
-**Visual Note:** Clean 4-card service showcase layout with subtle drop shadows and icon badges.
+**Visual Note:** Clean 3-card service showcase layout with subtle drop shadows and icon badges.
 
 ---
 
@@ -82,13 +82,13 @@
 **Fase:** CORE  
 **Tipe Halaman:** Tour Packages  
 **Judul Halaman:** Featured Tour Packages & Pricing  
-**Jumlah Kolom:** 3  
+**Jumlah Kolom:** 2  
 
-| Kolom 1 | Kolom 2 | Kolom 3 |
-|---------|---------|---------|
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, private island transport, guided snorkeling, and daily meals. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, heritage hotel lodging, museum passes, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, mountain cable cars, and dining passes. |
+| Kolom 1 | Kolom 2 |
+| --------- | --------- |
+| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. |
 
-**Visual Note:** 3 pricing card columns with prominent price badges and bulleted inclusions list.
+**Visual Note:** 2 pricing card columns with prominent price badges.
 
 ---
 
@@ -96,13 +96,13 @@
 **Fase:** ENGAGEMENT  
 **Tipe Halaman:** Destinations Showcase  
 **Judul Halaman:** Featured Global Destinations  
-**Jumlah Kolom:** 4  
+**Jumlah Kolom:** 3  
 
-| Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
-|---------|---------|---------|---------|
-| **Kyoto & Tokyo:**<br>Ancient shrines, cherry blossom avenues, and vibrant culinary night markets. | **Paris & Riviera:**<br>Iconic landmarks, Seine river cruises, and coastal Mediterranean resorts. | **Bali & Lombok:**<br>Lush terraced rice fields, spiritual wellness retreats, and pristine surf beaches. | **Swiss Alps:**<br>Majestic mountain peaks, scenic alpine railways, and cozy chalets. |
+| Kolom 1 | Kolom 2 | Kolom 3 |
+| --------- | --------- | --------- |
+| **Kyoto & Tokyo:**<br>Ancient shrines and cherry blossom avenues. | **Paris & Riviera:**<br>Iconic landmarks and Seine river cruises. | **Bali & Lombok:**<br>Lush terraced rice paddies and surf beaches. |
 
-**Visual Note:** 4 vertical photo card containers showcasing high-resolution destination imagery.
+**Visual Note:** 3 vertical photo card containers showcasing high-resolution destination imagery.
 
 ---
 
@@ -116,7 +116,7 @@
 |---------|
 | "Our vacation booked through Liceria Travel was absolute perfection. The itinerary was perfectly balanced, our private guide was incredibly helpful, and hotel lodging exceeded expectations. Highly recommended travel partner!"<br><br>**Client:** Samira Hadid & Aaron Loeb (Verified Travelers) |
 
-**Visual Note:** Elegant quote box layout with large serif quotation marks and 5-star rating graphic.
+**Visual Note:** Elegant quote box layout with large serif quotation marks.
 
 ---
 
