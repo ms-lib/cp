@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Specialty Roastery & Cafe Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Parker James
@@ -36,11 +36,11 @@ Enthusiastic Head Barista with expertise in specialty coffee extraction, bean ro
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Head Barista** | Bean & Leaf Roasters (2021 – Present)
+- **Head Barista** | Liceria Coffee Roasters (2021 – Present)
   - Train new baristas on espresso extraction and latte art standards
   - Manage daily coffee bean inventory and brewing equipment calibration
 
-- **Senior Barista** | Urban Coffee House (2019 - 2021)
+- **Senior Barista** | Salford Coffee (2019 - 2021)
   - Crafted artisanal coffee beverages and maintained clean counter workspace
 
 ---

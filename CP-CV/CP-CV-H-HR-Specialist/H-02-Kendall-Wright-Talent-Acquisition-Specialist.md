@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: kendallwright@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/kendallwright | portfolio.com/kendallwright
+- Professional Profile / Portfolio: profile.com/in/kendallwright | portfolio.com/kendallwright
 
 **Personal Profile:**
 Results-driven Talent Acquisition Specialist with over 4+ years of experience in Human Resources. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Talent Acquisition Specialist with over 4+ years of experience in
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Talent Acquisition Specialist** | TechRecruit Partners (2022 – Present)
-  - Sourced top engineering talent across LinkedIn and GitHub.
+- **Talent Acquisition Specialist** | Salford & Co. (2022 – Present)
+  - Sourced top engineering talent across professional networking platforms and developer repositories.
   - Conducted preliminary phone screening interviews for technical candidates.
   - Managed end-to-end recruitment pipeline using modern ATS platforms.
 
-- **Recruiting Coordinator** | Career First Agency (2020 – 2022)
+- **Recruiting Coordinator** | Ginyard International Co. (2020 – 2022)
   - Scheduled interview calendars between candidates and hiring managers.
   - Posted active job openings across national employment job boards.
   - Attended university career fairs to recruit entry-level talent.
@@ -66,9 +66,9 @@ Results-driven Talent Acquisition Specialist with over 4+ years of experience in
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified HR & Talent Acquisition Specialist Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified HR & Talent Acquisition Specialist Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

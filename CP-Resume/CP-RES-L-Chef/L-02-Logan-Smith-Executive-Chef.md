@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Fine Dining Operations Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Logan Smith
@@ -29,7 +29,7 @@ Passionate Executive Chef specializing in fine dining menu creation, banquet ser
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **High School Diploma & Culinary Certificate** | Gourmet Culinary Academy (2012 - 2015)
+- **High School Diploma & Culinary Certificate** | Larana Culinary Arts (2012 - 2015)
 
 ---
 
@@ -40,7 +40,7 @@ Passionate Executive Chef specializing in fine dining menu creation, banquet ser
   - Oversee kitchen staff, daily food preparation, and menu execution
   - Control food inventory costs while maintaining premium culinary standards
 
-- **Sous Chef** | Savory Bistro (2015 - 2019)
+- **Sous Chef** | Liceria Bistro (2015 - 2019)
   - Supervised line cooks and assisted head chef in dish creation
 
 ---

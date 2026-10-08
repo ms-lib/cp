@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: parkerjames@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/parkerjames | portfolio.com/parkerjames
+- Professional Profile / Portfolio: profile.com/in/parkerjames | portfolio.com/parkerjames
 
 **Personal Profile:**
 Results-driven Head Barista & Roaster with over 4+ years of experience in Specialty Coffee & Cafe Operations. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Head Barista & Roaster with over 4+ years of experience in Specia
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Head Barista & Roaster** | Velvet Roastery & Cafe (2021 – Present)
+- **Head Barista & Roaster** | Larana Coffee Roasters (2021 – Present)
   - Operated specialty coffee roasting machinery to create custom blends.
   - Supervised daily cafe shift operations and barista staff schedules.
   - Maintained commercial espresso machines and water filtration systems.
 
-- **Barista** | Cornerstone Espresso Bar (2019 – 2021)
+- **Barista** | Werner & Spencer Espresso (2019 – 2021)
   - Prepared handcrafted cold brews and pour-over coffee beverages.
   - Processed customer cash and card payments accurately at POS.
   - Restocked pastry display cases and beverage condiment stations.
@@ -66,9 +66,9 @@ Results-driven Head Barista & Roaster with over 4+ years of experience in Specia
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Barista Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Barista Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

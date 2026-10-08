@@ -2,7 +2,7 @@
 ## Katie Lawson – Digital Marketing Specialist Resume
 
 **Sub-Topic:** Digital Marketing Specialist  
-**Main Keywords:** paid acquisition, seo, sem optimization, email marketing, funnel building, google analytics, lead generation  
+**Main Keywords:** paid acquisition, seo, sem optimization, email marketing, funnel building, Web Analytics Platforms, lead generation  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Vibrant Campaign & Growth Layout  
 **Tone:** Dynamic, High-Energy, Results-Oriented  
@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Vibrant Campaign & Growth Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Katie Lawson
@@ -36,12 +36,12 @@ Performance-oriented Digital Marketer specializing in paid acquisition, SEO, and
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Senior Digital Marketer** | Growth Media Lab (2023 – Present)
+- **Senior Digital Marketer** | Thynk Unlimited (2023 – Present)
   - Scale paid acquisition channels resulting in a 40% growth in leads
   - Design data-driven A/B testing frameworks for landing pages
   - Oversee quarterly marketing budget allocation
 
-- **Marketing Associate** | Vanguard Digital (2020 - 2023)
+- **Marketing Associate** | Werner & Spencer Co. (2020 - 2023)
   - Managed email marketing automation sequences for subscriber lists
   - Tracked conversion rates and generated weekly performance reports
 
@@ -54,5 +54,5 @@ Performance-oriented Digital Marketer specializing in paid acquisition, SEO, and
 - Sem Optimization
 - Email Marketing
 - Funnel Building
-- Google Analytics
+- Web Analytics Platforms
 - Lead Generation

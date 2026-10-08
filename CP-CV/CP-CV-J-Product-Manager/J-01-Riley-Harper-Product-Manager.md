@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: rileyharper@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/rileyharper | portfolio.com/rileyharper
+- Professional Profile / Portfolio: profile.com/in/rileyharper | portfolio.com/rileyharper
 
 **Personal Profile:**
 Results-driven Senior Product Manager with over 7+ years of experience in Product Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Senior Product Manager with over 7+ years of experience in Produc
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Senior Product Manager** | Vanguard SaaS Corp (2020 – Present)
+- **Senior Product Manager** | Thynk Unlimited (2020 – Present)
   - Defined strategic product roadmaps for enterprise cloud software.
   - Prioritized feature backlogs based on customer feedback analytics.
   - Led cross-functional teams of engineers and product designers.
 
-- **Product Manager** | Digital Innovations Inc (2017 – 2020)
+- **Product Manager** | Werner & Spencer Co. (2017 – 2020)
   - Launched new mobile application features for consumer user base.
   - Conducted competitive analysis to guide product market positioning.
   - Tracked daily active user metrics to evaluate feature adoption.
@@ -66,9 +66,9 @@ Results-driven Senior Product Manager with over 7+ years of experience in Produc
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Product Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Product Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

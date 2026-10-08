@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: claudiaalves@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/claudiaalves | portfolio.com/claudiaalves
+- Professional Profile / Portfolio: profile.com/in/claudiaalves | portfolio.com/claudiaalves
 
 **Personal Profile:**
 Results-driven Social Media Specialist with over 4+ years of experience in Social Media Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -32,19 +32,19 @@ Results-driven Social Media Specialist with over 4+ years of experience in Socia
 **Degrees & Institutions:**
 - **Bachelor of Communications** | Metropolitan University (2018 – 2022)
 
-- **Certificate in Content Strategy** | Digital Growth Academy (2021)
+- **Certificate in Content Strategy** | Larana Institute (2021)
 
 ---
 
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Social Media Specialist** | Hyperion Media Group (2022 – Present)
+- **Social Media Specialist** | Werner & Spencer Media (2022 – Present)
   - Created engaging video reels to boost social follower growth.
   - Wrote compelling social captions aligned with brand tone.
   - Monitored trending hashtags to capitalize on viral topics.
 
-- **Content & Community Coordinator** | Social Sphere Studio (2020 – 2022)
+- **Content & Community Coordinator** | Studio Shodwe (2020 – 2022)
   - Responded to customer direct messages across social platforms.
   - Compiled weekly engagement reports for digital marketing team.
   - Assisted graphic designers with social post photo selection.
@@ -66,9 +66,9 @@ Results-driven Social Media Specialist with over 4+ years of experience in Socia
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Social Media Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Social Media Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

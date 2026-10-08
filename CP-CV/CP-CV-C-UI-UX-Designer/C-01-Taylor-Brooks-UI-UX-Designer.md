@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: taylorbrooks@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/taylorbrooks | portfolio.com/taylorbrooks
+- Professional Profile / Portfolio: profile.com/in/taylorbrooks | portfolio.com/taylorbrooks
 
 **Personal Profile:**
 Results-driven Lead UI/UX Designer with over 7+ years of experience in UI/UX Design. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Lead UI/UX Designer with over 7+ years of experience in UI/UX Des
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Lead UI/UX Designer** | Nexus Product Lab (2021 – Present)
+- **Lead UI/UX Designer** | Liceria & Co. (2021 – Present)
   - Led product design teams to deliver intuitive web applications.
-  - Built scalable Figma design systems for enterprise platforms.
+  - Built scalable UI/UX Prototyping Tools design systems for enterprise platforms.
   - Conducted user research sessions to validate design decisions.
 
-- **UI/UX Specialist** | Innovate Tech Solutions (2017 – 2021)
+- **UI/UX Specialist** | Werner & Spencer Tech (2017 – 2021)
   - Created interactive prototypes for mobile and desktop applications.
   - Mapped complex user flows to reduce navigation friction.
   - Evaluated web accessibility standards across existing digital products.
@@ -66,9 +66,9 @@ Results-driven Lead UI/UX Designer with over 7+ years of experience in UI/UX Des
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified UI/UX Designer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified UI/UX Designer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

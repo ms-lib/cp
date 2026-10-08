@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: dakotaquinn@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/dakotaquinn | portfolio.com/dakotaquinn
+- Professional Profile / Portfolio: profile.com/in/dakotaquinn | portfolio.com/dakotaquinn
 
 **Personal Profile:**
 Results-driven Machine Learning Engineer with over 4+ years of experience in Machine Learning & MLOps Infrastructure. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -32,19 +32,19 @@ Results-driven Machine Learning Engineer with over 4+ years of experience in Mac
 **Degrees & Institutions:**
 - **Bachelor of Science in Data Science & ML** | City Science College (2018 – 2022)
 
-- **Google Cloud Professional ML Engineer** | Google (2022)
+- **Google Cloud Professional ML Engineer** | Global Cloud Alliance (2022)
 
 ---
 
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Machine Learning Engineer** | Neural Dynamics Inc (2022 – Present)
+- **Machine Learning Engineer** | Hanover & Tyke AI (2022 – Present)
   - Trained natural language processing models for customer sentiment analysis.
   - Converted PyTorch models to TensorRT format for fast execution.
   - Engineered feature extraction pipelines from unstructured text data sources.
 
-- **Junior ML Engineer** | Smart Vision Tech (2020 – 2022)
+- **Junior ML Engineer** | Liceria Tech (2020 – 2022)
   - Cleaned and annotated large image datasets for computer vision.
   - Evaluated baseline model performance metrics against standard benchmarks.
   - Assisted senior engineers in writing data processing python scripts.
@@ -66,9 +66,9 @@ Results-driven Machine Learning Engineer with over 4+ years of experience in Mac
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Machine Learning / MLOps Engineer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Machine Learning / MLOps Engineer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

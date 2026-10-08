@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Executive Product Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Peyton Reed
@@ -36,11 +36,11 @@ Results-driven Senior Product Manager with an MBA and 6+ years of experience ste
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Senior Product Manager** | NextGen Mobile (2022 – Present)
+- **Senior Product Manager** | Wardiere Digital (2022 – Present)
   - Lead mobile product development from feature ideation to launch
   - Increased monthly active users by 35% through feature optimization
 
-- **Product Analyst** | Innovate Mobile (2019 - 2022)
+- **Product Analyst** | Larana Digital (2019 - 2022)
   - Analyzed funnel metrics and user retention data to guide feature priority
 
 ---

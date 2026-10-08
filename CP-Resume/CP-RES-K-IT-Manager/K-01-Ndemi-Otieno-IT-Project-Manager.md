@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** 2-Column Corporate Sidebar Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Ndemi Otieno
@@ -36,11 +36,11 @@ Experienced IT Project Manager adept at overseeing large-scale software infrastr
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **IT Project Manager** | Ingoude Company (2022 – Present)
+- **IT Project Manager** | Werner & Spencer Co. (2022 – Present)
   - Managed end-to-end IT software infrastructure implementation projects
   - Allocated resources and monitored project milestones
 
-- **Art Director** | Giggling Platypus Co. (2020 - 2022)
+- **Art Director** | Hanover & Tyke (2020 - 2022)
   - Supervised visual direction and project workflow timelines
 
 - **Senior UX Designer** | Wardiere Inc. (2018 - 2020)

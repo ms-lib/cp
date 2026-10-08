@@ -2,7 +2,7 @@
 ## Claudia Alves – Social Media Specialist Resume
 
 **Sub-Topic:** Social Media Manager / Specialist  
-**Main Keywords:** instagram growth, tiktok marketing, short form video, influencer outreach, content scheduling, social analytics  
+**Main Keywords:** social media growth, short form video marketing, short form video, influencer outreach, content scheduling, social analytics  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Clean Grid & Analytics Layout  
 **Tone:** Creative, Organized, Data-Informed  
@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Clean Grid & Analytics Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Claudia Alves
@@ -36,7 +36,7 @@ Enthusiastic Social Media Specialist with a talent for short-form video producti
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Social Media Specialist** | Pulse Marketing (2022 – Present)
+- **Social Media Specialist** | Liceria & Co. (2022 – Present)
   - Curate daily social media content for consumer lifestyle brands
   - Collaborate with micro-influencers for brand sponsorship deals
 
@@ -48,8 +48,8 @@ Enthusiastic Social Media Specialist with a talent for short-form video producti
 
 ### PAGE 1 - SKILLS & COMPETENCIES
 **Core Skills:**
-- Instagram Growth
-- Tiktok Marketing
+- social media growth
+- short form video marketing
 - Short Form Video
 - Influencer Outreach
 - Content Scheduling

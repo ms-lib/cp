@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: averydavis@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/averydavis | portfolio.com/averydavis
+- Professional Profile / Portfolio: profile.com/in/averydavis | portfolio.com/averydavis
 
 **Personal Profile:**
 Results-driven Senior MLOps Engineer with over 7+ years of experience in Machine Learning & MLOps Infrastructure. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -44,7 +44,7 @@ Results-driven Senior MLOps Engineer with over 7+ years of experience in Machine
   - Managed MLflow tracking servers to monitor model experiment parameters.
   - Configured Kubernetes GPU clusters for distributed deep learning training.
 
-- **Machine Learning Engineer** | Predictive Analytics Lab (2019 – 2021)
+- **Machine Learning Engineer** | Thynk Unlimited (2019 – 2021)
   - Developed predictive machine learning algorithms using PyTorch and Scikit-learn.
   - Optimized feature stores for low-latency real-time model inference.
   - Maintained data pipeline integrity across large distributed data warehouses.
@@ -66,9 +66,9 @@ Results-driven Senior MLOps Engineer with over 7+ years of experience in Machine
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Machine Learning / MLOps Engineer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Machine Learning / MLOps Engineer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

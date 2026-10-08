@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: aaronloeb@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/aaronloeb | portfolio.com/aaronloeb
+- Professional Profile / Portfolio: profile.com/in/aaronloeb | portfolio.com/aaronloeb
 
 **Personal Profile:**
 Results-driven Creative Copywriter with over 4+ years of experience in Copywriting & Content Strategy. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Creative Copywriter with over 4+ years of experience in Copywriti
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Creative Copywriter** | Bold Ad Agency (2022 – Present)
+- **Creative Copywriter** | Larana Creative (2022 – Present)
   - Crafted high-converting ad copy for digital video campaigns.
   - Wrote persuasive landing page headlines to boost sales.
   - Developed taglines and messaging strategy for new brand launches.
 
-- **Junior Copywriter** | Digital Spark Media (2020 – 2022)
+- **Junior Copywriter** | Hanover & Tyke (2020 – 2022)
   - Wrote promotional email copy for retail product discount sales.
   - Drafted engaging social media posts for client accounts.
   - Revised marketing copy based on client feedback and edits.
@@ -66,9 +66,9 @@ Results-driven Creative Copywriter with over 4+ years of experience in Copywriti
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Content Writer / Copywriter Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Content Writer / Copywriter Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

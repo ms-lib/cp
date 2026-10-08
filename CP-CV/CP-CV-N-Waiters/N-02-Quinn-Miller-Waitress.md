@@ -2,7 +2,7 @@
 ## Quinn Miller – Professional Waitress CV
 
 **Sub-Topic:** Waiters / Waitress  
-**Main Keywords:** hospitality excellence, fine dining, pos systems, customer relations  
+**Main Keywords:** hospitality Spreadsheet Softwarelence, fine dining, pos systems, customer relations  
 **Target Audience:** Recruiters, HR Managers, Executive Hiring, Academic & Professional Boards  
 **Style:** Single-Page Curriculum Vitae Layout  
 **Tone:** Authoritative, Professional, Structured  
@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: quinnmiller@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/quinnmiller | portfolio.com/quinnmiller
+- Professional Profile / Portfolio: profile.com/in/quinnmiller | portfolio.com/quinnmiller
 
 **Personal Profile:**
 Results-driven Professional Waitress with over 3+ years of experience in Hospitality & Dining Service. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Professional Waitress with over 3+ years of experience in Hospita
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Professional Waitress** | Bella Italia Trattoria (2022 – Present)
+- **Professional Waitress** | Rimberio Trattoria (2022 – Present)
   - Welcomed dining guests warmly and presented daily chef specials.
   - Served food and beverages promptly during busy dinner shifts.
   - Ensured dining tables were sanitized and reset for guests.
 
-- **Food Runner & Server Assistant** | Sunset Cafe (2020 – 2022)
+- **Food Runner & Server Assistant** | Borcelle Cafe (2020 – 2022)
   - Delivered hot food orders from kitchen to customer tables.
   - Refilled water glasses and cleared used tableware efficiently.
   - Assisted servers with floor prep and side station restocking.
@@ -66,15 +66,15 @@ Results-driven Professional Waitress with over 3+ years of experience in Hospita
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Waiters / Waitress Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Waiters / Waitress Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 
 ### PAGE 1 - TECHNICAL SKILLS & CORE COMPETENCIES
 **Hard & Soft Skills:**
-- **Technical Competencies:** Hospitality Excellence, Fine Dining, Pos Systems, Customer Relations
+- **Technical Competencies:** Hospitality Spreadsheet Softwarelence, Fine Dining, Pos Systems, Customer Relations
 - **Management & Strategy:** Strategic Planning, Team Leadership, Process Optimization, Budgeting & Resource Allocation
 - **Interpersonal Skills:** Public Speaking, Cross-functional Collaboration, Stakeholder Communication, Problem Solving
 

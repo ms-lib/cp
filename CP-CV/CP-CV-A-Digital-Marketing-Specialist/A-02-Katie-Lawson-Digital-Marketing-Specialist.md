@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: katielawson@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/katielawson | portfolio.com/katielawson
+- Professional Profile / Portfolio: profile.com/in/katielawson | portfolio.com/katielawson
 
 **Personal Profile:**
 Results-driven Digital Marketing & Content Strategist with over 4+ years of experience in Digital Marketing. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Digital Marketing & Content Strategist with over 4+ years of expe
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Digital Marketing Strategist** | Vanguard Digital Lab (2022 – Present)
+- **Digital Marketing Strategist** | Thynk Unlimited (2022 – Present)
   - Executed targeted email marketing campaigns with high engagement.
   - Optimized search engine performance for key client websites.
   - Monitored daily social ad spend to ensure budget efficiency.
 
-- **Junior Marketing Specialist** | Apex Media Group (2020 – 2022)
+- **Junior Marketing Specialist** | Liceria Media (2020 – 2022)
   - Produced weekly promotional newsletters for active subscriber lists.
   - Supported digital marketing team with daily campaign reporting.
   - Researched emerging market trends for upcoming client pitches.
@@ -66,9 +66,9 @@ Results-driven Digital Marketing & Content Strategist with over 4+ years of expe
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Digital Marketing Specialist Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Digital Marketing Specialist Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

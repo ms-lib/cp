@@ -2,7 +2,7 @@
 ## Casey Jordan – Photographer Resume
 
 **Sub-Topic:** Photographer / Videographer  
-**Main Keywords:** photographer, commercial photography, portrait lighting, photo retouching, adobe lightroom, studio editing  
+**Main Keywords:** photographer, commercial photography, portrait lighting, photo retouching, photo editing software, studio editing  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Visual Studio & Gallery Layout  
 **Tone:** Artistic, Precise, Visual  
@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Visual Studio & Gallery Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Casey Jordan
@@ -36,11 +36,11 @@ Passionate Commercial Photographer with expertise in studio lighting setups, por
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Lead Photographer** | Studio Vision Photography (2020 – Present)
+- **Lead Photographer** | Rimberio Photography (2020 – Present)
   - Direct commercial fashion and product photo shoots
-  - Perform post-processing and color grading using Lightroom and Photoshop
+  - Perform post-processing and color grading using photo editing and retouching software
 
-- **Assistant Photographer** | Lens Craft Studio (2018 - 2020)
+- **Assistant Photographer** | Studio Shodwe Photography (2018 - 2020)
   - Managed lighting setups and studio equipment for client sessions
   - Cataloged and organized digital image archives
 
@@ -52,5 +52,5 @@ Passionate Commercial Photographer with expertise in studio lighting setups, por
 - Commercial Photography
 - Portrait Lighting
 - Photo Retouching
-- Adobe Lightroom
+- photo editing software
 - Studio Editing

@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Modern SaaS & AI Product Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Estelle Darcy
@@ -36,12 +36,12 @@ Strategic AI Product Manager with 6+ years of experience integrating machine lea
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Senior AI Product Manager** | Apex SaaS Labs (2022 – Present)
+- **Senior AI Product Manager** | Rimberio SaaS (2022 – Present)
   - Lead product strategy and feature roadmaps for generative AI workspace tools
   - Coordinate cross-functional teams of machine learning engineers, UI designers, and data scientists
   - Conduct user research to prioritize high-value AI capabilities
 
-- **Product Manager** | Digital Horizon (2019 - 2022)
+- **Product Manager** | Werner & Spencer Co. (2019 - 2022)
   - Managed smart recommendation engines, improving user retention by 28%
   - Wrote clear user stories and acceptance criteria for agile development sprints
 

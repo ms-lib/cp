@@ -2,7 +2,7 @@
 ## Casey Jordan – Commercial Photographer CV
 
 **Sub-Topic:** Photographer / Videographer  
-**Main Keywords:** commercial photography, studio lighting, premiere pro, color grading  
+**Main Keywords:** commercial photography, studio lighting, Video Editing Software, color grading  
 **Target Audience:** Recruiters, HR Managers, Executive Hiring, Academic & Professional Boards  
 **Style:** Single-Page Curriculum Vitae Layout  
 **Tone:** Authoritative, Professional, Structured  
@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: caseyjordan@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/caseyjordan | portfolio.com/caseyjordan
+- Professional Profile / Portfolio: profile.com/in/caseyjordan | portfolio.com/caseyjordan
 
 **Personal Profile:**
 Results-driven Commercial Photographer with over 6+ years of experience in Photography & Cinematography. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Commercial Photographer with over 6+ years of experience in Photo
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Commercial Photographer** | Studio Vision Media (2020 – Present)
+- **Commercial Photographer** | Studio Shodwe (2020 – Present)
   - Photographed commercial product catalogs for national retail clients.
   - Configured complex studio lighting setups for commercial portrait sessions.
-  - Retouched high-resolution images using Adobe Photoshop and Lightroom.
+  - Retouched high-resolution images using Digital Editing Suite Photo Retouching Software and Photo Editing Software.
 
-- **Staff Photographer** | Metropolitan Fashion Magazine (2017 – 2020)
+- **Staff Photographer** | Liceria Magazine (2017 – 2020)
   - Captured editorial fashion photo shoots on location daily.
   - Color-graded digital image files for monthly print publication issues.
   - Maintained professional camera bodies, lenses, and lighting equipment.
@@ -66,15 +66,15 @@ Results-driven Commercial Photographer with over 6+ years of experience in Photo
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Photographer / Videographer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Photographer / Videographer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 
 ### PAGE 1 - TECHNICAL SKILLS & CORE COMPETENCIES
 **Hard & Soft Skills:**
-- **Technical Competencies:** Commercial Photography, Studio Lighting, Premiere Pro, Color Grading
+- **Technical Competencies:** Commercial Photography, Studio Lighting, Video Editing Software, Color Grading
 - **Management & Strategy:** Strategic Planning, Team Leadership, Process Optimization, Budgeting & Resource Allocation
 - **Interpersonal Skills:** Public Speaking, Cross-functional Collaboration, Stakeholder Communication, Problem Solving
 

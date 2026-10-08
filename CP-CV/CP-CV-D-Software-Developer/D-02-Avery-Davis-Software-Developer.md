@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: averydavis@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/averydavis | portfolio.com/averydavis
+- Professional Profile / Portfolio: profile.com/in/averydavis | portfolio.com/averydavis
 
 **Personal Profile:**
 Results-driven Backend Software Developer with over 3+ years of experience in Software Engineering. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -44,7 +44,7 @@ Results-driven Backend Software Developer with over 3+ years of experience in So
   - Configured Docker containers for streamlined cloud deployment workflows.
   - Implemented secure user authentication protocols across web services.
 
-- **Junior Backend Developer** | CodeCraft Solutions (2021 – 2023)
+- **Junior Backend Developer** | Liceria Tech (2021 – 2023)
   - Assisted in writing unit tests for core backend functions.
   - Integrated third-party payment gateways into web platform APIs.
   - Patched security vulnerabilities reported in daily code audits.
@@ -66,9 +66,9 @@ Results-driven Backend Software Developer with over 3+ years of experience in So
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Software Developer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Software Developer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

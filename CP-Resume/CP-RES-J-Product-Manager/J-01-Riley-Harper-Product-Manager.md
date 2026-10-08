@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Agile Roadmap Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Riley Harper
@@ -36,11 +36,11 @@ Strategic Product Manager passionate about defining clear product roadmaps and d
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Product Manager** | SaaS Core Labs (2021 – Present)
+- **Product Manager** | Wardiere Inc. (2021 – Present)
   - Define product vision and feature roadmaps for web platforms
   - Prioritize backlog items based on user research and business value
 
-- **Associate Product Manager** | Digital Venture Co. (2018 - 2021)
+- **Associate Product Manager** | Thynk Unlimited (2018 - 2021)
   - Gathered customer feedback and wrote clear user stories for developers
 
 ---

@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: chrislee@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/chrislee | portfolio.com/chrislee
+- Professional Profile / Portfolio: profile.com/in/chrislee | portfolio.com/chrislee
 
 **Personal Profile:**
 Results-driven Senior Full-Stack Developer with over 6+ years of experience in Software Engineering. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Senior Full-Stack Developer with over 6+ years of experience in S
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Senior Full-Stack Developer** | CloudScale Systems (2022 – Present)
+- **Senior Full-Stack Developer** | Thynk Unlimited (2022 – Present)
   - Architected scalable microservices using Node.js and React framework.
   - Optimized SQL database queries to reduce server latency.
   - Automated deployment pipelines to accelerate software release cycles.
 
-- **Full-Stack Engineer** | ByteCode Lab (2018 – 2022)
+- **Full-Stack Engineer** | Arowwai Industries (2018 – 2022)
   - Built RESTful API endpoints for web application integration.
   - Resolved frontend state management bugs across core features.
   - Authored clean software documentation for API service endpoints.
@@ -66,9 +66,9 @@ Results-driven Senior Full-Stack Developer with over 6+ years of experience in S
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Software Developer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Software Developer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

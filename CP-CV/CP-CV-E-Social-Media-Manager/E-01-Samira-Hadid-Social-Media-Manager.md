@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: samirahadid@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/samirahadid | portfolio.com/samirahadid
+- Professional Profile / Portfolio: profile.com/in/samirahadid | portfolio.com/samirahadid
 
 **Personal Profile:**
 Results-driven Social Media & Brand Manager with over 6+ years of experience in Social Media Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Social Media & Brand Manager with over 6+ years of experience in 
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Social Media & Brand Manager** | Spark Marketing Agency (2021 – Present)
+- **Social Media & Brand Manager** | Aldenaire & Partners (2021 – Present)
   - Formulated social media strategy to expand organic brand reach.
-  - Managed monthly content calendars across Instagram and TikTok.
+  - Managed monthly content calendars across Social Media Platforms and Short-Form Video Platforms.
   - Directed short-form video production to drive viral engagement.
 
-- **Social Media Specialist** | Trendline Digital (2018 – 2021)
+- **Social Media Specialist** | Werner & Spencer Co. (2018 – 2021)
   - Engaged online community members through daily active commentary.
   - Coordinated influencer partnerships for product promotional launches.
   - Curated visual photo assets for brand digital channels.
@@ -66,9 +66,9 @@ Results-driven Social Media & Brand Manager with over 6+ years of experience in 
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Social Media Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Social Media Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

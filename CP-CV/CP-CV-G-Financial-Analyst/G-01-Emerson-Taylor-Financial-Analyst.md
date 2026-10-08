@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: emersontaylor@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/emersontaylor | portfolio.com/emersontaylor
+- Professional Profile / Portfolio: profile.com/in/emersontaylor | portfolio.com/emersontaylor
 
 **Personal Profile:**
 Results-driven Senior Financial Analyst with over 7+ years of experience in Financial Analysis. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Senior Financial Analyst with over 7+ years of experience in Fina
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Senior Financial Analyst** | Horizon Capital Group (2020 – Present)
+- **Senior Financial Analyst** | Arowwai Capital (2020 – Present)
   - Developed complex financial models for corporate valuation analysis.
   - Prepared quarterly budget forecasts for executive board review.
   - Evaluated investment portfolio risks to optimize corporate yields.
 
-- **Financial Analyst** | Pinnacle Advisory Services (2017 – 2020)
+- **Financial Analyst** | Werner & Spencer Capital (2017 – 2020)
   - Conducted variance analysis comparing actual spend against budgets.
   - Audited departmental expense reports for corporate compliance standards.
   - Drafted comprehensive market economic research for client presentations.
@@ -66,9 +66,9 @@ Results-driven Senior Financial Analyst with over 7+ years of experience in Fina
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Financial Analyst Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Financial Analyst Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

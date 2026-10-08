@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: haydenstone@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/haydenstone | portfolio.com/haydenstone
+- Professional Profile / Portfolio: profile.com/in/haydenstone | portfolio.com/haydenstone
 
 **Personal Profile:**
 Results-driven HR Business Partner with over 7+ years of experience in Human Resources. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven HR Business Partner with over 7+ years of experience in Human Res
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **HR Business Partner** | Enterprise Global Inc (2020 – Present)
+- **HR Business Partner** | Wardiere Inc. (2020 – Present)
   - Spearheaded employee retention strategies across multi-state branch offices.
   - Managed resolution of complex internal workplace employee disputes.
   - Designed annual employee performance review and appraisal systems.
 
-- **Human Resources Specialist** | Standard Talent Solutions (2017 – 2020)
+- **Human Resources Specialist** | Larana HR Inc. (2017 – 2020)
   - Coordinated employee onboarding programs for new corporate hires.
   - Administered employee healthcare benefit and insurance enrollment plans.
   - Maintained accurate personnel records within HRIS database software.
@@ -66,9 +66,9 @@ Results-driven HR Business Partner with over 7+ years of experience in Human Res
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified HR & Talent Acquisition Specialist Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified HR & Talent Acquisition Specialist Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

@@ -2,7 +2,7 @@
 ## Alex Morgan – Senior Videographer & Editor CV
 
 **Sub-Topic:** Photographer / Videographer  
-**Main Keywords:** commercial photography, studio lighting, premiere pro, color grading  
+**Main Keywords:** commercial photography, studio lighting, Video Editing Software, color grading  
 **Target Audience:** Recruiters, HR Managers, Executive Hiring, Academic & Professional Boards  
 **Style:** Single-Page Curriculum Vitae Layout  
 **Tone:** Authoritative, Professional, Structured  
@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: alexmorgan@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/alexmorgan | portfolio.com/alexmorgan
+- Professional Profile / Portfolio: profile.com/in/alexmorgan | portfolio.com/alexmorgan
 
 **Personal Profile:**
 Results-driven Senior Videographer & Editor with over 5+ years of experience in Photography & Cinematography. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Senior Videographer & Editor with over 5+ years of experience in 
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Senior Videographer & Editor** | CineCraft Productions (2021 – Present)
+- **Senior Videographer & Editor** | Studio Shodwe Media (2021 – Present)
   - Filmed corporate documentary videos and commercial brand commercials.
   - Operated cinema camera rigs, gimbals, and aerial drone footage.
-  - Edited multi-cam video projects using DaVinci Resolve and Premiere.
+  - Edited multi-cam video projects using professional color grading and video editing software.
 
-- **Videographer & Camera Operator** | Media Stream Agency (2019 – 2021)
+- **Videographer & Camera Operator** | Liceria Media Co. (2019 – 2021)
   - Captured live event coverage for major corporate conferences.
   - Set up wireless audio microphones and three-point interview lighting.
   - Exported final video files matching broadcast specs and guidelines.
@@ -66,15 +66,15 @@ Results-driven Senior Videographer & Editor with over 5+ years of experience in 
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Photographer / Videographer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Photographer / Videographer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 
 ### PAGE 1 - TECHNICAL SKILLS & CORE COMPETENCIES
 **Hard & Soft Skills:**
-- **Technical Competencies:** Commercial Photography, Studio Lighting, Premiere Pro, Color Grading
+- **Technical Competencies:** Commercial Photography, Studio Lighting, Video Editing Software, Color Grading
 - **Management & Strategy:** Strategic Planning, Team Leadership, Process Optimization, Budgeting & Resource Allocation
 - **Interpersonal Skills:** Public Speaking, Cross-functional Collaboration, Stakeholder Communication, Problem Solving
 

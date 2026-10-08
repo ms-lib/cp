@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Soft Pink Wavy Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Jamie Chastain
@@ -40,7 +40,7 @@ Professional Receptionist with 8+ years of experience greeting visitors and deli
   - Keep detailed records of visitor requests and incoming calls
   - Receive and distribute mail deliveries and office supplies
 
-- **Receptionist** | Keithston and Partners (2014 - 2017)
+- **Receptionist** | Aldenaire & Partners (2014 - 2017)
   - Managed meeting room bookings and greeted all office visitors
 
 ---

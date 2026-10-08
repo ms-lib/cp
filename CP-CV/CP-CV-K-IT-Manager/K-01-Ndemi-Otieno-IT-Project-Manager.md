@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: ndemiotieno@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/ndemiotieno | portfolio.com/ndemiotieno
+- Professional Profile / Portfolio: profile.com/in/ndemiotieno | portfolio.com/ndemiotieno
 
 **Personal Profile:**
 Results-driven Senior IT Infrastructure Manager with over 8+ years of experience in IT Infrastructure & Operations. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Senior IT Infrastructure Manager with over 8+ years of experience
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Senior IT Infrastructure Manager** | Global Enterprise Networks (2019 – Present)
+- **Senior IT Infrastructure Manager** | Wardiere Inc. (2019 – Present)
   - Oversee corporate IT network infrastructure across global offices.
   - Managed annual IT operational equipment budget of three million.
   - Enforced strict enterprise cybersecurity compliance and firewall policies.
 
-- **IT Systems Administrator** | Data Core Systems (2015 – 2019)
+- **IT Systems Administrator** | Rimberio Tech (2015 – 2019)
   - Maintained corporate server uptime and daily data backup routines.
   - Configured hardware routers and enterprise network switch infrastructure.
   - Resolved complex tier-three technical support tickets for staff.
@@ -66,9 +66,9 @@ Results-driven Senior IT Infrastructure Manager with over 8+ years of experience
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified IT Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified IT Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

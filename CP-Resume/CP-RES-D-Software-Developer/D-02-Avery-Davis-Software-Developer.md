@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Clean Engineer Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Avery Davis
@@ -29,18 +29,18 @@ Backend Software Engineer with hands-on expertise in Python, Django, and cloud A
 
 ### PAGE 1 - EDUCATION
 **Degrees & Institutions:**
-- **High School Diploma (STEM Focus)** | Pinnacle Academy (2016 - 2019)
+- **High School Diploma (STEM Focus)** | Salford & Co. (2016 - 2019)
 
 ---
 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Backend Developer** | Apex Tech Solutions (2023 – Present)
+- **Backend Developer** | Larana Tech (2023 – Present)
   - Engineered secure RESTful APIs using Python and Django
   - Deployed cloud microservices and automated CI/CD pipelines
 
-- **Software Engineer Intern** | CodeCraft Inc. (2021 - 2023)
+- **Software Engineer Intern** | Ginyard International Co. (2021 - 2023)
   - Wrote unit tests and technical documentation for core API endpoints
 
 ---

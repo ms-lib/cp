@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** People & Culture Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Hayden Stone
@@ -36,11 +36,11 @@ People-focused HR Specialist experienced in managing employee relations, onboard
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Human Resources Specialist** | PeopleFirst Co. (2022 – Present)
+- **Human Resources Specialist** | Hanover & Tyke (2022 – Present)
   - Manage new employee onboarding and company culture programs
   - Administer HR policy guidelines and employee wellness initiatives
 
-- **HR Assistant** | Core Corporate Services (2020 - 2022)
+- **HR Assistant** | Borcelle Inc. (2020 - 2022)
   - Maintained employee records in HRIS and assisted with benefits admin
 
 ---

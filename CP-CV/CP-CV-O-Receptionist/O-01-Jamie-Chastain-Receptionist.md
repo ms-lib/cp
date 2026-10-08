@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: jamiechastain@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/jamiechastain | portfolio.com/jamiechastain
+- Professional Profile / Portfolio: profile.com/in/jamiechastain | portfolio.com/jamiechastain
 
 **Personal Profile:**
 Results-driven Corporate Receptionist with over 5+ years of experience in Front Office & Corporate Administration. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Corporate Receptionist with over 5+ years of experience in Front 
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Corporate Receptionist** | Apex Financial Towers (2021 – Present)
+- **Corporate Receptionist** | Salford & Co. (2021 – Present)
   - Greeted executive corporate guests and issued security visitor badges.
   - Managed multi-line phone system directing incoming calls efficiently.
   - Scheduled executive conference room bookings and catered meeting logistics.
 
-- **Front Desk Agent** | Grand Central Hotel (2019 – 2021)
+- **Front Desk Agent** | Larana Grand Hotel (2019 – 2021)
   - Processed guest check-ins and check-outs accurately using hotel software.
   - Answered guest inquiries regarding local transport and amenities.
   - Handled incoming mail and package deliveries for hotel guests.
@@ -66,9 +66,9 @@ Results-driven Corporate Receptionist with over 5+ years of experience in Front 
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Receptionist Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Receptionist Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

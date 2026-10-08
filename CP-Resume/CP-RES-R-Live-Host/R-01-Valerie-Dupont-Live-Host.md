@@ -2,7 +2,7 @@
 ## Valerie Dupont – Live Host Resume
 
 **Sub-Topic:** Host Live  
-**Main Keywords:** live host, live stream broadcasting, shopee live, tiktok live, product demonstration, sales pitching, on-camera speaking  
+**Main Keywords:** live host, live stream broadcasting, E-Commerce Live Streams, live stream broadcasting, product demonstration, sales pitching, on-camera speaking  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** E-Commerce & Broadcast Layout  
 **Tone:** Charismatic, Lively, Convincing  
@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** E-Commerce & Broadcast Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Valerie Dupont
@@ -23,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Charismatic Live Stream Host specializing in e-commerce sales broadcasts on TikTok Live and Shopee Live. Skilled in live product demonstrations, real-time viewer interaction, and driving live sales conversions.
+Charismatic Live Stream Host specializing in e-commerce sales broadcasts on live stream broadcasting and E-Commerce Live Streams. Skilled in live product demonstrations, real-time viewer interaction, and driving live sales conversions.
 
 ---
 
@@ -36,11 +36,11 @@ Charismatic Live Stream Host specializing in e-commerce sales broadcasts on TikT
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **E-Commerce Live Host** | ShopLive Network (2022 – Present)
-  - Host daily live broadcast sales events on Shopee/TikTok Live
+- **E-Commerce Live Host** | Studio Shodwe Live (2022 – Present)
+  - Host daily live broadcast sales events on Live Streaming Platforms
   - Demonstrate product features and engage viewers to boost sales conversions
 
-- **Event Host / Moderator** | Stage Craft Events (2019 - 2022)
+- **Event Host / Moderator** | Werner & Spencer Events (2019 - 2022)
   - Hosted promotional brand launches and moderated interactive Q&A sessions
 
 ---
@@ -49,8 +49,8 @@ Charismatic Live Stream Host specializing in e-commerce sales broadcasts on TikT
 **Core Skills:**
 - Live Host
 - Live Stream Broadcasting
-- Shopee Live
-- Tiktok Live
+- E-Commerce Live Streams
+- live stream broadcasting
 - Product Demonstration
 - Sales Pitching
 - On-Camera Speaking

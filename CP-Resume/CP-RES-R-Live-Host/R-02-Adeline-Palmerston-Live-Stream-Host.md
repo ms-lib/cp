@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Creative Director & Live Speaker Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Adeline Palmerston
@@ -40,7 +40,7 @@ Confident Live Stream Host and Creative Presenter with extensive experience host
   - Host interactive live stream shows for retail and lifestyle brands
   - Drive real-time audience participation and product giveaways
 
-- **Broadcast Presenter** | Media Stream House (2018 - 2021)
+- **Broadcast Presenter** | Studio Shodwe (2018 - 2021)
   - Presented digital talk shows and conducted live interviews with guest creators
 
 ---

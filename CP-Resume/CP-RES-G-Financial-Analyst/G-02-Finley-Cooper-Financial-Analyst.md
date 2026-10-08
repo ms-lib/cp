@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Investment & Data Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Finley Cooper
@@ -36,11 +36,11 @@ Analytical Investment Analyst specializing in asset valuation, market trend rese
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Investment Analyst** | Pinnacle Capital (2022 – Present)
+- **Investment Analyst** | Thynk Unlimited (2022 – Present)
   - Evaluate investment opportunities and prepare valuation assessment reports
   - Monitor market trends and competitor financial performance
 
-- **Finance Intern** | Horizon Trust (2020 - 2022)
+- **Finance Intern** | Hanover & Tyke (2020 - 2022)
   - Gathered market data and created quarterly trend charts
 
 ---

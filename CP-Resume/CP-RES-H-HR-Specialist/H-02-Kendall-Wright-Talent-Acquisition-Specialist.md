@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Recruitment & Sourcing Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Kendall Wright
@@ -36,11 +36,11 @@ Dynamic Talent Acquisition Specialist with a strong track record in sourcing and
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Talent Acquisition Specialist** | Talent Hub Agency (2023 – Present)
+- **Talent Acquisition Specialist** | Wardiere HR Solutions (2023 – Present)
   - Source and recruit candidate talent for engineering and product roles
   - Manage end-to-end recruitment lifecycle from interview to offer stage
 
-- **Recruitment Coordinator** | Hire Right Inc. (2020 - 2023)
+- **Recruitment Coordinator** | Aldenaire & Partners (2020 - 2023)
   - Scheduled candidate interviews and updated applicant tracking database
 
 ---

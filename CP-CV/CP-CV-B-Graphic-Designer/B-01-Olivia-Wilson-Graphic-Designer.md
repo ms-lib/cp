@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: oliviawilson@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/oliviawilson | portfolio.com/oliviawilson
+- Professional Profile / Portfolio: profile.com/in/oliviawilson | portfolio.com/oliviawilson
 
 **Personal Profile:**
 Results-driven Senior Graphic Designer with over 8+ years of experience in Graphic Design. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -44,7 +44,7 @@ Results-driven Senior Graphic Designer with over 8+ years of experience in Graph
   - Led team of designers to produce high-impact assets.
   - Standardized design system components across print and digital.
 
-- **Visual Brand Designer** | Pixel Craft Agency (2016 – 2020)
+- **Visual Brand Designer** | Liceria Design Co. (2016 – 2020)
   - Created vector illustrations and packaging graphics for retail.
   - Collaborated with marketing specialists on digital campaign visuals.
   - Managed digital asset libraries for seamless team access.
@@ -66,9 +66,9 @@ Results-driven Senior Graphic Designer with over 8+ years of experience in Graph
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Graphic Designer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Graphic Designer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

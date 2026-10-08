@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Warm Hospitality Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Quinn Miller
@@ -36,11 +36,11 @@ Attentive Waitress experienced in high-volume restaurant environments. Known for
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Lead Server / Waitress** | Bistro Bella (2023 – Present)
+- **Lead Server / Waitress** | Borcelle Bistro (2023 – Present)
   - Provided attentive table service to dining guests in a high-volume setting
   - Recommended specials and pairing drinks to enhance dining experience
 
-- **Server Assistant** | Golden Dish Restaurant (2021 - 2023)
+- **Server Assistant** | Borcelle Fine Dining (2021 - 2023)
   - Greeted arriving guests, set up dining tables, and served beverages
 
 ---

@@ -2,7 +2,7 @@
 ## Morgan Maxwell – Graphic Designer Resume
 
 **Sub-Topic:** Graphic Designer  
-**Main Keywords:** logo design, packaging design, editorial typography, brand style guide, adobe illustrator, motion graphics  
+**Main Keywords:** logo design, packaging design, editorial typography, brand style guide, vector graphic software, motion graphics  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Minimalist Modern Black & White Layout  
 **Tone:** Sleek, Modern, Professional  
@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Minimalist Modern Black & White Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Morgan Maxwell
@@ -36,11 +36,11 @@ Self-taught Graphic Designer specializing in brand identity and minimalist edito
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Senior Designer** | Vivid Brand Agency (2022 – Present)
+- **Senior Designer** | Liceria Brand Agency (2022 – Present)
   - Lead visual identity projects for corporate and retail clients
   - Create comprehensive brand style guides and logo assets
 
-- **Graphic Designer** | Pixel Crafters (2018 - 2022)
+- **Graphic Designer** | Rimberio Studio (2018 - 2022)
   - Designed promotional collateral, banners, and digital graphics
   - Prepared high-resolution print production files
 
@@ -52,5 +52,5 @@ Self-taught Graphic Designer specializing in brand identity and minimalist edito
 - Packaging Design
 - Editorial Typography
 - Brand Style Guide
-- Adobe Illustrator
+- vector graphic software
 - Motion Graphics

@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Vlog & Influencer Aesthetic Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Tatum Bell
@@ -36,11 +36,11 @@ Vibrant Digital Content Creator skilled in CapCut video editing, vlog storyboard
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Lead Content Creator** | Spark Content Lab (2022 – Present)
+- **Lead Content Creator** | Borcelle Media (2022 – Present)
   - Create daily short-form video content driving brand awareness
   - Analyze video metrics to optimize viewer retention and share rates
 
-- **Content Production Intern** | Digital Wave (2020 - 2022)
+- **Content Production Intern** | Arowwai Industries (2020 - 2022)
   - Edited raw video footage into polished social media clips
 
 ---

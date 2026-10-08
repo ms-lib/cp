@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Clean ML Pipeline Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Avery Davis
@@ -40,7 +40,7 @@ Precision-focused MLOps Engineer experienced in deploying machine learning model
   - Build and maintain automated ML model deployment and monitoring pipelines
   - Implement feature stores and reduce model inference latency by 35%
 
-- **Machine Learning Developer** | ByteCore Labs (2020 - 2022)
+- **Machine Learning Developer** | Hanover & Tyke (2020 - 2022)
   - Trained and validated predictive ML models using Python and PyTorch
 
 ---

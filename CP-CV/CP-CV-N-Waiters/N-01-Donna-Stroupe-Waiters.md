@@ -2,7 +2,7 @@
 ## Donna Stroupe – Senior Dining Room Captain CV
 
 **Sub-Topic:** Waiters / Waitress  
-**Main Keywords:** hospitality excellence, fine dining, pos systems, customer relations  
+**Main Keywords:** hospitality Spreadsheet Softwarelence, fine dining, pos systems, customer relations  
 **Target Audience:** Recruiters, HR Managers, Executive Hiring, Academic & Professional Boards  
 **Style:** Single-Page Curriculum Vitae Layout  
 **Tone:** Authoritative, Professional, Structured  
@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: donnastroupe@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/donnastroupe | portfolio.com/donnastroupe
+- Professional Profile / Portfolio: profile.com/in/donnastroupe | portfolio.com/donnastroupe
 
 **Personal Profile:**
 Results-driven Senior Dining Room Captain with over 6+ years of experience in Hospitality & Dining Service. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -30,7 +30,7 @@ Results-driven Senior Dining Room Captain with over 6+ years of experience in Ho
 
 ### PAGE 1 - ACADEMIC & FORMAL EDUCATION
 **Degrees & Institutions:**
-- **Diploma in Hospitality & Service Excellence** | Hotel & Restaurant Academy (2017 – 2019)
+- **Diploma in Hospitality & Service Spreadsheet Softwarelence** | Hotel & Restaurant Academy (2017 – 2019)
 
 - **High School Diploma** | St. Mary High School (2013 – 2017)
 
@@ -44,7 +44,7 @@ Results-driven Senior Dining Room Captain with over 6+ years of experience in Ho
   - Recommended fine wine pairings matching customer dinner menu selections.
   - Trained junior waitstaff on formal dining etiquette protocols.
 
-- **Senior Waitress** | Seaside Grill & Bar (2017 – 2020)
+- **Senior Waitress** | Rimberio Dining (2017 – 2020)
   - Took accurate food orders for high-capacity dining rooms.
   - Served multi-course meals promptly while maintaining warm hospitality.
   - Processed final meal guest checks using digital POS terminals.
@@ -66,15 +66,15 @@ Results-driven Senior Dining Room Captain with over 6+ years of experience in Ho
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Waiters / Waitress Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Waiters / Waitress Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 
 ### PAGE 1 - TECHNICAL SKILLS & CORE COMPETENCIES
 **Hard & Soft Skills:**
-- **Technical Competencies:** Hospitality Excellence, Fine Dining, Pos Systems, Customer Relations
+- **Technical Competencies:** Hospitality Spreadsheet Softwarelence, Fine Dining, Pos Systems, Customer Relations
 - **Management & Strategy:** Strategic Planning, Team Leadership, Process Optimization, Budgeting & Resource Allocation
 - **Interpersonal Skills:** Public Speaking, Cross-functional Collaboration, Stakeholder Communication, Problem Solving
 

@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Monochrome Grid & Line Art Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Laura Bennett
@@ -36,11 +36,11 @@ Friendly and customer-focused Barista with a passion for specialty coffee and ho
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Barista** | Harvest Café (2022 – Present)
+- **Barista** | Liceria Cafe (2022 – Present)
   - Supported daily café operations and prepared specialty coffee drinks
   - Assisted in food and beverage preparation and restocking ingredients
 
-- **Barista Intern** | Coffee Liceria (2020 - 2022)
+- **Barista Intern** | Liceria Coffee Co. (2020 - 2022)
   - Prepared espresso beverages and maintained customer service areas
   - Handled cash and POS transactions accurately
 

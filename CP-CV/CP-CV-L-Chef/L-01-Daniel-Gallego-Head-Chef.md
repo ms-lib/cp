@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: danielgallego@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/danielgallego | portfolio.com/danielgallego
+- Professional Profile / Portfolio: profile.com/in/danielgallego | portfolio.com/danielgallego
 
 **Personal Profile:**
 Results-driven Executive Head Chef with over 8+ years of experience in Culinary Operations & Gastronomy. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Executive Head Chef with over 8+ years of experience in Culinary 
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Executive Head Chef** | Le Grand Bistro (2019 – Present)
+- **Executive Head Chef** | Borcelle Bistro (2019 – Present)
   - Created seasonal fine dining menus featuring local organic ingredients.
   - Managed kitchen brigade of twenty chefs and prep cooks.
   - Controlled food inventory costs while maintaining premium culinary quality.
 
-- **Sous Chef** | Royal Palm Hotel & Dining (2016 – 2019)
+- **Sous Chef** | Larana Grand Hotel (2016 – 2019)
   - Supervised daily station prep and dinner line service operations.
   - Trained junior line cooks on presentation and culinary technique.
   - Managed ingredient ordering with trusted local seafood suppliers.
@@ -66,9 +66,9 @@ Results-driven Executive Head Chef with over 8+ years of experience in Culinary 
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Chef Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Chef Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Full-Stack Tech Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Chris Lee
@@ -36,11 +36,11 @@ Full-Stack Software Developer experienced in building scalable React and Node.js
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Full-Stack Developer** | CloudScale Systems (2022 – Present)
+- **Full-Stack Developer** | Thynk Unlimited (2022 – Present)
   - Build dynamic web applications using React and Node.js
   - Optimize API response times and database query performance
 
-- **Junior Developer** | ByteCode Lab (2020 - 2022)
+- **Junior Developer** | Arowwai Industries (2020 - 2022)
   - Developed reusable UI components and bug fixes for web apps
   - Participated in daily agile stand-ups and code reviews
 

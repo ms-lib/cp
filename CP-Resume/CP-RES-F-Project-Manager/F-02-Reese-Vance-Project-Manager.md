@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Operations & Workflow Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Reese Vance
@@ -36,11 +36,11 @@ Operations Project Manager focused on streamlining team workflows and optimizing
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Operations Project Manager** | Vanguard Logistics (2022 – Present)
+- **Operations Project Manager** | Arowwai Logistics (2022 – Present)
   - Streamlined team workflow processes, reducing project cycle time by 20%
   - Facilitated daily stand-ups and project planning sessions
 
-- **Project Coordinator** | LogiTech Solutions (2019 - 2022)
+- **Project Coordinator** | Thynk Logistics (2019 - 2022)
   - Tracked project deliverables and organized project documentation
 
 ---

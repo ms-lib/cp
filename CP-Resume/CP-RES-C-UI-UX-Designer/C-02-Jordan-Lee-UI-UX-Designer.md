@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Clean Dark Accent Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Jordan Lee
@@ -36,11 +36,11 @@ Detail-driven Product UI/UX Designer with expertise in building scalable design 
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Product UI/UX Designer** | Innovate Tech (2023 – Present)
+- **Product UI/UX Designer** | Studio Shodwe Tech (2023 – Present)
   - Build and maintain accessible UI component design systems
   - Map out complex user flows for enterprise dashboard software
 
-- **UX Design Intern** | Digital Crafts Lab (2021 - 2023)
+- **UX Design Intern** | Larana Digital (2021 - 2023)
   - Assisted in creating low-fidelity wireframes and user personas
   - Gathered user feedback through survey analysis
 

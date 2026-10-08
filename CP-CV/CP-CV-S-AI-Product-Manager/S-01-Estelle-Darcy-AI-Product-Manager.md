@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: estelledarcy@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/estelledarcy | portfolio.com/estelledarcy
+- Professional Profile / Portfolio: profile.com/in/estelledarcy | portfolio.com/estelledarcy
 
 **Personal Profile:**
 Results-driven Lead AI Product Manager with over 7+ years of experience in Artificial Intelligence & Product Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Lead AI Product Manager with over 7+ years of experience in Artif
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Lead AI Product Manager** | Cortex AI Solutions (2021 – Present)
+- **Lead AI Product Manager** | Arowwai Industries (2021 – Present)
   - Spearheaded development of enterprise Generative AI software products.
   - Defined product roadmaps for LLM integration and model deployment.
   - Collaborated with machine learning research engineers on model tuning.
 
-- **AI Product Specialist** | Data Mind Labs (2019 – 2021)
+- **AI Product Specialist** | Ginyard International Co. (2019 – 2021)
   - Launched computer vision search features for e-commerce client apps.
   - Tracked model accuracy metrics and user satisfaction feedback logs.
   - Authored product requirements documentation for AI engineering teams.
@@ -66,9 +66,9 @@ Results-driven Lead AI Product Manager with over 7+ years of experience in Artif
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified AI Product Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified AI Product Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

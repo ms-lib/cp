@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: dakotaquinn@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/dakotaquinn | portfolio.com/dakotaquinn
+- Professional Profile / Portfolio: profile.com/in/dakotaquinn | portfolio.com/dakotaquinn
 
 **Personal Profile:**
 Results-driven IT Operations Manager with over 5+ years of experience in IT Infrastructure & Operations. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven IT Operations Manager with over 5+ years of experience in IT Infr
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **IT Operations Manager** | Apex Software House (2021 – Present)
+- **IT Operations Manager** | Larana Tech Inc. (2021 – Present)
   - Managed IT helpdesk support staff to ensure prompt resolution.
   - Procured hardware laptops and software licenses for new employees.
   - Implemented Zero Trust access control security for remote workers.
 
-- **IT Support Lead** | Tech Services Group (2019 – 2021)
+- **IT Support Lead** | Liceria & Co. (2019 – 2021)
   - Supervised daily helpdesk operations and user support queues.
   - Installed software security updates across corporate desktop fleet.
   - Trained employees on IT security awareness and phishing prevention.
@@ -66,9 +66,9 @@ Results-driven IT Operations Manager with over 5+ years of experience in IT Infr
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified IT Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified IT Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

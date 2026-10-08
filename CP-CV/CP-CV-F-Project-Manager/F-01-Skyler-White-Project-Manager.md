@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: skylerwhite@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/skylerwhite | portfolio.com/skylerwhite
+- Professional Profile / Portfolio: profile.com/in/skylerwhite | portfolio.com/skylerwhite
 
 **Personal Profile:**
 Results-driven Senior Project Manager with over 8+ years of experience in Project Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,15 +39,15 @@ Results-driven Senior Project Manager with over 8+ years of experience in Projec
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Senior Project Manager** | Apex Global Enterprise (2019 – Present)
+- **Senior Project Manager** | Wardiere Inc. (2019 – Present)
   - Directed cross-functional technical projects from inception to completion.
   - Managed annual project budgets exceeding two million dollars.
   - Implemented Agile Scrum methodologies to boost team velocity.
 
-- **Project Operations Lead** | Vanguard Solutions (2015 – 2019)
+- **Project Operations Lead** | Hanover & Tyke (2015 – 2019)
   - Scheduled project milestone deliverables across multi-department teams.
   - Facilitated weekly stakeholder status updates and progress reviews.
-  - Maintained project documentation standards within Jira workspace.
+  - Maintained project documentation standards within Agile Project Tools workspace.
 
 ---
 
@@ -66,9 +66,9 @@ Results-driven Senior Project Manager with over 8+ years of experience in Projec
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Project Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Project Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

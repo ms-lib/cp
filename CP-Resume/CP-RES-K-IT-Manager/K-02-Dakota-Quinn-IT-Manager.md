@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Enterprise Security & Infrastructure Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Dakota Quinn
@@ -40,7 +40,7 @@ Pragmatic IT Manager specializing in enterprise network security, server mainten
   - Oversee company-wide network security, server uptime, and hardware infrastructure
   - Manage IT support team and external vendor service agreements
 
-- **Systems Administrator** | Data Shield Corp (2018 - 2021)
+- **Systems Administrator** | Ginyard International Co. (2018 - 2021)
   - Configured local network firewalls and user access permissions
 
 ---

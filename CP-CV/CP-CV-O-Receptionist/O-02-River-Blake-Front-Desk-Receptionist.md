@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: riverblake@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/riverblake | portfolio.com/riverblake
+- Professional Profile / Portfolio: profile.com/in/riverblake | portfolio.com/riverblake
 
 **Personal Profile:**
 Results-driven Front Office Specialist with over 3+ years of experience in Front Office & Corporate Administration. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Front Office Specialist with over 3+ years of experience in Front
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Front Office Specialist** | Beacon Law Firm (2022 – Present)
+- **Front Office Specialist** | Aldenaire & Partners Law (2022 – Present)
   - Managed client reception desk for busy legal office environment.
   - Sorted daily incoming postal mail and legal courier packages.
   - Assisted administrative assistants with document filing and scanning.
 
-- **Reception Assistant** | Medical Health Clinic (2020 – 2022)
+- **Reception Assistant** | Wardiere Health Clinic (2020 – 2022)
   - Checked in arriving patients and verified insurance contact info.
   - Scheduled patient follow-up appointments using electronic health software.
   - Maintained clean and welcoming patient waiting room area.
@@ -66,9 +66,9 @@ Results-driven Front Office Specialist with over 3+ years of experience in Front
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Receptionist Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Receptionist Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

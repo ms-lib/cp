@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Structured Delivery Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Skyler White
@@ -40,7 +40,7 @@ Goal-oriented Project Manager skilled in leading cross-functional teams using Ag
   - Deliver complex cross-departmental projects on schedule and within budget
   - Track milestone deliverables and prepare weekly executive status reports
 
-- **Assistant Project Manager** | Build Corp (2018 - 2021)
+- **Assistant Project Manager** | Salford Construction (2018 - 2021)
   - Coordinated team task schedules and documented project scope changes
 
 ---

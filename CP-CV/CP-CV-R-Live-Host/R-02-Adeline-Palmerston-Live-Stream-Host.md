@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: adelinepalmerston@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/adelinepalmerston | portfolio.com/adelinepalmerston
+- Professional Profile / Portfolio: profile.com/in/adelinepalmerston | portfolio.com/adelinepalmerston
 
 **Personal Profile:**
 Results-driven Event & Broadcast Host with over 5+ years of experience in Live Broadcasting & E-Commerce Hosting. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Event & Broadcast Host with over 5+ years of experience in Live B
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Event & Broadcast Host** | Apex Event Media (2021 – Present)
+- **Event & Broadcast Host** | Larana Studio (2021 – Present)
   - Hosted major corporate tech conferences and live award ceremonies.
   - Moderated panel discussions with industry experts and keynote speakers.
   - Memorized event scripts while maintaining smooth live stage presence.
 
-- **On-Camera Presenter** | City Media Channel (2019 – 2021)
+- **On-Camera Presenter** | Rimberio Media (2019 – 2021)
   - Hosted weekly community news segments for local broadcast station.
   - Read teleprompter scripts clearly during live television news broadcasts.
   - Interacted with field reporters during live remote broadcast feeds.
@@ -66,9 +66,9 @@ Results-driven Event & Broadcast Host with over 5+ years of experience in Live B
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Live Host Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Live Host Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

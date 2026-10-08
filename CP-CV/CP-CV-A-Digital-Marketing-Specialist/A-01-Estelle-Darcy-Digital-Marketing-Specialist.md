@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: estelledarcy@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/estelledarcy | portfolio.com/estelledarcy
+- Professional Profile / Portfolio: profile.com/in/estelledarcy | portfolio.com/estelledarcy
 
 **Personal Profile:**
 Results-driven Senior Digital Marketing Specialist with over 7+ years of experience in Digital Marketing. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,7 +39,7 @@ Results-driven Senior Digital Marketing Specialist with over 7+ years of experie
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Senior Digital Marketing Specialist** | Stellar Global Solutions (2021 – Present)
+- **Senior Digital Marketing Specialist** | Rimberio Global (2021 – Present)
   - Spearheaded core digital marketing initiatives to boost ROI.
   - Managed cross-functional ad campaigns to drive user acquisition.
   - Implemented automated analytics tools to track conversion performance.
@@ -66,9 +66,9 @@ Results-driven Senior Digital Marketing Specialist with over 7+ years of experie
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Digital Marketing Specialist Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Digital Marketing Specialist Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

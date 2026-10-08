@@ -2,7 +2,7 @@
 ## Sawyer Bennett – Content Creator Resume
 
 **Sub-Topic:** Content Creator  
-**Main Keywords:** content creator, video editing, social media reels, tiktok videos, storyboarding, brand sponsorships  
+**Main Keywords:** content creator, video editing, social media reels, short form video content, storyboarding, brand sponsorships  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Multi-Platform Creative Layout  
 **Tone:** Engaging, Creative, Trend-Conscious  
@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Multi-Platform Creative Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Sawyer Bennett
@@ -23,7 +23,7 @@
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
 
 **Profile Summary:**
-Engaging Content Creator specializing in short-form video production across TikTok and Instagram. Experienced in video editing, storytelling scriptwriting, and collaborating with brand partners on promotional campaigns.
+Engaging Content Creator specializing in short-form video production across short-form video and social media platforms. Experienced in video editing, storytelling scriptwriting, and collaborating with brand partners on promotional campaigns.
 
 ---
 
@@ -36,11 +36,11 @@ Engaging Content Creator specializing in short-form video production across TikT
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Digital Content Creator** | Studio Creator Co. (2023 – Present)
-  - Produce engaging video reels and lifestyle content across YouTube and TikTok
+- **Digital Content Creator** | Larana Creators (2023 – Present)
+  - Produce engaging video reels and lifestyle content across video streaming and short-form video platforms
   - Collaborate with brand sponsors for integrated promo campaigns
 
-- **Creative Assistant** | Viral Media House (2020 - 2023)
+- **Creative Assistant** | Liceria Creative (2020 - 2023)
   - Assisted in scripting video concepts and editing thumbnail graphics
 
 ---
@@ -50,6 +50,6 @@ Engaging Content Creator specializing in short-form video production across TikT
 - Content Creator
 - Video Editing
 - Social Media Reels
-- Tiktok Videos
+- short form video content
 - Storyboarding
 - Brand Sponsorships

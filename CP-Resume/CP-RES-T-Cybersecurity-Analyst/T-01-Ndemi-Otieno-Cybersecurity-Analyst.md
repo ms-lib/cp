@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** 2-Column Security & Ops Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Ndemi Otieno
@@ -36,11 +36,11 @@ Vigilant Cybersecurity Analyst with expertise in threat monitoring, incident res
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Senior Security Analyst** | DataShield Security (2022 – Present)
+- **Senior Security Analyst** | Arowwai Security (2022 – Present)
   - Monitor security operations center (SOC) alerts and investigate network anomalies
   - Perform regular vulnerability scans and implement proactive security patches
 
-- **Information Security Associate** | Vanguard Tech (2019 - 2022)
+- **Information Security Associate** | Ginyard International Co. (2019 - 2022)
   - Configured corporate firewall rules and managed user access authentication
   - Assisted in preparing quarterly cybersecurity compliance reports
 

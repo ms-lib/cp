@@ -2,7 +2,7 @@
 ## Alex Morgan – Videographer Resume
 
 **Sub-Topic:** Photographer / Videographer  
-**Main Keywords:** videographer, video production, adobe premiere pro, after effects, color grading, storyboarding, camera operation  
+**Main Keywords:** videographer, video production, video editing software, Motion Graphics Software, color grading, storyboarding, camera operation  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Cinematic Motion Layout  
 **Tone:** Cinematic, Dynamic, Technical  
@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Cinematic Motion Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Alex Morgan
@@ -50,8 +50,8 @@ Dynamic Videographer experienced in commercial camera operation, video editing, 
 **Core Skills:**
 - Videographer
 - Video Production
-- Adobe Premiere Pro
-- After Effects
+- video editing software
+- Motion Graphics Software
 - Color Grading
 - Storyboarding
 - Camera Operation

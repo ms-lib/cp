@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: sawyerbennett@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/sawyerbennett | portfolio.com/sawyerbennett
+- Professional Profile / Portfolio: profile.com/in/sawyerbennett | portfolio.com/sawyerbennett
 
 **Personal Profile:**
 Results-driven Digital Content Creator with over 5+ years of experience in Digital Media Production & Content Creation. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Digital Content Creator with over 5+ years of experience in Digit
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Digital Content Creator** | Studio Pulse Creative (2021 – Present)
-  - Produced original YouTube video series generating millions of views.
+- **Digital Content Creator** | Liceria Creative Studio (2021 – Present)
+  - Produced original Video Streaming Platforms video series generating millions of views.
   - Edited dynamic video content using modern software suites.
   - Negotiated brand sponsorship deals with major consumer product clients.
 
-- **Video Creator** | NextGen Digital Lab (2019 – 2021)
+- **Video Creator** | Liceria AI Studio (2019 – 2021)
   - Filmed short-form promotional videos for local business brands.
   - Managed studio lighting and audio microphone equipment for shoots.
   - Created engaging animated motion graphics for digital channels.
@@ -66,9 +66,9 @@ Results-driven Digital Content Creator with over 5+ years of experience in Digit
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Content Creator Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Content Creator Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

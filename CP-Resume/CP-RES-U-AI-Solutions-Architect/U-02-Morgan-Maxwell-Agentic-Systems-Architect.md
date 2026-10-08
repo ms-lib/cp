@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Modern Agent Architecture Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Morgan Maxwell
@@ -36,11 +36,11 @@ Innovative Agentic Systems Architect specializing in autonomous AI agent framewo
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Agentic Systems Architect** | Autonomy AI Labs (2023 – Present)
+- **Agentic Systems Architect** | Werner & Spencer AI (2023 – Present)
   - Design multi-agent execution frameworks for automated decision-making workflows
   - Optimize prompt routing protocols and external API call performance
 
-- **AI Integration Engineer** | Smart Process Co. (2021 - 2023)
+- **AI Integration Engineer** | Rimberio Corp (2021 - 2023)
   - Built custom AI connectors and API middleware for internal enterprise software
 
 ---

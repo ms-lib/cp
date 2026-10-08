@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: rowandavis@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/rowandavis | portfolio.com/rowandavis
+- Professional Profile / Portfolio: profile.com/in/rowandavis | portfolio.com/rowandavis
 
 **Personal Profile:**
 Results-driven Senior Content Writer with over 6+ years of experience in Copywriting & Content Strategy. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Senior Content Writer with over 6+ years of experience in Copywri
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Senior Content Writer** | Omni Media Group (2021 – Present)
+- **Senior Content Writer** | Rimberio Media Group (2021 – Present)
   - Authored high-ranking SEO blog posts for B2B SaaS.
   - Developed long-form whitepapers and technical industry case studies.
   - Edited articles written by staff writers for editorial quality.
 
-- **Editorial Staff Writer** | Publishing House Press (2018 – 2021)
+- **Editorial Staff Writer** | Werner & Spencer Press (2018 – 2021)
   - Wrote weekly magazine feature articles on business technology trends.
   - Conducted interview sessions with key industry leaders and executives.
   - Proofread draft manuscripts for grammatical accuracy and style.
@@ -66,9 +66,9 @@ Results-driven Senior Content Writer with over 6+ years of experience in Copywri
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Content Writer / Copywriter Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Content Writer / Copywriter Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

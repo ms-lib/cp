@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: peytonreed@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/peytonreed | portfolio.com/peytonreed
+- Professional Profile / Portfolio: profile.com/in/peytonreed | portfolio.com/peytonreed
 
 **Personal Profile:**
 Results-driven Digital Product Manager with over 4+ years of experience in Product Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Digital Product Manager with over 4+ years of experience in Produ
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Digital Product Manager** | Nexus Software Lab (2022 – Present)
+- **Digital Product Manager** | Rimberio Inc. (2022 – Present)
   - Managed product sprint backlogs in Agile development environment.
   - Authored detailed user stories and feature acceptance criteria.
   - Executed A/B testing campaigns to optimize user onboarding.
 
-- **Associate Product Specialist** | Cloud Solutions Group (2020 – 2022)
+- **Associate Product Specialist** | Salford & Co. (2020 – 2022)
   - Gathered user feedback from client surveys and interviews.
   - Assisted product managers with weekly release note documentation.
   - Monitored app store customer reviews for bug reporting.
@@ -66,9 +66,9 @@ Results-driven Digital Product Manager with over 4+ years of experience in Produ
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Product Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Product Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

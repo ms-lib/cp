@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: valeriedupont@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/valeriedupont | portfolio.com/valeriedupont
+- Professional Profile / Portfolio: profile.com/in/valeriedupont | portfolio.com/valeriedupont
 
 **Personal Profile:**
 Results-driven E-Commerce Live Stream Host with over 4+ years of experience in Live Broadcasting & E-Commerce Hosting. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven E-Commerce Live Stream Host with over 4+ years of experience in L
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **E-Commerce Live Stream Host** | Global Shopping Network (2022 – Present)
+- **E-Commerce Live Stream Host** | Wardiere Retail Network (2022 – Present)
   - Hosted live e-commerce sales broadcasts generating high product revenue.
   - Demonstrated product features live while answering viewer chat questions.
   - Engaged online audiences with high-energy charismatic presentation style.
 
-- **Live Stream Presenter** | Digital Retail Studio (2020 – 2022)
+- **Live Stream Presenter** | Borcelle Retail (2020 – 2022)
   - Presented daily fashion and beauty product live stream shows.
   - Maintained broadcast schedule while adhering to channel brand guidelines.
   - Tracked live viewer retention and real-time sales conversion metrics.
@@ -66,9 +66,9 @@ Results-driven E-Commerce Live Stream Host with over 4+ years of experience in L
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Live Host Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Live Host Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

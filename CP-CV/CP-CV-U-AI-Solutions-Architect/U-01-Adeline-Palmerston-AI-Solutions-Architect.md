@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: adelinepalmerston@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/adelinepalmerston | portfolio.com/adelinepalmerston
+- Professional Profile / Portfolio: profile.com/in/adelinepalmerston | portfolio.com/adelinepalmerston
 
 **Personal Profile:**
 Results-driven Principal AI Solutions Architect with over 8+ years of experience in AI Architecture & Infrastructure. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -44,7 +44,7 @@ Results-driven Principal AI Solutions Architect with over 8+ years of experience
   - Implemented vector databases for high-speed semantic retrieval systems.
   - Optimized model inference costs while maintaining ultra-low latency response.
 
-- **Senior AI Infrastructure Engineer** | Neural Tech Labs (2017 – 2020)
+- **Senior AI Infrastructure Engineer** | Salford Tech AI (2017 – 2020)
   - Built scalable data ingestion pipelines for large model training.
   - Deployed containerized machine learning models on Kubernetes clusters.
   - Benchmarked AI hardware performance across GPU and cloud platforms.
@@ -66,9 +66,9 @@ Results-driven Principal AI Solutions Architect with over 8+ years of experience
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified AI Solutions Architect Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified AI Solutions Architect Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

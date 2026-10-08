@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Clean Technical SOC Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Chris Lee
@@ -36,11 +36,11 @@ Methodical Information Security Analyst specialized in SOC operations, penetrati
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Cybersecurity Analyst** | CyberPulse Systems (2022 – Present)
+- **Cybersecurity Analyst** | Aldenaire & Partners (2022 – Present)
   - Conduct security risk evaluations and lead incident response procedures
   - Educate staff on phishing prevention and secure password standards
 
-- **IT Security Assistant** | NetGuard Solutions (2020 - 2022)
+- **IT Security Assistant** | Hanover & Tyke (2020 - 2022)
   - Maintained security logs and assisted in patch management deployments
 
 ---

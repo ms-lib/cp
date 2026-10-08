@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: laurabennett@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/laurabennett | portfolio.com/laurabennett
+- Professional Profile / Portfolio: profile.com/in/laurabennett | portfolio.com/laurabennett
 
 **Personal Profile:**
 Results-driven Master Barista with over 5+ years of experience in Specialty Coffee & Cafe Operations. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Master Barista with over 5+ years of experience in Specialty Coff
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Master Barista** | Artisan Coffee Roasters (2021 – Present)
+- **Master Barista** | Salford Coffee Roasters (2021 – Present)
   - Crafted specialty espresso beverages with advanced latte art designs.
   - Calibrated commercial espresso grinders daily to maintain optimal extraction.
   - Trained new barista staff on customer service standards.
 
-- **Senior Barista** | Bean & Leaf Cafe (2018 – 2021)
+- **Senior Barista** | Larana Cafe (2018 – 2021)
   - Served high volume of daily customers with speed efficiency.
   - Maintained immaculate cleanliness of coffee bar workstation area.
   - Educated customers on single-origin coffee bean flavor profiles.
@@ -66,9 +66,9 @@ Results-driven Master Barista with over 5+ years of experience in Specialty Coff
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Barista Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Barista Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

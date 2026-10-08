@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Bold Brand Storytelling Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Aaron Loeb
@@ -36,11 +36,11 @@ Creative Copywriter specializing in punchy ad copy, memorable brand taglines, an
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Lead Copywriter** | Bold Creative Agency (2022 – Present)
+- **Lead Copywriter** | Studio Shodwe (2022 – Present)
   - Craft compelling ad copy for digital and print campaigns
   - Develop distinct brand tone-of-voice guidelines for new clients
 
-- **Junior Copywriter** | Spark Advertising (2019 - 2022)
+- **Junior Copywriter** | Salford & Co. (2019 - 2022)
   - Wrote catchy taglines and promotional copy for social ads
   - Collaborated with art directors on creative campaign concepts
 

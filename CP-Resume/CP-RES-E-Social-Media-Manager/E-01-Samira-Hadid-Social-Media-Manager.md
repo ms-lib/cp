@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Y2K Retro Pop Aesthetic Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Samira Hadid
@@ -40,7 +40,7 @@ Creative Social Media Manager specializing in brand building, audience engagemen
   - Planned and managed social media content strategies across platforms
   - Increased audience engagement through creative campaigns and interactive posts
 
-- **Content Coordinator** | Visionary Studio (2021 — 2023)
+- **Content Coordinator** | Studio Shodwe Vision (2021 — 2023)
   - Assisted with content scheduling and campaign planning
   - Maintained active communication with online audiences
 

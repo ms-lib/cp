@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: katielawson@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/katielawson | portfolio.com/katielawson
+- Professional Profile / Portfolio: profile.com/in/katielawson | portfolio.com/katielawson
 
 **Personal Profile:**
 Results-driven AI & Data Product Manager with over 4+ years of experience in Artificial Intelligence & Product Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven AI & Data Product Manager with over 4+ years of experience in Art
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **AI & Data Product Manager** | NextGen AI Inc (2022 – Present)
+- **AI & Data Product Manager** | Aldenaire AI Labs (2022 – Present)
   - Managed product lifecycle for predictive data analytics software platform.
   - Prioritized AI model feature backlogs in Agile development environment.
   - Executed user testing sprints to validate machine learning features.
 
-- **Associate Product Manager** | Smart Data Systems (2020 – 2022)
+- **Associate Product Manager** | Wardiere Inc. (2020 – 2022)
   - Gathered customer requirements for automated reporting software tools.
   - Analyzed user behavior logs to identify feature usage trends.
   - Assisted senior product managers with competitive market AI research.
@@ -66,9 +66,9 @@ Results-driven AI & Data Product Manager with over 4+ years of experience in Art
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified AI Product Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified AI Product Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

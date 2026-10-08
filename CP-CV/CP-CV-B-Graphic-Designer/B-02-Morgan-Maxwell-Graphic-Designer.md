@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: morganmaxwell@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/morganmaxwell | portfolio.com/morganmaxwell
+- Professional Profile / Portfolio: profile.com/in/morganmaxwell | portfolio.com/morganmaxwell
 
 **Personal Profile:**
 Results-driven Creative Graphic Designer with over 5+ years of experience in Graphic Design. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,7 +39,7 @@ Results-driven Creative Graphic Designer with over 5+ years of experience in Gra
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Graphic Designer** | Stellar Media Group (2021 – Present)
+- **Graphic Designer** | Aldenaire Media (2021 – Present)
   - Crafted engaging social media graphics and marketing banners.
   - Developed custom typography and vector logos for startups.
   - Optimized digital image files for fast web performance.
@@ -66,9 +66,9 @@ Results-driven Creative Graphic Designer with over 5+ years of experience in Gra
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Graphic Designer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Graphic Designer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

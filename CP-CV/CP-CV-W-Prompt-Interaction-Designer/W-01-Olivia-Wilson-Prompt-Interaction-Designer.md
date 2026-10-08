@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: oliviawilson@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/oliviawilson | portfolio.com/oliviawilson
+- Professional Profile / Portfolio: profile.com/in/oliviawilson | portfolio.com/oliviawilson
 
 **Personal Profile:**
 Results-driven Lead Prompt & Interaction Designer with over 6+ years of experience in Prompt Engineering & AI Interaction Design. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,7 +39,7 @@ Results-driven Lead Prompt & Interaction Designer with over 6+ years of experien
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Lead Prompt & Interaction Designer** | Generative Design Lab (2021 – Present)
+- **Lead Prompt & Interaction Designer** | Studio Shodwe AI (2021 – Present)
   - Designed system prompt architectures for enterprise conversational AI agents.
   - Optimized prompt templates to minimize hallucination and improve accuracy.
   - Created standardized prompt libraries for corporate marketing content generation.
@@ -66,9 +66,9 @@ Results-driven Lead Prompt & Interaction Designer with over 6+ years of experien
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Prompt & Interaction Designer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Prompt & Interaction Designer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

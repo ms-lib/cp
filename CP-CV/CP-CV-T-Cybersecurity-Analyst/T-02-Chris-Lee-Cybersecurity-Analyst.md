@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: chrislee@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/chrislee | portfolio.com/chrislee
+- Professional Profile / Portfolio: profile.com/in/chrislee | portfolio.com/chrislee
 
 **Personal Profile:**
 Results-driven Information Security Specialist with over 4+ years of experience in Cybersecurity & Threat Intelligence. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -44,7 +44,7 @@ Results-driven Information Security Specialist with over 4+ years of experience 
   - Performed automated vulnerability scans using Nessus and security tools.
   - Trained employees on cybersecurity awareness and data protection practices.
 
-- **Junior Security Analyst** | Data Shield Corp (2020 – 2022)
+- **Junior Security Analyst** | Ginyard International Co. (2020 – 2022)
   - Reviewed daily security logs for unauthorized access login attempts.
   - Assisted in patching operating system security flaws across workstations.
   - Updated disaster recovery documentation for corporate IT asset backup.
@@ -66,9 +66,9 @@ Results-driven Information Security Specialist with over 4+ years of experience 
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Cybersecurity Analyst Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Cybersecurity Analyst Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Modern Conversational Aesthetic Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Samira Hadid
@@ -40,7 +40,7 @@ Adaptable AI Prompt & Content Specialist with a passion for crafting high-output
   - Develop structured prompt frameworks for marketing content generation tools
   - Train internal creative teams on effective generative AI prompt crafting
 
-- **Content Creator** | Pulse Studio (2020 - 2023)
+- **Content Creator** | Larana Media (2020 - 2023)
   - Created digital content assets and wrote interactive social media copy
 
 ---

@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: reesevance@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/reesevance | portfolio.com/reesevance
+- Professional Profile / Portfolio: profile.com/in/reesevance | portfolio.com/reesevance
 
 **Personal Profile:**
 Results-driven Technical Project Manager with over 5+ years of experience in Project Management. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven Technical Project Manager with over 5+ years of experience in Pro
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Technical Project Manager** | Cloudtech Systems (2021 – Present)
+- **Technical Project Manager** | Larana Systems (2021 – Present)
   - Coordinated software development sprints for SaaS product teams.
   - Tracked project resource allocation to prevent team burnout.
   - Facilitated daily standup meetings to resolve technical blockers.
 
-- **Associate Project Coordinator** | Digital Workflow Inc (2019 – 2021)
+- **Associate Project Coordinator** | Arowwai Industries (2019 – 2021)
   - Created detailed task breakdown structures for new deliverables.
   - Monitored vendor timelines to ensure prompt deliverable completion.
   - Organized project kick-off meetings with internal business partners.
@@ -66,9 +66,9 @@ Results-driven Technical Project Manager with over 5+ years of experience in Pro
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Project Manager Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Project Manager Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

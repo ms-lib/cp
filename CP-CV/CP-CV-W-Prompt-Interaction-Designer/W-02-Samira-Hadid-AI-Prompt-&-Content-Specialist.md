@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: samirahadid@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/samirahadid | portfolio.com/samirahadid
+- Professional Profile / Portfolio: profile.com/in/samirahadid | portfolio.com/samirahadid
 
 **Personal Profile:**
 Results-driven AI Prompt & Content Specialist with over 4+ years of experience in Prompt Engineering & AI Interaction Design. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -39,12 +39,12 @@ Results-driven AI Prompt & Content Specialist with over 4+ years of experience i
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **AI Prompt & Content Specialist** | Spark Creative AI (2022 – Present)
+- **AI Prompt & Content Specialist** | Werner & Spencer Studio (2022 – Present)
   - Engineered high-output generative prompts for social media copy generation.
   - Streamlined automated content creation workflows using ChatGPT and Claude.
   - Trained team members on advanced prompt engineering techniques.
 
-- **Prompt Copywriting Assistant** | Digital Growth Studio (2020 – 2022)
+- **Prompt Copywriting Assistant** | Ginyard International Co. (2020 – 2022)
   - Crafted creative prompts to generate marketing campaign copy ideas.
   - Maintained organized prompt template repository for daily team use.
   - Refined AI text outputs to ensure content clarity.
@@ -66,9 +66,9 @@ Results-driven AI Prompt & Content Specialist with over 4+ years of experience i
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Prompt & Interaction Designer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Prompt & Interaction Designer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

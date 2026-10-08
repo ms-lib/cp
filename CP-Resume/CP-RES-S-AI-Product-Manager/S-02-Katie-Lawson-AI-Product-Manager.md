@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** High-Growth Product Roadmap Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Katie Lawson
@@ -36,11 +36,11 @@ Data-driven Product Manager specializing in AI-powered applications and automate
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **AI Product Lead** | NextGen Automation (2023 – Present)
+- **AI Product Lead** | Rimberio AI (2023 – Present)
   - Oversee the end-to-end launch of AI-assisted content creation features
   - Analyze user engagement metrics to refine prompt interface workflows
 
-- **Associate Product Manager** | CloudScale Tech (2021 - 2023)
+- **Associate Product Manager** | Aldenaire & Partners (2021 - 2023)
   - Collaborated with UX researchers to design frictionless onboarding flows for new AI tools
   - Tracked feature adoption rates and reported monthly performance data
 

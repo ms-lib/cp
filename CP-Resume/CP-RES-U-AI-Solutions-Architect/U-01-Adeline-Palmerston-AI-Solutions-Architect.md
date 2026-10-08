@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Enterprise Architecture & Cloud Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Adeline Palmerston
@@ -36,11 +36,11 @@ Visionary AI Solutions Architect experienced in designing enterprise-grade AI sy
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Lead AI Solutions Architect** | Enterprise AI Corp (2021 – Present)
+- **Lead AI Solutions Architect** | Ginyard International Co. (2021 – Present)
   - Architect scalable generative AI systems for Fortune 500 enterprise clients
   - Design secure retrieval-augmented generation (RAG) knowledge pipelines
 
-- **Senior Systems Architect** | Cloud Matrix (2018 - 2021)
+- **Senior Systems Architect** | Rimberio Tech (2018 - 2021)
   - Directed enterprise cloud migrations and microservices infrastructure designs
 
 ---

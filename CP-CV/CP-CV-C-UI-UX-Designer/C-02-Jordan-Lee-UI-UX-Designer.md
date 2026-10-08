@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: jordanlee@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/jordanlee | portfolio.com/jordanlee
+- Professional Profile / Portfolio: profile.com/in/jordanlee | portfolio.com/jordanlee
 
 **Personal Profile:**
 Results-driven Product & UX Designer with over 4+ years of experience in UI/UX Design. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -32,19 +32,19 @@ Results-driven Product & UX Designer with over 4+ years of experience in UI/UX D
 **Degrees & Institutions:**
 - **Bachelor of Science in Interactive Design** | City Tech College (2018 – 2022)
 
-- **Certificate in UX Research** | Digital Skills Academy (2022)
+- **Certificate in UX Research** | Liceria Academy (2022)
 
 ---
 
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Product & UX Designer** | Streamline App Studio (2022 – Present)
+- **Product & UX Designer** | Borcelle Apps (2022 – Present)
   - Designed clean user interfaces for iOS and Android.
   - Executed usability testing to gather actionable customer feedback.
   - Wireframed new mobile features to boost overall engagement.
 
-- **Junior UX Designer** | Cloud Software Inc (2020 – 2022)
+- **Junior UX Designer** | Wardiere Inc. (2020 – 2022)
   - Constructed basic user personas based on survey analytics.
   - Updated existing website layouts for improved mobile responsiveness.
   - Maintained component UI library for daily project updates.
@@ -66,9 +66,9 @@ Results-driven Product & UX Designer with over 4+ years of experience in UI/UX D
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified UI/UX Designer Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified UI/UX Designer Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

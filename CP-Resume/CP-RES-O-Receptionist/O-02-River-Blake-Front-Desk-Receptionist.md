@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Clean Corporate Desk Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: River Blake
@@ -36,11 +36,11 @@ Courteous Front Desk Receptionist skilled in managing corporate lobby check-ins,
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Front Desk Receptionist** | Premier Corporate Tower (2021 – Present)
+- **Front Desk Receptionist** | Salford Tower (2021 – Present)
   - Welcome visitors at front desk reception and issue guest access passes
   - Manage central phone switchboard and route inquiries to team leads
 
-- **Reception Assistant** | City Hotel & Suites (2019 - 2021)
+- **Reception Assistant** | Rimberio Hotel & Suites (2019 - 2021)
   - Assisted guests with check-in procedures and handled booking calls
 
 ---

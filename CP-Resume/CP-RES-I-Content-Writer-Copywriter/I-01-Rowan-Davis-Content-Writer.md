@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Editorial & Clean Typography Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Rowan Davis
@@ -36,7 +36,7 @@ Versatile Content Writer skilled in producing clear, engaging articles, blog pos
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Senior Content Writer** | Insight Publishing (2021 – Present)
+- **Senior Content Writer** | Salford Press (2021 – Present)
   - Write high-ranking blog posts and long-form articles for tech clients
   - Edit and proofread content submitted by freelance contributors
 

@@ -2,7 +2,7 @@
 ## Emerson Taylor – Financial Analyst Resume
 
 **Sub-Topic:** Financial Analyst  
-**Main Keywords:** financial modeling, revenue forecasting, variance analysis, budget tracking, corporate finance, excel powerbi  
+**Main Keywords:** financial modeling, revenue forecasting, variance analysis, budget tracking, corporate finance, spreadsheet & data modeling tools  
 **Target Audience:** Job Seekers, HR Managers, Recruiters  
 **Style:** Corporate Finance Layout  
 **Tone:** Analytical, Precise, Methodical  
@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Corporate Finance Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Emerson Taylor
@@ -36,11 +36,11 @@ Detail-oriented Financial Analyst with expertise in financial forecasting, corpo
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Financial Analyst** | Sterling Financial Group (2021 – Present)
+- **Financial Analyst** | Liceria Financial Co. (2021 – Present)
   - Build financial forecast models and variance reports for executive review
   - Analyze quarterly revenue metrics and cost reduction opportunities
 
-- **Junior Financial Analyst** | Capital Advisory (2019 - 2021)
+- **Junior Financial Analyst** | Ginyard International Co. (2019 - 2021)
   - Assisted in preparing annual budget models and financial data decks
 
 ---
@@ -52,4 +52,4 @@ Detail-oriented Financial Analyst with expertise in financial forecasting, corpo
 - Variance Analysis
 - Budget Tracking
 - Corporate Finance
-- Excel Powerbi
+- spreadsheet & data modeling tools

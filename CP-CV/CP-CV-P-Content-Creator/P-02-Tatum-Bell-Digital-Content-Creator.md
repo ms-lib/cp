@@ -21,7 +21,7 @@
 - Phone: +123-456-7890
 - Email: tatumbell@reallygreatsite.com
 - Location / Website: www.reallygreatsite.com | 123 Anywhere St., Any City
-- LinkedIn / Portfolio: linkedin.com/in/tatumbell | portfolio.com/tatumbell
+- Professional Profile / Portfolio: profile.com/in/tatumbell | portfolio.com/tatumbell
 
 **Personal Profile:**
 Results-driven Creative Content Specialist with over 3+ years of experience in Digital Media Production & Content Creation. Skilled in leading cross-functional teams, optimizing workflows, and delivering high-impact solutions.
@@ -32,15 +32,15 @@ Results-driven Creative Content Specialist with over 3+ years of experience in D
 **Degrees & Institutions:**
 - **Bachelor of Communications** | Metro College (2019 – 2023)
 
-- **Certificate in Short-Form Video** | Digital Creator Lab (2022)
+- **Certificate in Short-Form Video** | Liceria Creators (2022)
 
 ---
 
 ### PAGE 1 - CAREER & PROFESSIONAL EXPERIENCE
 **Work History & Achievements:**
 
-- **Creative Content Specialist** | Buzz Media Agency (2023 – Present)
-  - Created daily viral TikTok videos for e-commerce client brands.
+- **Creative Content Specialist** | Rimberio Media (2023 – Present)
+  - Created daily viral short form video content for e-commerce client brands.
   - Wrote creative video scripts tailored for Gen Z audiences.
   - Monitored trending sound tracks to boost video algorithm reach.
 
@@ -66,9 +66,9 @@ Results-driven Creative Content Specialist with over 3+ years of experience in D
 
 ### PAGE 1 - CERTIFICATIONS, LICENSES & TRAINING
 **Professional Credentials:**
-- **Certified Content Creator Professional (CPP)** | International Industry Association (2023)
-- **Advanced Leadership & Executive Management Certificate** | Global Training Institute (2021)
-- **Specialized Technical & Process Masterclass** | Professional Development Academy (2019)
+- **Certified Content Creator Professional (CPP)** | Wardiere Professional Alliance (2023)
+- **Advanced Leadership & Executive Management Certificate** | Rimberio Training Center (2021)
+- **Specialized Technical & Process Masterclass** | Werner & Spencer Academy (2019)
 
 ---
 

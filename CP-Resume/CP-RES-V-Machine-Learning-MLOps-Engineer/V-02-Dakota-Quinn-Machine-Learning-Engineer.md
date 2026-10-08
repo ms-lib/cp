@@ -13,7 +13,7 @@
 
 ### PAGE 1 - HEADER & PROFILE
 **Layout:** Tech Data & Pipeline Layout  
-**Visual Note:** Professional Canva resume template featuring clean typography, structured contact section, and high-readability layout.
+**Visual Note:** Professional resume template featuring clean typography, structured contact section, and high-readability layout.
 
 **Header Information:**
 - Name: Dakota Quinn
@@ -36,7 +36,7 @@ Analytical Machine Learning Engineer with hands-on expertise in TensorFlow model
 ### PAGE 1 - WORK EXPERIENCE
 **Professional Experience:**
 
-- **Machine Learning Engineer** | Core AI Systems (2023 – Present)
+- **Machine Learning Engineer** | Larana AI Systems (2023 – Present)
   - Develop deep learning algorithms for image recognition and natural language tasks
   - Optimize model performance through rigorous automated testing
 
