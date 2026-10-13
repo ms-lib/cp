@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Suburban Family Transitioning:**<br>A suburban family transitioning from 3 trash bags. | **Lead Coach:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Suburban Family Transitioning:**<br>A suburban family transitioning from three trash bags weekly to near-zero. | **Lead Coach:**<br>Simple bulk shopping habits drastically reduce residential packaging waste within months. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

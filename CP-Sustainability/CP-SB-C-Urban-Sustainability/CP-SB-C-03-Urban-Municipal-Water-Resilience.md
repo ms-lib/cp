@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Implementation City Wide:**<br>Implementation of city-wide recycled water network for industrial cooling. | **Zero Leadership:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Implementation City Wide:**<br>Implementation of city-wide recycled water network for industrial cooling. | **Zero Leadership:**<br>Closed-loop recycled water networks secure vital municipal supplies against droughts. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

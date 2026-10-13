@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Metropolis Solar Initiative:**<br>Installing 100 MW solar capacity on civic buildings. | **Municipal Leadership:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Metropolis Solar Initiative:**<br>Installing 100 MW solar capacity on civic buildings. | **Municipal Leadership:**<br>Scaling civic solar installations drives clean energy independence citywide. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

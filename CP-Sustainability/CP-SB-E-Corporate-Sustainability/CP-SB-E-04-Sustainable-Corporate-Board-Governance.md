@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Restructuring Board Oversight:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate. | **Governance Lead:**<br>Sustainable practices deliver long term value creation effectively. | **Legal Compliance Counsel:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Restructuring Board Oversight:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate. | **Governance Lead:**<br>Dedicated sustainability committees align executive incentives with long-term climate stewardship. | **Legal Compliance Counsel:**<br>Robust governance charters mitigate liability risks from evolving international regulations. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Circular Hardware Lease:**<br>Implementing a circular hardware lease model across enterprise. | **Executive Sponsor:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Circular Hardware Lease:**<br>Implementing a circular hardware lease model across enterprise clients. | **Executive Sponsor:**<br>Hardware leasing models secure recurring revenue while recovering valuable component assets. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

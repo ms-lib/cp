@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Transitioning 500 Municipal:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses. | **Project Lead:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Transitioning 500 Municipal:**<br>Transitioning 500 municipal diesel buses to zero-emission electric buses. | **Project Lead:**<br>Electrifying bus fleets eliminates transit emissions while slashing lifecycle maintenance. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

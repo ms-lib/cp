@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Transforming Traditional Urban:**<br>Transforming a traditional urban home into a low-impact. | **Lead Design Consultant:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Transforming Traditional Urban:**<br>Transforming a traditional urban home into a low-impact living space. | **Lead Design Consultant:**<br>Minimalist spatial design cultivates mental clarity while conserving household resources. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

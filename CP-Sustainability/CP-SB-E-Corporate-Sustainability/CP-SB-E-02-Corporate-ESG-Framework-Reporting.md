@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Standardizing Global Esg:**<br>Standardizing global ESG reporting across 45 international business subsidiaries. | **Project Leaders:**<br>Sustainable practices deliver long term value creation effectively. | **Data Analytics Team:**<br>Sustainable practices deliver long term value creation effectively. | **Outcome Strategy:**<br>Achieved AA rating from major global ESG rating agencies. |
+| **Standardizing Global Esg:**<br>Standardizing global ESG reporting across 45 international business subsidiaries. | **Project Leaders:**<br>Unified compliance standards streamlined multinational disclosure workflows and stakeholder trust. | **Data Analytics Team:**<br>Automated carbon data pipelines eliminate reporting discrepancies across global subsidiaries. | **Outcome Strategy:**<br>Achieved AA rating from major global ESG rating agencies. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 

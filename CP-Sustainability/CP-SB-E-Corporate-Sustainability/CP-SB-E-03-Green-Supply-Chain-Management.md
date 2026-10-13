@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Decarbonizing Supply Chain:**<br>Decarbonizing supply chain operations across 200 primary component suppliers. | **Global Leadership:**<br>Sustainable practices deliver long term value creation effectively. | **Logistics Lead:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Decarbonizing Supply Chain:**<br>Decarbonizing supply chain operations across 200 primary component suppliers. | **Global Leadership:**<br>Supplier decarbonization pacts fortify geopolitical resilience and brand equity worldwide. | **Logistics Lead:**<br>Route optimization and low-emission carriers reduced freight emissions by forty percent. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

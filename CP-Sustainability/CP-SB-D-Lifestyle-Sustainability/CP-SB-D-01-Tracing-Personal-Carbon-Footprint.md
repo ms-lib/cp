@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Family Four Tracking:**<br>A family of four tracking and reducing their. | **Lead Advisor:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Family Four Tracking:**<br>A family of four tracking and reducing their annual household emissions. | **Lead Advisor:**<br>Granular carbon tracking empowers households to achieve meaningful everyday savings. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Executing Net Zero:**<br>Executing net-zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Executing Net Zero:**<br>Executing net-zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>Science-based targets ensure rigorous emission reductions verified by climate metrics. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

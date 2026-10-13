@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Eliminating Single Use:**<br>Eliminating single-use plastic bottles across a 500-employee corporate office. | **Zero Leadership 2:**<br>Sustainable practices deliver long term value creation effectively. | **Health Coordinator:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Eliminating Single Use:**<br>Eliminating single-use plastic bottles across a 500-employee corporate office. | **Sustainability Lead:**<br>Reusable hydration stations successfully eradicated single-use bottled water waste. | **Health Coordinator:**<br>Filtered water stations encouraged consistent daily hydration habits among employees. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

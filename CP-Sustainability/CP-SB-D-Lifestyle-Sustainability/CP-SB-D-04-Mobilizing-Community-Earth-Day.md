@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Coordinating Multi Site:**<br>Coordinating a multi-site Earth Day event across 12. | **Lead Campaign Director:**<br>Sustainable practices deliver long term value creation effectively. | **Youth Volunteer Coordinator:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Coordinating Multi Site:**<br>Coordinating a multi-site Earth Day event across 12 municipal parks. | **Lead Campaign Director:**<br>Cross-neighborhood civic coordination mobilized thousands of residents for environmental action. | **Youth Volunteer Coordinator:**<br>Empowering student volunteers fostered lifelong stewardship and active community participation. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

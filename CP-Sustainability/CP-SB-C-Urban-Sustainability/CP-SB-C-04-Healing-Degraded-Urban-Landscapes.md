@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Transformation 50 Acre:**<br>Transformation of a 50-acre abandoned shipyard into a. | **Eco Project Manager:**<br>Sustainable practices deliver long term value creation effectively. | **Lead Designer:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Transformation 50 Acre:**<br>Transformation of a 50-acre abandoned shipyard into vibrant public parkland. | **Eco Project Manager:**<br>Soil bioremediation successfully restored degraded industrial soil for public safety. | **Lead Designer:**<br>Native wetland buffers integrate ecological resilience with accessible recreational spaces. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

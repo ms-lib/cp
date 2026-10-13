@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Revitalizing Former Industrial:**<br>Revitalizing former industrial zones into zero-emission mixed-use communities. | **Planning Director:**<br>Sustainable practices deliver long term value creation effectively. | **Sustainable Design Specialist:**<br>Sustainable practices deliver long term value creation effectively. |
+| **Revitalizing Former Industrial:**<br>Revitalizing former industrial zones into zero-emission mixed-use communities. | **Planning Director:**<br>Integrated urban zoning accelerates sustainable economic growth and public well-being. | **Sustainable Design Specialist:**<br>Passive architectural standards drastically reduce operational energy and carbon footprints. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
