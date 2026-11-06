@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Institutional investors require rigorous ESG data alongside traditional. Global regulatory mandates enforce standardized climate risk reporting.<br><br>Consumers and talent evaluate corporate ethics based on. |
+| Institutional investors require rigorous ESG data alongside traditional financial statements. Global regulatory mandates enforce standardized climate risk disclosures.<br><br>Consumers and top talent evaluate corporate ethics based on verified sustainability performance. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Csrd Corporate Sustainability:**<br>CSRD Corporate Sustainability Reporting Directive Mandatory double materiality reporting. | **Issb International Sustainability:**<br>ISSB International Sustainability Standards Board Baseline global climate metrics. | **Gri Global Reporting:**<br>Comprehensive impact disclosure across stakeholders for sustainable community. |
+| **CSRD Directive:**<br>Corporate Sustainability Reporting Directive mandates double materiality disclosures. | **ISSB Standards:**<br>International Sustainability Standards Board establishes baseline global climate metrics. | **GRI Guidelines:**<br>Global Reporting Initiative provides comprehensive impact disclosure across all stakeholders. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Scope 1:**<br>Direct emissions from corporate facilities and vehicle fleets. | **Scope 2:**<br>Indirect emissions from purchased electricity and steam generation. | **Scope 3:**<br>Upstream supply chain emissions and downstream product usage. | **Water Waste:**<br>Tracking municipal water abstraction and landfill waste diversion. |
+| **Scope 1 Direct Emissions:**<br>Direct emissions from corporate facilities and vehicle fleets. | **Scope 2 Indirect Emissions:**<br>Indirect emissions from purchased electricity and steam generation. | **Scope 3 Supply Chain:**<br>Upstream supply chain emissions and downstream product usage. | **Water & Waste Metrics:**<br>Tracking municipal water abstraction and landfill waste diversion rates. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Human Capital Management:**<br>Diversity equity and inclusion DEI workforce metrics. | **Occupational Health Safety:**<br>Occupational health and safety OHS incident rates across. |
+| **Human Capital Diversity:**<br>Tracking diversity, equity, and inclusion (DEI) workforce metrics across teams. | **Occupational Health & Safety:**<br>Monitoring occupational health and safety (OHS) incident rates across corporate facilities. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Standardizing Global Esg:**<br>Standardizing global ESG reporting across 45 international business subsidiaries. | **Project Leaders:**<br>Unified compliance standards streamlined multinational disclosure workflows and stakeholder trust. | **Data Analytics Team:**<br>Automated carbon data pipelines eliminate reporting discrepancies across global subsidiaries. | **Outcome Strategy:**<br>Achieved AA rating from major global ESG rating agencies. |
+| **Standardizing Global ESG:**<br>Standardizing global ESG reporting across 45 international business subsidiaries. | **Project Leaders:**<br>Unified compliance standards streamlined multinational disclosure workflows and stakeholder trust. | **Data Analytics Team:**<br>Automated carbon data pipelines eliminate reporting discrepancies across global subsidiaries. | **Outcome Strategy:**<br>Achieved AA rating from major global ESG rating agencies. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Identifying Financial Materiality:**<br>How climate change impacts corporate asset value. | **Identifying Impact Materiality:**<br>How business operations impact society and nature. | **Stakeholder Engagement:**<br>Consulting shareholders employees suppliers and communities for sustainable. |
+| **Financial Materiality:**<br>Assessing how climate change and resource scarcity impact corporate asset value. | **Impact Materiality:**<br>Evaluating how business operations and supply chains impact society and nature. | **Stakeholder Engagement:**<br>Consulting shareholders, employees, suppliers, and local communities regularly. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Engaging independent accounting firms to perform limited and. Establishing internal controls for ESG data collection equivalent.<br><br>Utilizing blockchain ledgers for immutable audit trails of. |
+| Engaging independent accounting firms to perform limited and reasonable assurance audits. Establishing internal controls for ESG data collection equivalent to financial auditing.<br><br>Utilizing immutable digital ledgers for audit trails of corporate carbon footprint calculations. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Cloud Based Esg:**<br>Cloud-based ESG software platforms consolidating data from hundreds. | **Artificial Intelligence Algorithms:**<br>Artificial intelligence algorithms detecting anomalous energy readings across factories. |
+| **Cloud-Based ESG Software:**<br>Cloud-based ESG software platforms consolidate data from hundreds of facilities. | **AI Audit Algorithms:**<br>Artificial intelligence algorithms detect anomalous energy readings across global factories. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

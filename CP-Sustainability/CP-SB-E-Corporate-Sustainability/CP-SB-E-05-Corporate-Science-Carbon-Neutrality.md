@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Setting carbon reduction targets consistent with limiting global. Arbitrary net-zero pledges without scientific backing face intense.<br><br>SBTi validation requires near-term 50 carbon cuts within. |
+| Setting carbon reduction targets consistent with limiting global warming to 1.5°C. Arbitrary net-zero pledges without scientific backing face intense market skepticism.<br><br>SBTi validation requires near-term 50% carbon cuts within 10 years. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Retrofitting Commercial Facilities:**<br>Retrofitting commercial facilities with high-efficiency LED HVAC and. | **Transitioning Industrial Thermal:**<br>Transitioning industrial thermal heating processes from fossil fuels. |
+| **Facility Energy Retrofits:**<br>Retrofitting commercial facilities with high-efficiency LED, HVAC, and smart controls. | **Thermal Electrification:**<br>Transitioning industrial thermal heating processes from fossil fuels to clean electricity. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Replacing Internal Combustion:**<br>Replacing internal combustion vehicle fleets with electric and. | **Eliminating High Global:**<br>Eliminating high-global-warming-potential industrial refrigerants from cooling systems. | **Optimizing Manufacturing Processes:**<br>Optimizing manufacturing processes to eliminate fugitive methane and. | **Operational Benefits:**<br>Lower fuel and maintenance expenditures for corporate fleets. |
+| **Fleet Electrification:**<br>Replacing internal combustion vehicle fleets with electric and fuel-cell vehicles. | **Refrigerant Transition:**<br>Eliminating high-global-warming-potential industrial refrigerants from cooling systems. | **Methane Leak Abatement:**<br>Optimizing manufacturing processes to eliminate fugitive methane and process emissions. | **Fleet Maintenance Savings:**<br>Lower fuel and maintenance expenditures for corporate electric fleets. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Executing Net Zero:**<br>Executing net-zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>Science-based targets ensure rigorous emission reductions verified by climate metrics. |
+| **Net-Zero Transition Plan:**<br>Executing net-zero transition strategy across 80 international manufacturing facilities. | **Lead Science Advisor:**<br>Science-based targets ensure rigorous emission reductions verified by climate metrics. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Engaging Top 100:**<br>Engaging top 100 suppliers to adopt 100 renewable. | **Redesigning Products Reduce:**<br>Redesigning products to reduce energy consumption during consumer. | **Optimizing Global Shipping:**<br>Optimizing global shipping logistics to transition freight from. |
+| **Supplier Renewable Power:**<br>Engaging top 100 suppliers to adopt 100% renewable electricity. | **Product Energy Efficiency:**<br>Redesigning products to reduce energy consumption during consumer use phase. | **Freight Mode Shift:**<br>Optimizing global shipping logistics to transition freight from air to maritime rail. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Residual Emissions 10:**<br>Residual emissions under 10 neutralized exclusively through high-integrity. | **Direct Air Dac:**<br>Direct Air Capture DAC and permanent geological carbon. | **High Quality Certified:**<br>High-quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Avoided Pitfalls:**<br>Rejecting unverified low-quality carbon offset credits for sustainable. |
+| **Residual Emission Neutralization:**<br>Residual emissions under 10% neutralized exclusively through high-integrity carbon removals. | **Direct Air Capture:**<br>Investing in Direct Air Capture (DAC) and permanent geological carbon storage. | **Ecosystem Carbon Restorations:**<br>High-quality certified reforestation and coastal mangrove ecosystem restoration projects. | **Offset Integrity Standards:**<br>Rejecting unverified low-quality carbon offset credits in favor of permanent removals. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Establishing internal carbon fee 75 per ton CO2. Internal carbon tax proceeds fund corporate clean tech.<br><br>Green capital expenditure CapEx prioritized for projects with. |
+| Establishing an internal carbon fee of $75 per ton CO2 across business units. Internal carbon fee proceeds fund corporate clean tech innovation grant pools.<br><br>Green capital expenditure (CapEx) prioritized for projects with high verified decarbonization ROI. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Internal Climate Academy:**<br>Internal climate academy educating staff on corporate net-zero. | **Departmental Carbon Budgets:**<br>Departmental carbon budgets tracking team emissions performance quarterly. |
+| **Internal Climate Academy:**<br>Internal climate academy educating staff on corporate net-zero transition goals. | **Departmental Carbon Budgets:**<br>Departmental carbon budgets tracking team emissions performance quarterly. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

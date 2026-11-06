@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Connected Iot Sensors:**<br>Connected IoT sensors monitor air quality traffic flow. | **Intelligent Street Lighting:**<br>Intelligent street lighting dims automatically when no pedestrians. |
+| **Connected IoT Sensors:**<br>Connected IoT sensors monitor air quality, traffic flow, and energy usage in real time. | **Intelligent Street Lighting:**<br>Intelligent street lighting dims automatically when no pedestrians are present. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Integrating Living Plants:**<br>Integrating living plants onto building facades reduces interior. | **Vertical Gardens Absorb:**<br>Vertical gardens absorb urban carbon dioxide and release. | **High Performance Building:**<br>High-performance building envelopes minimize thermal bridging and air leaks. |
+| **Living Green Facades:**<br>Integrating living plants onto building facades reduces interior cooling loads. | **Vertical Urban Gardens:**<br>Vertical gardens absorb urban carbon dioxide and release fresh oxygen. | **High-Performance Envelopes:**<br>High-performance building envelopes minimize thermal bridging and air leaks. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Permeable Pavement Surfaces:**<br>Permeable pavement surfaces allow rainwater to filter directly. | **Smart Stormwater Monitoring:**<br>Smart stormwater monitoring prevents storm drain overflows during. | **Rainwater Collection Cisterns:**<br>Rainwater collection cisterns supply greywater for city park. | **Flooding Mitigation:**<br>Wetland parks act as natural sponge buffers during. |
+| **Permeable Pavements:**<br>Permeable pavement surfaces allow rainwater to filter directly into aquifers. | **Smart Stormwater Monitoring:**<br>Smart stormwater monitoring prevents storm drain overflows during heavy rains. | **Rainwater Cisterns:**<br>Rainwater collection cisterns supply greywater for city park irrigation. | **Flood Mitigation Wetlands:**<br>Wetland parks act as natural sponge buffers during extreme weather events. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Prioritizing Pedestrian Walkways:**<br>Prioritizing pedestrian walkways and dedicated protected cycling pathways. | **Integrating Electric Micro:**<br>Integrating electric micro-mobility charging docks near transit terminals. |
+| **Pedestrian Corridors:**<br>Prioritizing pedestrian walkways and dedicated protected cycling pathways. | **Electric Micro-Mobility:**<br>Integrating electric micro-mobility charging docks near transit terminals. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Ensuring smart city sensor networks respect citizen privacy. Transparent open-data portals enable civic developers to build.<br><br>Citizen feedback channels incorporate public preferences into urban. |
+| Ensuring smart city sensor networks respect citizen privacy and data rights. Transparent open-data portals enable civic developers to build useful community applications.<br><br>Citizen feedback channels incorporate public preferences into urban planning decisions. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Eco Districts Attract:**<br>Eco-districts attract green technology businesses and creative professionals. | **Affordable Sustainable Housing:**<br>Affordable sustainable housing options prevent gentrification displacement. | **Vibrant Public Plazas:**<br>Vibrant public plazas foster community cohesion and outdoor. |
+| **Eco-District Growth:**<br>Eco-districts attract green technology businesses and creative professionals. | **Affordable Green Housing:**<br>Affordable sustainable housing options prevent gentrification displacement. | **Vibrant Public Plazas:**<br>Vibrant public plazas foster community cohesion and outdoor cultural life. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

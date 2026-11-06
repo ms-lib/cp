@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Upstream supply chains account for over 80 of. Global vendor networks present complex visibility and ethical.<br><br>Single-source supply chains face high vulnerability to climate-driven. |
+| Upstream supply chains account for over 80% of a typical corporation's carbon footprint. Global vendor networks present complex visibility and ethical compliance challenges.<br><br>Single-source supply chains face high vulnerability to climate-driven weather disruptions. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Mandatory Environmental Scorecards:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection. | **Requiring Top Tier:**<br>Requiring top-tier suppliers to set verified science-based carbon. |
+| **Environmental Scorecards:**<br>Mandatory environmental scorecards during vendor bidding and RFP selection. | **Science-Based Targets:**<br>Requiring top-tier suppliers to set verified science-based carbon reduction targets. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Shifting Long Haul:**<br>Shifting long-haul freight transport from aviation to high-efficiency. | **Transitioning Short Haul:**<br>Transitioning short-haul delivery fleets to battery electric and. | **Optimizing Route Planning:**<br>Optimizing route planning software to minimize vehicle mileage. |
+| **Intermodal Rail Freight:**<br>Shifting long-haul freight transport from aviation to high-efficiency rail. | **Electric Delivery Fleets:**<br>Transitioning short-haul delivery fleets to battery electric and alternative fuel vehicles. | **Route Planning Optimization:**<br>Optimizing route planning software to minimize vehicle mileage and fuel use. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Decarbonizing Supply Chain:**<br>Decarbonizing supply chain operations across 200 primary component suppliers. | **Global Leadership:**<br>Supplier decarbonization pacts fortify geopolitical resilience and brand equity worldwide. | **Logistics Lead:**<br>Route optimization and low-emission carriers reduced freight emissions by forty percent. |
+| **Supply Chain Decarbonization:**<br>Decarbonizing supply chain operations across 200 primary component suppliers. | **Global Leadership:**<br>Supplier decarbonization pacts fortify geopolitical resilience and brand equity worldwide. | **Logistics Lead:**<br>Route optimization and low-emission carriers reduced freight emissions by forty percent. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Digital Block Chain:**<br>Digital block-chain ledgers tracking raw material origin from. | **Guaranteeing ethically sourced:**<br>guaranteeing ethically sourced minerals and deforestation-free timber procurement. | **Certified Organic Fair:**<br>Certified organic fair-trade and recycled material certification validation. | **Brand Reputation:**<br>Eliminating risks of hidden environmental or human rights violations. |
+| **Blockchain Traceability:**<br>Digital blockchain ledgers tracking raw material origin from source to product. | **Ethical Sourcing:**<br>Guaranteeing ethically sourced minerals and deforestation-free timber procurement. | **Certified Material Standards:**<br>Certified organic, fair-trade, and recycled material certification validation. | **Reputational Risk Protection:**<br>Eliminating risks of hidden environmental or human rights violations. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Hosting Annual Corporate:**<br>Hosting annual corporate supplier sustainability summits and training webinars. | **Providing Smaller Vendors:**<br>Providing smaller vendors with free carbon accounting tools. |
+| **Supplier Sustainability Summits:**<br>Hosting annual corporate supplier sustainability summits and training webinars. | **Vendor Carbon Toolkits:**<br>Providing smaller vendors with free carbon accounting tools and technical guidance. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Specifying Mandatory Minimum:**<br>Specifying mandatory minimum post-consumer recycled content in corporate. | **Requiring Suppliers Take:**<br>Requiring suppliers to take back industrial packaging materials. | **Zero Landfill Waste:**<br>Implementing zero-landfill-waste requirements across all tier-one supplier factories. |
+| **Mandatory Recycled Content:**<br>Specifying mandatory minimum post-consumer recycled content in packaging. | **Supplier Packaging Takeback:**<br>Requiring suppliers to take back industrial packaging materials and pallets. | **Zero-Landfill Standards:**<br>Implementing zero-landfill-waste requirements across all tier-one supplier factories. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

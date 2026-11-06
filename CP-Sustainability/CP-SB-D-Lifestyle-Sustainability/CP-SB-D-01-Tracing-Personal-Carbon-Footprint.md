@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Every daily choice transportation diet heating consumption emits carbon. The global average personal footprint exceeds sustainable planetary boundaries.<br><br>Home energy use personal vehicle travel and food choice. |
+| Every daily choice—transportation, diet, heating, and consumption—emits carbon into our shared atmosphere. The global average personal footprint exceeds sustainable planetary boundaries.<br><br>Home energy use, personal vehicle travel, and dietary choices account for over 70% of individual emissions. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Direct Emissions Scope:**<br>Fuel burned in personal cars and home natural. | **Indirect Energy Emissions:**<br>Electricity consumed from local utility grids for sustainable. | **Supply Chain Emissions:**<br>Embedded carbon in purchased goods and food. |
+| **Direct Scope 1 Emissions:**<br>Fuel burned in personal cars and home natural gas heating. | **Indirect Energy Emissions:**<br>Electricity consumed from local utility grids powered by fossil fuels. | **Supply Chain Emissions:**<br>Embedded carbon in purchased consumer goods and food products. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Switching Home Electricity:**<br>Switching home electricity contracts to 100 renewable energy providers. | **Retrofitting Home Insulation:**<br>Retrofitting home insulation and upgrading to high-efficiency heat pumps. |
+| **Renewable Electricity Contracts:**<br>Switching home electricity contracts to 100% renewable energy providers. | **Insulation & Heat Pumps:**<br>Retrofitting home insulation and upgrading to high-efficiency heat pumps. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Commercial Aviation Represents:**<br>Commercial aviation represents a high proportion of frequent. | **Choosing Rail Travel:**<br>Choosing rail travel over short-haul domestic flights dramatically. | **Embracing Eco Tourism:**<br>Embracing eco-tourism destinations that invest in local ecosystem conservation. |
+| **Aviation Carbon Impact:**<br>Commercial aviation represents a high proportion of frequent traveler carbon footprints. | **High-Speed Rail Travel:**<br>Choosing rail travel over short-haul flights dramatically cuts travel emissions. | **Eco-Tourism Destinations:**<br>Embracing eco-tourism destinations that invest in local ecosystem conservation. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Fast Fashion Industry:**<br>Fast fashion industry creates significant water resource impact and. | **Building Capsule Wardrobe:**<br>Building a capsule wardrobe of timeless high-quality sustainably. | **Buying Secondhand Vintage:**<br>Buying secondhand vintage clothing and participating in garment. | **Garment Care:**<br>Washing clothes in cold water and line-drying saves energy. |
+| **Fast Fashion Impact:**<br>Fast fashion creates significant water pollution and landfill textile waste. | **Capsule Wardrobes:**<br>Building a capsule wardrobe of timeless, high-quality, durable garments. | **Secondhand & Swaps:**<br>Buying vintage clothing and participating in local garment swap events. | **Sustainable Garment Care:**<br>Washing clothes in cold water and line-drying saves significant energy. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Digital cloud storage and streaming video consume substantial. Unsubscribing from spam emails and cleaning up unnecessary.<br><br>Extending personal electronics usage lifespans from two years. |
+| Digital cloud storage and streaming video consume substantial data center electricity. Unsubscribing from digital newsletters and deleting unneeded cloud storage.<br><br>Extending smartphone and laptop lifespans from two years to five years. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Sharing Personal Footprint:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors. | **Advocating Municipal Bike:**<br>Advocating for municipal bike lanes and public transit. |
+| **Peer Footprint Sharing:**<br>Sharing personal footprint reduction milestones inspires friends and neighbors. | **Municipal Transit Advocacy:**<br>Advocating for municipal bike lanes, pedestrian zones, and public transit. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

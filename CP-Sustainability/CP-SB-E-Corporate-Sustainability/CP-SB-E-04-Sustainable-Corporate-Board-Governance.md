@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Modern corporate fiduciary duty includes managing material climate. Boards face liability exposure for neglecting foreseeable environmental disruptions.<br><br>Activist investors demand climate expertise and independence on. |
+| Modern corporate fiduciary duty includes managing material climate risks and opportunities. Boards face liability exposure for neglecting foreseeable environmental disruptions.<br><br>Activist investors demand climate expertise and independence on corporate boards. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Forming Dedicated Board:**<br>Forming dedicated Board Sustainability Climate Oversight Committees. | **Defining Clear Committee:**<br>Defining clear committee charters for monitoring corporate ESG. | **Recruiting Independent Directors:**<br>Recruiting independent directors with deep expertise in environmental. |
+| **Board Climate Committees:**<br>Forming dedicated Board Sustainability and Climate Oversight Committees. | **Committee Charters:**<br>Defining clear committee charters for monitoring corporate ESG risk and strategy. | **Expert Independent Directors:**<br>Recruiting independent directors with deep expertise in environmental and climate science. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Tying Executive Bonuses:**<br>Tying executive bonuses and long-term incentives LTIP to. | **Mandating Specific Carbon:**<br>Mandating specific carbon reduction milestones for Chief Executive. |
+| **Executive ESG Incentives:**<br>Tying executive bonuses and long-term incentives (LTIP) to ESG goal achievement. | **CEO Carbon Milestones:**<br>Mandating specific carbon reduction milestones for Chief Executive Officer scorecards. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Restructuring Board Oversight:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate. | **Governance Lead:**<br>Dedicated sustainability committees align executive incentives with long-term climate stewardship. | **Legal Compliance Counsel:**<br>Robust governance charters mitigate liability risks from evolving international regulations. |
+| **Board Governance Modernization:**<br>Restructuring board oversight for a Fortune 500 industrial conglomerate. | **Governance Lead:**<br>Dedicated sustainability committees align executive incentives with long-term climate stewardship. | **Legal Compliance Counsel:**<br>Robust governance charters mitigate liability risks from evolving international regulations. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Conducting Tcfd Aligned:**<br>Conducting TCFD-aligned climate scenario evaluations 1 5 C. | **Assessing Physical Risk:**<br>Assessing physical risk impact on corporate manufacturing assets. | **Evaluating Transition Risks:**<br>Carbon taxes shifting technology and changing consumer tastes. | **Strategic Resilience:**<br>Adapting business model capital allocations based on findings. |
+| **TCFD Scenario Analysis:**<br>Conducting TCFD-aligned climate scenario evaluations against 1.5°C pathways. | **Physical Risk Assessment:**<br>Assessing physical risk impact on corporate manufacturing assets and facilities. | **Transition Risk Modeling:**<br>Modeling carbon tax impacts, shifting technologies, and evolving market preferences. | **Strategic Capital Allocation:**<br>Adapting business model capital allocations based on climate scenario findings. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Proactive Board Dialogue:**<br>Proactive board dialogue with institutional investors regarding climate. | **Constructive Engagement Shareholder:**<br>Constructive engagement on shareholder resolutions regarding environmental disclosure. |
+| **Investor Climate Dialogue:**<br>Proactive board dialogue with institutional investors regarding climate transition strategies. | **Shareholder Resolution Review:**<br>Constructive engagement on shareholder resolutions regarding environmental disclosure. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Enforcing strict corporate codes of business conduct across. Whistleblower protection mechanisms for reporting environmental and accounting violations.<br><br>Third-party anti-bribery and Compliance Risk auditing across all international. |
+| Enforcing strict corporate codes of business conduct across global operations. Whistleblower protection mechanisms for reporting environmental and accounting violations.<br><br>Third-party anti-bribery and compliance auditing across all international business units. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Increasing Board Gender:**<br>Increasing board gender racial and international diversity to. | **Diverse Board Perspectives:**<br>Diverse board perspectives prevent groupthink during strategic climate. | **Refreshing Board Tenure:**<br>Refreshing board tenure policies to introduce innovative modern. |
+| **Board Diversity Expansion:**<br>Increasing board gender, racial, and international diversity to enhance decision-making. | **Preventing Groupthink:**<br>Diverse board perspectives prevent groupthink during strategic climate evaluations. | **Board Tenure Refreshment:**<br>Refreshing board tenure policies to introduce innovative modern sustainability skill sets. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

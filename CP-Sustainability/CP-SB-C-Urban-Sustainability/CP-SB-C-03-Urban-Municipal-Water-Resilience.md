@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Membrane Bioreactor Systems:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment. | **Reverse Osmosis Desalination:**<br>Reverse osmosis desalination supplies reliable drinking water to. | **Advanced Oxidation Processes:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-particles. |
+| **Membrane Bioreactor Systems:**<br>Membrane bioreactor systems deliver high-efficiency wastewater treatment. | **Reverse Osmosis Desalination:**<br>Reverse osmosis desalination supplies reliable drinking water to coastal cities. | **Advanced Oxidation Processes:**<br>Advanced oxidation processes remove pharmaceutical residues and micro-pollutants. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Large Scale Urban:**<br>Large-scale urban cisterns collect stormwater runoff from industrial. | **Managed Aquifer Recharge:**<br>Managed aquifer recharge injects treated water into underground. | **Rain Gardens Along:**<br>Rain gardens along roadways filter heavy road pollutants. | **Capacity Management:**<br>Reducing municipal stormwater drainage system overload for sustainable. |
+| **Large-Scale Cisterns:**<br>Large-scale urban cisterns collect stormwater runoff from industrial facilities. | **Managed Aquifer Recharge:**<br>Managed aquifer recharge injects treated water into underground reserves. | **Bioswale Rain Gardens:**<br>Rain gardens along roadways filter heavy road pollutants effectively. | **Stormwater Management:**<br>Reducing municipal stormwater drainage system overload during heavy downpours. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Implementation City Wide:**<br>Implementation of city-wide recycled water network for industrial cooling. | **Zero Leadership:**<br>Closed-loop recycled water networks secure vital municipal supplies against droughts. |
+| **Industrial Water Recycling:**<br>Implementation of city-wide recycled water network for industrial cooling. | **Water Security Leadership:**<br>Closed-loop recycled water networks secure vital municipal supplies against droughts. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Acoustic Iot Sensors:**<br>Acoustic IoT sensors detect subterranean pipe leaks before. | **Smart Digital Meters:**<br>Smart digital meters provide real-time water consumption feedback. | **Dynamic Pricing Models:**<br>Dynamic pricing models encourage water conservation during extreme. | **Loss Reduction:**<br>Cutting non-revenue water loss from 25 down to. |
+| **Acoustic IoT Sensors:**<br>Acoustic IoT sensors detect subterranean pipe leaks before major bursts occur. | **Smart Digital Meters:**<br>Smart digital meters provide real-time water consumption feedback to residents. | **Dynamic Pricing Models:**<br>Dynamic pricing models encourage water conservation during extreme summer droughts. | **Leakage Loss Reduction:**<br>Cutting non-revenue water loss from 25% down to under 10%. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Mandating Closed Loop:**<br>Mandating closed-loop water treatment systems for high-water commercial users. | **Greywater Reuse Systems:**<br>Greywater reuse systems flush commercial office building toilets. | **Financial Incentives Factories:**<br>Financial incentives for factories adopting zero-liquid-discharge ZLD technologies. |
+| **Mandating Closed-Loop Systems:**<br>Mandating closed-loop water treatment systems for high-water commercial users. | **Greywater Reuse Systems:**<br>Greywater reuse systems flush commercial office building toilets. | **Zero Liquid Discharge:**<br>Financial incentives for factories adopting zero-liquid-discharge (ZLD) technologies. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Partnering with rural upstream communities to protect municipal. Reforestation along riverbanks reduces soil erosion and sediment.<br><br>Preserving natural wetlands provides low-cost organic filtering of. |
+| Partnering with rural upstream communities to protect municipal river source zones. Reforestation along riverbanks reduces soil erosion and sediment build-up.<br><br>Preserving natural wetlands provides low-cost organic filtering of municipal water supplies. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 

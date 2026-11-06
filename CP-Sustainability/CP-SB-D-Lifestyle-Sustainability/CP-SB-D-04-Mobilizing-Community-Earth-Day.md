@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Global environmental crises require strong coordinated neighborhood civic action. Earth Day serves as a powerful focal point.<br><br>Community events bridge social divides and foster shared. |
+| Global environmental crises require strong coordinated neighborhood civic action. Earth Day serves as a catalytic focal point for community action.<br><br>Community-driven events bridge social divides and foster shared environmental responsibility. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Organizing Neighborhood Litter:**<br>Organizing neighborhood litter removal across local parks beaches. | **Providing Volunteers Protective:**<br>Providing volunteers with protective gloves trash pickers and. | **Sorting Collected Waste:**<br>Sorting collected waste on-site to separate recyclables from. |
+| **Neighborhood Litter Cleanups:**<br>Organizing neighborhood litter removal across local parks, beaches, and waterways. | **Volunteer Protective Gear:**<br>Providing volunteers with protective gloves, trash pickers, and compostable bags. | **On-Site Waste Sorting:**<br>Sorting collected waste on-site to separate recyclables from landfill trash. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Partnering City Arborists:**<br>Partnering with city arborists to plant native trees. | **Establishing Wildflower Pollinator:**<br>Establishing wildflower pollinator gardens in public parkways and. |
+| **Urban Tree Planting:**<br>Partnering with city arborists to plant native shade trees along streets. | **Pollinator Gardens:**<br>Establishing wildflower pollinator gardens in public parkways and school grounds. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Hosting Interactive Workshops:**<br>Hosting interactive workshops on home composting recycling and. | **Repair Cafes Where:**<br>Repair Cafes where skilled volunteers fix broken household. | **Sustainable Cooking Demonstrations:**<br>Sustainable cooking demonstrations promoting plant-based zero-waste recipes. | **Skill Sharing:**<br>Empowering community members with practical eco-friendly skills. |
+| **Interactive Eco Workshops:**<br>Hosting interactive workshops on home composting, recycling, and solar energy. | **Community Repair Cafes:**<br>Repair Cafes where skilled volunteers fix broken household appliances and electronics. | **Sustainable Cooking:**<br>Sustainable cooking demonstrations promoting plant-based zero-waste recipes. | **Practical Skill Sharing:**<br>Empowering community members with practical eco-friendly daily life skills. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Partnering Neighborhood Shops:**<br>Partnering with neighborhood shops to eliminate single-use plastic. | **Local Restaurants Offering:**<br>Local restaurants offering special planet-friendly vegan lunch menus. |
+| **Local Merchant Partnerships:**<br>Partnering with neighborhood shops to eliminate single-use plastic packaging. | **Green Restaurant Menus:**<br>Local restaurants offering special planet-friendly plant-based lunch menus. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Utilizing social media campaigns to recruit volunteers and. Photo contests highlighting local natural beauty and volunteer.<br><br>Digital pledge campaigns encouraging residents to commit to. |
+| Utilizing social media campaigns to recruit volunteers and amplify environmental awareness. Photo contests highlighting local natural beauty and volunteer cleanup efforts.<br><br>Digital pledge campaigns encouraging residents to commit to year-round sustainable habits. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Organizing Community Town:**<br>Organizing community town hall meetings with municipal elected. | **Presenting Citizen Petitions:**<br>Presenting citizen petitions for expanded municipal bike lanes. | **Elevating Environmental Justice:**<br>Elevating environmental justice concerns from historically underserved neighborhoods. |
+| **Civic Town Halls:**<br>Organizing community town hall meetings with municipal elected officials. | **Citizen Petitions:**<br>Presenting citizen petitions for expanded municipal bike lanes and parks. | **Environmental Justice:**<br>Elevating environmental justice concerns from historically underserved neighborhoods. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

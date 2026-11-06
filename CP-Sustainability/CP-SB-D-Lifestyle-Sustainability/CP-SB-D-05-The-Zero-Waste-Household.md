@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| The 5 Rs Refuse Reduce Reuse Recycle and. Refusing single-use marketing freebies plastic straws and disposable utensils.<br><br>Reducing overall household consumption by purchasing only what. |
+| The 5 Rs: Refuse, Reduce, Reuse, Recycle, and Rot. Refusing single-use marketing freebies, plastic straws, and disposable utensils.<br><br>Reducing overall household consumption by purchasing only what is genuinely necessary. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Replacing Disposable Paper:**<br>Replacing disposable paper towels with washable organic cloth rags. | **Buying Package Free:**<br>Buying package-free grains spices and oils at local. |
+| **Washable Cloth Towels:**<br>Replacing disposable paper towels with washable organic cloth rags. | **Package-Free Bulk Food:**<br>Buying package-free grains, spices, and cooking oils at local bulk grocers. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Switching Liquid Soap:**<br>Switching from liquid soap in plastic bottles to. | **Replacing Plastic Toothbrushes:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives. | **Utilizing Safety Razors:**<br>Utilizing safety razors with replaceable steel blades instead. |
+| **Solid Soap Bars:**<br>Switching from liquid soap in plastic bottles to solid bar soaps and shampoos. | **Bamboo Toothbrushes:**<br>Replacing plastic toothbrushes with biodegradable natural bamboo alternatives. | **Stainless Safety Razors:**<br>Utilizing safety razors with replaceable steel blades instead of disposable plastics. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Suburban Family Transitioning:**<br>A suburban family transitioning from three trash bags weekly to near-zero. | **Lead Coach:**<br>Simple bulk shopping habits drastically reduce residential packaging waste within months. |
+| **Zero-Waste Family Transition:**<br>A suburban family transitioning from three trash bags weekly to near-zero. | **Lead Coach:**<br>Simple bulk shopping habits drastically reduce residential packaging waste within months. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Bringing Reusable Cotton:**<br>Bringing reusable cotton mesh bags for fresh fruits. | **Tare Weighing Glass:**<br>Tare-weighing glass jars at bulk stores before filling. | **Choosing Glass Aluminum:**<br>Choosing glass aluminum or cardboard packaging over non-recyclable. | **Farmers Markets:**<br>Shopping locally to avoid plastic agricultural produce wrapping. |
+| **Reusable Produce Bags:**<br>Bringing reusable cotton mesh bags for fresh fruits and vegetables. | **Tare-Weighing Jars:**<br>Tare-weighing glass jars at bulk stores before filling with dry goods. | **Recyclable Packaging:**<br>Choosing glass, aluminum, or cardboard packaging over non-recyclable multi-layer plastics. | **Local Farmers Markets:**<br>Shopping locally at farmers markets to avoid plastic produce packaging. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Using Natural Laundry:**<br>Using natural laundry detergent sheets or refillable liquid. | **Drying Clothes Naturally:**<br>Drying clothes naturally on outdoor clotheslines or indoor. |
+| **Eco Laundry Sheets:**<br>Using natural laundry detergent sheets or refillable liquid detergent stations. | **Air-Drying Clothes:**<br>Drying clothes naturally on outdoor clotheslines or indoor drying racks. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Safely recycling old electronics batteries and lightbulbs at. Disposing of leftover household paints and chemicals through.<br><br>Repairing damaged household electronics instead of discarding them prematurely. |
+| Safely recycling old electronics, batteries, and lightbulbs at certified municipal drop-off centers. Disposing of leftover paints and household chemicals through hazardous waste programs.<br><br>Repairing damaged household electronics and appliances instead of discarding them prematurely. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Navigating Convenience Culture:**<br>Navigating convenience culture when traveling or dining out. | **Managing Packaging Waste:**<br>Managing packaging waste when receiving mandatory prescription medications. | **Encouraging Family Members:**<br>Encouraging family members and children without creating friction. |
+| **Dining Out Consciously:**<br>Navigating convenience culture when traveling or dining out with reusable kits. | **Medical Packaging Care:**<br>Managing packaging waste when receiving mandatory prescription medications. | **Positive Family Alignment:**<br>Encouraging family members and children without creating friction or pressure. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

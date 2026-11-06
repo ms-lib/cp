@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Global consumer reliance on single-use plastic water bottles. Plastic bottles require fossil fuel extraction and emit.<br><br>Millions of plastic bottles end up floating in. |
+| Global consumer reliance on single-use plastic water bottles creates massive environmental waste. Manufacturing plastic bottles consumes fossil fuels and generates greenhouse gas emissions.<br><br>Millions of discarded plastic bottles end up polluting marine ecosystems and oceans. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Adequate Daily Water:**<br>Adequate daily water intake is essential for cellular. | **Proper Hydration Improves:**<br>Proper hydration improves physical endurance skin health and. |
+| **Cellular Function:**<br>Adequate daily water intake is essential for cellular energy and mental clarity. | **Physical Vitality:**<br>Proper hydration improves physical endurance, skin health, and bodily detoxification. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Installing Multi Stage:**<br>Installing multi-stage reverse osmosis or active carbon filters. | **Countertop Filtration Pitchers:**<br>Countertop filtration pitchers provide accessible clean water without. | **Regular Filter Replacement:**<br>Regular filter replacement schedules ensure optimal water purity. |
+| **Reverse Osmosis Filtration:**<br>Installing multi-stage reverse osmosis or active carbon filters at home. | **Pitcher Filtration Systems:**<br>Countertop filtration pitchers provide accessible clean water without plastic bottles. | **Filter Replacement Routine:**<br>Regular filter replacement schedules ensure optimal water purity and flow. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Food Grade Stainless:**<br>Food-grade stainless steel bottles keep water cold for. | **Borosilicate Glass Containers:**<br>Borosilicate glass containers offer pure taste and easy. | **Bpa Free Lightweight:**<br>BPA-free lightweight durable silicone bottles ideal for outdoor. | **Hygiene Care:**<br>Daily cleaning with non-synthetic soap prevents bacterial buildup. |
+| **Stainless Steel Bottles:**<br>Food-grade stainless steel bottles keep water cold for 24 hours. | **Borosilicate Glassware:**<br>Borosilicate glass containers offer pure taste and easy dishwasher cleaning. | **Collapsible Silicone:**<br>BPA-free lightweight durable silicone bottles ideal for outdoor athletic activities. | **Vessel Hygiene:**<br>Daily cleaning with natural soap prevents bacterial and fungal buildup. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Municipal Installation Modern:**<br>Municipal installation of modern refillable water stations in. | **Touchless Sensor Refilling:**<br>Touchless sensor refilling taps reduce germ transmission in. |
+| **Public Refill Stations:**<br>Municipal installation of modern refillable water stations in public parks. | **Touchless Sensor Taps:**<br>Touchless sensor refilling taps reduce germ transmission in high-traffic hubs. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Hydrating through water-rich organic fruits and vegetables like. Herbal teas and infused waters provide antioxidant benefits.<br><br>Reducing high-sugar sodas and energy drinks lowers chronic. |
+| Hydrating through water-rich organic fruits and vegetables like cucumbers and watermelon. Herbal teas and infused waters provide antioxidant benefits without added sugars.<br><br>Reducing high-sugar sodas and processed energy drinks lowers chronic health risks. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Teaching School Children:**<br>Teaching school children about the hydrologic cycle and. | **Distributing Stainless Steel:**<br>Distributing stainless steel water bottles to elementary students. | **School Campaigns Challenging:**<br>School campaigns challenging students to eliminate single-use beverage containers. |
+| **Youth Water Education:**<br>Teaching school children about the hydrologic cycle and ocean plastic pollution. | **Reusable Bottle Programs:**<br>Distributing stainless steel water bottles to elementary school students. | **Zero-Waste School Drives:**<br>School campaigns challenging students to eliminate single-use beverage containers. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

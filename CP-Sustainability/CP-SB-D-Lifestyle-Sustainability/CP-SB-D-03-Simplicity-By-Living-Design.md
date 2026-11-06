@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Hyper-consumerism leads to physical clutter mental clutter and. Conscious living focuses on quality functional utility and.<br><br>Decoupling personal happiness from continuous material acquisition. |
+| Hyper-consumerism leads to physical clutter, mental fatigue, and financial strain. Conscious living focuses on quality, functional utility, and emotional clarity.<br><br>Decoupling personal happiness from continuous material accumulation. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Utilizing Natural Non:**<br>Utilizing natural non-synthetic materials like reclaimed wood bamboo. | **Low Voc Paints:**<br>Low-VOC paints improve indoor air quality and protect. | **Maximizing Natural Daylight:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements. |
+| **Natural Materials:**<br>Utilizing natural non-toxic materials like reclaimed wood and bamboo. | **Low-VOC Paints:**<br>Low-VOC paints improve indoor air quality and protect family respiratory health. | **Natural Daylighting:**<br>Maximizing natural daylight design reduces daytime electric lighting requirements. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Auditing Personal Possessions:**<br>Auditing personal possessions to eliminate redundant and non-essential items. | **Donating Re Selling:**<br>Donating re-selling or recycling excess items to keep. | **24 Hour Rule:**<br>The 24-hour rule before non-essential purchases prevents impulsive. | **Borrowing Economy:**<br>Sharing tools and equipment with neighbors instead of buying. |
+| **Possession Audits:**<br>Auditing personal possessions to eliminate redundant and non-essential items. | **Circular Donation:**<br>Donating, reselling, or recycling excess items keeps materials in circulation. | **Mindful 24-Hour Rule:**<br>Applying a 24-hour waiting rule before non-essential purchases prevents impulse buying. | **Sharing Economy:**<br>Sharing tools and equipment with neighbors instead of buying redundant goods. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Organizing Kitchen Pantries:**<br>Organizing kitchen pantries with glass jars to buy. | **Cooking Meal Portions:**<br>Cooking meal portions intentionally to eliminate domestic food. | **Growing Home Herbs:**<br>Growing home herbs and microgreens on sunlit window. |
+| **Bulk Dry Storage:**<br>Organizing kitchen pantries with glass jars to buy staple dry goods in bulk. | **Intentional Meal Prep:**<br>Cooking meal portions intentionally to eliminate domestic food waste entirely. | **Windowsill Herb Gardens:**<br>Growing home herbs and microgreens on sunlit windowsills for fresh nutrition. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Developing Simple Daily:**<br>Developing simple daily routines like turning off lights. | **Taking Shorter Showers:**<br>Taking shorter showers and utilizing water-saving showerhead attachments. | **Unplugging Phantom Electronics:**<br>Unplugging phantom electronics load devices when not in. | **Smart Controls:**<br>Programmable thermostats adjust heating while residents sleep. |
+| **Energy Awareness:**<br>Developing simple daily routines like turning off lights in unoccupied rooms. | **Water Conservation:**<br>Taking shorter showers and utilizing water-saving showerhead attachments. | **Phantom Power Elimination:**<br>Unplugging phantom electronics load devices when not in active use. | **Smart Thermostats:**<br>Programmable thermostats optimize heating while residents sleep. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Integrating outdoor nature walks into daily work schedules. Transitioning away from digital screens during evening relaxation hours.<br><br>Prioritizing experiences relationships and learning over material purchases. |
+| Integrating outdoor nature walks into daily work schedules. Transitioning away from digital screens during evening relaxation hours.<br><br>Prioritizing shared experiences, meaningful relationships, and lifelong learning over material possessions. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Making Natural Household:**<br>Making natural household cleaners using vinegar baking soda. | **Replacing Single Use:**<br>Replacing single-use paper towels with washable organic cotton cloths. |
+| **DIY Natural Cleaners:**<br>Making natural household cleaners using vinegar, baking soda, and essential oils. | **Washable Cleaning Cloths:**<br>Replacing single-use paper towels with washable organic cotton cleaning cloths. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

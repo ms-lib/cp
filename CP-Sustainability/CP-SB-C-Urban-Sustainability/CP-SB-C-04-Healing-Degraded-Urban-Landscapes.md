@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Decades of unmonitored manufacturing left behind synthetic soil contaminants. Vacant urban lots degrade local property values and.<br><br>High urban concrete density eliminates natural soil filtration. |
+| Decades of unmonitored manufacturing left behind synthetic soil contaminants. Vacant urban lots degrade local property values and community safety.<br><br>High urban concrete density eliminates natural soil filtration and biodiversity. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Utilizing Specialized Plants:**<br>Utilizing specialized plants to extract and neutralize soil. | **Sunflowers Willows Absorb:**<br>Sunflowers and willows absorb heavy metals like lead. | **Soil Microbes Break:**<br>Soil microbes break down complex organic pollutants into. |
+| **Phytoremediation Planting:**<br>Utilizing specialized plants to extract and neutralize soil contaminants naturally. | **Heavy Metal Absorption:**<br>Sunflowers and willows absorb heavy metals like lead and cadmium. | **Microbial Bioremediation:**<br>Soil microbes break down complex organic pollutants into non-toxic compounds. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -61,7 +61,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Transforming Disused Railway:**<br>Transforming disused railway lines and factory sites into. | **Designing Multi Functional:**<br>Designing multi-functional spaces that blend recreation with native. |
+| **Linear Greenways:**<br>Transforming disused railway lines and factory sites into linear greenways. | **Multifunctional Spaces:**<br>Designing multi-functional spaces that blend recreation with native plant preservation. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -75,7 +75,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Transformation 50 Acre:**<br>Transformation of a 50-acre abandoned shipyard into vibrant public parkland. | **Eco Project Manager:**<br>Soil bioremediation successfully restored degraded industrial soil for public safety. | **Lead Designer:**<br>Native wetland buffers integrate ecological resilience with accessible recreational spaces. |
+| **Shipyard Parkland Conversion:**<br>Transformation of a 50-acre abandoned shipyard into vibrant public parkland. | **Eco Project Manager:**<br>Soil bioremediation successfully restored degraded industrial soil for public safety. | **Lead Designer:**<br>Native wetland buffers integrate ecological resilience with accessible recreational spaces. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Planting Diverse Native:**<br>Planting diverse native tree species across former industrial. | **Establishing Micro Forests:**<br>Establishing micro-forests using dense reforestation techniques in small spaces. | **Tree Canopy Coverage:**<br>Tree canopy coverage reduces heat island temperatures by. | **Carbon Strategy:**<br>Urban trees sequester tons of atmospheric carbon dioxide annually. |
+| **Native Tree Diversity:**<br>Planting diverse native tree species across former industrial sites. | **Establishing Micro-Forests:**<br>Establishing micro-forests using dense reforestation techniques in small spaces. | **Canopy Cooling Effect:**<br>Tree canopy coverage reduces heat island temperatures by up to 5°C. | **Carbon Sequestration:**<br>Urban trees sequester tons of atmospheric carbon dioxide annually. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Enriching Degraded Urban:**<br>Enriching degraded urban soils with organic compost and. | **Biochar Enhances Soil:**<br>Biochar enhances soil water retention and locks carbon. |
+| **Soil Enrichment:**<br>Enriching degraded urban soils with organic compost and biochar amendments. | **Biochar Carbon Storage:**<br>Biochar enhances soil water retention and locks carbon permanently. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Municipal Tax Credits:**<br>Municipal tax credits for private developers remediating contaminated land. | **Liability Protection Programs:**<br>Liability protection programs for non-profit groups taking over. | **Federal Grants Supporting:**<br>Federal grants supporting environmental assessment and cleanup of brownfields. |
+| **Remediation Tax Credits:**<br>Municipal tax credits for private developers remediating contaminated land. | **Liability Protection Programs:**<br>Liability protection programs for non-profit groups taking over abandoned lots. | **Federal Cleanup Grants:**<br>Federal grants supporting environmental assessment and cleanup of brownfields. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 

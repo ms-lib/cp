@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Designing Products Easy:**<br>Designing products for easy disassembly modular repair and. | **Utilizing Non synthetic:**<br>Utilizing non-synthetic bio-based or 100 recycled input materials. | **Standardizing Component Parts:**<br>Standardizing component parts across product lines to simplify refurbishment. |
+| **Design for Disassembly:**<br>Designing products for easy disassembly, modular repair, and component reuse. | **Bio-Based Materials:**<br>Utilizing non-toxic bio-based or 100% recycled input materials. | **Standardizing Components:**<br>Standardizing component parts across product lines to simplify refurbishment. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Partnering Industry Sectors:**<br>Partnering across industry sectors to utilize one factory's. | **Exchanging Industrial Waste:**<br>Exchanging industrial waste heat wastewater and byproduct chemicals locally. | **Eco Industrial Parks:**<br>Eco-industrial parks optimized for shared utility infrastructure and. |
+| **Industrial Symbiosis:**<br>Partnering across industry sectors to utilize one factory's waste as another's raw material. | **Waste Heat Exchange:**<br>Exchanging industrial waste heat, wastewater, and byproduct chemicals locally. | **Eco-Industrial Parks:**<br>Eco-industrial parks optimized for shared utility infrastructure and material exchange. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Esg Investors Award:**<br>ESG investors award higher valuation multiples to companies. | **Lowering Commodity Price:**<br>Lowering commodity price volatility risk reduces corporate cost. | **Extended Product Lifespans:**<br>Extended product lifespans generate recurring subscription revenue models. | **Accounting Innovation:**<br>Capitalizing retained product assets on corporate balance sheets. |
+| **ESG Investor Valuation:**<br>ESG investors award higher valuation multiples to companies with circular resilience. | **Lowering Commodity Risk:**<br>Lowering commodity price volatility risk reduces corporate operating costs. | **Extended Product Lifespans:**<br>Extended product lifespans generate recurring subscription revenue models. | **Accounting Innovation:**<br>Capitalizing retained product assets on corporate balance sheets. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Preparing Extended Producer:**<br>Preparing for Extended Producer Responsibility EPR legislation across. | **Complying Digital Product:**<br>Complying with digital product passport regulations tracking material provenance. |
+| **Extended Producer Responsibility:**<br>Preparing for Extended Producer Responsibility (EPR) legislation across major markets. | **Digital Product Passports:**<br>Complying with digital product passport regulations tracking material provenance. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 

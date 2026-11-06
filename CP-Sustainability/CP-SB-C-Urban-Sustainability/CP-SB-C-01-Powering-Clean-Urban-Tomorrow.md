@@ -33,7 +33,7 @@
 
 | Kolom 1 |
 |---------|
-| Current municipal energy consumption relies heavily on legacy. Decentralized renewable generation reduces transmission losses across high-density zones.<br><br>Balancing peak electrical demand during extreme temperature fluctuations. |
+| Current municipal energy consumption relies heavily on legacy fossil fuel grids. Decentralized renewable generation reduces transmission losses across high-density zones.<br><br>Balancing peak electrical demand during extreme temperature fluctuations requires modern grid solutions. |
 
 **Visual Note:** Single column card featuring clear introductory text and ample white space.  
 
@@ -47,7 +47,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Grid Modernization Real:**<br>Grid modernization requires real-time battery energy storage systems BESS. | **Commercial Skyscrapers Act:**<br>Commercial skyscrapers can act as localized solar power. | **Grid Stability:**<br>Utilizing AI algorithms to predict solar and wind intermittency. |
+| **Grid Modernization:**<br>Grid modernization requires real-time battery energy storage systems (BESS). | **Skyscraper Solar Power:**<br>Commercial skyscrapers can act as localized solar power generating assets. | **AI Grid Stability:**<br>Utilizing AI algorithms to predict solar and wind intermittency. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -89,7 +89,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Building Integrated Wind:**<br>Building-integrated wind turbines capture high-altitude rooftop airflow patterns. | **Micro Turbines Bridges:**<br>Micro-turbines installed on bridges and overpasses leverage highway. | **Design Focus:**<br>Silent operation and bird-safe turbine vertical-axis blades. |
+| **Building-Integrated Wind:**<br>Building-integrated wind turbines capture high-altitude rooftop airflow patterns. | **Bridge Micro-Turbines:**<br>Micro-turbines installed on bridges and overpasses leverage highway wind currents. | **Vertical-Axis Design:**<br>Vertical-axis turbine blades ensure silent operation and wildlife safety. |
 
 **Visual Note:** Structured layout with 3 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -103,7 +103,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Renewable Energy Portfolio:**<br>Renewable energy portfolio standards for commercial property developers. | **Tax Credits Expedited:**<br>Tax credits and expedited building permits for net-zero. | **Public Private Partnerships:**<br>Attracting private venture capital into municipal clean tech. | **Feed Tariffs Residential:**<br>Feed-in tariffs for residential solar producers feeding excess. |
+| **Renewable Energy Standards:**<br>Renewable energy portfolio standards for commercial property developers. | **Expedited Clean Permitting:**<br>Tax credits and expedited building permits for net-zero construction. | **Public-Private Funding:**<br>Attracting private venture capital into municipal clean technology initiatives. | **Residential Feed-In Tariffs:**<br>Feed-in tariffs incentivize residential producers feeding excess solar to the grid. |
 
 **Visual Note:** Structured layout with 4 clean vertical cards and distinct 7-9 word descriptions.  
 
@@ -117,7 +117,7 @@
 
 | Kolom 1 |
 |---------|
-| Real-time IoT sensors detect grid strain and automatically. Advanced cyber-defense protocols protect critical municipal energy infrastructure.<br><br>Demand-response programs reward industrial facilities for shifting peak. |
+| Real-time IoT sensors detect grid strain and automatically reroute electricity. Advanced cyber-defense protocols protect critical municipal energy infrastructure.<br><br>Demand-response programs reward industrial facilities for shifting peak electricity consumption. |
 
 **Visual Note:** Inspirational full-width paragraph slide with clean typography and deep background styling.  
 
@@ -131,7 +131,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Low Income Neighborhood:**<br>Low-income neighborhood solar programs ensure equitable clean energy distribution. | **Community Solar Gardens:**<br>Community solar gardens allow renters to subscribe to. |
+| **Equitable Solar Access:**<br>Low-income neighborhood solar programs ensure equitable clean energy distribution. | **Community Solar Gardens:**<br>Community solar gardens allow renters to subscribe to off-site renewable arrays. |
 
 **Visual Note:** Structured layout with 2 clean vertical cards and distinct 7-9 word descriptions.  
 
