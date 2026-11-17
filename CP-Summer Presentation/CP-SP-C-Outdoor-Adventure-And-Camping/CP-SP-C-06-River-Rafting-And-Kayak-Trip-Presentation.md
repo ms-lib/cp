@@ -65,7 +65,7 @@ Experience the thrill of cool river waters with our River Rafting and Kayak Trip
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Whitewater Adrenaline:**<br>Exhilarating rapids and dynamic river surges navigated safely with expert team coordination. | **Scenic Canyon Drifts:**<br>Calm river stretches between canyon walls providing stunning geological vistas and peaceful floating. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Experience the thrill of cool river waters with our River Rafting and Kayak Trip
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| River safety begins with proper personal protective equipment and comprehensive river briefings. Every participant wears certified life vests and helmets while learning essential paddle commands and self-rescue techniques before entering the water. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

@@ -65,7 +65,7 @@ We warmly invite all neighbors and friends to our Community Summer Fest presenta
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Sunny Days:**<br>Soak in warm sunshine and gentle ocean breezes along pristine coastal beaches. | **Calm Waves:**<br>Walk along soft sands and feel refreshing sea tides resetting your body and mind. | **Pure Relaxation:**<br>Enjoy peaceful moments under shady palms surrounded by natural coastal beauty. |
+| **Live Festival Music:**<br>Local acoustic performances and joyful neighborhood open-mic stages. | **Artisan Market Stalls:**<br>Handcrafted jewelry, pottery, and creative local art exhibits. | **Community Food Stalls:**<br>Freshly baked pastries, barbecue grills, and refreshing iced fruit drinks. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ We warmly invite all neighbors and friends to our Community Summer Fest presenta
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| The Community Summer Fest Family Zone offers safe, interactive activities for visitors of all ages. From face painting and lawn games to family craft workshops, every corner is designed to bring smiles and celebrate neighborhood unity. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

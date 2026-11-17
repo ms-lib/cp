@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Ubud Artisan Villages:**<br>Traditional wood carving, silverwork, and rice farming. | **Amed Coral Gardens:**<br>Reef restoration dives and quiet coastal eco-resorts. | **Chiang Mai Highlands:**<br>Organic tea plantations and elephant sanctuary visits. |
+| **Ubud Artisan Villages:**<br>Traditional wood carving, silverwork, and rice farming. | **Amed Coral Gardens:**<br>Reef restoration dives and quiet coastal eco-resorts. | **Chiang Mai Highlands:**<br>Organic tea plantations and ethical elephant reserve visits. |
 
 **Visual Note:** 3 vertical photo card containers showcasing high-resolution destination imagery.
 

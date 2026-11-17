@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Shibuya Crossing & Senso-ji:**<br>Iconic heritage site with ocean vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. |
+| **Shibuya Crossing & Senso-ji:**<br>Iconic landmarks blending historic temples with modern metropolis energy. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. |
 
 **Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Chiaki Sato** (Kyoto Heritage Lead), **Hae-won Jeon** (Shrine & Temple Guide), **Matt Zhang** (Cultural Experience Planner), we design custom travel packages that turn dream vacations into reality. |
+| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Chiaki Sato** (Tokyo & Cultural Heritage Lead), **Hae-won Jeon** (Shrine & Temple Guide), **Matt Zhang** (Cultural Experience Planner), we design custom travel packages that turn dream vacations into reality. |
 
 **Visual Note:** Spotlight profile layout with circular portrait placeholders for 3 team members.
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Ramen, Sushi & Izakaya Feasts:**<br>Signature culinary dish with rich indigenous spices. |
+| **Tokyo Culinary Tradition:**<br>Authentic Japanese gastronomy turns dining into an artistic celebration. | **Ramen, Sushi & Izakaya Feasts:**<br>Signature seasonal dishes crafted with precision and fresh local ingredients. |
 
 **Visual Note:** 2 pricing card columns with prominent price badges.
 

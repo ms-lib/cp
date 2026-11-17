@@ -65,7 +65,7 @@ Immerse yourself in the cooling shade of ancient woodlands with our Forest Trek 
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Canopy Woodland Shade:**<br>Cool forest trails beneath towering oak and pine trees offering natural shelter from summer heat. | **Mossy Stream Pathways:**<br>Gentle nature walks alongside babbling brooks and vibrant ferns that restore mental clarity. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Immerse yourself in the cooling shade of ancient woodlands with our Forest Trek 
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Mindful forest walking, or forest bathing, encourages deep sensory connection with the woodland ecosystem. Slow your walking pace, breathe in fresh evergreen scents, and observe delicate flora to experience profound natural stress relief. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

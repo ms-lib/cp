@@ -80,7 +80,7 @@ Nothing rivals the exhilarating feeling of rolling down your car window and head
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Car Inspection Check:**<br>Check tire pressure, oil levels, brakes, and AC performance. | **Offline GPS Route Maps:**<br>Download maps to navigate remote mountain passes without cellular service. | **Guest Concierge:**<br>Round-the-clock assistance for dining reservations and activity setups. |
+| **Car Inspection Check:**<br>Vehicle check covering tire pressure, oil levels, brakes, and AC performance. | **Offline GPS Route Maps:**<br>Downloadable offline maps for navigating remote mountain passes without cellular signal. | **Emergency Roadside Kit:**<br>Jumper cables, portable tire inflator, and reflective emergency triangle kit. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

@@ -2,7 +2,7 @@
 ## ___ ___ Porch Sitting And Home Retreat Presentation
 
 **Sub-Topic:** D - Lifestyle, Flavors & Backyard Fun  
-**Main Keywords:** porch sitting home retreat, summer home retreat presentation, porch living guide slides, cozy home summer sanctuary presentation, staycation home guide slides, peaceful porch living presentation, summer home relaxation guide  
+**Main Keywords:** porch sitting home retreat, summer home retreat presentation, porch living guide slides, cozy home summer haven presentation, staycation home guide slides, peaceful porch living presentation, summer home relaxation guide  
 **Audience:** Homeowners, Readers, Slow Living Advocates, Families  
 **Style:** Rustic, Organic, Warm, Minimalist  
 **Tone:** Peaceful, cozy, restorative  
@@ -26,16 +26,16 @@
 **Fase:** OPENING  
 **Tipe Halaman:** Opener  
 **Judul Halaman:** Finding Paradise Right at Home  
-**Subjudul:** Porch Sanctuary  
+**Subjudul:** Porch Haven  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
 | The Guide: Slow Summer Living  
 The Host: Aldenaire Home Living  
-The Theme: Restful Porch Sanctuary  
+The Theme: Restful Porch Haven  
 
-You do not need to travel far to experience the magic of summer! Our Porch Sitting and Home Retreat presentation inspires you to create a serene sanctuary on your front porch or patio. Embrace slow summer living with comfortable rocking chairs, chilled iced tea, and quiet evening firefly watching. |
+You do not need to travel far to experience the magic of summer! Our Porch Sitting and Home Retreat presentation inspires you to create a serene restful haven on your front porch or patio. Embrace slow summer living with comfortable rocking chairs, chilled iced tea, and quiet evening firefly watching. |
 
 **Visual Note:** Clean 1-column layout with 40% white space and high quality summer photography.  
 
@@ -44,7 +44,7 @@ You do not need to travel far to experience the magic of summer! Our Porch Sitti
 ### PAGE 3 - CONTEXT
 **Fase:** OPENING  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Porch Sanctuary Elements  
+**Judul Halaman:** Porch Living Essentials  
 **Subjudul:** Rocking Chairs  
 **Jumlah Kolom:** 2  
 
@@ -65,7 +65,7 @@ You do not need to travel far to experience the magic of summer! Our Porch Sitti
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Sunny Days:**<br>Soak in warm sunshine and gentle ocean breezes along pristine coastal beaches. | **Calm Waves:**<br>Walk along soft sands and feel refreshing sea tides resetting your body and mind. | **Pure Relaxation:**<br>Enjoy peaceful moments under shady palms surrounded by natural coastal beauty. |
+| **Gentle Afternoon Shade:**<br>Comfortable seating under covered porch awnings away from summer heat. | **Soft Garden Breezes:**<br>Rustling backyard trees and soothing wind chimes on your patio. | **Quiet Personal Peace:**<br>Mindful reading and reflective relaxation in your favorite outdoor nook. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ You do not need to travel far to experience the magic of summer! Our Porch Sitti
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Evening porch traditions bring the day to a restful close with minimal effort and maximum comfort. Gather with family to watch fireflies, share chilled refreshments, and enjoy the tranquil beauty of neighborhood twilight in a warm, welcoming home space. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

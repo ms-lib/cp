@@ -65,7 +65,7 @@ Gather your favorite people for an unforgettable late-afternoon celebration with
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Golden Light Ambiance:**<br>Warm late-afternoon sunlight casting soft amber hues across meadow picnic blankets and garden tables. | **Relaxed Evening Socializing:**<br>Unrushed conversations with friends over artisan grazing boards and refreshing fruit spritzers. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Gather your favorite people for an unforgettable late-afternoon celebration with
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Golden hour provides the most flattering, natural outdoor illumination of the day. Capture stunning portraits and scenic landscape silhouettes using low-angle sunlight, backlighting through meadow grasses, and warm natural color tones. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

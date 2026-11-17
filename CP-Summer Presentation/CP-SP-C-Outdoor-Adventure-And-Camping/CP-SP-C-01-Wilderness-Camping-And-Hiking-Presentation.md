@@ -80,7 +80,7 @@ Step away from daily screens and immerse yourself in the great outdoors with our
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Leave No Trace:**<br>Pack out all trash and respect wildlife habitats and plants. | **Pacing & Hydration:**<br>Maintain steady walking speed and drink water regularly. | **Guest Concierge:**<br>Round-the-clock assistance for dining reservations and activity setups. |
+| **Leave No Trace:**<br>Responsible packing of all trash to respect wildlife habitats and plants. | **Pacing & Hydration:**<br>Steady walking speed and regular hydration throughout the trail. | **Trail Safety & Navigation:**<br>Compact emergency first-aid kit, topographic trail map, and multi-tool gear. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 
@@ -124,7 +124,7 @@ Step away from daily screens and immerse yourself in the great outdoors with our
 
 | Kolom 1 |
 |---------|
-| Sleeping under a starry wilderness sky and waking to birdsong transforms how we view the world. The quiet beauty of nature restores inner peace, reminding us that wild places offer timeless sanctuary for the soul. |
+| Sleeping under a starry wilderness sky and waking to birdsong transforms how we view the world. The quiet beauty of nature restores inner peace, reminding us that wild places offer timeless peaceful haven for the soul. |
 
 **Visual Note:** Inspirational single paragraph text framed by warm golden sunburst design.  
 

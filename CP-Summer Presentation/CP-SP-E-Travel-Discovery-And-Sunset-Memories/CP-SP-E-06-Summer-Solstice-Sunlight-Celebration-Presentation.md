@@ -65,7 +65,7 @@ Celebrate the peak of summer light with our Solstice Sunlight Celebration presen
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Longest Sunlit Day:**<br>Celebration of the summer peak with extended daylight hours illuminating outdoor festivities and nature gatherings. | **Community Flower Crowns:**<br>Handcrafted floral wreaths woven with fresh wild herbs and meadow blossoms symbolizing seasonal abundance. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Celebrate the peak of summer light with our Solstice Sunlight Celebration presen
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Summer solstice traditions connect us to ancient seasonal rhythms celebrating warmth, vitality, and harvest potential. Welcome the longest day with dawn reflection walks, outdoor acoustic singing, and evening community bonfires under twilight skies. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

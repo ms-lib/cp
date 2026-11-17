@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **Caribbean Island Cruise Deal:**<br>**$890** | 5 Days / 4 Nights<br>Includes oceanview stateroom, all onboard dining, and port island excursions. | **Mediterranean Cruise Odyssey:**<br>**$1,650** | 7 Days / 6 Nights<br>Includes balcony suite lodging, shore excursions, and fine dining packages. | **Tropical Reef Resort Escape:**<br>**$1,250** | 6 Days / 5 Nights<br>Includes beachfront bungalow stay, daily catamaran sails, and reef diving tours. |
 
 **Visual Note:** 3 pricing card columns with prominent price badges.
 

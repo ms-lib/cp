@@ -80,7 +80,7 @@ Embark on an exhilarating island-hopping expedition with our Sea Discovery prese
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Safe island hopping requires thorough route planning and marine awareness. Always verify local sea weather forecasts, chart harbor anchorages in advance, monitor tidal patterns, and maintain certified marine communication equipment on board throughout your coastal voyage. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

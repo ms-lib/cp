@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Eiffel Tower & Louvre:**<br>Iconic heritage site with ocean vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. |
+| **Eiffel Tower & Louvre:**<br>World-renowned architecture and masterpieces along the Seine. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. |
 
 **Visual Note:** 3-column feature grid with icon badges above each 2-3 word header.
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Estelle Darcy** (Paris City Guide Lead), **Daniel Gallego** (Art & Museum Specialist), **Olivia Wilson** (French Gastronomy Planner), **Samira Hadid** (Guest Relations Manager), we design custom travel packages that turn dream vacations into reality. |
+| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Estelle Darcy** (Paris City Guide Lead), **Daniel Gallego** (Art & Museum Specialist), **Olivia Wilson** (French Gastronomy Planner), **Kimberly Nguyen** (Guest Relations Manager), we design custom travel packages that turn dream vacations into reality. |
 
 **Visual Note:** Spotlight profile layout with circular portrait placeholders for 4 team members.
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Bistro Dining & Pastries:**<br>Signature culinary dish with rich indigenous spices. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
+| **French Culinary Art:**<br>Classic French gastronomy turns every meal into a sensory delight. | **Bistro Dining & Pastries:**<br>Signature dishes, artisan cheeses, and freshly baked morning croissants. | **Private Food Tours:**<br>Curated tasting walks through historic markets led by culinary experts. |
 
 **Visual Note:** 3 pricing card columns with prominent price badges.
 

@@ -65,7 +65,7 @@ Journey through America's finest protected landscapes with our National Park Sum
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Sunny Days:**<br>Soak in warm sunshine and gentle ocean breezes along pristine coastal beaches. | **Calm Waves:**<br>Walk along soft sands and feel refreshing sea tides resetting your body and mind. | **Pure Relaxation:**<br>Enjoy peaceful moments under shady palms surrounded by natural coastal beauty. |
+| **Ancient Forest Trails:**<br>Pine valley pathways leading to scenic mountain viewpoints. | **Glacial River Walks:**<br>Rushing alpine streams offering crisp fresh mountain water. | **Protected Wildlife:**<br>Undisturbed habitats housing diverse woodland fauna and flora. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -74,13 +74,13 @@ Journey through America's finest protected landscapes with our National Park Sum
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Park Visitor Rules  
-**Subjudul:** Park Rules  
+**Judul Halaman:** Park Visitor Guidelines  
+**Subjudul:** Park Guidelines  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Our national park exploration guidelines ensure a safe, enriching visit while preserving fragile ecosystems for future generations. Visitors are encouraged to stay on marked trails, store food securely, and respect all natural habitats throughout their journey. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

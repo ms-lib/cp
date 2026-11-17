@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **Ancient Silk Road Trek:**<br>**$1,450** | 8 Days / 7 Nights<br>Includes boutique caravan lodgings, desert excursions, and heritage historian guides. | **Highland Heritage Walk:**<br>**$980** | 6 Days / 5 Nights<br>Includes traditional eco-lodges, village artisan workshops, and scenic mountain trails. | **Sacred Temples Discovery:**<br>**$1,650** | 7 Days / 6 Nights<br>Includes sunrise passes, private boat charters, and cultural storytelling evenings. |
 
 **Visual Note:** 3 pricing card columns with prominent price badges.
 

@@ -80,7 +80,7 @@ Welcome campers and parents to our summer camp activity presentation! We have pr
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Daily Wear & Protection:**<br>Pack comfortable sports shoes, sun hat, reusable water bottle, and sunscreen. | **Camp Gear Items:**<br>Include a lightweight sleeping bag, flashlight, jacket, and personal towel. | **Guest Concierge:**<br>Round-the-clock assistance for dining reservations and activity setups. |
+| **Daily Wear & Protection:**<br>Comfortable sports shoes, sun hat, reusable water bottle, and sunscreen. | **Camp Gear Items:**<br>Lightweight sleeping bag, flashlight, jacket, and personal towel. | **Camp Safety Kit:**<br>Emergency contact badge, personal safety whistle, and identification lanyard. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 
@@ -95,7 +95,7 @@ Welcome campers and parents to our summer camp activity presentation! We have pr
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **The Camp Director:**<br>Chidi Eze directs overall camp schedules and maintains a positive environment. | **The Outdoor Leader:**<br>Chiaki Sato leads daily team sports, water games, and trail hikes. | **The Safety Officer:**<br>Claudia Alves coordinates camp first aid, nutrition, and safety protocols. |
+| **The Camp Director:**<br>Howard Ong directs overall camp schedules and maintains a positive environment. | **The Outdoor Leader:**<br>Chiaki Sato leads daily team sports, water games, and trail hikes. | **The Safety Officer:**<br>Kimberly Nguyen coordinates camp first aid, nutrition, and safety protocols. |
 
 **Visual Note:** Spotlight cards displaying key features or team roles in 3 columns.  
 

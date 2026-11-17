@@ -1,8 +1,8 @@
 # JUDUL 29 OF 30
-## Borcelle Travels – Santorini: Aegean Sanctuary Destination Guide
+## Borcelle Travels – Santorini: Aegean Island Destination Guide
 
 **Sub-Topic:** CP-TP-E-Destination-Spotlight-Guide  
-**Main Keywords:** santorini travel presentation, aegean sanctuary guide, cliffside resort presentation  
+**Main Keywords:** santorini travel presentation, aegean island guide, cliffside resort presentation  
 **Target Audience:** Vacationers, Cultural Travelers, Eco-Tourists, Travel Agencies  
 **Style:** Blue, Sunset, Photo, Aesthetic, Luxury  
 **Tone:** Inspiring, Trustworthy, Professional  
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Alfredo Torres** (Santorini Cruise Lead), **Kimberly Nguyen** (Cliffside Resort Specialist), **Samira Hadid** (Guest Experience Coordinator), we design custom travel packages that turn dream vacations into reality. |
+| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Alfredo Torres** (Santorini Cruise Lead), **Kimberly Nguyen** (Cliffside Resort Specialist), **Cahaya Dewi** (Guest Experience Coordinator), we design custom travel packages that turn dream vacations into reality. |
 
 **Visual Note:** Spotlight profile layout with circular portrait placeholders for 3 team members.
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Aegean Yachting & Wine:**<br>Signature culinary dish with rich indigenous spices. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
+| **Mediterranean Flavors:**<br>Greek island gastronomy celebrates fresh ocean catches, olive oil, and feta. | **Aegean Wine & Grilled Seafood:**<br>Signature volcanic Assyrtiko wine paired with freshly grilled Aegean seafood. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
 
 **Visual Note:** 3 pricing card columns with prominent price badges.
 

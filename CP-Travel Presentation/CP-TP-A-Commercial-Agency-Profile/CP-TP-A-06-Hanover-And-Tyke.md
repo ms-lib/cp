@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **Executive City Retreat:**<br>**$1,500** | 4 Days / 3 Nights<br>Includes business hotel suites, private meeting rooms, and executive dinner dining. | **Global Conference Package:**<br>**$1,850** | 5 Days / 4 Nights<br>Includes premium flight coordination, convention passes, and airport chauffeur service. | **Leadership Mountain Summit:**<br>**$2,200** | 6 Days / 5 Nights<br>Includes private lodge booking, team workshop facilities, and scenic hiking guides. |
 
 **Visual Note:** 3 pricing card columns with prominent price badges.
 

@@ -17,7 +17,7 @@
 **Visual Note:** High-resolution atmospheric hero background with elegant script typography overlay and brand logo badge.  
 **Text:**
 - Title: THE ART OF ESCAPING
-- Subtitle: Breaking Free From Routine, Reawakening Creativity & Mindful Sanctuary
+- Subtitle: Breaking Free From Routine, Reawakening Creativity & Mindful Serenity
 - Brand: The Art of Escaping
 
 ---
@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| The Art of Escaping creates slow, intentional travel sanctuaries designed to help busy individuals disconnect from daily stress. We combine peaceful natural surroundings, organic dining, and mindful leisure to reawaken creativity, gratitude, and inner peace.<br><br>**Sanctuary Purpose:** Restoring balance between energy and rest through slow travel. |
+| The Art of Escaping creates slow, intentional travel retreats designed to help busy individuals disconnect from daily stress. We combine peaceful natural surroundings, organic dining, and mindful leisure to reawaken creativity, gratitude, and inner peace.<br><br>**Retreat Purpose:** Restoring balance between energy and rest through slow travel. |
 
 **Visual Note:** Clean 1-column layout with an artistic organic background and subtle storytelling badge artwork.
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Slow Forest Escape:**<br>**$820** | 4 Days Mindful Retreat<br>Includes forest cabin, organic farm meals, spa, and silent walks. | **Coastal Serenity Sanctuary:**<br>**$1,480** | 5 Days Ocean Escape<br>Includes beachfront villa, sound bath therapy, and daily yoga. | **Highland Creative Haven:**<br>**$2,050** | 7 Days Full Sanctuary<br>Includes private mountain chalet, gourmet dining, and spa. |
+| **Slow Forest Escape:**<br>**$820** | 4 Days Mindful Retreat<br>Includes forest cabin, organic farm meals, spa, and silent walks. | **Coastal Serenity Retreat:**<br>**$1,480** | 5 Days Ocean Escape<br>Includes beachfront villa, sound bath therapy, and daily yoga. | **Highland Creative Haven:**<br>**$2,050** | 7 Days Full Retreat<br>Includes private mountain chalet, gourmet dining, and spa. |
 
 **Visual Note:** 3 pricing card columns with elegant price badges and package details.
 
@@ -114,7 +114,7 @@
 
 | Kolom 1 |
 |---------|
-| **Re-establishing Inner Peace:**<br>"Escaping to a quiet Cotswolds sanctuary with The Art of Escaping was life-changing. Four days of slow travel, organic meals, and silent garden walks completely restored my energy and creativity!" |
+| **Re-establishing Inner Peace:**<br>"Escaping to a quiet Cotswolds haven with The Art of Escaping was life-changing. Four days of slow travel, organic meals, and silent garden walks completely restored my energy and creativity!" |
 
 **Visual Note:** Elegant quote box layout with 1 single paragraph and serif quotation marks.
 

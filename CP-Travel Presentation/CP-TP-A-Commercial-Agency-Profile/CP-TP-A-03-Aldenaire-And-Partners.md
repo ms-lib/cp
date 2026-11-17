@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **Private Island Haven Villa:**<br>**$2,800** | 5 Days / 4 Nights<br>Includes overwater villa stay, private sea transfers, and dedicated butler service. | **French Riviera Yacht Charter:**<br>**$3,400** | 6 Days / 5 Nights<br>Includes luxury motor yacht, gourmet private chef dining, and harbor docking fees. | **Swiss Chalet Luxury Suite:**<br>**$2,950** | 7 Days / 6 Nights<br>Includes luxury mountain chalet, spa access, and helicopter airport transfer. |
 
 **Visual Note:** 3 pricing card columns with prominent price badges.
 

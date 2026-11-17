@@ -138,7 +138,7 @@ Discover how to carry the warmth and freedom of summer with you through every mo
 
 | Kolom 1 |
 |---------|
-| Planning your ideal summer experience is simple with our dedicated team. Reach out to our hospitality desk today to reserve your preferred dates, customize your package, and begin creating sunlit memories that you and your loved ones will cherish for years to come. |
+| Carrying the joyful spirit of summer into every season starts with mindful everyday choices. Embrace spontaneous outdoor walks, celebrate warm moments of gratitude with friends, and cultivate lasting positivity that enriches daily living. |
 
 **Visual Note:** Clean split closing card with call to action and contact information.  
 

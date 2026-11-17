@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 | --------- | --------- | --------- | --------- |
-| **Matterhorn & Jungfrau:**<br>Iconic heritage site with ocean vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. | **Panoramic Views:**<br>Breathtaking viewpoints overlooking historic coastal horizons. |
+| **Matterhorn & Jungfrau:**<br>Iconic alpine summits offering breathtaking mountain vistas. | **Historic City Center:**<br>Cobblestone streets lined with local cafes. | **Heritage Shrines:**<br>Monuments representing historical and artistic soul. | **Panoramic Views:**<br>Breathtaking viewpoints overlooking snow-capped peaks and valleys. |
 
 **Visual Note:** 4-column feature grid with icon badges above each 2-3 word header.
 
@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Alpine Hiking Trails:**<br>Vibrant seasonal events celebrating community heritage. | **Artisan Workshops:**<br>Hands-on sessions with traditional local master craftsmen. | **Bustling Markets:**<br>Markets offering fresh produce and authentic souvenirs. |
+| **Alpine Hiking Trails:**<br>Scenic mountain routes through pine valleys and high meadows. | **Artisan Workshops:**<br>Hands-on sessions with traditional local master craftsmen. | **Bustling Markets:**<br>Markets offering fresh produce and authentic souvenirs. |
 
 **Visual Note:** Clean 3-card service showcase layout with subtle drop shadows and icon badges.
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Cheese Fondue & Chalets:**<br>Signature culinary dish with rich indigenous spices. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
+| **Alpine Dining Tradition:**<br>Hearty Swiss gastronomy brings warmth and convivial joy after mountain treks. | **Cheese Fondue & Chalets:**<br>Classic melted Gruyère and Emmental served in cozy alpine lodges. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
 
 **Visual Note:** 3 pricing card columns with prominent price badges.
 

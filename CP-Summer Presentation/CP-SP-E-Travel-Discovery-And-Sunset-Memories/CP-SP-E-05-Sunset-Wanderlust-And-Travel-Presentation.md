@@ -65,7 +65,7 @@ Feed your passion for global discovery with our Sunset Wanderlust and Travel pre
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Cultural Immersion:**<br>Meaningful interactions with local communities and time-honored traditions that broaden worldview perspectives. | **Twilight Horizon Views:**<br>Breathtaking panoramic sunset viewpoints over historic town squares and rugged mountain ridges. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Feed your passion for global discovery with our Sunset Wanderlust and Travel pre
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Cultivating an open wanderlust mindset transforms ordinary sightseeing into life-enriching discovery. Embrace local customs with humility, stay curious about diverse ways of life, and allow spontaneous moments to shape your travel journey. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

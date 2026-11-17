@@ -18,7 +18,7 @@
 
 **Text:**
 - Title: Meet The Teacher Back To School
-- Subtitle: Let's Start a Wonderful New School Year of Learning and Fun Together
+- Subtitle: Let’s Start a Wonderful New School Year Together
 
 ---
 
@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **Classroom:** Room 14  <br>**Teacher:** Adeline Palmerston  <br>**Grade:** Third Grade  <br><br>Welcome to our classroom community! I am so excited to be your teacher this school year. Together, we are going to explore fascinating topics, learn new things daily, support one another, and build wonderful memories in a happy environment. |
+| **School:** Studio Shodwe School  <br>**Teacher:** Adeline Palmerston  <br>**Date:** September 02, 2035  <br><br>Welcome to our classroom! I am so excited to be your teacher this school year. Together, we will discover new interests, share fun moments, support one another, and build wonderful memories throughout the year. |
 
 **Visual Note:** High-quality illustration of a cozy, organized classroom with a welcoming whiteboard. Maintain 40% white space for easy editing.  
 
@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Love Reading:**<br>I read stories every night and love sharing my favorite adventure books. | **Outdoor Joy:**<br>I enjoy hiking in the mountains and exploring nature trails. | **Science Fan:**<br>I love performing fun science experiments and discovering how things work. |
+| **01 – Love Reading:**<br>I read stories every night and love sharing my favorite adventure books. | **02 – Outdoor Joy:**<br>I enjoy hiking in the mountains and exploring nature trails. | **03 – Science Fan:**<br>I love exploring interesting ideas and seeing how things work. |
 
 **Visual Note:** Three clean columns with custom illustrated icons showing an open book, a mountain, and a beaker.  
 
@@ -53,12 +53,12 @@
 ### PAGE 4 - CORE CONTENT A
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Our Learning Journey  
+**Judul Halaman:** Our Year Together  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| Every student in this classroom brings a unique perspective and talent that makes our group special. As your teacher, I am dedicated to helping you discover your strengths, try new things, and achieve your personal best every single day. |
+| Every student in this classroom brings a unique perspective and talent that makes our group special. This year will be filled with opportunities to share ideas, discover new interests, and enjoy meaningful moments together. |
 
 **Visual Note:** Minimalist reflective layout with a bright orange border accent and soft background shapes.  
 
@@ -67,12 +67,12 @@
 ### PAGE 5 - CORE CONTENT B
 **Fase:** CORE CONTENT  
 **Tipe Halaman:** List/Value  
-**Judul Halaman:** Our Weekly Highlights  
+**Judul Halaman:** Fun Moments Throughout the Year  
 **Jumlah Kolom:** 4  
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Math Magic:**<br>Solving fun number puzzles. | **Book Club:**<br>Reading exciting adventure stories. | **Lab Science:**<br>Trying hands-on weekly experiments. | **Creative Art:**<br>Painting colorful classroom projects. |
+| **01 – Math Magic:**<br>Fun number puzzles and activities. | **02 – Book Club:**<br>Adventure stories and favorite book moments. | **03 – Lab Science:**<br>Fun experiments and curious discoveries. | **04 – Creative Art:**<br>Colorful art and creative projects. |
 
 **Visual Note:** Four horizontal card elements in bright, friendly primary colors for clear data scanning.  
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **The Helper Voice:**<br>Assistant Drew Feig is excited to help with classroom activities, guide science labs, and make sure everyone has what they need to succeed throughout the year. | **The Guidance Voice:**<br>Student Care Lead Estelle Darcy is always here to support student growth and help us build a warm, positive classroom community daily. |
+| **Estelle Darcy – The Classroom Coordinator:**<br>Estelle helps with group activities, assists with classroom materials, and helps create a warm, positive environment each day. | **Drew Feig – The Classroom Helper:**<br>Drew is excited to assist with classroom projects, support fun activities, and help create a welcoming experience throughout the year. |
 
 **Visual Note:** Duo-profile layout featuring portraits of Drew Feig and Estelle Darcy with playful circular frames.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Favorite Hobby:**<br>Sharing what games you love playing. | **Dream Trip:**<br>Sharing the coolest place you want to visit. | **Super Talent:**<br>Showing what special skill you have. |
+| **01 – Favorite Hobby:**<br>Favorite games and hobbies. | **02 – Favorite Place:**<br>Favorite places and dream destinations. | **03 – Special Skill:**<br>Fun talents and things you enjoy. |
 
 **Visual Note:** Three colorful columns spotlighting sharing topics with stars and speech bubble graphics.  
 
@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Believing in You  
+**Judul Halaman:** Grow & Connect Together  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| I believe in the incredible potential of every student who walks through this door. We are going to work hard, support each other, and celebrate every milestone together, ensuring that our classroom remains a safe, happy place to grow. |
+| Every student in this classroom brings something wonderful and unique. Together, we will encourage one another, explore new ideas, and enjoy every moment of our year together in a happy, supportive space. |
 
 **Visual Note:** Full-page quote layout in high-impact colorful letters, surrounded by a border of hand-drawn plants and stars.  
 
@@ -123,12 +123,12 @@
 ### PAGE 9 - CLOSING
 **Fase:** CLOSE  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** Ready to Begin  
+**Judul Halaman:** The Year Ahead  
 **Jumlah Kolom:** 2  
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| We are ready to embark on an amazing learning journey together. I look forward to working with you and your families to make this school year outstanding. | **Get in Touch:**<br>Classroom schedules, supply lists, and parent contact details are available on request. Reaching out to Adeline Palmerston is a great way to stay updated. |
+| We are ready to begin a wonderful year together. I look forward to working with you and your families to make this school year memorable. | **More Information:**<br>Classroom schedules, supply lists, and weekly updates are included in the welcome kit. Additional information is available from Adeline Palmerston. |
 
 **Visual Note:** Split closing layout. Left column for motivational team text, right column with contact info.  
 
@@ -142,6 +142,7 @@
 - Meet The Teacher Back To School
 - Studio Shodwe School
 - www.reallygreatsite.com
+- +123-456-7890
 
 ---
 

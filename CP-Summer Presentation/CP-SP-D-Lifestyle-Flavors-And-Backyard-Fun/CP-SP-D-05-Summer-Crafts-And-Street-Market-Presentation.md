@@ -65,7 +65,7 @@ Step into a world of color and creativity with our Summer Crafts and Street Mark
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Artisan Craftsmanship:**<br>Unique pottery, handwoven textiles, and bespoke woodworking crafted by regional makers. | **Vibrant Market Atmosphere:**<br>Lively open-air street lanes filled with colorful merchant stalls, live music, and creative inspiration. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Step into a world of color and creativity with our Summer Crafts and Street Mark
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Our street market features interactive maker stations where visitors can learn traditional craft skills directly from artisans. Participate in beginner pottery throwing, natural fiber dyeing, and leather crafting workshops held throughout the day. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

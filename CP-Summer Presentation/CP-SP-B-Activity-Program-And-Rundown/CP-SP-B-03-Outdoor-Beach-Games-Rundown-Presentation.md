@@ -138,7 +138,7 @@ Get ready for a day packed with high-energy beach sports and fun seaside contest
 
 | Kolom 1 |
 |---------|
-| Planning your ideal summer experience is simple with our dedicated team. Reach out to our hospitality desk today to reserve your preferred dates, customize your package, and begin creating sunlit memories that you and your loved ones will cherish for years to come. |
+| Signing up your team for our summer beach tournament is fast and straightforward. Submit your team roster online, choose your preferred match divisions, and prepare for an unforgettable day of friendly coastal competition. |
 
 **Visual Note:** Clean split closing card with call to action and contact information.  
 

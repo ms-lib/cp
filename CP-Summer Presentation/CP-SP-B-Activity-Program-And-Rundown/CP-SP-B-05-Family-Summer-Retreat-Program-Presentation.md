@@ -65,7 +65,7 @@ Welcome to our Family Summer Retreat presentation! Designed for multi-generation
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Shared Outdoor Adventures:**<br>Engaging nature walks and group games that bring grandparents, parents, and children together. | **Meaningful Evening Conversations:**<br>Quiet fireside gatherings and unplugged moments that nurture genuine connection across generations. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Welcome to our Family Summer Retreat presentation! Designed for multi-generation
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Our family retreat program balances organized group activities with generous unhurried free time. Families can choose to participate together in morning workshops, take peaceful afternoon walks, or simply relax lakeside at their own comfortable rhythm. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

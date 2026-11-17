@@ -65,7 +65,7 @@ Creating a memorable family seaside trip is simple with our comprehensive summer
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Sunlit Beach Bonding:**<br>Building sandcastles, paddling in calm shallow tides, and sharing seaside laughter with family. | **Coastal Sunset Strolls:**<br>Unhurried evening walks along the tide line gathering seashells while sunsets paint the ocean horizon. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Creating a memorable family seaside trip is simple with our comprehensive summer
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Planning a seaside family vacation is effortless with structured daily itineraries. Balance active beach mornings with restful afternoon downtime, book family-friendly boat tours in advance, and allow flexible pacing so children and parents enjoy every coastal moment without rush. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

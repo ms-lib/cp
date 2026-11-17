@@ -65,7 +65,7 @@ Step aboard our premier summer cruise liner for a journey across sparkling ocean
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Infinite Ocean Horizons:**<br>Breathtaking deep blue sea vistas and refreshing offshore breezes from private observation decks. | **Starlit Sea Nights:**<br>Peaceful night sails under glittering open constellations far from city light pollution. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Step aboard our premier summer cruise liner for a journey across sparkling ocean
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Our summer cruise experience features vibrant onboard entertainment for every taste. Enjoy live acoustic sundowner sessions on the observation deck, family movie nights under the stars, and poolside wellness classes designed to keep your sea journey engaging and revitalizing. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

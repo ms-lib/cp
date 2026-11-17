@@ -181,7 +181,14 @@ Page 13 → Back Cover
 - Setiap halaman harus **bisa berdiri sendiri** — user bisa hapus/tambah slide tanpa merusak alur.
 - **Strictly No Religious/Political Content**: Hindari referensi agama atau politik kecuali diminta spesifik.
 - **No Brand Names**: Jangan menyebut merk (Instagram, Facebook, etc). Gunakan "Social Media" atau "Digital Platform".
-- **Active Voice Only**: Gunakan kata kerja aktif seperti *Celebrate, Honor, Share, Join, Create*.
+- **Active Voice vs Noun Phrases**: Gunakan kata kerja aktif (*Celebrate, Honor, Share, Join, Create*) untuk Headline, Sub-headline, Slogan, dan Call to Action. Namun untuk **body copy pada kartu fitur / kolom highlight / daftar aktivitas**, WAJIB gunakan **Descriptive Noun Phrases** (frasa kata benda deskriptif), BUKAN kalimat perintah/imperatif (contoh: gunakan *"Fun number puzzles and activities"*, bukan *"Solve fun number puzzles"*).
+- **Child Safety & COPPA Compliance (Template Anak/Sekolah)**: Dilarang menggunakan kalimat interogatif atau prompt solisitasi langsung yang meminta anak membeberkan informasi pribadi, kebiasaan hidup di rumah, atau rencana liburan/perjalanan keluarga (contoh dilarang: *"Sharing what games you love playing"*, *"Dream Trip / Sharing the coolest place you want to visit"*). Gunakan frasa minat umum yang netral (*"Favorite games and hobbies"*, *"Favorite places and dream destinations"*).
+- **No Anonymous Features (Anti-Bullying Policy)**: Dilarang keras mencantumkan fitur atau aktivitas berbasis anonim di template sekolah/anak (seperti *anonymous notes, anonymous box, anonymous feedback*). Sistem kurasi Canva menandai komunikasi anonim sebagai potensi risiko perundungan (*bullying/harassment*). Gunakan aktivitas apresiasi positif terbuka (*kind notes, positive shoutouts*).
+- **Sensitivitas Kata Khusus ("Sanctuary" & "Safe/Protect")**: Hindari kata *"Sanctuary"* karena bermuatan politis (*sanctuary cities*), suaka krisis, atau religius — gunakan *"Welcoming Place"*. Hindari penggunaan kata *"safe", "safety", "protect"* yang berlebihan di ruang kelas karena mengimplikasikan adanya bahaya/ancaman di kelas — fokuskan pada *"comfort", "warmth", "build this community", "welcome"*.
+- **No Deficit or Conflict Framing**: Dilarang menggunakan diksi yang menyoroti kelemahan/kesulitan siswa (*"when they struggle"*, *"struggling students"*) atau konflik/masalah kelas (*"resolve minor issues"*, *"through challenges"*). Fokuslah 100% pada kalimat afirmatif positif (*"offer support"*, *"connect with one another"*, *"through everyday moments"*).
+- **No Remedial Hierarchy & Study Stress**: Hindari istilah bimbingan remedial (*"Peer Tutoring"* $\rightarrow$ ganti ke *"Peer Learning"*). Hindari istilah belajar bertekanan tinggi (*"homework circles"*, *"explain tough topics"*, *"weekly reviews"* $\rightarrow$ ganti ke *"optional group sessions"*, *"explore different topics"*, *"connect with classmates"*).
+- **De-niching Metadata & Istilah Sosial Kelas**: Hindari metadata ruang kelas/jenjang yang terlalu spesifik (`Classroom: Room 14`, `Grade: Third Grade` $\rightarrow$ gunakan `School: Studio Shodwe School`, `Date: September 02, 2035`). Hindari penataan meja kaku (`desk partners` $\rightarrow$ `classmates`), slang pengawasan (`Buddy System` $\rightarrow$ `Learning Partners`), dan frasa sensitif ideologis (`diverse backgrounds` $\rightarrow$ `unique strengths` / `what makes each person special`).
+- **Diksi Aman & Pelunakan Tekanan Performa (Kids/Education)**: Hindari diksi berkonotasi bahaya fisik/lab (*science experiments*, *tools*) dan tekanan prestasi kaku (*achieve personal best*). Ganti dengan eksplorasi yang aman (*interesting ideas*, *curious discoveries*, *materials*) dan ajakan kolaboratif yang ramah (*welcoming experience*, *grow & connect together*).
 
 ---
 
@@ -193,6 +200,15 @@ Untuk menjamin template lolos review Canva (Creative Marketplace), patuhi aturan
 |---|---|---|
 | **Tone & Style** | Terlalu "Educational", kaku, akademis. | Inspiratif, celebratory, warm, friendly. |
 | **Diksi (Academic)** | Lesson Plan, Curriculum, Syllabus, Semester, Module. | Activity, Our Journey, Let's Explore, Group Fun. |
+| **Child Privacy & Safety** | Prompt interogatif/solisitasi informasi personal anak (hobi pribadi, rencana liburan keluarga, keahlian khusus). | Topik minat umum berbasis frasa kata benda netral (Favorite places and dream destinations). |
+| **Anonymous Messaging** | Anonymous notes/boxes/feedback pada template sekolah/anak (berisiko melanggar kebijakan anti-bullying). | Apresiasi positif terbuka (Kind thank-you notes, friendly shoutouts). |
+| **Kata Sensitif Khusus** | Sanctuary, Safe/Safety, Protect (memiliki muatan politik/suaka trauma atau mengimplikasikan kelas tidak aman). | Welcoming Place, Warmth, Comfort, Build, Welcome. |
+| **Deficit / Conflict Framing** | Struggle (when they struggle), resolve minor issues, through challenges. | Offer support, connect with one another, everyday moments. |
+| **Remedial & High Stress** | Peer Tutoring, homework circles, tough topics, weekly reviews, deep learning. | Peer Learning, group sessions, explore topics, connect with peers. |
+| **Social De-niching** | Desk partners, Buddy System, diverse backgrounds (terlalu spesifik atau rentan filter ideologis). | Classmates, Learning Partners, unique strengths, special qualities. |
+| **Card Copy Structure** | Imperative verb / kalimat perintah pada kartu fitur (Solve..., Read..., Paint...). | Descriptive noun phrases yang ringkas dan padat (Fun number puzzles and activities). |
+| **Metadata Sekolah** | Penamaan kelas/tingkat terlalu spesifik (Room 14, Third Grade) yang membatasi kegunaan. | Label generik yang universal (School: Studio Shodwe School, Date: September 02, 2035). |
+| **Diksi Lab & Tekanan Anak** | Istilah lab/bahaya (science experiments, classroom tools) & tuntutan performa kaku (achieve personal best). | Eksplorasi aman (interesting ideas, materials) & atmosfer perkembangan hangat (welcoming experience). |
 | **Safety & Policy** | Konten harmful, kekerasan, senjata, obat-obatan. | Wholesome, safe for work, inclusive family vibes. |
 | **Universal Appeal** | Idiom lokal, slang (gaul), referensi niche. | Bahasa Inggris umum yang mudah dimengerti non-native. |
 
@@ -356,7 +372,98 @@ Berdasarkan kasus penolakan template **CP-SB-E-02** versi awal (yang menggunakan
 
 ---
 
-## 17. Contoh Copywriting yang Sudah Dibuat
+## 17. Pelajaran dari Kasus Penolakan (Case Study: Back to School / Meet the Teacher)
+
+Berdasarkan kasus penolakan template **CP-BTS-B-01 (Meet The Teacher Back To School)** versi awal (yang ditandai isu *Inappropriate / Issues* oleh kurasi Canva) dan adopsi versi baru yang disetujui (*Approved*), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Kepatuhan Privasi Anak (Child Safety & COPPA Compliance)
+- **Larangan:** Di template bertema sekolah, anak, atau ruang kelas, dilarang keras menggunakan kalimat interogatif atau prompt solisitasi langsung yang meminta anak membeberkan informasi personal, kebiasaan harian di rumah, bakat spesifik, atau rencana perjalanan keluarga. Review Canva menandai hal ini sebagai isu sensitif / perlindungan privasi anak di bawah umur (COPPA & Child Safety policies).
+  - ❌ *Sharing what games you love playing*
+  - ❌ *Dream Trip / Sharing the coolest place you want to visit*
+  - ❌ *Super Talent / Showing what special skill you have*
+- **Rekomendasi:** Ubah menjadi topik minat umum yang netral dalam format frasa kata benda tanpa menggali informasi personal atau rencana privat anak secara langsung.
+  - ✅ **Favorite Hobby:** Favorite games and hobbies.
+  - ✅ **Favorite Place:** Favorite places and dream destinations.
+  - ✅ **Special Skill:** Fun talents and things you enjoy.
+
+### B. Format Noun Phrase pada Kartu/Kolom Fitur (Descriptive Noun Phrases vs. Imperative Commands)
+- **Larangan:** Menggunakan kalimat perintah langsung (*imperative verbs*) atau klausa instruksional pada body copy kartu fitur, sorotan mingguan, atau kolom aktivitas.
+  - ❌ *Solve fun number puzzles.*
+  - ❌ *Read exciting adventure stories.*
+  - ❌ *Trying hands-on weekly experiments.*
+  - ❌ *Paint colorful classroom projects.*
+- **Rekomendasi:** Gunakan **Descriptive Noun Phrases** (frasa kata benda deskriptif) yang elegan, ringkas, dan berfungsi sebagai label ringkasan kegiatan.
+  - ✅ **Math Magic:** Fun number puzzles and activities.
+  - ✅ **Book Club:** Adventure stories and favorite book moments.
+  - ✅ **Lab Science:** Fun experiments and curious discoveries.
+  - ✅ **Creative Art:** Colorful art and creative projects.
+
+### C. De-niching Metadata pada Template Sekolah (Universal School Metadata)
+- **Larangan:** Menuliskan nomor ruang kelas atau jenjang tingkatan kelas yang terlalu spesifik pada slide pembuka / Opener (misal: *Room 14*, *Third Grade*). Hal ini mengunci template menjadi *hyper-niche* dan membatasi kegunaan template bagi calon pengguna Canva secara luas.
+  - ❌ `Classroom: Room 14` / `Grade: Third Grade`
+- **Rekomendasi:** Gunakan field metadata generik yang berlaku universal untuk berbagai sekolah dan jenjang tingkatan.
+  - ✅ `School: Studio Shodwe School`
+  - ✅ `Teacher: Adeline Palmerston`
+  - ✅ `Date: September 02, 2035`
+
+### D. Pelunakan Diksi Keamanan Fisik & Tekanan Prestasi Anak (Safe & Low-Pressure Diction)
+- **Larangan 1 (Keamanan Fisik / Diksi Lab):** Hindari kata-kata yang menyiratkan risiko bahaya bahan kimia, eksperimen laboratorium basah (*science experiments*, *lab*), atau perkakas fisik yang berisiko (*classroom tools*).
+  - ❌ *I love performing fun science experiments and discovering how things work.* $\rightarrow$ ✅ **I love exploring interesting ideas and seeing how things work.**
+  - ❌ *assists students with classroom tools* $\rightarrow$ ✅ **assists with classroom materials**
+- **Larangan 2 (Tekanan Prestasi Kaku):** Hindari diksi yang menuntut beban performa tinggi atau target kaku pada anak (*achieve your personal best every single day*, *make sure everyone has what they need to succeed*).
+- **Rekomendasi:** Gunakan bahasa perkembangan yang hangat, menyambut, dan kolaboratif.
+  - ❌ *achieve your personal best every single day* $\rightarrow$ ✅ **discover new interests, and enjoy meaningful moments together**
+  - ❌ *make sure everyone has what they need to succeed* $\rightarrow$ ✅ **help create a welcoming experience throughout the year**
+  - ❌ *Our Learning Journey* $\rightarrow$ ✅ **Our Year Together**
+  - ❌ *Achieve Great Things* $\rightarrow$ ✅ **Grow & Connect Together**
+
+---
+
+## 18. Pelajaran dari Kasus Penolakan (Case Study: Classroom Community / CP-BTS-B-07)
+
+Berdasarkan kasus penolakan template **CP-BTS-B-07 (A Guide To Our Classroom Community)** versi awal (yang ditandai isu *Inappropriate / Issues* oleh kurasi Canva) dan adopsi versi baru yang disetujui (*Approved*), berikut adalah aturan tambahan wajib bagi copywriter:
+
+### A. Larangan Fitur Komunikasi Anonim (Anti-Bullying & Child Safety)
+- **Larangan:** Dilarang keras menggunakan istilah atau fitur berbasis anonimitas pada template sekolah atau anak di bawah umur (seperti *anonymous notes*, *anonymous feedback box*, *anonymous messages*). Sistem kurasi Canva menandai fitur anonim sebagai pelanggaran perlindungan anak karena berisiko memfasilitasi perundungan (*bullying / harassment*).
+  - ❌ *Drop anonymous thank-you notes for classmates.*
+- **Rekomendasi:** Gunakan aktivitas apresiasi terbuka yang aman, ramah, dan transparan.
+  - ✅ **Drop kind thank-you notes for classmates.**
+
+### B. Eliminasi Kata Pemicu Sensitif Khusus ("Sanctuary" & "Safe/Protect")
+- **Larangan 1 ("Sanctuary"):** Jangan gunakan kata *"Sanctuary"* untuk ruang kelas atau sekolah karena memiliki muatan politik (*sanctuary cities*), perlindungan krisis trauma pengungsi, atau keagamaan.
+  - ❌ *A Sanctuary for Learning* $\rightarrow$ ✅ **A Welcoming Place for Learning**
+- **Larangan 2 ("Safe" / "Protect"):** Hindari penggunaan kata *"safe"*, *"safety"*, atau *"protect"* di dalam teks ruang kelas jika mengimplikasikan bahwa kelas berada di bawah ancaman/bahaya internal maupun eksternal.
+  - ❌ *where every student feels valued and safe* $\rightarrow$ ✅ **where every student feels valued and welcome**
+  - ❌ *a place of safety, warmth, and laughter* $\rightarrow$ ✅ **a place of warmth, comfort, and laughter**
+  - ❌ *let's protect this community* $\rightarrow$ ✅ **let's build this community**
+
+### C. Eliminasi Deficit Framing & Diksi Masalah/Konflik Siswa (Problem Framing)
+- **Larangan:** Hindari melabeli siswa dengan kondisi defisit/lemah (*"when they struggle"*) atau memunculkan isu perselisihan dan konflik di kelas (*"resolve minor issues"*, *"through challenges"*).
+  - ❌ *Help classmates when they struggle* $\rightarrow$ ✅ **Offer support**
+  - ❌ *resolve minor issues collaboratively* $\rightarrow$ ✅ **connect with one another**
+  - ❌ *support one another through challenges* $\rightarrow$ ✅ **support one another through everyday moments**
+- **Rekomendasi:** Gunakan pendekatan afirmatif murni yang berfokus pada kebersamaan dan aksi dukungan timbal balik tanpa mengasumsikan adanya kelemahan atau konflik.
+
+### D. Penghapusan Diksi Bimbingan Remedial & Tekanan Belajar Berat (No Remedial Hierarchy)
+- **Larangan:** Hindari istilah bimbingan belajar yang membagi siswa ke dalam kasta pintar vs remedial (*Tutoring*), serta istilah beban tugas dan ujian bertekanan (*homework*, *tough topics*, *weekly reviews*).
+  - ❌ *Peer Tutoring* $\rightarrow$ ✅ **Peer Learning** (menghindari hierarki kaku remedial)
+  - ❌ *homework circles to explain tough topics before weekly reviews* $\rightarrow$ ✅ **optional group sessions to share ideas, explore different topics, and connect with classmates**
+  - ❌ *foundation of deep learning* $\rightarrow$ ✅ **creates a strong sense of community**
+  - ❌ *This presentation outlines how...* $\rightarrow$ ✅ **This presentation explores how...**
+
+### E. De-niching Istilah Sosial & Netralitas Budaya (Universal Class Terms)
+- **Larangan:** Hindari istilah fasilitas tempat duduk yang terlalu spesifik atau istilah sosial yang rentan memicu filter ideologis platform global.
+  - ❌ *Help desk partners* $\rightarrow$ ✅ **Help classmates** (berlaku universal untuk segala tipe penataan meja)
+  - ❌ *Buddy System* $\rightarrow$ ✅ **Learning Partners** (lebih profesional dan universal daripada istilah pengawasan anak)
+  - ❌ *celebrate our diverse backgrounds* $\rightarrow$ ✅ **appreciate what makes each person special** / **celebrate our unique strengths** (bahasa perkembangan anak yang hangat dan aman dari sensor ideologis)
+
+### F. QA Validasi URL Placeholder & Bentuk Jamak (Grammar Check)
+- Pastikan placeholder domain resmi tertulis tanpa kesalahan ketik: `www.reallygreatsite.com` (❌ hindari typo fatal seperti `reallygreastsite.com`).
+- Lakukan pengecekan tata bahasa pada bentuk kata benda jamak (❌ *Invite other* $\rightarrow$ ✅ *Invite others*) dan tanda hubung kata majemuk (❌ *desk clean up* $\rightarrow$ ✅ *desk clean-up*).
+
+---
+
+## 19. Contoh Copywriting yang Sudah Dibuat
 
 ### Referensi Pattern Kolom
 

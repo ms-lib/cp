@@ -80,7 +80,7 @@ Turn your backyard into a warm summer oasis with our Barbecue and Garden Party p
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Lawn Game Station:**<br>Set up croquet, bocce ball, and cornhole boards on open lawn area. | **Summer Acoustic Playlist:**<br>Upbeat acoustic guitar tunes creating a relaxed background vibe. | **Guest Concierge:**<br>Round-the-clock assistance for dining reservations and activity setups. |
+| **Lawn Game Station:**<br>Open lawn area equipped with croquet, bocce ball, and cornhole boards. | **Summer Acoustic Playlist:**<br>Upbeat acoustic guitar tunes creating a relaxed background vibe. | **Chilled Beverage Bar:**<br>Galvanized ice tubs stocked with infused iced teas and refreshing fruit punches. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Mindful Coastal Journey:**<br>**$750** | 5 Days Soulful Escape<br>Includes scenic coastal train passes, ocean villa stay, and photo journal. | **Highland Wanderlust Walk:**<br>**$1,350** | 6 Days Nature Journey<br>Includes mountain lodge stay, sunrise trekking, and quiet reflection. | **Heritage Sanctuary Retreat:**<br>**$1,980** | 7 Days Cultural Immersion<br>Includes temple walks, organic dining, artisan classes, and spa. |
+| **Mindful Coastal Journey:**<br>**$750** | 5 Days Soulful Escape<br>Includes scenic coastal train passes, ocean villa stay, and photo journal. | **Highland Wanderlust Walk:**<br>**$1,350** | 6 Days Nature Journey<br>Includes mountain lodge stay, sunrise trekking, and quiet reflection. | **Heritage Cultural Retreat:**<br>**$1,980** | 7 Days Cultural Immersion<br>Includes temple walks, organic dining, artisan classes, and spa. |
 
 **Visual Note:** 3 pricing card columns with elegant price badges and package details.
 

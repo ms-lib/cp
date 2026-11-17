@@ -46,7 +46,14 @@ Prinsip: slide bukan artikel — teks pendek memberi ruang bagi designer dan mem
 ### Copywriting
 - Gunakan **Simple English** — relevan secara global. Hindari istilah teknikal yang hanya dikenal kalangan spesialis (contoh: "stress-tested" → "tested and refined", "leverage" → "use", "synergy" → "working together")
 - **60% Rule** — sisakan 40% ruang kosong dalam text box
-- **Active Voice Only** — Celebrate, Honor, Share, Join, Create
+- **Active Voice vs Noun Phrases** — Active Voice untuk Title, Headline, dan Call to Action (*Celebrate, Honor, Share, Join, Create*). Namun untuk **kartu fitur / kolom aktivitas / item list**, WAJIB gunakan **Descriptive Noun Phrases** (bukan imperative verbs seperti "Solve...", "Read...", "Paint...", atau gerund bertele-tele seperti "Sharing what games you love")
+- **Child Safety & COPPA Compliance (Template Anak/Sekolah)** — Dilarang menggunakan kalimat interogatif atau prompt solisitasi langsung yang meminta anak membeberkan informasi personal, kebiasaan harian di rumah, bakat personal, atau rencana bepergian/liburan keluarga (contoh dilarang: *"Sharing what games you love playing"*, *"Dream Trip / Sharing the coolest place you want to visit"*). Gunakan frasa topik minat umum netral (contoh: *"Favorite games and hobbies"*, *"Favorite places and dream destinations"*, *"Fun talents and things you enjoy"*)
+- **No Anonymous Features (Anti-Bullying Policy)** — Dilarang keras mencantumkan fitur/pesan anonim (*anonymous notes/box*) di template sekolah/anak karena melanggar kebijakan anti-perundungan kurasi Canva → ganti dengan apresiasi terbuka (*kind notes, positive shoutouts*)
+- **Kata Sensitif ("Sanctuary" & "Safe/Protect")** — Dilarang memakai *"Sanctuary"* (isu politik/suaka) → ganti *"Welcoming Place"*. Hindari diksi ancaman *"safe/safety/protect"* di ruang kelas → ganti *"welcome, comfort, build"*
+- **No Deficit or Conflict Framing** — Dilarang menyebut kesulitan siswa (*when they struggle*) atau sengketa/masalah kelas (*resolve issues, challenges*) → gunakan aksi afirmatif (*"offer support, connect with one another, everyday moments"*)
+- **No Remedial Hierarchy & Study Stress** — Dilarang memakai *"Peer Tutoring"* atau beban ujian/tugas (*homework circles, tough topics, weekly reviews*) → ganti *"Peer Learning, group sessions, explore topics, connect with classmates"*
+- **De-niching Metadata & Istilah Sosial Sekolah** — Hindari metadata ruang kelas/jenjang yang terlalu spesifik (`Classroom: Room 14`, `Grade: Third Grade` → gunakan `School: Studio Shodwe School`, `Date: September 02, 2035`). Ganti istilah penataan meja kaku (`desk partners` → `classmates`), slang pengawasan (`Buddy System` → `Learning Partners`), dan sensitivitas ideologis (`diverse backgrounds` → `unique strengths` / `what makes each person special`)
+- **Diksi Keamanan & Pelunakan Tekanan Anak** — Hindari diksi berkonotasi bahaya fisik/laboratorium (*science experiments*, *lab*) atau alat fisik berisiko (*classroom tools*) → ganti dengan eksplorasi aman (*exploring interesting ideas*, *science discovery*, *materials*). Hindari tuntutan performa kaku (*achieve personal best*, *make sure everyone has what they need to succeed*) → ganti dengan atmosfer ramah dan kolaboratif (*welcoming experience*, *support fun activities*, *grow & connect together*)
 - **No Religion, Politics, Brand Names** (Instagram → "Social Media")
 - Gunakan placeholder instruksional: `[Type your message here]` — khusus untuk field yang benar-benar unik per user (nama event, tema)
 - **Label fields di Opener:** nama label bebas dan disesuaikan konteks file — tidak harus selalu "The Company", "The Date", dll. Boleh pakai "The" atau tidak, tapi **dalam 1 file harus konsisten** (kalau pakai "The" di satu label, semua label di file itu pakai "The")
@@ -85,6 +92,15 @@ Gunakan style dari daftar berikut — bisa lebih dari 1, pisahkan dengan koma:
 - Hindari tone akademis/kaku — gunakan inspiratif, celebratory, warm
 - Hindari diksi: Lesson Plan, Curriculum, Syllabus, Semester
 - Gunakan: Activity, Our Journey, Let's Explore
+- **Child Safety / COPPA:** Dilarang menggunakan prompt interogatif atau solisitasi data personal/rencana anak di bawah umur; gunakan frasa topik netral
+- **Anti-Bullying / Anonymous:** Dilarang mencantumkan komunikasi anonim (*anonymous notes/box*) di template sekolah; wajib gunakan apresiasi terbuka (*kind notes*)
+- **Kata Pemicu Sensitif:** Dilarang menggunakan *"Sanctuary"* (isu politik/suaka) atau diksi ancaman *"safe/safety/protect"*; ganti dengan *"Welcoming Place", "comfort", "build", "welcome"*
+- **Anti-Deficit & Conflict Framing:** Hindari diksi kesulitan siswa (*struggle*) atau konflik/masalah (*resolve issues, challenges*); gunakan *"offer support", "connect"*
+- **Anti-Remedial:** Hindari *"Peer Tutoring"* dan stres tugas (*homework, tough topics, weekly reviews*); gunakan *"Peer Learning", "explore topics"*
+- **Social De-niching:** Ganti *"desk partners"* → *"classmates"*, *"Buddy System"* → *"Learning Partners"*, *"diverse backgrounds"* → *"unique strengths"*
+- **Card Format (Descriptive Noun Phrases):** Dilarang menggunakan imperative verbs/instruksi kaku (Solve..., Read..., Paint...) pada kartu/kolom; wajib gunakan descriptive noun phrases
+- **Metadata Generic:** Dilarang mengunci nomor ruang/kelas spesifik (Room 14, Grade 3); gunakan metadata universal (School, Teacher, Date)
+- **Low-Pressure & Safe:** Hindari istilah risiko lab/alat bahaya (*science experiments*, *tools*) & tekanan performa kaku (*achieve personal best*); gunakan eksplorasi aman (*materials*, *welcoming experience*)
 
 ### Format File yang Wajib Dipatuhi
 

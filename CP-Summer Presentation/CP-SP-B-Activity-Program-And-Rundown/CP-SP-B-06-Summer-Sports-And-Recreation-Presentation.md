@@ -65,7 +65,7 @@ Welcome to our Summer Sports and Recreation presentation! This program offers a 
 
 | Kolom 1 | Kolom 2 |
 | --------- | --------- |
-| **Sunny Atmosphere:**<br>Enjoy warm sunshine, ocean breezes, and quiet coastal paths designed for deep relaxation. | **Serene Shoreline:**<br>Disconnect from daily stress and rediscover peace surrounded by beautiful coastal views. |
+| **Cardiovascular Fitness:**<br>Dynamic outdoor matches and team drills that build endurance, coordination, and physical vitality. | **Positive Sportsmanship:**<br>Friendly recreational competition fostering mutual encouragement, camaraderie, and team spirit. |
 
 **Visual Note:** Full-bleed summer aesthetic photo with centered text box.  
 
@@ -80,7 +80,7 @@ Welcome to our Summer Sports and Recreation presentation! This program offers a 
 
 | Kolom 1 |
 |---------|
-| Our carefully curated summer program offers an ideal balance of active outdoor recreation and peaceful relaxation. Guests enjoy premium amenities, guided excursions, and dedicated hospitality designed to make every single day of your vacation truly memorable and refreshing. |
+| Our summer sports leagues feature organized weekday evening matches and weekend tournaments across tennis, volleyball, and soccer. All skill divisions emphasize fair play, skill development, and community enjoyment in a welcoming open-air setting. |
 
 **Visual Note:** Balanced column split layout with subtle icon highlights.  
 

@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Tropical Island Escape:**<br>**$650** | 5 Days / 4 Nights<br>Includes luxury resort stay, island transport, and guided snorkeling. | **Cultural City Tour:**<br>**$1,200** | 6 Days / 5 Nights<br>Includes high-speed rail pass, traditional lodging, and guided walks. | **Alpine Explorer Deal:**<br>**$1,850** | 7 Days / 6 Nights<br>Includes scenic train passes, chalet lodging, and dining passes. |
+| **European Capitals Group Tour:**<br>**$1,350** | 7 Days / 6 Nights<br>Includes luxury coach transport, 4-star city hotels, and museum group passes. | **Mediterranean Island Explorer:**<br>**$1,100** | 6 Days / 5 Nights<br>Includes island ferry passes, seaside hotel rooms, and guided group excursions. | **Nordic Discovery Delegation:**<br>**$2,100** | 8 Days / 7 Nights<br>Includes conference venues, rail passes, team dinners, and cultural city walks. |
 
 **Visual Note:** 3 pricing card columns with prominent price badges.
 

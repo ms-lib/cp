@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Lorna Alvarado** (Aurora Expedition Lead), **Shawn Garcia** (Geothermal Tour Specialist), **Aaron Loeb** (Glacier Safety Guide), **Matt Zhang** (Logistics Manager), we design custom travel packages that turn dream vacations into reality. |
+| **Our Expedition Team & Specialists:**<br>Our dedicated global travel coordination team brings decades of field experience across 50 countries. Led by **Lorna Alvarado** (Aurora Expedition Lead), **Shawn Garcia** (Geothermal Tour Specialist), **Daniel Gallego** (Glacier Safety Guide), **Matt Zhang** (Logistics Manager), we design custom travel packages that turn dream vacations into reality. |
 
 **Visual Note:** Spotlight profile layout with circular portrait placeholders for 4 team members.
 
@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Gullfoss & Geysers:**<br>Vibrant seasonal events celebrating community heritage. | **Artisan Workshops:**<br>Hands-on sessions with traditional local master craftsmen. | **Bustling Markets:**<br>Markets offering fresh produce and authentic souvenirs. |
+| **Gullfoss & Geysers:**<br>Iconic geothermal geysers and cascading glacial waterfalls. | **Artisan Workshops:**<br>Hands-on sessions with traditional local master craftsmen. | **Bustling Markets:**<br>Markets offering fresh produce and authentic souvenirs. |
 
 **Visual Note:** Clean 3-card service showcase layout with subtle drop shadows and icon badges.
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 | --------- | --------- | --------- |
-| **Sacred Dining Culture:**<br>Balinese gastronomy turns dining into sensory celebration. | **Glacier Ice Cave Treks:**<br>Signature culinary dish with rich indigenous spices. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
+| **Nordic Dining Culture:**<br>Reykjavik cuisine celebrates fresh arctic seafood and organic farm produce. | **Rye Bread & Traditional Stew:**<br>Signature geothermal baked bread and hearty slow-cooked Icelandic lamb. | **Private Food Tours:**<br>Curated food walks led by culinary masters. |
 
 **Visual Note:** 3 pricing card columns with prominent price badges.
 

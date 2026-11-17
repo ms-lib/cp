@@ -30,7 +30,7 @@
 
 | Kolom 1 |
 |---------|
-| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our classroom community guide! We believe that a strong, respectful class is the foundation of deep learning. This presentation outlines how we build mutual trust, practice daily kindness, celebrate our diverse backgrounds, and support one another in achieving our personal best. |
+| **School:** Studio Shodwe School  <br>**Date:** September 02, 2035  <br>**Facilitator:** Adeline Palmerston  <br><br>Welcome to our classroom community guide! We believe that a positive, respectful class creates a strong sense of community. This presentation explores how we build mutual respect, share everyday kindness, celebrate our unique strengths, and support one another. |
 
 **Visual Note:** High-quality warm illustration showing a group of students sitting in a circle chatting and laughing. Maintain 40% white space for easy editing.  
 
@@ -44,7 +44,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Kindness First:**<br>Help classmates when they struggle, share learning tools, and use polite, encouraging words daily. | **Active Listening:**<br>Pay attention to peers' ideas, respect different points of view, and cooperate during team activities. |
+| **Kindness First:**<br>Offer support, share helpful tools, and keep conversations friendly and encouraging. | **Active Listening:**<br>Pay attention to peers' ideas, respect different points of view, and cooperate during team activities. |
 
 **Visual Note:** Two warm-toned columns with organic icons showing a hand holding a heart and a listening ear.  
 
@@ -58,7 +58,7 @@
 
 | Kolom 1 |
 |---------|
-| Our classroom is a rich mosaic of unique talents, cultures, and dreams. When we listen to every voice, celebrate our differences, and support one another through challenges, we create a thriving environment where every student feels valued and safe. |
+| Our classroom is a rich mosaic of unique talents, cultures, and dreams. When we listen to every voice, appreciate what makes each person special, and support one another through everyday moments, we create a thriving environment where every student feels valued and welcome. |
 
 **Visual Note:** Warm, soft cream background slide with organic hand-drawn shapes and centered, empathetic typography.  
 
@@ -72,7 +72,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 | Kolom 4 |
 |---------|---------|---------|---------|
-| **Offer Help:**<br>Assist a peer with desk cleanup. | **Share Words:**<br>Say thank you and write encouraging notes. | **Listen Well:**<br>Pay attention during group sharing. | **Include All:**<br>Invite others to join group games. |
+| **Offer Help:**<br>Assist a peer with desk clean-up. | **Share Words:**<br>Say thank you and write encouraging notes. | **Listen Well:**<br>Pay attention during group sharing. | **Include All:**<br>Invite others to join group games. |
 
 **Visual Note:** Four horizontal columns in soft earth tones, indicating friendly community deeds.  
 
@@ -86,7 +86,7 @@
 
 | Kolom 1 | Kolom 2 |
 |---------|---------|
-| **Peer Tutoring:**<br>Join our voluntary homework circles to share knowledge, explain tough topics, and study together before weekly reviews. | **Community Circle:**<br>Participate in weekly check-ins to share your thoughts, celebrate classroom highlights, and resolve minor issues collaboratively. |
+| **Peer Learning:**<br>Join our optional group sessions to share ideas, explore different topics, and connect with classmates. | **Community Circle:**<br>Join weekly gatherings to share thoughts, celebrate classroom highlights, and connect with one another. |
 
 **Visual Note:** Two clean profiles side-by-side with organic frames and simple earth-toned banners.  
 
@@ -100,7 +100,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Kindness Box:**<br>Drop anonymous thank-you notes for classmates. | **Circle Time:**<br>Join group circles to share stories and ideas. | **Buddy System:**<br>Team up with classroom helpers to learn together. |
+| **Kindness Box:**<br>Drop kind thank-you notes for classmates. | **Group Discussion Time:**<br>Join group circles to share stories and ideas. | **Learning Partners:**<br>Team up with classroom helpers to learn together. |
 
 **Visual Note:** Three clean columns with warm icons representing an envelope, a circle of dots, and smiling buddies.  
 
@@ -109,12 +109,12 @@
 ### PAGE 8 - EMOTIONAL PEAK
 **Fase:** PEAK  
 **Tipe Halaman:** Emotional/Reflective  
-**Judul Halaman:** A Sanctuary for Learning  
+**Judul Halaman:** A Welcoming Place for Learning  
 **Jumlah Kolom:** 1  
 
 | Kolom 1 |
 |---------|
-| I want our classroom to be a place where you look forward to coming every morning—a place of safety, warmth, and laughter. Together, let's protect this community, treat each other with respect, and grow as kind, creative, and confident individuals. |
+| I want our classroom to be a place where you look forward to coming every morning—a place of warmth, comfort, and laughter. Together, let's build this community, treat each other with respect, and grow as kind, creative, and confident individuals. |
 
 **Visual Note:** Large, elegant quotation marks and empathetic typography on a soft, warm clay-colored background.  
 
@@ -128,7 +128,7 @@
 
 | Kolom 1 | Kolom 2 | Kolom 3 |
 |---------|---------|---------|
-| **Respect:**<br>Value every member of our school community. | **Empathy:**<br>Understand and share the feelings of others. | **Support:**<br>Help desk partners and teachers succeed. |
+| **Respect:**<br>Value and appreciate every member of our classroom. | **Empathy:**<br>Show kindness and care to everyone around us. | **Support:**<br>Help classmates and teachers do their best. |
 
 **Visual Note:** Split layout with soft beige and clay colors, presenting the final action steps in three neat pillars.  
 
@@ -139,9 +139,10 @@
 **Visual Note:** Organic back cover matching the cover design, with school name and website centered.  
 
 **Text:**
-- A Guide To Our Classroom Community
-- Studio Shodwe School
+- Thank You For Your Attention
 - www.reallygreatsite.com
+- +123-456-7890
+- 123 Anywhere St., Any City, ST 12345
 
 ---
 
