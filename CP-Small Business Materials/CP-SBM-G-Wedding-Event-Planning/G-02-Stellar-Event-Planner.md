@@ -2,71 +2,70 @@
 ## Stellar Events – Corporate & Private Event Planner Promotional Suite
 
 **Sub-Topic:** CP-SBM-G-Wedding-Event-Planning  
-**Main Keywords:** stellar events, corporate & private event planner, stellar10, promo banner, loyalty card  
-**Target Audience:** Customers, Clients, Local Community, Social Media Followers  
+**Main Keywords:** stellar events, corporate & private event planner, stellar10, promo banner, event privilege card  
+**Target Audience:** Corporate Clients, Event Hosts, Local Businesses, Community Organizations  
 **Style:** Professional Canva Small Business Aesthetic Layout  
-**Tone:** Engaging, Friendly, Trustworthy  
+**Tone:** Sophisticated, Engaging, Trustworthy  
 
-**Total Assets:** 8 Aset Promosi Lengkap (IG Story x2, IG Post x1, Loyalty Card, Business Card, Discount Coupon, Menu/Pricelist, Logo)  
+**Total Assets:** 8 Aset Promosi Lengkap (IG Story x2, IG Post x1, Privilege Card, Business Card, Discount Coupon, Services & Package Guide, Logo)  
 
 ---
 
 ### ASSET 1 - BRAND LOGO & IDENTITY
 **Logo Concept:**
 - Logo Name: **Stellar Events**
-- Tagline: *"Unforgettable Events, Flawlessly Executed"*
-- Primary Colors: Sleek Gold, Deep Black & White
+- Tagline: *"Seamless Planning, Unforgettable Celebrations"*
+- Primary Colors: Sleek Gold, Deep Midnight Blue & Clean White
 - Visual Style: Clean, modern, high-readability typography suitable for Canva social media banners and print materials.
 
 ---
 
-### ASSET 2 - IG STORY 1: "WE'RE OPEN TODAY" (OPERATIONAL ANNOUNCEMENT)
-**Format:** Vertical Story (1080x1920) | **Style:** Fast, Fresh, Casual Tone
+### ASSET 2 - IG STORY 1: "CONSULTATIONS OPEN TODAY" (OPERATIONAL ANNOUNCEMENT)
+**Format:** Vertical Story (1080x1920) | **Style:** Professional, Warm, Inviting Consultation Tone
 **Text Content:**
-- Header Tag: WE'RE OPEN TODAY! 📍
-- Highlight: Ready to serve you the best Corporate Galas, Anniversaries & Birthdays.
-- Operating Hours: 09.00 AM — 06.00 PM (Monday - Saturday)
+- Header Tag: EVENT CONSULTATIONS OPEN 📅
+- Highlight: Now booking bespoke Corporate Galas, Brand Activations & Milestone Celebrations.
+- Consultation Hours: 09.00 AM — 06.00 PM (Monday - Saturday / By Appointment)
 - Location Pin: 123 Anywhere St., Any City, ST 12345
-- Interactive Sticker: Tap link below to get instant directions / WhatsApp chat!
+- Interactive Sticker: Tap link below to book a planning session / message our event directors!
 
 ---
 
-### ASSET 3 - IG STORY 2: FLASH SALE & SPECIAL PROMO
-**Format:** Vertical Story (1080x1920) | **Style:** High Urgency, Eye-Catching Deal
+### ASSET 3 - IG STORY 2: EARLY BOOKING PRIVILEGE & SPECIAL PROMO
+**Format:** Vertical Story (1080x1920) | **Style:** Sophisticated, High-Value Booking Offer
 **Text Content:**
-- Big Headline: SPECIAL PROMO — 10% OFF
-- Subtext: Exclusive offer for our signature Corporate Galas, Anniversaries & Birthdays!
-- Coupon Code: Use code **STELLAR10** at checkout.
-- Expiry Notice: ⏰ Valid until September 02, 2035 (Limited Slots)
-- Call to Action: Swipe Up / Tap link in bio to claim your promo code now!
+- Big Headline: EARLY BOOKING PRIVILEGE — 10% OFF FULL PLANNING
+- Subtext: Reserve your event date in advance for bespoke theme curation, vendor coordination, and full-day management.
+- Coupon Code: Use code **STELLAR10** upon consultation.
+- Expiry Notice: ⏰ Valid until September 02, 2035 (Advance Reservation Recommended)
+- Call to Action: Tap link in bio to schedule your planning consultation!
 
 ---
 
 ### ASSET 4 - IG POST 1: SERVICE FEATURE SPOTLIGHT BANNER
-**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Service Showcase Feed Ad
+**Format:** Square Feed (1080x1080) | **Style:** Aesthetic Event Production Showcase Ad
 **Text Content:**
-- Logo Header: **Stellar Event Planner**
-- Big Headline: SPECTACULAR EVENT PLANNING
-- Subtitle: FLAWLESS CELEBRATIONS & EXECUTION
-- Feature Badge: CUSTOM CONCEPT DESIGN & ON-SITE COORDINATION
-- Visual Element: Festive celebration banquet hall frame with sparkling star icon artwork on luxurious layout
-- Caption Copy: "Make your corporate gala, birthday, or anniversary truly extraordinary with our end-to-end bespoke event planning."
-- CTA Button: Plan Your Event / Contact Us
+- Logo Header: **Stellar Events**
+- Big Headline: BESPOKE EVENT PLANNING & PRODUCTION
+- Subtitle: FLAWLESS CELEBRATIONS FROM CONCEPT TO EXECUTION
+- Feature Badge: THEME DESIGN, VENDOR SOURCING & ON-SITE COORDINATION
+- Visual Element: Luxurious banquet hall stage, golden ambient lighting, and elegant guest seating layout
+- Caption Copy: "Transform your vision into an extraordinary experience. We manage complete concept design, trusted vendor curation, timeline scheduling, and on-site production so you can celebrate worry-free."
+- CTA Button: Book Event Consultation / Explore Our Portfolio
 - Footer Contact: www.reallygreatsite.com | +123-456-7890
-
 
 ---
 
-### ASSET 5 - PROMOTION LOYALTY CARD
+### ASSET 5 - PROMOTION PRIVILEGE CARD
 **Layout:** Standard Wallet Stamp Card (Front & Back)
 **Front Side:**
-- Title: LOYALTY CARD – Stellar Events
-- Reward Rule: Book 5 events to get Free Photobooth Rental Package
-- Stamp Grid: 5 Stamp Slots (Slot 5 = FREE REWARD)
+- Title: EVENT PARTNER PRIVILEGE CARD – Stellar Events
+- Reward Rule: Book 3 corporate or private celebrations to unlock a Complimentary Deluxe Event Lighting & Sound Package
+- Stamp Grid: 3 Event Milestone Slots (Slot 3 = COMPLIMENTARY UPGRADE)
 **Back Side:**
 - Logo: **Stellar Events**
-- Tagline: *"Unforgettable Events, Flawlessly Executed"*
-- Terms: Non-transferable. Present card upon purchase to collect stamps.
+- Tagline: *"Seamless Planning, Unforgettable Celebrations"*
+- Terms: Valid for corporate annual contracts and private host bookings. Present card during initial planning consultation.
 
 ---
 
@@ -78,17 +77,17 @@
 - **Background:** Deep Midnight Blue (`#0B132B`)
 - **Center Logo & Illustration:** Metallic gold geometric line art vector logo of a starburst constellation & event spotlight beam
 - **Brand Name:** **STELLAR EVENTS** (Bold modern geometric sans typography, centered)
-- **Tagline:** *"Unforgettable Events, Flawlessly Executed"* (Centered subtitle in metallic gold text, in quotes)
+- **Tagline:** *"Seamless Planning, Unforgettable Celebrations"* (Centered subtitle in metallic gold text, in quotes)
 
 **Back Side (Contact Details & Visual Art Side):**
 - **Background:** Crisp White Grid Canvas (`#F8F9FA`)
 - **Left Column (Personal & Contact Details):**
-  - **Contact Person:** **RYAN REYNOLDS** (Bold uppercase header typography)
+  - **Contact Person:** **MORGAN MAXWELL** (Bold uppercase header typography)
   - **Role / Job Title:** `Senior Event Director & Production Lead` (Clean secondary subheader)
   - **Contact Details (Midnight Blue Pill Badges):**
-    - ✉️ Email Badge: `hello@stellarevents.com` (Solid midnight blue capsule, white text)
+    - ✉️ Email Badge: `hello@reallygreatsite.com` (Solid midnight blue capsule, white text)
     - 📞 Phone Badge: `+123-456-7890` (Solid midnight blue capsule, white text)
-    - 🌐 Website Badge: `stellarevents.com` (Solid midnight blue capsule, white text)
+    - 🌐 Website Badge: `www.reallygreatsite.com` (Solid midnight blue capsule, white text)
   - **Address Line:** `📍 123 Anywhere St., Any City` (Location pin icon + address text line)
 - **Right Column (Topic Visual Artwork):**
   - **Visual Illustration:** Detailed midnight blue & gold vector line art illustration of an event stage, spotlight beams & starburst constellation with sparkles (`✦` / `✨`)
@@ -102,38 +101,38 @@
 #### VOUCHER VARIATION 1: EARLY BIRD EVENT PLANNING (`15% OFF`)
 - **Background & Palette:** Deep Midnight Blue & Gold Starburst Gradient (`#0A192F` -> `#020C1B`)
 - **Top Left Header:** Brand Logo (**Stellar Events**)
-- **Main Headline:** **EARLY BIRD EVENT SPECIAL** (Bold condensed white display typography)
-- **Giant Offer Highlight:** **15% OFF FULL EVENT PLANNING** (Giant centered white typography)
+- **Main Headline:** **EARLY BIRD PLANNING PRIVILEGE** (Bold condensed white display typography)
+- **Giant Offer Highlight:** **15% OFF FULL-SERVICE EVENT PLANNING** (Giant centered white typography)
 - **Promo Code Pill Badge:** `CODE : STELLAR15` (White pill badge capsule with bold dark text)
-- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
+- **Expiry Notice:** `Valid until: September 02, 2035` (Clean white subtext)
 - **Right Visual Artwork:** High-resolution photography of event stage lighting with warm golden spotlight beams & starburst constellation flares
 
-#### VOUCHER VARIATION 2: FREE PHOTO BOOTH RENTAL (`FREE ADD-ON`)
+#### VOUCHER VARIATION 2: COMPLIMENTARY PHOTO BOOTH ADD-ON (`COMPLIMENTARY BONUS`)
 - **Background & Palette:** Rich Midnight Blue Solid (`#1E3A8A`)
 - **Top Left Header:** Brand Logo (**Stellar Events**)
 - **Main Headline:** **EVENT ENTERTAINMENT BONUS** (Bold white uppercase display typography)
-- **Giant Offer Highlight:** **FREE 2-HR PHOTO BOOTH RENTAL** (Giant high-contrast white text highlight)
-- **Promo Code Pill Badge:** `CODE : PHOTOBOOTH2025` (White pill badge capsule with bold dark text)
-- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo of interactive photo booth setup with funny props, polaroid prints & party confetti
+- **Giant Offer Highlight:** **FREE 2-HR DELUXE PHOTO BOOTH** (Giant high-contrast white text highlight)
+- **Promo Code Pill Badge:** `CODE : STELLARPHOTO` (White pill badge capsule with bold dark text)
+- **Expiry Notice:** `Valid until: September 02, 2035` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo of interactive photo booth setup with custom backdrop, studio lighting & party props
 
-#### VOUCHER VARIATION 3: CORPORATE GALA SAVINGS (`$300 OFF`)
+#### VOUCHER VARIATION 3: CORPORATE PRODUCTION BUNDLE (`$300 OFF`)
 - **Background & Palette:** Dark Obsidian Midnight Gradient (`#0B132B` -> `#000511`)
 - **Top Left Header:** Brand Logo (**Stellar Events**)
 - **Main Headline:** **CORPORATE GALA SAVINGS** (Bold white header typography)
-- **Giant Offer Highlight:** **$300 OFF CORPORATE BUNDLE** (Giant bold white text highlight)
+- **Giant Offer Highlight:** **$300 OFF PRODUCTION BUNDLE** (Giant bold white text highlight)
 - **Promo Code Pill Badge:** `CODE : CORP300` (White pill badge capsule with bold dark text)
-- **Expiry Notice:** `Valid until: Dec 30, 2025` (Clean white subtext)
-- **Right Visual Artwork:** High-resolution photo showcase of a grand champagne tower, gala banquet tables & glowing LED stage backdrop
+- **Expiry Notice:** `Valid until: September 02, 2035` (Clean white subtext)
+- **Right Visual Artwork:** High-resolution photo showcase of a grand gala stage, banquet tables & glowing LED backdrop
 
 ---
 
-### ASSET 8 - MENU & PRICELIST
-**Layout:** A4 / Printable Price List Sheet
-**Header:** **Stellar Events – MENU & PRICELIST**
-**Products / Services & Specific Pricing:**
-- **Corporate Gala & Product Launch Package** – $850.00
-- **Sweet 17 / Milestone Birthday Party** – $380.00
-- **Corporate Team Building Event Planning** – $450.00
-- **Audio-Visual & Stage Rigging Add-on** – $220.00
-**Footer Note:** All prices include applicable taxes. Contact us for custom bookings!
+### ASSET 8 - SERVICES & EVENT PACKAGES
+**Layout:** A4 / Printable Event Service Guide
+**Header:** **Stellar Events – SERVICES & EVENT PACKAGES**
+**Event Planning Services & Package Guide:**
+- **Full-Service Corporate Gala & Launch Package** – $1,250.00 (Comprehensive theme design, vendor management, AV staging, and full rundown coordination)
+- **Milestone Birthday & Private Celebration Package** – $650.00 (Thematic styling, guest coordination, entertainment planning & on-site supervisor)
+- **Corporate Team Gathering & Retreat Planning** – $750.00 (Interactive rundown, logistics management, venue sourcing & team activity staging)
+- **Day-Of Event Coordination & Stage Production Add-On** – $350.00 (On-site stage director, sound/lighting technical crew & timeline control)
+**Footer Note:** Bespoke proposals tailored to your event scale. Contact our planning directors for customized consultations.
